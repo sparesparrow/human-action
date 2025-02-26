@@ -1,0 +1,23 @@
+Jedinou alternativou k tomuto finančnímu tlaku uplatňovanému trhem je přímý tlak a donucení, které vykonává policejní moc. Úřadům se musí svěřit úloha určovat množství a kvalitu práce, kterou každý jednotlivec musí vykonat. Jelikož jednotlivci nejsou z pohledu svých schopností stejní, vyžaduje to, aby úřady vyšetřily jejich osobnost. Jednotlivec se jakoby stává chovancem nápravného zařízení, jemuž je přidělen konkrétní úkol. Pokud nevykoná, co mu úřady přikázaly udělat, je podroben trestu.
+
+Je důležité uvědomit si, v čem spočívá rozdíl mezi přímým tlakem, který je uplatňován, aby zabránil zločinům, a přímým tlakem, který je uplatňován k vymáhání konkrétního výkonu. Jediné, co je požadováno od jedince v prvním případě, je vyhnout se určitému druhu chování, které je přesně určeno zákonem. Zpravidla je snadné zjistit, zda jsme byli či nebyli svědky porušení takového zákazu. V druhém případě je jednotlivec povinen vykonat konkrétní úkol; zákon ho nutí k neurčitému jednání, jehož specifikace je ponechána výkonné moci.
+
+Jedinec je povinen poslechnout, ať mu státní správa přikáže udělat cokoli. Zda rozkaz vydaný výkonnou mocí byl či nebyl přiměřený jeho silám a schopnostem a zda ho splnil či nesplnil podle svých nejlepších schopností, je mimořádně obtížné určit. Co se týče všech stránek své osobnosti a co se týče všech projevů svého chování, je každý občan podřízený rozhodnutím úřadů.
+
+V tržním hospodářství je prokurátor povinen u soudního přelíčení před trestním soudem předložit dostatečné důkazy, že obžalovaný je vinen. V otázce vykonávání nucené práce je však na obviněném, aby dokázal, že úkol, který mu byl zadán, přesahoval jeho schopnosti nebo že udělal vše, co od něj může být očekáváno. Pracovníci státní správy v sobě spojují funkci zákonodárce, vykonavatele zákona, veřejného prokurátora i soudce. Obvinění jsou jim zcela vydáni na milost.
+
+Toto mají lidé na mysli, když mluví o nedostatku svobody.
+
+Žádný systém dělby práce ve společnosti se neobejde bez metody, která činí jednotlivce zodpovědné za svůj příspěvek ke společnému tvořivému úsilí. Není-li tato zodpovědnost vymáhána cenovou strukturou trhu a jí vyvolanou nerovností bohatství a příjmu, musí být vynucena metodami přímého donucení uplatněných policií.
+
+Podnikatelský zisk a ztráta
+
+V širším smyslu je zisk prospěch z jednání; je to dosažený nárůst uspokojení (pokles nespokojenosti); je to rozdíl mezi vyšší hodnotou, kterou přiřazujeme dosaženému výsledku, a nižší hodnotou, kterou přiřazujeme obětem, jež jsme pro tento výsledek učinili. Jinými slovy: výnos minus náklady. Dosažení zisku je vždy cílem každého jednání. Pokud se nějakému jednání nepodaří dosáhnout cílů, o něž usilovalo, pak výnos buď náklady nepřevyšuje, nebo za nimi zaostává. V druhém případě je výsledkem ztráta, pokles uspokojení.
+
+V původním smyslu jsou zisk a ztráta duševní jevy a jako takové nejsou přístupné měření ani žádnému vyjádření, které by jiným lidem poskytovalo přesnou informaci o jejich intenzitě. Člověk může říct příteli, že mu a vyhovuje více než b; kromě vágních a neurčitých termínů však druhému nemůže sdělit, nakolik uspokojení, jež získává z a, převyšuje uspokojení, které získává z b.
+
+V tržním hospodářství jsou všechny věci, jež se kupují a prodávají za peníze, označeny cenami v penězích. V peněžní kalkulaci se zisk projevuje jako přebytek utržených peněz nad vydanými penězi a ztráta jako přebytek vydaných peněz nad utrženými penězi. Zisk a ztráta mohou být vyjádřeny v konkrétních peněžních částkách. V peněžních jednotkách je možno určit, jaký byl zisk nebo ztráta jednotlivce. To však není tvrzení o společenském jevu, o příspěvku jednotlivce ke společnému úsilí, jak ho hodnotí ostatní členové společnosti.
+
+Neříká nám to nic ani o nárůstu nebo poklesu uspokojení nebo štěstí tohoto jednotlivce. Odráží to pouze, jak jeho bližní hodnotí jeho příspěvek ke spolupráci ve společnosti. Toto hodnocení je nejvíce ovlivněno snahou každého člena společnosti o dosažení maximálního možného duševního zisku. Je to výslednice společného vlivu subjektivních a osobních hodnotových soudů všech těchto lidí, které se projevují v jejich chování na trhu. Nesmí však být zaměňováno s těmito hodnotovými soudy jako takovými.
+
+Nemůžeme si dokonce ani představit situaci, v níž lidé jednají bez úmyslu dosáhnout duševního zisku a v níž výsledkem jejich jednání není ani duševní zisk, ani duševní ztráta. V imaginárním konstruktu rovnoměrně plynoucí ekonomiky neexistují ani peněžní zisky, ani peněžní ztráty. Každý jednotlivec však odvozuje duševní zisk ze svého jednání, neboť jinak by nejednal vůbec. Zemědělec krmí a dojí krávy a prodává mléko, protože si cení věcí, které si může koupit za takto vydělané peníze, výše než vynaložených nákladů.

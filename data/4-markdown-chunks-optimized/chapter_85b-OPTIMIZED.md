@@ -1,0 +1,15 @@
+Peněžní substituty jsou při provádění plateb vydávány a přijímány stejně jako peníze. Druhotné prostředky směny musí být nejprve směněny za peníze nebo za peněžní substituty, pokud je chce člověk použít nepřímo pro placení nebo pro zvýšení objemu držené hotovosti.
+
+Nároky používané jako druhotné prostředky směny mají díky tomuto užití širší trh a vyšší cenu. Výsledkem je, že přinášejí nižší úrok než nároky stejného druhu, které ovšem nejsou k tomuto užití vhodné. Vládní dluhopisy a státní pokladniční poukázky, které mohou být použity jako druhotné prostředky směny, mohou být vydány za příznivějších podmínek pro dlužníky než úvěrové nástroje, které se k tomuto užití nehodí. Příslušní dlužníci proto chtějí uspořádat trh s jejich cennými papíry takovým způsobem, aby byly atraktivní pro ty, kdo hledají druhotné prostředky směny.
+
+Snaží se o to, aby měl každý vlastník takového cenného papíru možnost prodat jej nebo ho použít jako záruku za půjčku za co nejlepších podmínek. Když své dluhopisy vydávají, inzerují tyto možnosti jako zvláštní výhodu.
+
+Stejným způsobem se snaží přitáhnout poptávku po druhotných prostředcích směny banky a bankéři. Nabízejí svým zákazníkům výhodné podmínky. Snaží se překonat jeden druhého zkracováním výpovědní lhůty. Občas vyplácí úrok i za vklady, které lze vybrat bez výpovědní lhůty. Některé banky v tomto konkurenčním boji zašly tak daleko, že ohrozily svoji platební schopnost.
+
+Politické podmínky posledních desetiletí zvýšily význam bankovních účtů, které mohou být používány jako druhotné prostředky směny. Vlády téměř ve všech zemích se účastní tažení proti kapitalistům. Snaží se je vyvlastnit prostřednictvím zdanění a monetárních opatření. Kapitalisté touží svůj majetek zachránit tím, že drží část svých fondů v likvidních formách, aby se mohli včas vyhnout jejich zabavení. Drží své zůstatky v bankách v těch zemích, v nichž je v daném okamžiku nižší riziko vyvlastnění nebo znehodnocení dané měny.
+
+Jakmile se podmínky změní, přesouvají své zůstatky do zemí, které dočasně nabízejí více bezpečí. Právě tyto fondy mají lidé na mysli, když mluví o „horkých penězích".
+
+Význam horkých peněz pro uspořádání peněžních poměrů je výsledkem centralizovaného systému rezerv. Aby mohly centrální banky snadněji provádět úvěrovou expanzi, soustředily již dávno evropské vlády veškeré zlaté rezervy v daných zemích právě v centrálních bankách. Ostatní banky omezují svoji držbu hotovosti pouze na objem nutný pro každodenní transakce. Již nedrží rezervy vůči svým okamžitě splatným závazkům.
+
+Nepovažují za nutné udržovat rovnováhu mezi svými splatnými závazky a aktivy takovým způsobem, aby byly každý den schopny bez cizí pomoci dostát svým závazkům vůči věřitelům. Spoléhají se na centrální banku. Když chtějí věřitelé vybrat více, než je „normální" objem, soukromé banky si půjčí potřebné fondy od centrální banky. Soukromá banka považuje sebe samu za likvidní, pokud drží dostatečné množství záruk, vůči kterým jí centrální banka půjčí, nebo směnek, jež bude centrální banka eskontovat.

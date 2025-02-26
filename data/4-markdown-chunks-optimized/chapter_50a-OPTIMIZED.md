@@ -1,0 +1,23 @@
+V jakém smyslu má být práce považována za nespecifický výrobní faktor, srov. výše, str. 120-122.
+
+Zdůrazněme znovu, že když se všichni – včetně laiků – zabývají problémy určení příjmů, vždy se opírají o tento imaginární konstrukt. Nevynalezli ho ekonomové; ti ho pouze očistili od nedostatků, které jsou vlastní běžnému pohledu. Epistemologické zpracování funkčního rozdělování najdete v knihách John Bates Clark, The Distribution of Wealth (New York, 1908), str. 5, a Eugen von Böhm-Bawerk, Gesammelte Schriften, ed. F. X. Weiss (Vídeň, 1924), str. 299. Termín „rozdělování" nesmí nikoho oklamat; jeho využití v tomto kontextu je třeba vysvětlit rolí, kterou hrál v dějinách ekonomického myšlení u imaginárního konstruktu socialistického státu (viz výše na str. 120). V působení tržního hospodářství není nic, co by se dalo správně nazvat rozdělováním.
+
+Avšak ekonomie vždy používala a stále používá termín „podnikatel" v jiném smyslu, než jaký mu dává imaginární konstrukt funkčního rozdělování. Nazývá podnikatelem také toho, kdo zvláště dychtí po zisku z přizpůsobení výroby očekávaným změnám podmínek, toho, kdo má víc iniciativy, víc odvahy a rychlejší oko než ostatní, podnikavého a podněcujícího pionýra hospodářského pokroku. Tento pojem je užší než pojetí podnikatele, jak je používáno ve funkčním rozdělování. Nezahrnuje totiž mnoho případů, které do toho druhého patří.
+
+Je nešikovné, že by měl být stejný termín použit pro označení dvou různých pojmů. Bývalo by bylo vhodnější použít pro označení podnikatele ve smyslu užívaném v ekonomii jiný termín – například „průkopník".
+
+Je třeba přiznat, že pojem podnikatel-průkopník nemůže být definován s praxeologickou přesností. (V tom je to s ním podobné jako s pojmem peníze, který také vzdoruje – na rozdíl od pojmu prostředek směny – přesné praxeologické definici.) Ekonomie se však neobejde bez pojmu průkopník, neboť označuje skutečnost, která je obecnou charakteristikou lidské povahy, jež je obsažena ve všech tržních transakcích a hluboce je poznamenává. To je fakt, že různí jednotlivci nereagují na změnu dat stejně rychle a stejným způsobem. Také různost lidí, způsobená jednak rozdíly v jejich vrozených vlastnostech, jednak jejich životními osudy, se projevuje tímto způsobem. Na trhu jsou lidé, kteří udávají krok, a jiní, již pouze napodobují postupy svých bystřejších spoluobčanů.
+
+Jev vůdcovství není na trhu o nic méně skutečný než v kterémkoli jiném odvětví lidské činnosti. Hybnou sílu trhu, prvek vedoucí k neustálé inovaci a zlepšování, dodává agilnost průkopníka a jeho dychtivost vytvořit co největší zisk.
+
+Vůbec však neexistuje nebezpečí, že by dvojznačné používání tohoto termínu mohlo vést k nejasnostem v interpretaci katalaktického systému. Kdekoli by se mohly objevit pochybnosti, mohou být rozptýleny tím, že místo termínu podnikatel použijeme výraz průkopník.
+
+Podnikatelská funkce ve statickém hospodářství
+
+Termínový trh může průkopníka zbavit části jeho podnikatelské funkce. Jakmile se podnikatel pomocí vhodných termínových obchodů zabezpečil proti ztrátám, které by mohl utrpět, přestává být podnikatelem a podnikatelská funkce přechází na druhou smluvní stranu. Přadlák bavlny, který ve chvíli, kdy pro svou přádelnu kupuje surovou bavlnu, prodá dopředu stejné množství, se vzdává části své podnikatelské funkce. Nebude mít ze změn ceny bavlny, které se objeví v daném období, ani zisk, ani ztrátu. Samozřejmě nepřestane podnikatelskou funkci plnit úplně. Změny ceny veškeré příze nebo změny ceny určitých vyráběných množství a druhů, které nejsou způsobeny změnou ceny surové bavlny, na něj přesto vliv mají.
+
+Dokonce i když přede pouze jako dodavatel za předem smluvenou odměnu, stále zůstává v podnikatelské funkci vzhledem k finančním prostředkům, které investoval do vybavení.
+
+Můžeme vytvořit obraz hospodářství, v němž jsou podmínky potřebné pro vytvoření termínového trhu splněny pro všechny druhy zboží i služeb. V takovém imaginárním konstruktu je podnikatelská funkce plně oddělena od všech ostatních funkcí. Objevuje se zde třída čistých podnikatelů. Ceny, které určí termínový trh, řídí celý aparát výroby. Pouze obchodníci s termínovými obchody tvoří zisk a mají ztráty. Všichni ostatní lidé jsou proti možným nepříznivým účinkům nejistoty budoucnosti jakoby pojištěni. V tomto ohledu se těší z jistoty.
+
+Vedoucí různých podnikových jednotek jsou pak faktickými zaměstnanci s pevným příjmem.

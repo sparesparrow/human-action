@@ -1,0 +1,17 @@
+Zřejmě zmaten svou vlastní zavádějící terminologií nedokázal myšlenkově trvat na fiktivnosti statického stavu a naznačoval, že tento stav, nezávisle na realitě, skutečně existuje – třebaže je neustále narušován nikdy nekončícím přívalem „frikcí a poruch" spojených s dynamickými jevy. Podle Clarka tedy existuje statický stav ve stejném smyslu, v němž existuje vodní hladina nezávisle na vlnách, které neustále brázdí její povrch. Clarkovými slovy:
+
+Na statický stav … bychom měli … nahlížet jako na ideální uspořádání, které se promítá skrze poruchy a změny skupinového systému [to jest konkurenčního tržního hospodářství] skutečné společnosti, právě tak jako se pomyslná hladina moře promítá skrze vlny. Statická společnost … je forma a modus jednání, jež jsou obsaženy ve skutečném světě… Můžeme uchopit její jádro.
+
+V souladu se svým přístupem rozdělil Clark ekonomické teorémy na tvrzení o „statických silách" a „dynamických silách". A protože oba druhy sil působí ve „světě skutečnosti", musí být statická ekonomická teorie doplněna teorií ekonomické dynamiky, tedy „vědou o ekonomických frikcích a poruchách". Účinky těchto dvou druhů sil navíc nejsou stejnoměrné: statické síly „působící v neměnném světě nejen že pracují i v měnícím se světě, ale dokonce jsou v něm silami dominantními".
+
+Výsledkem je, že navzdory neustálým dynamickým frikcím a poruchám jsou skutečné ceny, mzdy a úrokové míry „vždy poměrně blízko … přirozeným standardům" nastaveným statickými silami.
+
+Clarkův nešťastný příklon k chybné konkretizaci statického stavu by samozřejmě neměl zatemnit jeho oslnivé výsledky při prokazování, že takzvaná „statická metoda" je tou jedinou správnou metodou teoretického ekonomického zkoumání. Nicméně Clarkova pozice „prvního amerického teoretika s mezinárodní pověstí" způsobila, že jeho přesvědčivá, avšak chybná metodologická úvaha měla hrozivé důsledky.
+
+Jakmile je totiž přiznáno, že dynamické jevy jsou ve skutečnosti druhotné a že ekonomická teorie je v zásadě soustava tvrzení o prakticky existujícím statickém světě, pak se náhle příčinně-realistický přístup jeví jako přebytečná a mnohem méně rigorózní verze přístupu všeobecné rovnováhy.
+
+Tváří v tvář teoretickému vývoji 30. let vykázal mengerovský přístup druhý, a mnohem podstatnější nedostatek. Byla jím neschopnost poskytnout teorii peněžních cen, a tedy peněžní kalkulace. Dokonce ani ve svých nejpropracovanějších variantách, které můžeme nalézt v pojednáních Wicksteeda, Fettera a Davenporta, nepřestal být v zásadě teorií barterové ekonomiky.
+
+Menger si uvědomoval zásadní rozdíl mezi peněžní a barterovou ekonomikou, přičemž zdůrazňoval, že kvantitativní srovnání prostředků a cílů ekonomické činnosti umožněné peněžní kalkulací „je věcí nejvyšší praktické důležitosti, ne-li dokonce základem a předpokladem účelového jednání", zatímco „v barterové ekonomice je měření ekonomického bohatství spolu s ekonomickou kalkulací provázeno nepříjemnými obtížemi".
+
+Menger také udělal první důležitý krok v rozvíjení teorie peněžních cen představením průkopnického vysvětlení poptávky po penězích na základě touhy po hotovosti všech jednotlivců. Böhm-Bawerk zdůraznil, že ekonomická kalkulace musí být kalkulací peněžní, přičemž tvrdil, že „peníze nám poskytují … neutrální společný jmenovatel všech jinak neporovnatelných potřeb a citů různých jednotlivců".

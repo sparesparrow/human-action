@@ -1,0 +1,5 @@
+Je vážnou chybou ztotožňovat podnikání s managementem jako v oblíbené antitezi o „managementu" a „pracovní síle". Tato záměna je samozřejmě záměrná. Je vytvořena s úmyslem zastřít skutečnost, že se funkce podnikatelů zcela liší od funkcí manažerů, kteří se starají o méně důležité detaily při provozování podniků. Struktura podniku, alokace kapitálu do různých výrobních odvětví a firem, velikost a obor podnikání každého podniku nebo obchodu se považují za dané skutečnosti a mlčky se předpokládá, že vzhledem k nim nebudou provedeny žádné změny. Jediným úkolem je pokračovat dále ve staré rutině.
+
+V takovém neměnném světě samozřejmě nejsou potřeba inovátoři ani průkopníci; celkový součet zisků je vyvážen celkovým součtem ztrát. K rozbití falešných představ této teorie stačí srovnat strukturu amerického hospodářství v roce 1960 se stavem z roku 1940.
+
+Ale i v neměnném světě by bylo nesmyslné poskytnout „pracovní síle" podíl na řízení, jak to požaduje oblíbené heslo. Uskutečnění takového požadavku by vedlo k syndikalismu.

@@ -1,0 +1,19 @@
+Liberalismus a náboženství
+
+Liberalismus je založen na čistě racionální a vědecké teorii spolupráce ve společnosti. Politické postupy, které doporučuje, jsou aplikací systému znalostí, které nijak neodkazují na city, intuitivní víru, pro niž nelze poskytnout logicky uspokojivý důkaz, mystické zážitky a osobní povědomí o nadpřirozených jevech. V tomto smyslu mu může být přiřazen často chybně chápáný a chybně interpretovaný přívlastek ateistický a agnostický.
+
+Bylo by však vážnou chybou vyvozovat z toho, že vědy o lidském jednání a politika odvozená z jejich učení, liberalismus, jsou antiteistické a nepřátelské k náboženství. Jsou v zásadním protikladu ke všem teokratickým systémům. Jsou však naprosto neutrální vzhledem k náboženským vírám, které si nečiní nároky na zasahování do správy společenských, politických a ekonomických věcí.
+
+Teokracie je společenský systém, který si pro svou legitimitu činí nárok na nadpozemský titul. Základním zákonem teokratického režimu je jasnozření, které není přístupné zkoumání rozumem a vysvětlení logickými metodami. Jeho konečnou normou je intuice, která poskytuje mysli subjektivní jistotu o věcech, jež nelze pochopit rozumem a myšlením. Pokud se tato intuice váže na jeden z tradičních systémů učení týkajícího se existence Božského stvořitele a Vládce vesmíru, nazýváme ji náboženskou vírou. Pokud se váže na jiný systém, nazýváme ji metafyzickou vírou.
+
+Systém teokratické vlády přitom nemusí být založen na některém z velkých historických světových náboženství. Může to být výsledek metafyzických dogmat, která odmítají všechna tradiční náboženství a vyznání a která jsou hrdá na svůj zdůrazňovaný nenáboženský a nemetafyzický charakter. V naší době se nejmocnější teokratické strany staví proti křesťanství a proti všem ostatním náboženstvím, která vznikla ze židovského monoteismu.
+
+Jako teokratické je charakterizuje jejich touha po uspořádání pozemských záležitostí lidstva podle obsahu souboru myšlenek, jejichž platnost nemůže být prokázána logickým myšlením. Tváří se, že jejich vůdci jsou obdařeni znalostmi, které jsou pro zbytek lidstva nedostupné a které jsou v rozporu s názory zastávanými těmi, jimž je toto charisma odepřeno. Charismatickým vůdcům byla svěřena mystická vyšší moc s povinností řídit záležitosti chybujícího lidstva.
+
+Oni sami jsou osvíceni, všichni ostatní lidé jsou buď slepí a hluší, nebo zločinci.
+
+Je skutečností, že mnoho různých velkých historických náboženství bylo postiženo teokratickými tendencemi. Jejich apoštolové byli prodchnuti žádostivostí po moci a po potlačení a zničení všech nesouhlasících skupin. Tyto dvě věci – náboženství a teokracii – však nesmíme zaměňovat.
+
+William James nazývá náboženství „citem, jednáním a zkušeností jednotlivých lidí v jejich osamělosti, pokud chápou sami sebe jako jsoucí ve vztahu k čemukoli, co mohou považovat za božské". Vyjmenovává následující přesvědčení a víru v ně považuje za charakteristiku náboženského života: že viditelný svět je částí duchovnějšího vesmíru, z něhož odvozuje svůj hlavní význam; že naším skutečným cílem je spojení se nebo harmonický vztah s tímto vyšším vesmírem; že modlitba nebo vnitřní komunikace s duchem tohoto vesmíru – ať už je to „Bůh" nebo „zákon" – je proces, při němž je skutečně vykonávána práce a přitéká duchovní energie, která vyvolává účinky – psychologické nebo materiální – ve světě jevů.
+
+Náboženství, pokračuje James, také zahrnuje následující psychologické charakteristiky: nadšení, jež se jako dar přidává do života a bere na sebe buď formu lyrického okouzlení, nebo výzvy k upřímnosti a heroismu, a dále ujištění o bezpečí a mírové rozpoložení a – ve vztahu k jiným – převahu citu lásky.

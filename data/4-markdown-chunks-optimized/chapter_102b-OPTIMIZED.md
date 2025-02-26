@@ -1,0 +1,25 @@
+Pokud se člověk dívá na tento stav z pohledu spotřebitelů, výsledek je samozřejmě tentýž. Spotřebitelé by na tom byli lépe, kdyby iluze vytvořená politikou snadno dostupných peněz nenalákala podnikatele k plýtvání vzácnými kapitálovými statky jejich investováním pro uspokojení méně naléhavých potřeb, a tím k jejich stažení z těch výrobních procesů, v nichž by uspokojily naléhavější potřeby. Co se však jednou stalo, nelze změnit. Musejí se v této době vzdát určitých výhod, kterých by mohli požívat, kdyby boom mylné investice nevyvolal. Na druhou stranu však mohou spatřovat určité odškodnění ve skutečnosti, že jsou jim nyní dostupné i požitky, které by nebyly v jejich dosahu, kdyby nebyl hladký průběh hospodářských aktivit narušen orgiemi boomu.
+
+Je to jen chabá náhrada, protože jejich poptávka po ostatních věcech, které nemohou získat kvůli nevhodnému užití kapitálových statků, je silnější než jejich poptávka po těchto tak řečeno „substitutech". Je to však jediná volba, kterou za daných okolností mají.
+
+Konečným výsledkem úvěrové expanze je všeobecné ochuzení. Bohatství některých lidí se mohlo zvýšit; nenechali si své úvahy zatemnit všeobecnou hysterií a včas využili výhod nabízených mobilitou jednotlivých investorů. Ostatní jednotlivci a skupiny jednotlivců mohli být zvýhodněni bez vlastního přičinění pouhým časovým rozdílem mezi růstem cen jimi prodávaných statků a statků jimi kupovaných. Avšak velká většina musí zaplatit účet za mylné investice a nadměrnou spotřebu v období boomu.
+
+Je nutné vyvarovat se mylného výkladu výrazu ochuzení. Nemusí jít nutně o ochuzení v porovnání s podmínkami panujícími před zahájením úvěrové expanze. To, zda k ochuzení dojde nebo ne, závisí na konkrétních okolnostech každého případu; nelze to apodikticky prohlásit s pomocí katalaxie. Tím, co je v katalaxii myšleno tvrzením, že ochuzení je nevyhnutelným důsledkem úvěrové expanze, je ochuzení v porovnání se stavem, kterého by bylo dosaženo za nepřítomnosti úvěrové expanze a boomu.
+
+Charakteristickým znakem ekonomické historie v podmínkách kapitalismu je neustálý hospodářský pokrok, trvalé zvyšování množství dostupných kapitálových statků a nepřetržitý trend ke zlepšení všeobecné životní úrovně. Tempo tohoto pokroku je tak rychlé, že v průběhu doby boomu může snadno převýšit souběžné ztráty způsobené mylným investováním a nadměrnou spotřebou.
+
+Potom může hospodářský systém jako celek na konci boomu prosperovat lépe než na jeho začátku; jeví se ochuzený, pouze pokud ho porovnáme s potenciálem, který existoval pro ještě lepší stav uspokojení potřeb.
+
+Údajná nepřítomnost depresí v podmínkách totalitního řízení
+
+Celá řada socialistických autorů zdůrazňuje, že opakování hospodářských krizí a depresí je jev vlastní kapitalistickému způsobu výroby. Na rozdíl od něj je podle jejich názoru socialistický systém vůči tomuto zlu imunní.
+
+Jak již bylo vysvětleno a jak bude znovu ukázáno později, cyklické výkyvy hospodářství nepocházejí z oblasti nenarušovaného trhu, ale jsou výsledkem vládních zásahů do podmínek podnikání s cílem snížit úrokovou míru pod úroveň stanovenou nenarušovaným trhem. Nyní se budeme zabývat pouze údajnou stabilitou zajištěnou socialistickým plánováním.
+
+Je nutné si uvědomit, že hospodářské krize vyvolává demokratický proces trhu. Spotřebitelé nesouhlasí s použitím výrobních faktorů, jež provedli podnikatelé. Projevují svůj nesouhlas svým nakupováním, nebo zdržením se svých nákupů. Podnikatelé oklamaní iluzí uměle snížené hrubé tržní úrokové míry neinvestovali do těch způsobů výroby, v nichž by byly nejlepším možným způsobem uspokojeny nejnaléhavější potřeby veřejnosti. Jakmile úvěrová expanze skončí, tyto chyby se projeví.
+
+Postoj spotřebitelů nutí podnikatele k novému přizpůsobení svých aktivit ve směru nejlepšího možného uspokojení potřeb. Právě tento proces odstraňování chyb, kterých se dopustili v době boomu, a přizpůsobení přáním spotřebitelů je nazýván depresí.
+
+V socialistickém hospodářství záleží jen na hodnotovém úsudku vlády. Lidem jsou veškeré prostředky k provádění jejich vlastních hodnotových soudů odebrány. Diktátor se nemusí zatěžovat tím, zda lid schvaluje jeho rozhodnutí o tom, kolik obětovat na běžnou spotřebu a kolik na dodatečné investice. Pokud diktátor investuje více, a tím sníží prostředky dostupné pro běžnou spotřebu, lidé musí méně jíst a držet jazyk za zuby. Nevznikne žádná krize, protože obyvatelé nemají žádnou příležitost projevit svoji nespokojenost.
+
+Tam, kde neexistuje žádné podnikání, nemůže být podnikání ani dobré, ani špatné. Může docházet k hladovění a hladomoru, ale nikoli k depresi v tom smyslu, v němž je tento pojem používán při popisování problémů tržního hospodářství. Pokud nemají jednotlivci svobodu volby, nemohou protestovat proti použitým způsobům řízení průběhu výrobních aktivit.

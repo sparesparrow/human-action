@@ -1,0 +1,23 @@
+Převaha názoru, že dokonce ani ve válce nelze každé jednání považovat za přípustné, že existují legitimní a nedovolené válečné činy, že existují zákony, tj. společenské vztahy, které jsou nade všemi národy, dokonce i nad těmi, jež spolu zrovna bojují, dala nakonec vzniknout Velké společnosti zahrnující všechny lidi a všechny národy. Různá regionální společenství byla sdružena do jedné ekumenické společnosti.
+
+Válčící strany, které nevedou válku divoce na způsob šelem, ale podle „lidských" a společenských válečných pravidel, se vzdávají použití určitých ničivých metod, aby dosáhly stejných ústupků ze strany protivníků. Dokud jsou taková pravidla dodržována, existují mezi válčícími stranami společenské vztahy. Nepřátelské činy nejsou samy o sobě pouze nespolečenské, ale jsou protispolečenské. Je nevhodné definovat termín „společenské vztahy" takovým způsobem, aby zahrnoval jednání, jež směřuje ke zničení jiných lidí a ke zmaření jejich jednání.
+
+Kde jsou jedinými vztahy mezi lidmi ty, které jsou namířeny ke vzájemnému poškozování, tam neexistuje ani společnost, ani společenské vztahy.
+
+Společnost není pouhým spolupůsobením. Spolupůsobení – vzájemné ovlivňování – existuje mezi všemi součástmi vesmíru: mezi vlkem a ovcí, kterou sežere; mezi bakterií a člověkem, kterého zabije; mezi padajícím kamenem a předmětem, na nějž padá. Na druhou stranu společnost vždy zahrnuje lidi, kteří jednají ve spolupráci s jinými lidmi, aby umožnili všem zúčastněným dosáhnout svých cílů.
+
+Útočný a ničivý instinkt
+
+Tvrdí se, že člověk je šelma, kterou jí vrozené přirozené instinkty nutí bojovat, zabíjet a ničit. Civilizace se pokusila tato nutkání a chutě potlačit vytvořením nepřirozené lidumilné laxnosti, která člověka odtrhla od jeho zvířecího původu. Tím civilizovaného člověka změnila v dekadentního slabocha, který se stydí za svou animálnost a svou zpustlost hrdě nazývá pravou humánností. Aby se zabránilo další degeneraci lidského druhu, je nevyhnutelné osvobodit ho od zhoubných důsledků civilizace. Neboť civilizace je pouze vychytralý vynález podprůměrných lidí. Tato nedochůdčata jsou příliš slabá, aby byla partnery silným hrdinům, jsou příliš zbabělá, aby snášela zasloužený trest úplného zániku, a jsou příliš líná a příliš domýšlivá, aby sloužila pánům jako otroci.
+
+Tak se tito lidé uchýlili k rafinované náhražce. Otočili věčné hodnotové normy, pevně stanovené neměnnými zákony vesmíru; šířili mravní zásady, které nazývají jejich podprůměrnost ctností a věhlas šlechtilých hrdinů nectností. Tato mravní vzpoura otroků musí být napravena přeceněním všech hodnot. Etika otroků, tento ostudný produkt slabošské zášti, musí být zcela odhozena; musí být nahrazena etikou silných, neboli, přesně řečeno, anulováním všech etických omezení.
+
+Člověk se musí stát důstojným potomkem svých předků, urozenou bestií zašlých dní.
+
+Takové doktríny se obvykle nazývají sociálním nebo sociologickým darwinismem. Na tomto místě nemusíme řešit, zda je tato terminologie vhodná, či nikoli. V každém případě je chybou nazývat evolučními a biologickými taková učení, která lehkovážně znevažují celé dějiny lidstva od dob, kdy se člověk začal zvedat nad čistě živočišné bytí svých nelidských předků, jako nepřetržitý postup směrem k degeneraci a úpadku.
+
+Biologie neposkytuje žádnou normu pro hodnocení změn, které se objevují u živých bytostí, kromě toho, zda tyto změny uspěly v přizpůsobení jedinců pro podmínky jejich vnějšího prostředí a tím ve zvýšení jejich šancí v boji o přežití, nebo ne. Je skutečností, že civilizace, podíváme-li se na ni z tohoto pohledu, musí být považována za přínos, a ne za zlo.
+
+Umožnila člověku nedat se v boji proti všem ostatním živým bytostem, jak proti velkým šelmám, tak proti ještě škodlivějším mikrobům; znásobila lidské prostředky obživy; průměrného člověka nechala vyrůst, stal se díky ní bystřejším a všestrannějším a prodloužila se průměrná délka jeho života; civilizace umožnila člověku nesporné ovládnutí země; znásobil se počet obyvatel a životní úroveň se zvedla tak vysoko, jak se o tom pravěkým primitivním obyvatelům jeskyň nikdy ani nesnilo.
+
+Je pravda, že tento vývoj potlačil rozvinutí určitých dovedností a vloh, které kdysi bývaly užitečné v boji o přežití a ve změněných podmínkách ztratily svou důležitost. Na druhé straně rozvinula jiné schopnosti a dovednosti, které jsou nepostradatelné pro život ve společnosti. Biologický a evoluční pohled se však nesmí zbytečně šťourat v takových změnách.

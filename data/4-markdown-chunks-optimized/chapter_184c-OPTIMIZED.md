@@ -1,0 +1,17 @@
+Ceny faktorů určené pomocí tohoto procesu peněžní imputace pak umožňují podnikatelům vyjádřit a porovnávat náklady alternativních výrobních procesů, a tedy alokovat vzácné zdroje v souladu se zákonem mezní produktivity. Böhm-Bawerk také pojal náklad obětované příležitosti určité komodity jako mezní užitek z její peněžní ceny pro kupujícího.
+
+Na základě podobných pohledů odmítli mechanickou a agregovanou kvantitativní teorii peněz jak Wicksteed, tak Davenport, a pokusili se rozvinout teorii peněz a teorii cen uvnitř rámce mikro příčinně-realistického přístupu.
+
+Ačkoliv se oba významně přiblížili k tomuto cíli – samotný Wicksteed se dostal velmi blízko k jeho dosažení – nakonec selhali, což mělo za následek, že mengerovská teorie cen nadále zůstala teorií barterové směny. Je sice pravdou, že Mises udělal značný pokrok ve spojení monetární teorie a teorie hodnoty ve svém pojednání o penězích, vydaném roku 1912. Nerozpracoval však dostatečnou měrou důsledky tohoto spojení pro teorii cen a sám tento projekt považoval až do roku 1940 za nedokončený.
+
+Mengerovští teoretikové cen tak až do roku 1940 postrádali analytické prostředky, jejichž pomocí by ukázali, že bezčasový a bezpeněžní přístup všeobecné rovnováhy a také nesystematický marshallovský přístup dílčí rovnováhy jsou jednoduše a naprosto vedlejší pro ústřední problém ekonomické teorie. Tím je vysvětlení, jak peněžní směny vedou ke vzniku procesů ekonomické kalkulace, jež jsou nepostradatelné pro racionální alokaci zdrojů v měnícím se světě.
+
+Po období pozoruhodného rozvoje a vlivu mezi lety 1871 až 1914 tak mengerovská cenová teorie, klíčová doktrína rakouské ekonomické školy, stagnovala a od poloviny 30. let 20. století byla v podstatě uzavřenou kapitolou dějin ekonomického myšlení. Nebylo to ani tak tím, že by byl tento přístup odmítnut, ale spíše tím, že – částečně i kvůli vlastním nedostatkům – byl z důvodu nepochopení sloučen s konkurenčními přístupy.
+
+Hayek v roce 1968 při hodnocení výsledků čtvrté generace rakouské školy napsal: „Jestliže tato čtvrtá generace stylem myšlení a zájmy stále zřetelně vykazuje vídeňskou tradici, stejně může jen sotva být viděna jako samostatná škola ve smyslu reprezentace jednotlivých doktrín. Škola dosahuje největšího úspěchu, když přestává jako taková existovat, neboť se její ideje stávají součástí všeobecně převládajícího myšlení."
+
+Lidské jednání a znovuzrození mengerovské tradice
+
+Mises si musel být těchto katastrofálních poměrů plně vědom, když roku 1934 emigroval do Švýcarska. Pohodlně usazen jako placený člen učitelského sboru s plným úvazkem na Graduate Institute of International Studies v Ženevě, mohl Mises vůbec poprvé plně obrátit svou pozornost směrem k akademickému výzkumu. Využil této příležitosti k napsání Nationalökonomie, německého předchůdce Lidského jednání, knihy, jejímž záměrem bylo znovuvzkřísit mengerovský přístup a rozpracovat jej do úplného a jednotného systému ekonomické teorie.
+
+Dokladem významu, který Mises knize přikládal, a času a energie, jež do ní investoval, budiž skutečnost, že v letech vrcholících jejím vydáním roku 1940 téměř nic jiného nenapsal. Pro dříve enormně plodného autora bylo období mezi lety 1934 až 1939 poměrně hubené: s výjimkou knižních recenzí, krátkých poznámek, článků v novinách a časopisech, komentářů a předmluv napsal pouze jeden odborný článek pro čtenáře z akademických kruhů.

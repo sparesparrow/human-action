@@ -1,0 +1,21 @@
+Je jistě pravda, že v mnoha oborech zpracovatelského průmyslu by bylo bláhové vstupovat na trh s výrobky malých zaostávajících podniků, které mají vysoké náklady. Moderní přádelna bavlny se nemusí obávat konkurence staromódních přeslic; jejími konkurenty jsou jiné víceméně náležitě vybavené přádelny. To však neznamená, že mají možnost prodávat za monopolní ceny. I mezi velkými podniky je konkurence.
+
+Jestliže při prodeji výrobků velkých podniků převažují monopolní ceny, důvodem jsou buď patenty, nebo monopol na vlastnictví dolů nebo jiných zdrojů surovin, nebo kartely založené na clech.
+
+Nesmíme zaměňovat pojmy monopol a monopolní ceny. Pouhý monopol jako takový je katalakticky bezvýznamný, pokud nevede k monopolním cenám. Monopolní ceny jsou důležité pouze proto, že jsou důsledkem chování podniku, který se staví na odpor nadřazenosti spotřebitelů a staví soukromé zájmy monopolisty nad zájmy veřejné.
+
+Jsou jediným případem ve fungování tržního hospodářství, v němž lze do určité míry rozlišovat mezi výrobou pro zisk a výrobou pro užití, jestliže budeme ochotni přehlédnout skutečnost, že monopolní výnosy nemají vůbec nic společného se skutečným ziskem. Nejsou součástí toho, co katalaxie může nazývat ziskem; jsou zvýšením ceny způsobeným prodejem služeb poskytovaných některými výrobními faktory; některé z těchto faktorů jsou fyzické, jiné pouze institucionální.
+
+Jestliže se podnikatelé nebo kapitalisté zdrží rozšiřování výroby v nějakém průmyslovém oboru v případě, kdy situace neumožňuje monopolní ceny, protože jsou jim nabízeny atraktivnější příležitosti v jiných oborech, nejednají v rozporu s potřebami spotřebitelů. Naopak, přesně se drží směru naznačeného poptávkou, která se projevuje na trhu.
+
+Politická předpojatost, která zatemnila diskusi o problému monopolu, nevěnovala pozornost základním otázkám, jež tento problém zahrnuje. Když se člověk zabývá jakýmkoli případem monopolních cen, nejdříve si musí položit otázku, jaké překážky brání lidem, aby monopolisty napadli. V odpovědi na tuto otázku se ukáže role, kterou při vzniku monopolních cen hrály institucionální faktory. Bylo nesmyslné mluvit o spiknutí v případě dohod mezi americkými firmami a německými kartely.
+
+Jestliže nějaký Američan chtěl vyrábět výrobek chráněný patentem, který vlastnili Němci, americký zákon ho nutil, aby se s německým podnikem dohodl.
+
+Zvláštním případem je to, co lze nazvat monopolem z neúspěšnosti. V minulosti kapitalisté investovali finanční prostředky do podniku určeného k výrobě výrobku p. Pozdější události způsobily, že tato investice skončila nezdarem. Ceny, které lze získat za prodej p, jsou tak nízké, že kapitál investovaný do nepřevoditelného vybavení podniku není návratný. Je ztracen. Ceny jsou však dostatečně vysoké, aby přinášely rozumný výnos z variabilního kapitálu, který se použije pro běžnou výrobu p.
+
+Pokud je nenávratná ztráta kapitálu investovaného do nepřevoditelného vybavení účetně odepsána a jsou provedeny všechny odpovídající změny v účetnictví, redukovaný kapitál pracující při provozování podniku je víceméně tak výnosný, že by úplné zastavení výroby bylo další chybou. Podnik pracuje na plnou kapacitu, vyrábí množství q výrobku p a prodává ho za jednotkovou cenu s.
+
+Mohou však nastat takové podmínky, že je možné, aby podnik dosáhl monopolního výnosu tím, že omezí objem výroby na q/2 a bude prodávat jednotku výrobku p za cenu 3s. Tak už se kapitál investovaný do nepřevoditelného vybavení nebude jevit úplně ztraceným. Přináší skromný výnos, totiž monopolní výnos.
+
+Tento podnik nyní prodává za monopolní ceny a dosahuje monopolních výnosů, ačkoli celkový investovaný kapitál vynáší jen málo ve srovnání s tím, co by byli investoři vydělali, kdyby investovali do jiných průmyslových oborů. Podnik odnímá z trhu služby, které by mohla poskytovat nevyužitá výrobní kapacita jeho trvanlivého vybavení, a daří se mu lépe, než kdyby vyráběl na plnou kapacitu. Vzpírá se příkazům veřejnosti. Veřejnost by byla v lepší situaci, kdyby se byli investoři vyhnuli chybě a nezakonzervovali část svého kapitálu do výroby p.

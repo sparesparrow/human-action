@@ -1,0 +1,19 @@
+Kreativní génius je ve sporu se spoluobčany. Jako pionýr nových a neslýchaných věcí je ve sporu s jejich nekritickým přijímáním tradičních norem a hodnot. V jeho očích je rutina normálního občana, průměrného nebo obyčejného člověka, jednoduše tupostí. „Buržoazní" je pro něj synonymem pro slabomyslný.
+
+Frustrovaní umělci, kteří se rádi opičili po manýrách génia, aby zakryli vlastní neschopnost, tuto terminologii převzali. Tito bohémové nazývají „buržoazním" vše, co nemají rádi. Protože Marx položil rovnítko mezi termíny „kapitalistický" a „buržoazní", používají obě slova jako synonyma. Ve slovnících všech řečí dnes slova „kapitalistický" a „buržoazní" označují všechno, co je hanebné, potupné a neslavné.
+
+Nejvíce udivujícím výsledkem tohoto široce rozšířeného způsobu myšlení je kniha pruského profesora Bernharda Lauma. Laum sestavil rozsáhlou sbírku citátů z etnografických prací, které ukazují, že mnoho primitivních kmenů považovalo hospodářskou soběstačnost za přirozenou, nutnou a mravně dobrou. Z toho vyvozuje, že hospodářská soběstačnost je přirozeným a nejvýhodnějším stavem řízení hospodářství a že návrat k ekonomické soběstačnosti je „biologicky nutným procesem".
+
+Guy de Maupassant analyzoval údajnou Flaubertovu nenávist vůči buržoům. Maupassant říká, že Flaubert „aimait le monde", to znamená, že se rád pohyboval v kruzích pařížské společnosti složené z aristokratů, bohatých buržoů a nejznámějších umělců, spisovatelů, filozofů, vědců, státníků a podnikatelů. Používal slovo buržoa jako synonymum pro slabomyslnost a definoval ho takto: „Buržoou nazývám každého, kdo má sprosté myšlenky." Je zřejmé, že když Flaubert používal termínu buržoa, neměl na mysli buržoazii jako společenskou třídu, ale druh slabomyslnosti, se kterým v této třídě velice často setkával.
+
+Naproti tomu lidé nazývají „socialistickým" všechno, co považují za dobré a chvályhodné. Běžný způsob uvažování je tento: člověk svévolně nazývá vše, co nemá rád, „kapitalistickým" a potom z tohoto označení odvozuje, že ta věc je špatná.
+
+Tento významový zmatek jde ještě dále. Sismondi, romantičtí obdivovatelé středověku, všichni socialističtí spisovatelé, německá historická škola i američtí institucionalisté učili, že kapitalismus je nespravedlivý vykořisťovatelský systém, který obětuje životní zájmy většiny lidí ve prospěch výhradních zájmů malé skupiny zbohatlíků. Žádný slušný člověk nemůže tento „šílený" systém obhajovat.
+
+Ekonomové, kteří tvrdí, že kapitalismus je výhodný nejen pro malou skupinu, ale pro každého, jsou podle nich „patolízaly buržoazie". Jsou buď příliš hloupí, aby rozpoznali pravdu, nebo podplacení obránci sobeckých třídních zájmů vykořisťovatelů.
+
+V terminologii těchto nepřátel svobody, demokracie a tržního hospodářství znamená kapitalismus hospodářskou politiku zastávanou velkopodnikateli a milionáři. Když jsou postaveni před skutečnost, že někteří bohatí podnikatelé a kapitalisté se dnes kloní k opatřením, která omezují svobodný obchod a konkurenci a vedou k monopolizaci, říkají: současný kapitalismus charakterizuje protekcionismus, kartely a likvidace soutěže.
+
+Je pravda, dodávají, že v určitém období v minulosti britský kapitalismus podporoval svobodný obchod jak na domácím trhu, tak v mezinárodních vztazích. To bylo proto, že v té době taková politika nejlépe sloužila třídním zájmům britské buržoazie. Podmínky se však změnily a kapitalismus, tj. doktrína obhajovaná vykořisťovateli, dnes vede k jiné politice.
+
+Existovali a vždy budou existovat lidé, jejichž sobecká ctižádost požaduje ochranu pro jejich stávající zájmy a již doufají, že získají výhodu z opatření omezujících konkurenci. Zestárlí a unavení podnikatelé a dekadentní dědicové lidí, kteří uspěli v minulosti, nemají rádi čilé zbohatlíky, kteří ohrožují jejich bohatství a jejich vysoké společenské postavení.

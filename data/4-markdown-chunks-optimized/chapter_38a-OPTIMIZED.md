@@ -1,0 +1,23 @@
+Lze připustit, že u primitivního člověka byly sklony k zabíjení a ničení a náchylnost ke krutosti vrozené. Můžeme také předpokládat, že v podmínkách raných věků byl sklon k útoku a zabíjení prospěšný pro zachování života. Člověk býval krutým tvorem. Není třeba zkoumat, jestli byl prehistorický člověk masožravec nebo býložravec. Nesmíme však zapomínat, že byl fyzicky slabým tvorem; nebyl by býval soupeřem pro velké šelmy, kdyby nebyl vybaven zvláštní zbraní – rozumem.
+
+Skutečnost, že člověk je myslící bytost, že se proto bez zábran nepoddává každému popudu, ale řídí své jednání na základě rozumového uvažování, se ze zoologického pohledu nesmí nazývat nepřirozenou. Rozumové jednání znamená, že se člověk, vida, že nemůže uspokojit všechna svá nutkání, touhy a chutě, vzdává uspokojení těch, které považuje za méně naléhavé.
+
+Aby neohrozil fungování spolupráce ve společnosti, je člověk nucen zdržet se uspokojování těch tužeb, jejichž uspokojení by bránilo ustavení společenských institucí. Takové sebezapření je bezpochyby bolestivé. Člověk si však vybral. Odřekl si uspokojení některých tužeb, které jsou neslučitelné se životem ve společnosti, a dal přednost uspokojení těch tužeb, které mohou být splněny pouze nebo v mnohem větší míře v systému dělby práce.
+
+Nastoupil cestu vedoucí k civilizaci, spolupráci ve společnosti a blahobytu.
+
+Toto rozhodnutí není neodvolatelné ani konečné. Volba otců neoslabuje svobodu synů vybrat si. Mohou toto rozhodnutí zvrátit. Každý den mohou přistoupit k přecenění hodnot a dát před civilizací přednost zaostalosti, nebo, jak říkají někteří autoři, dát přednost duši před intelektem, mýtům před rozumem a násilí před mírem. Ale musí si vybrat. Je nemožné mít současně věci, které jsou navzájem neslučitelné.
+
+Věda z pohledu své hodnotové neutrality nedává apoštolům tohoto evangelia násilí vinu za jejich velebení šílenství vražd a divokého požitku sadismu. Hodnotové soudy jsou subjektivní a liberální společnost dává každému právo, aby svobodně vyjadřoval své city. Civilizace nevykořenila původní sklony k agresi, krvežíznivosti a krutosti, které charakterizovaly primitivního člověka. U mnoha civilizovaných lidí jsou skryté a propuknou, jakmile jsou odstraněny zábrany vytvořené civilizací. Připomeňme si nevyslovitelnou hrůzu nacistických koncentračních táborů.
+
+Noviny neustále informují o odporných zločinech, které dokazují latentní touhu lidí po bestialitě. Nejpopulárnější jsou ty romány a dojemné filmy, ve kterých dochází ke krveprolití a násilnému jednání. Býčí a kohoutí zápasy přitahují velké davy.
+
+Jestliže spisovatel říká: Lůza žízní po krvi a já s ní, nemusí mít pravdu o nic méně, než když říká, že primitivní člověk měl také zálibu v zabíjení. Avšak mýlí se, když tvrdí, že uspokojování takových sadistických tužeb narušuje existenci společnosti, nebo když tvrdí, že „pravá" civilizace a „dobrá" společnost jsou výdobytky lidí, kteří lehkovážně uspokojují svou vášeň pro násilí, zabíjení a krutosti, že potlačování pudového nutkání k brutalitě ohrožuje vývoj lidstva a že by člověka zachránilo před degenerací, kdyby zaměnil humanitářství barbarstvím.
+
+Dělba práce a spolupráce ve společnosti jsou založeny na smírném řešení sporů. Jak řekl Herakleitos, nikoli války, ale mír je zdrojem všech společenských vztahů. S výjimkou žádostivosti po prolévání krve jsou touhy lidem vrozeny. Jestliže člověk chce tyto ostatní touhy uspokojit, musí se zříct potřeby zabíjet. Kdo si chce zachovat život a zdraví v co nejlepší kvalitě a co nejdéle, ten si musí uvědomit, že ohled na život a zdraví jiných lidí slouží jeho cíli lépe než opačné chování.
+
+Někdo třeba lituje, že stav věcí je takový. Žádné naříkání však nemůže změnit tvrdou skutečnost.
+
+Nemá smysl kritizovat toto tvrzení odkazováním na iracionalitu. Všechny instinktivní pudy se vzpírají zkoušce rozumem, protože rozum se zabývá pouze prostředky k dosažení cílů, o něž člověk usiluje, a nikoli cílů konečných. Člověka však odlišuje od zvířat právě to, že nepodléhá instinktivnímu nutkání bez vlastní vůle. Člověk používá rozum, aby si vybral mezi neslučitelným splněním protichůdných tužeb.
+
+Masám se nesmí říkat: uspokojte své touhy po zabíjení; je to naprosto lidské a nejlépe to slouží vašemu prospěchu. Musí se jim říkat: pokud ukojíte svou touhu po krvi, musíte se vzdát mnoha jiných tužeb. Chcete jíst, pít, žít v pěkných domech, odívat se a tisíc jiných věcí, které může poskytnout pouze společnost. Nemůžete mít všechno, musíte si vybrat. Nebezpečný život a šílenství sadismu vás může potěšit, ale jsou neslučitelné s bezpečím a dostatkem, o něž také nechcete přijít.

@@ -1,0 +1,23 @@
+Empirické vědy začínají od jedinečných událostí a postupují od individuálního k univerzálnějšímu. Jejich práce podléhá specializaci. Mohou se zabývat segmenty, aniž by měly na zřeteli celé pole. Ekonom nesmí být nikdy specialistou. Při řešení každého problému musí směrovat svůj zrak na celý systém.
+
+Historici v tomto ohledu často hřeší. Někdy si neuvědomují, že není možné ze studia komplexních jevů vybrat jakékoli kauzální vztahy. Jejich záměr studovat realitu bez použití toho, co zatracují jako předběžnou znalost, je marný. Ve skutečnosti nevědomky používají populární doktríny, které jsou již dlouho vyvráceny jako chybné a rozporné.
+
+Omezení praxeologických pojmů
+
+Praxeologické kategorie a pojmy jsou tvořeny za účelem porozumění lidskému jednání. Začnou být rozporné a nesmyslné, pokud se je člověk pokouší aplikovat na jiné podmínky než podmínky lidského života. Naivní antropomorfismus primitivních náboženství je pro filozofickou mysl nepřijatelný. Snahy filozofů definovat pomocí praxeologických kategorií atributy absolutní bytosti, osvobozené od všech omezení a slabostí lidské existence, jsou neméně sporné.
+
+Scholastičtí filozofové a teologové a rovněž teisté a deisté věku rozumu vymýšleli absolutní a dokonalou bytost, neměnnou, všemocnou a vševědoucí, a přesto plánující a jednající, směřující k cílům a používající prostředky k jejich dosažení. Jednání však lze přisoudit pouze bytosti nespokojené a opakované jednání pouze bytosti, která postrádá moc odstranit všechnu nespokojenost naráz v jednom okamžiku. Jednající bytost je nespokojená, a proto není všemocná. Kdyby byla spokojená, nejednala by, a kdyby byla všemocná, již dávno by radikálně odstranila svou nespokojenost.
+
+Pro všemocnou bytost neexistuje žádný tlak na volbu mezi různými stavy nespokojenosti, není pod tlakem, který ji nutí přijmout menší zlo. Všemocnost by znamenala moc dosáhnout všeho a užívat si plné uspokojení bez jakýchkoli omezení. To však není v souladu se samotným konceptem jednání. Pro všemohoucí bytost kategorie prostředků a cílů neexistují. Je nad lidským chápáním, pojmy a rozuměním.
+
+Všemocné bytosti poskytuje každý „prostředek" nekonečné služby, může k dosažení svých cílů použít jakýchkoli „prostředků" a může dosáhnout jakéhokoli cíle bez použití prostředků. Uvažovat konzistentně o pojmu všemohoucnosti až do jeho logických důsledků přesahuje schopnosti lidského rozumu. Tyto paradoxy jsou neřešitelné. Dokáže všemohoucí bytost dosáhnout něčeho, co bude imunní vůči jejím pozdějším zásahům? Pokud tuto moc má, pak existují omezení její moci a není již dále všemohoucí. Pokud tuto moc postrádá, není již pouze z tohoto důvodu všemohoucí.
+
+Jsou všemocnost a vševědoucnost slučitelné? Vševědoucnost předpokládá, že všechny budoucí události jsou již jednoznačně určeny. Jestliže existuje vševědoucnost, všemocnost je nemyslitelná. Neschopnost změnit cokoli v předurčeném běhu událostí by omezovala moc každého agenta.
+
+Jednání je projevem potence a moci, které jsou omezené. Je manifestací člověka, který je limitován ohraničenými schopnostmi své mysli, fyziologickou podstatou svého těla, nestálostí svého prostředí a vzácností vnějších faktorů, na nichž závisí jeho blahobyt. Je marné odkazovat se na nedokonalosti a slabosti lidského života, když je cílem zobrazit něco absolutně dokonalého. Samotná myšlenka absolutní dokonalosti je v každém směru rozporná. Stav absolutní dokonalosti musí být pojímán jako úplný, konečný a nepodléhající změně. Změna může jen snížit jeho dokonalost a transformovat jej do stavu méně dokonalého. Pouhá pravděpodobnost, že může dojít ke změně, je v rozporu s pojmem absolutní dokonalosti.
+
+Absence změny – to znamená absolutní nezměnitelnost, strnulost a nehybnost – se však rovná absenci života. Života dokonalost jsou nekompatibilní, stejně tak ale i dokonalost a smrt. Živoucí není dokonalé, protože podléhá změně, mrtvé není dokonalé, protože nežije.
+
+Jazyk žijících a jednajících lidí může pro porovnání míry tvořit komparativy a superlativy. Absolutno však není míra, je to limitní pojem. Absolutno je neurčitelné, nemyslitelné a nevyslovitelné. Je to chimérický pojem. Neexistuje žádné dokonalé štěstí, dokonalý člověk, nekonečné blaho. Každý pokus popsat život v rajské zahradě či život andělů vyúsťuje v paradoxy. Kde existují podmínky, existují omezení, a nikoli dokonalost. Jsou tam pokusy překonat překážky, frustrace a nespokojenost.
+
+Poté co filozofové opustili hledání absolutna, převzali ho po nich utopisté.

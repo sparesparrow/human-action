@@ -1,0 +1,21 @@
+Moderní účetnictví je výsledkem dlouhého historického vývoje. V otázce významu kapitálu jsou dnes podnikatel a účetní zajedno. Kapitál je peněžní částka rovná všemu majetku minus peněžní částka rovná všem závazkům, které jsou k určitému dni přiřazeny provádění činnosti určité obchodní jednotky. Nezáleží na tom, v čem všem tento majetek spočívá, zda jsou to pozemky, budovy, zařízení, nástroje, statky jakéhokoli druhu a řádu, pohledávky, hotovost nebo cokoli jiného.
+
+Je historickou skutečností, že v raných dobách účetnictví obchodníci, kteří byli pionýry peněžní kalkulace, většinou nezahrnovali své budovy a půdu do pojmu kapitálu. Jinou historickou skutečností je, že zemědělci na svou půdu koncept kapitálu uplatňovali jen pomalu. Dokonce i dnes a v nejvyspělejších zemích má pouze část zemědělců představu o postupech spolehlivého účetnictví. Mnoho zemědělců mlčky souhlasí s tím, že v účetnictví není věnována náležitá pozornost půdě a jejímu přínosu pro zemědělskou výrobu. Její účetní položky nezahrnují peněžní ekvivalent půdy, a proto nereagují na změny tohoto ekvivalentu. Takové účty jsou chybné, protože nezprostředkovávají informaci, k jejímuž zjištění kapitálové účetnictví jako k jedinému svému cíli směřuje.
+
+Neukazují, zda provoz statku způsobil, či nezpůsobil zhoršení schopnosti půdy přispívat k zemědělské výrobě, tedy snížení její objektivní užitné hodnoty. Pokud došlo k erozi půdy, jejich účetnictví to ignoruje, a tak je vypočtený příjem (čistý výnos) větší, než by ukázala úplnější účetní metoda.
+
+Je nutné zmiňovat se o těchto historických skutečnostech, protože ovlivnily snahu ekonomů vytvořit pojem reálného kapitálu.
+
+Ekonomové byli a dodnes jsou konfrontováni s pověrou, že by nedostatek výrobních faktorů mohl být odstraněn, buď úplně, nebo alespoň do určité míry, zvýšením množství peněz v oběhu a úvěrovou expanzí. Aby se náležitě vypořádali s tímto zásadním problémem hospodářské politiky, považovali za nutné vytvořit pojem reálného kapitálu a dát ho do protikladu k pojmu kapitálu, jaký používá podnikatel, jehož kalkulace se vztahuje na celý souhrn jeho výdělečné činnosti.
+
+V době, kdy ekonomové s těmito snahami začínali, bylo postavení peněžního ekvivalentu půdy v představě kapitálu ještě zpochybňováno. Proto ekonomové považovali za rozumné ponechat půdu při vytváření pojmu reálného kapitálu stranou. Definovali reálný kapitál jako souhrn vyrobených výrobních faktorů, které jsou k dispozici. Nastaly přehnaně puntičkářské diskuse, zda reálným kapitálem jsou nebo nejsou zásoby spotřebního zboží patřící obchodním jednotkám.
+
+Panovala však téměř naprostá shoda, že hotovost reálným kapitálem není.
+
+Dnes je tato představa souhrnu vyrobených výrobních faktorů prázdným pojmem. Můžeme určit a sečíst peněžní ekvivalenty různých výrobních faktorů, které obchodní jednotka vlastní. Pokud však abstrahujeme od ohodnocení v peněžních jednotkách, je souhrn vyrobených výrobních faktorů pouze číselným vyjádřením fyzického množství tisíců a tisíců různých statků. Taková inventura nemá pro jednání význam. Je to popis části vesmíru technickými a místopisnými daty, a vůbec nijak se nevztahuje k problémům, které vznikají při snaze o zlepšení blahobytu lidstva.
+
+Při používání terminologie se můžeme smířit s tím, že budeme vyrobené výrobní faktory nazývat kapitálovými statky. Ale tím není koncept reálného kapitálu o nic smysluplnější.
+
+Nejhorším plodem používání mytického pojmu reálného kapitálu bylo, že ekonomové začali bádat nad falešným problémem, kterým je produktivita (reálného) kapitálu. Výrobní faktor je podle definice věc, která může přispět k úspěchu výrobního procesu. Jeho tržní cena plně odráží hodnotu, již jeho příspěvku připisují lidé. Za služby, které jsou od použití výrobního faktoru očekávány (tj. za jeho příspěvek k produktivitě), se při tržních obchodech platí podle plné hodnoty, jakou mu lidé připisují. Tyto faktory jsou považovány za cenné pouze kvůli těmto službám. Tyto služby jsou jediným důvodem, proč za ně lidé platí nějaké ceny.
+
+Jakmile jsou tyto ceny zaplaceny, nezůstane nic, co by ze strany kohokoli mohlo přinést další platby jako náhradu za dodatečné produktivní služby těchto výrobních faktorů. Bylo hrubou chybou vysvětlovat úrok jako příjem odvozený z produktivity kapitálu.

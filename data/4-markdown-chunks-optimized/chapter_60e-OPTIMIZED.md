@@ -1,0 +1,25 @@
+Jak bylo ukázáno výše, vznik přebytku celkového součtu podnikatelských zisků nad celkovým součtem podnikatelských ztrát je neoddělitelně spojen se skutečností, že část výhod odvozených ze zvýšení množství volných kapitálových statků a ze zlepšení technologických postupů přechází na nepodnikatelské skupiny. Růst cen komplementárních výrobních faktorů, jako první mezi nimi mzdových sazeb, není ani výsada, kterou podnikatelé musí chtě nechtě poskytnout zbylým lidem, ani chytrý nástroj podnikatelů k dosahování zisku.
+
+Je to nevyhnutelný a nutný jev v řetězci postupných událostí, který musí nutně zapříčinit úsilí podnikatelů dosáhnout zisku přizpůsobením nabídky spotřebního zboží novému stavu věcí. Tentýž proces, který vede k přebytku podnikatelského zisku nad podnikatelskými ztrátami, způsobuje nejdříve – tj. předtím, než se tento přebytek objeví – vznik tendence k růstu mzdových sazeb a cen mnoha hmotných výrobních faktorů.
+
+A je to tentýž proces, který v průběhu budoucích událostí způsobí, že tento přebytek zisků nad ztrátami zmizí, pokud by se neobjevily nové změny, které by zvýšily množství volných kapitálových statků. Přebytek zisků nad ztrátami není důsledkem růstu cen výrobních faktorů.
+
+Tyto dva faktory – růst cen výrobních faktorů a přebytek zisků nad ztrátami – jsou dva kroky v procesu přizpůsobování výroby zvýšenému množství kapitálových statků a technologickým změnám, které uvádějí do pohybu podnikatelské činnosti. Přebytek zisků nad ztrátami může dočasně vzniknout pouze proto, že ostatní vrstvy obyvatelstva jsou tímto přizpůsobováním obohacovány.
+
+Základní chyba argumentu o kupní síle spočívá v chybné konstrukci tohoto příčinného vztahu. Staví věci na hlavu, když růst mzdových sazeb považuje za sílu, která přináší hospodářský pokrok.
+
+V dalších částech této knihy se budeme zabývat důsledky pokusů vlád a organizovaného odborového násilí prosadit vyšší mzdové sazby, než jaké určuje nenarušovaný trh.
+
+Na tomto místě musíme jen dodat jednu vysvětlující poznámku.
+
+Když mluvíme o ziscích a ztrátách, cenách a mzdových sazbách, máme vždy na mysli reálné zisky a ztráty, reálné ceny a reálné mzdové sazby. To, co svedlo mnoho lidí nesprávným směrem, je svévolné zaměňování peněžních pojmů a reálných pojmů. I tímto problémem se budeme vyčerpávajícím způsobem zabývat v pozdějších kapitolách. Jen mimochodem zmiňme skutečnost, že růst reálných mzdových sazeb je slučitelný s poklesem nominálních mzdových sazeb.
+
+Podnikatel si najímá techniky, tj. lidi, kteří mají schopnosti a dovednosti vykonat určité druhy a množství práce. Třída techniků zahrnuje velké vynálezce, mistry na poli aplikované vědy, konstruktéry a projektanty, stejně jako ty, kteří vykonávají ty nejjednodušší úkoly. Připojuje se k nim podnikatel, pokud se sám podílí na technické realizaci svých podnikatelských plánů. Technik přispívá vlastní dřinou a trápením; je to však podnikatel v roli podnikatele, kdo svou práci směruje k určitým cílům. A sám podnikatel jedná jako faktický pověřenec spotřebitelů.
+
+Podnikatelé nejsou všudypřítomní. Sami se nemohou starat o nejrůznější úkoly, které na nich spočívají. Přizpůsobení výroby tak, aby co možná nejlépe zásobovala spotřebitele zbožím, o něž nejnaléhavěji žádají, nespočívá pouze ve stanovení generálního plánu na využití zdrojů. Jistě není pochyb, že to je hlavní úloha průkopníka a spekulanta. Ale vedle velkého přizpůsobení je také nutné udělat mnoho malých úprav. Každá z nich může vypadat jako malichernost s nepatrným významem pro celkový výsledek.
+
+Ale kumulativní vliv nedostatků v mnoha těchto malých záležitostech může být tak veliký, že naprosto zmaří úspěch správného řešení velkých problémů. V každém případě je jisté, že každý neúspěch při řešení malých věcí má za následek plýtvání vzácnými výrobními faktory a z toho plynoucí ohrožení nejlepšího možného uspokojení spotřebitelů.
+
+Je důležité pochopit, jak se problém, který máme na mysli, liší od technických úkolů techniků. Uskutečnění každého projektu, do něhož se podnikatel pouští při svém rozhodování v souladu s generálním plánem jednání, vyžaduje velké množství okamžitých rozhodnutí. Všechna tato rozhodnutí musí být uskutečněna tak, aby preferovala takové řešení problému, které je – aniž by bylo v rozporu se záměry generálního plánu na celý projekt – co nejhospodárnější. Musí se vyhnout zbytečným nákladům, stejně jak to dělá generální plán.
+
+Technik ze svého čistě technického pohledu buď nevidí žádný rozdíl mezi možnostmi nabízenými různými metodami pro řešení takové drobnosti, nebo může dát jedné z těchto metod přednost kvůli jejímu většímu výkonu ve fyzikálních jednotkách. Podnikatel je však poháněn motivem zisku. Ten mu přikazuje, aby dal přednost nejhospodárnějšímu řešení, tj. tomu řešení, které se vyhýbá využití výrobních faktorů, jejichž zapojení by ohrozilo uspokojení silněji pociťovaných potřeb spotřebitelů.

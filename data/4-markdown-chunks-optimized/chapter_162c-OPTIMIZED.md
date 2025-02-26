@@ -1,0 +1,5 @@
+Karikaturou schématu sdílení zisků je princip schopnosti platit, který se nedávno stal součástí programu amerických odborářů. Zatímco sdílení zisků má za cíl přidělit zaměstnancům část již dosaženého zisku, snaha o schéma založené na schopnosti platit usiluje o rozdělení zisků, o kterých se nějaký vnější pozorovatel domnívá, že by zaměstnavatel mohl dosáhnout v budoucnosti.
+
+Tento problém byl zamlžen skutečností, že poté, co Trumanova vláda přijala tuto novou doktrínu odborů, oznámila, že jmenuje speciální radu, která zjistí fakta a bude mít pravomoc zkoumat účetní záznamy zaměstnavatelů a určit jejich schopnost platit vyšší mzdy. Účetnictví ovšem může poskytovat informace pouze o minulých nákladech a výnosech a minulých ziscích a ztrátách.
+
+Odhady budoucí velikosti výroby, budoucích tržeb, budoucích nákladů či budoucích zisků a ztrát nejsou fakta, ale spekulativní očekávání. Žádná fakta o budoucích ziscích neexistují.

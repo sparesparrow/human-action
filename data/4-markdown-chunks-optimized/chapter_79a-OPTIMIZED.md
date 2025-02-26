@@ -1,0 +1,23 @@
+V rámci imaginárního konstruktu, jehož typickými znaky jsou neměnnost a strnulost podmínek, je nemožné připisovat nepřímé směně, prostředkům směny a penězům jakoukoli funkci.
+
+Pokud neexistuje žádná nejistota o budoucím vývoji, není nutné držet žádnou hotovost. Protože peníze nemohou být lidmi drženy jinak než v podobě hotovosti, nemohou existovat ani peníze. Užití prostředků směny a držení hotovosti jsou podmíněny proměnlivostí ekonomických dat. Peníze samy o sobě jsou prvkem změny; jejich existence není v souladu s představou pravidelného sledu událostí v rovnoměrně plynoucí ekonomice.
+
+Každá změna v peněžním vztahu mění – i když odhlédneme od dopadu na odložené platby – postavení jednotlivých členů společnosti. Někteří bohatnou, jiní chudnou. Může se stát, že se důsledky změny v nabídce a poptávce po penězích střetnou s důsledky opačné změny, která se odehraje ve stejnou dobu a ve stejném rozsahu; může dojít k tomu, že výsledkem těchto protichůdných pohybů nebude žádná zřetelná změna cenové struktury. Ale ani tehdy nechybí dopady na postavení různých jednotlivců.
+
+Každá změna v peněžním vztahu probíhá určitým způsobem a vytváří své vlastní specifické důsledky. Pokud se objeví inflační a deflační pohyb zároveň, nebo pokud je inflace časově následována deflací takovým způsobem, že se v konečném důsledku ceny příliš nezmění, společenské dopady každého z pohybů se vzájemně neruší. K sociálním dopadům inflace se dopady deflace přidávají. Není žádný důvod předpokládat, že všichni nebo většina zvýhodněná jedním pohybem bude postižena druhým pohybem a naopak.
+
+Peníze nejsou ani abstraktním numeraire, ani standardem hodnoty nebo cen. Jsou nutně ekonomickým statkem a jako takové jsou ohodnocovány a oceňovány podle své podstaty, tj. podle služeb, které člověku plynou z držby hotovosti. Na trhu se vždy vyskytují změny a pohyb. Peníze existují jen díky výkyvům. Peníze jsou prvkem změny ne proto, že „obíhají", ale proto, že jsou drženy v podobě hotovosti. Lidé drží peníze jen proto, že očekávají změny, o jejichž druhu a rozsahu nevědí nic přesného.
+
+Peníze si lze představit jen v měnící se ekonomice, samy o sobě jsou však prvkem dalších změn. Každá změna ekonomických dat je uvádí do pohybu a činí z nich hybnou sílu nových změn. Každý posun ve vzájemném vztahu směnných poměrů mezi různými nepeněžními statky nevyvolává změny jen ve výrobě a v tom, co je všeobecně nazýváno distribucí, ale i v peněžních vztazích, což znamená další změny. Nic ve sféře prodejných statků se nestane bez toho, aniž by to ovlivnilo sféru peněz, a vše, co se odehraje ve sféře peněz, ovlivní sféru statků.
+
+Představa neutrálních peněz není o nic méně rozporná než představa peněz se stabilní kupní silou. Peníze bez své vlastní hybné síly by nebyly dokonalými penězi, jak předpokládají lidé; nebyly by vůbec žádnými penězi.
+
+Obecně se lidé často domnívají, že dokonalé peníze by měly být neutrální a obdařené neměnnou kupní silou a že cílem měnové politiky by mělo být dosažení takových peněz. Této myšlence je snadné porozumět jako reakci na stále rozšířenější požadavky příznivců inflace. Je to však reakce nepřiměřená, vnitřně zmatená a rozporná, a způsobila pohromu, protože byla posílena silně zakořeněným omylem obsaženým v myšlení mnoha filozofů a ekonomů.
+
+Tito myslitelé jsou uvedeni v omyl rozšířenou vírou, že stav klidu je dokonalejší než pohyb. Jejich pojetí dokonalosti vede k závěru, že si nelze představit žádný lepší stav a v důsledku toho vede každá změna jen ke zhoršení. O nějakém pohybu lze v nejlepším případě tvrdit, že je směrován k dosažení stavu dokonalosti, v němž panuje klid, neboť každý další pohyb by vedl k méně dokonalému stavu. Pohyb je vnímán jako nepřítomnost rovnováhy a plného uspokojení, jako projev potíží a nouze.
+
+Pokud takové názory pouze potvrzují, že jednání usiluje o odstranění nespokojenosti a v konečném důsledku o dosažení plného uspokojení, lze je pokládat za opodstatněné. Nesmíme ale zapomenout na to, že klid a rovnováha nejsou přítomny jen ve stavu, v němž dokonalá spokojenost činí lidi dokonale šťastnými, ale stejně tak i ve stavu, v němž lidé v mnoha ohledech strádají, avšak nevidí žádný prostředek ke zlepšení svých podmínek.
+
+Nepřítomnost jednání není pouze důsledkem plného uspokojení; může neméně jít i o následek neschopnosti učinit věci uspokojivějšími. Může znamenat beznaděj stejně jako spokojenost.
+
+Ani neutralita peněz, ani stabilita jejich kupní síly nejdou dohromady se skutečným světem jednání a nekončících změn, s hospodářským systémem, jenž nemůže existovat beze změn. Svět toho druhu, který nezbytně předpokládají koncepty neutrálních a stabilních peněz, by byl světem bez jednání.

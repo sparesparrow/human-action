@@ -1,0 +1,23 @@
+Kdyby byli všichni lidé připraveni starat se nejen o svůj zisk, ale také o své náboženské a morální povinnosti, nebylo by k prosazení správných věcí třeba vládního nátlaku a donucení. Není tedy prý nutná reforma vlády a zákonů, ale morální očista člověka, návrat k přikázáním Páně a pravidlům morálního chování, zavržení neřestí lakoty a sobectví. Poté bude snadné usmířit soukromé vlastnictví výrobních prostředků se spravedlností, čestností a poctivostí.
+
+Katastrofické dopady kapitalismu tak budou odstraněny bez poškození individuální svobody a podnikavosti. Lidé sesadí molocha kapitalismu, aniž by na trůn posadili stát.
+
+Arbitrární hodnotové soudy, jež nalézáme u základů těchto názorů, ponecháme pro tento okamžik stranou. Je nepodstatné, z čeho tito kritici kapitalismus obviňují. Jejich omyly a nepochopení se netýkají toho nejdůležitějšího. Důležitá je ale myšlenka vybudování společenského systému na dvojakém základě – soukromém vlastnictví a morálních principech omezujících využívání soukromého vlastnictví. Takový systém, říkají jeho obhájci, by nebyl ani socialismem, ani kapitalismem, ani intervencionismem.
+
+Nebyl by socialismem, protože by zachovával soukromé vlastnictví výrobních prostředků; ani kapitalismem, jelikož by primárně nestál na snaze dosáhnout zisku, ale rozhodovalo by svědomí; ani intervencionismem, protože by nevyvstávala potřeba zásahů vlády do fungování trhu.
+
+V tržním hospodářství má jedinec svobodu jednat v rámci prostoru, jejž mu nabízí soukromé vlastnictví a trh. Jeho volby jsou konečné. Pro ostatní lidi představuje jeho jednání data, která musí brát v úvahu při jednání vlastním. Koordinace autonomního jednání všech jedinců je dosaženo fungováním trhu. Společnost člověku neříká, co má a co nemá dělat. Nevzniká žádná potřeba vynucovat spolupráci skrze speciální nařízení a zákazy. Nespolupráce se trestá sama. Přizpůsobení požadavků společenského produktivního úsilí a sledování vlastního zájmu jedince nejsou v konfliktu.
+
+Proto také není třeba žádné instituce, která by takové konflikty řešila. Systém může fungovat a plnit své úkoly bez zásahu nějakého orgánu, jenž by vydával nějaké příkazy a zákazy a trestal ty, co se jim nepodvolí.
+
+Za sférou soukromého vlastnictví a trhu leží sféra nátlaku a donucení. Zde se nachází přehrady, které organizovaná společnost staví kvůli ochraně soukromého vlastnictví a trhu proti násilí, úkladům a podvodu. To je oblast omezení, jež leží v protikladu k oblasti svobody. Zde nacházíme pravidla, která odlišují, co je legální a co ilegální, co je dovolené a co zakázané. A zde se také nalézá hrozivá mašinerie zbraní, věznic a šibenic a lidé, kteří je obsluhují – připraveni ztrestat ty, kdo se odváží neuposlechnout.
+
+Reformátoři, jejichž plány se zde zabýváme, tvrdí, že vedle norem vytvořených k ochraně a zachování soukromého vlastnictví by měla být ustanovena další etická pravidla. Chtějí, aby ve výrobě a spotřebě byly brány v úvahu ještě jiné věci než ve společenském řádu, v němž nejsou jednotlivci nuceni přijímat jiné povinnosti než to, aby nepoškodili život ostatních lidí a jejich právo soukromého vlastnictví.
+
+Chtějí zakázat ty pohnutky, které vedou jednání člověka v tržním hospodářství (nazývají je sobectvím, zištností, dosahováním zisku), a nahradit je jinými podněty (ty nazývají svědomitostí, poctivostí, altruismem, strachem z Boha, dobročinností).
+
+Jsou přesvědčeni o tom, že takovátá morální reforma by byla sama o sobě postačující k záchraně fungování ekonomického systému, jež by bylo z jejich pohledu uspokojivější než neomezovaný kapitalismus, a to bez vládních opatření, jež vyžaduje intervencionismus a socialismus.
+
+Zastánci těchto doktrín si neuvědomují, jakou úlohu při fungování tržního hospodářství hrají právě ty motivy lidského jednání, jež odsuzují a označují za zvrácené. Tržní ekonomika může fungovat bez vládních nařízení, která by každému říkala, co má přesně dělat a jak to má udělat, právě kvůli té skutečnosti, že nechce po nikom, aby se choval jinak, než nejlépe odpovídá jeho vlastnímu zájmu. Sledování vlastního zájmu tak integruje jednání jednotlivce do společenského systému výroby.
+
+Snahou o dosažení vlastního zisku přispívá každý člověk svým dílem k nejlepšímu možnému uspořádání výrobních činností. V rámci sféry soukromého vlastnictví a zákonů ochraňujících vlastnictví před násilnými a podvodnými aktivitami neexistuje žádný antagonismus mezi zájmy jednotlivce a zájmy společnosti.

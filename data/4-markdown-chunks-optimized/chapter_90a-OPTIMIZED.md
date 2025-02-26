@@ -1,0 +1,23 @@
+To však neznamená, že by dával přednost budoucím statkům před současnými statky. Musí si vybrat mezi dvěma užitími, která nemůže mít zároveň. Tomuto dilematu čelí v každém okamžiku rozhodování. V současné situaci může dávat přednost Hamletovi před Carmen. Odlišné podmínky následujícího dne by mohly vyústit v jiné rozhodnutí.
+
+Druhá zdánlivá výjimka je představována případem statků podléhajících rychlé zkáze. Mohou být hojně dostupné v jednom ročním období a v ostatních mohou být vzácné. Rozdíl mezi ledem v zimě a ledem v létě však není rozdílem mezi současným a budoucím statkem. Jde o rozdíl mezi statkem, který ztrácí svoji specifickou užitečnost, i když není spotřebován, a jiným statkem, jenž vyžaduje jiný výrobní postup. Led dostupný v zimě může být použit v létě pouze tehdy, je-li pro jeho zachování použito zvláštního postupu.
+
+Ten představuje ve vztahu k ledu použitelnému v létě přinejmenším jeden komplementární faktor, potřebný pro jeho výrobu. Není možné zvýšit množství ledu dostupného v létě pouze omezením jeho spotřeby v zimě. Tyto dvě věci jsou pro všechny praktické případy různými statky.
+
+Ani případ lakomce není v rozporu s obecnou platností časové preference. Také lakomec dává přednost určité úrovni uspokojení v bližší budoucnosti před uspokojením v budoucnosti vzdálenější tím, že utrácí část svých prostředků za své skromné živobytí. Extrémní případy, v nichž si lakomec odpírá i nezbytné minimum jídla, představují chorobné slábnutí životní energie, stejně jako v případě člověka, který nejí, neboť se obává choroboplodných zárodků; člověka, který namísto podstoupení nebezpečné situace raději spáchá sebevraždu; a člověka, který nespí, protože se obává, že by se mu ve spánku mohlo přihodit blíže neurčené neštěstí.
+
+Kapitálové statky
+
+Jakmile jsou uspokojeny současné potřeby považované za naléhavější než zaopatření pro následující den, lidé začnou šetřit část dostupné nabídky spotřebních statků pro pozdější užití. Toto odložení spotřeby umožňuje zaměřit jednání na časově vzdálenější cíle. Nyní je možné usilovat o cíle, na které nešlo předtím kvůli délce doby výroby vyžadované pro jejich dosažení pomýšlet. Kromě toho je možné vybrat si způsoby výroby, při nichž je výstup na jednotku vstupu vyšší než u ostatních metod, vyžadujících kratší dobu výroby.
+
+Sine qua non každého přijatého prodloužení výrobního procesu jsou úspory, tj. přebytek současné produkce nad současnou spotřebou. Úspory jsou prvním krokem na cestě ke zlepšení hmotného blahobytu a ke každému dalšímu pokroku na této cestě.
+
+Odložení spotřeby a akumulace zásob spotřebních statků určených pro pozdější spotřebu by proběhlo, i kdyby nebylo podnětu poskytnutého technologickou nadřazeností procesu s delší dobou výroby. Vyšší produktivita tohoto procesu spotřebovávajícího více času značně posiluje sklon k úsporám.
+
+Oběť, učiněná omezením spotřeby v bližších obdobích budoucnosti, tak není pouhou protiváhou očekávané spotřeby uspořených statků ve vzdálenějším období; otevírá zároveň cestu k hojnější nabídce ve vzdálenější budoucnosti a k dosažení těch statků, jež by bez přechodné oběti nemohly být získány. Pokud by jednající člověk, za jinak stejných podmínek, nedával bezvýjimečnou přednost spotřebě v bližší budoucnosti před spotřebou v budoucnosti vzdálenější, vždy by spořil a nikdy by nespotřebovával.
+
+Tím, co omezuje objem úspor a investic, je časová preference.
+
+Lidé toužící pustit se do výrobních procesů s delší dobou výroby musí nejprve pomocí úspor naakumulovat takový objem spotřebních statků, který je potřebný k uspokojení všech potřeb, považovaných v průběhu doby čekání za důležitější, než je zvýšení blahobytu očekávané z časově náročnějšího procesu. Akumulace kapitálu začíná vytvořením zásob spotřebních statků, jejichž spotřeba je odložena na pozdější dobu.
+
+Pokud jsou tyto přebytky skladovány a drženy pouze z důvodu pozdější spotřeby, jsou pouhým bohatstvím, nebo přesněji řečeno rezervou pro případ horších časů a mimořádných okolností. Zůstávají mimo výrobní sféru. Součástí výroby – ekonomicky, nikoli fyzicky – se stávají pouze tehdy, jsou-li použity jako prostředky obživy dělníků zapojených do časově náročnějších procesů. Pokud jsou použity tímto způsobem, jsou fyzicky spotřebovány. Ale ekonomicky nezmizely. Byly nahrazeny nejprve bezprostředními výstupy procesů s delší dobou výroby a později spotřebními statky, které jsou konečným produktem těchto procesů.

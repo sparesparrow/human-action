@@ -1,0 +1,23 @@
+Problém „a priori" má však odlišný charakter. Nesouvisí s problematikou, jak rozum a vědomí vznikly. Vztahuje se k podstatné a nutné struktuře lidské mysli.
+
+Základní logické vztahy nepodléhají potvrzení či vyvrácení. Každý pokus je dokázat musí předpokládat jejich platnost. Je nemožné vysvětlit je bytosti, která by je sama neměla. Snaha definovat je dle pravidel definování musí nutně selhat. Jsou primárními výroky, předcházejícími každé nominální či reálné definici. Jsou konečnými neanalyzovatelnými kategoriemi. Lidská mysl si vůbec nedokáže představit logické kategorie, které by s nimi byly v rozporu. Bez ohledu na to, jak se jeví nadlidským bytostem, pro člověka jsou nevyhnutelné a absolutně nutné.
+
+Jsou nutnou podmínkou vnímání, apercepce a zkušenosti.
+
+Jsou i nutnou podmínkou paměti. V přírodních vědách existuje tendence popisovat paměť jako příklad obecnějšího jevu. Každý živý organismus si uchovává účinky předchozích stimulací a současný stav anorganické hmoty je také výsledkem vlivů, které na ni v minulosti působily. Současný stav světa je produktem jeho minulosti. Ve volně metaforickém smyslu proto můžeme říci, že geologická struktura naší planety uchovává paměť všech dřívějších kosmických změn a že lidské tělo je usazeninou osudů a náhod samotného člověka a jeho předků.
+
+Paměť je však něco zcela jiného než strukturní jednota a kontinuita evoluce světa. Je vědomým jevem a jako taková je podmíněna logickým a priori. Psychologové jsou zmateni faktem, že si člověk nic nepamatuje z doby své existence jako embrya či kojence. Freud se pokoušel tuto absenci paměti vysvětlit jako důsledek potlačení nepříjemných vzpomínek. Pravda je, že z nevědomých stavů si není co pamatovat. Zvířecí automatismus a nevědomé odpovědi na fyziologickou stimulaci nepředstavují ani pro embryo, ani pro kojence, ani pro dospělého materiál pro zapamatování. Zapamatovat si lze pouze stavy vědomé.
+
+Lidská mysl není tabula rasa, do níž vnější události vepisují vlastní historii. Je vybavena množstvím nástrojů pro uchopování reality. Člověk získal tyto nástroje, tedy logickou strukturu mysli, během své evoluce z améby do současného stavu. Tyto nástroje však jakékoli zkušenosti logicky předcházejí.
+
+Člověk není zvíře, plně podřízené stimulům, jež nevyhnutelně určují okolnosti jeho života. Je rovněž jednající bytostí. A kategorie jednání logicky předchází každý konkrétní akt.
+
+Skutečnost, že člověk nemá tvůrčí moc představit si kategorie v rozporu se základními logickými vztahy a s principy kauzality a teleologie, mu stanovuje něco, co lze nazvat metodologickým apriorismem.
+
+Všichni ve svém každodenním jednání vypovídáme o neměnnosti a univerzálnosti kategorií myšlení a jednání. Každý, kdo se obrací na dalšího člověka, kdo jej chce informovat či přesvědčit, kdo se ptá a odpovídá na otázky ostatních, tak může činit pouze proto, že se může odvolat na něco, co náleží všem lidem, konkrétně na logickou strukturu lidského rozumu. Myšlenka, že A může být současně non-A nebo že preferovat A před B by současně mohlo znamenat preferovat B před A, je prostě nemyslitelná a absurdní. Nedokážeme porozumět žádnému předlogickému či metalogickému myšlení. Nelze si představit svět bez kauzality a teleologie.
+
+Člověku nezáleží na tom, zda mimo sféru přístupnou lidské mysli leží další sféry, v nichž existuje cosi kategoricky odlišného od lidského myšlení a jednání. Žádné poznání z těchto sfér do lidské mysli neproniká. Je zbytečné se ptát, zda se věci samy o sobě liší od toho, jak se jeví nám, a zda existují světy, o kterých nemáme tušení, a myšlenky, kterým nedokážeme porozumět. Tyto otázky přesahují sféru lidského poznávání. Lidské poznání je podmíněno strukturou lidské mysli.
+
+Pokud si zvolí za svůj předmět lidské jednání, nemůže tím mínit nic jiného než kategorie jednání, které jsou vlastní lidské mysli a jsou její projekcí do vnějšího světa dění a změny. Všechny teorémy praxeologie odkazují pouze k těmto kategoriím jednání a platí pouze v mezích jejich působení. Nepředstírají, že by přinášely jakékoli informace o nepředstavitelných světech a vztazích.
+
+Praxeologie je tedy lidská ve dvojím smyslu. Je lidská, protože si nárokuje pro své teorémy v rámci přesně vymezené sféry předpokladů všeobecnou platnost pro všechna lidská jednání. Je navíc lidská, protože se zaobírá pouze lidským jednáním a neaspiruje na poznání nelidského – ať již podlidského či nadlidského – jednání.

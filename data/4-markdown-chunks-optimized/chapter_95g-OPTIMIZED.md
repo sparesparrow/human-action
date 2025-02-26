@@ -1,0 +1,23 @@
+Množství dostupné nabídky kapitálových statků neovlivňuje míru čistého úroku, ani objem dodatečných úspor. Ani ta nejhojnější nabídka kapitálu nemusí nutně vyvolat snížení míry čistého úroku nebo pokles sklonu k úsporám. Zvýšení kapitálové akumulace a podílu investovaného kapitálu na obyvatele, jež je typickým znakem hospodářsky rozvinutých národů, nutně nesnižuje míru čistého úroku, ani neoslabuje sklon jednotlivců k dodatečným úsporám. Lidé jsou v této souvislosti většinou svedeni porovnáním pouhých tržních úrokových měr stanovených na úvěrovém trhu.
+
+Tyto hrubé míry však nevyjadřují jen výši čistého úroku. Jak bude ukázáno později, obsahují vedle něj i jiné složky, v jejichž důsledku jsou hrubé míry zpravidla vyšší v chudších zemích než v zemích bohatších.
+
+Obvykle se tvrdí, že čím jsou jednotlivci – za jinak stejných okolností – lépe zásobeni pro bezprostřední budoucnost, tím lépe jsou zaopatřeni pro potřeby ve vzdálenější budoucnosti. Proto údajně objem celkových úspor a kapitálové akumulace v rámci hospodářského systému závisí na rozdělení populace do skupin s různou úrovní důchodu. Ve společnosti s přibližně rovným rozdělením důchodu dochází údajně k menšímu spoření než ve společnosti s vyšší nerovností. V těchto postřezích je zrnko pravdy.
+
+Jde však o výroky o psychologických skutečnostech, které jako takové postrádají univerzální platnost a nevyhnutelnost vlastní praxeologickým tvrzením. Navíc předpokládají rovnost věcí, zahrnujících i hodnocení různých jednotlivců, jejich hodnotové soudy při zvažování pro a proti současné spotřeby a jejího odložení. Chování mnoha jednotlivců jistě může být s jejich pomocí popsáno správně, jsou však i lidé jednající jiným způsobem.
+
+Francouzští zemědělci, byť měli většinou nevelké bohatství a příjmy, byli v devatenáctém století obecně známí pro svůj zvyk skrblit, zatímco bohatí příslušníci aristokracie a dědici obrovských jmění nashromážděných v průmyslu a obchodu nebyli o nic méně proslulí pro svoji marnotratnost.
+
+Není tedy možné vytvořit žádnou praxeologickou teorii týkající se vztahu mezi objemem kapitálu dostupným celému národu nebo jednotlivým lidem na jedné straně a objemem úspor nebo kapitálové spotřeby a výší čistého úroku na straně druhé. Alokace vzácných zdrojů na uspokojení potřeb v různých obdobích budoucnosti je určena hodnotovými soudy a nepřímo všemi faktory, které stojí za individualitou jednajícího člověka.
+
+Čistý úrok v měnícím se hospodářství
+
+Dosud jsme se zabývali problémem čistého úroku za určitých předpokladů: obrat statků se uskutečňuje prostřednictvím neutrálních peněz; úspory, kapitálová akumulace a určení úrokových sazeb nejsou omezovány institucionálními překážkami; a celý hospodářský proces se odehrává v rámci rovnoměrně plynoucí ekonomiky. První dva předpoklady opustíme v následující kapitole. Nyní se podíváme na čistý úrok v měnícím se hospodářství.
+
+Ten, kdo se chce zaopatřit pro uspokojení budoucích potřeb, musí tyto potřeby správně předvídat. Pokud budoucnost neodhadne správně, jeho zaopatření se ukáže jako méně uspokojivé nebo zcela zbytečné. Neexistuje nic jako abstraktní spoření, které by zaopatřilo člověka pro všechny druhy uspokojení potřeb a bylo by neutrální ve vztahu ke změnám podmínek nebo hodnocení. Čistý úrok se proto nemůže v měnícím se hospodářství objevit v nezkalené ryzí podobě.
+
+Pouhé plynutí času přináší čistý úrok pouze v podmínkách imaginárního konstruktu rovnoměrně plynoucí ekonomiky; v průběhu času a s postupem výrobního procesu se tak řečeno zvyšuje hodnota komplementárních výrobních faktorů; s ukončením výrobního procesu vytvořil uplynulý čas plný podíl čistého úroku v ceně produktu. V měnící se ekonomice dochází během doby výroby zároveň i k jiným změnám hodnocení. Některé statky jsou hodnoceny výše než dříve, některé méně.
+
+Tyto změny jsou zdrojem, ze kterého pramení podnikatelské zisky a ztráty. Pouze ti podnikatelé, kteří ve svých plánech správně předvídali budoucí stav trhu, jsou schopni dosáhnout při prodeji svých produktů přebytku nad vynaloženými výrobními náklady (zahrnujícími konečný čistý úrok). Podnikatel, jenž ve svém spekulativním porozumění trhu neuspěl, může prodat své výrobky, pokud vůbec, jen za ceny zcela nepokrývající jeho výdaje plus čistý úrok z investovaného kapitálu.
+
+Stejně jako podnikatelský zisk nebo ztráta není ani úrok cenou, ale veličinou, kterou lze určitým výpočtem očistit od ceny produktů úspěšných podnikatelských operací. Hrubý rozdíl mezi cenou, za níž je statek prodán, a náklady vynaloženými na jeho výrobu (bez zahrnutí úroku z investovaného kapitálu), byl v tradici britské klasické ekonomie nazýván ziskem.

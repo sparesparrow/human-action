@@ -1,0 +1,21 @@
+Zvažujeme-li myšlenku umístit vedle těchto dvou systémů či mezi ně nějaký třetí systém lidské spolupráce založené na dělbě práce, je vždy možné začít pouze od konceptu tržní ekonomiky, nikdy od socialismu. Koncept socialismu vycházející z rigidního monismu a centralismu, jenž svěřuje kompetenci volit a jednat výlučně jedné entitě, nedává prostor pro jakýkoli kompromis či ústupek. Tuto konstrukci nelze nijak doplnit ani změnit. Pro tržní ekonomiku to však neplatí. Zde dualismus trhu a moc vládního nátlaku a donucení nabízí nejrůznější varianty. Je skutečně nevyhnutelné či účelné, táží se lidé, aby se vláda nevměšovala do trhu? Nemělo by být úlohou vlády zasahovat a opravovat fungování trhu? Je nutné se smiřovat pouze s alternativou kapitalismu nebo socialismu? Neexistují snad jiné možné systémy společenské organizace, jež nejsou ani komunismem, ani nenarušovanou tržní ekonomikou?
+
+Lidé tak přicházejí s množstvím třetích řešení, vymýšlejí systémy, o kterých tvrdí, že jsou stejně vzdálené socialismu jako kapitalismu. Jejich autoři prohlašují, že tyto systémy jsou nesocialistické, jelikož usilují o zachování soukromého vlastnictví výrobních prostředků, a že nejsou kapitalistické, protože odstraňují „neduhy" tržní ekonomiky.
+
+Pro vědecké posouzení nastíněných problémů, jež musí být nutně neutrální vzhledem ke všem hodnotovým soudům, a proto neodsuzuje žádné znaky kapitalismu jako vadné, zhoubné či nespravedlivé, je takovéto citové doporučení intervencionismu nepodstatné. Úlohou ekonomie je analyzovat a hledat pravdu. Ekonomie neslouží k obhajobě či odmítnutí tvrzení z jakékoli pozice předjímaných postulátů či předsudků. Co se týče intervencionismu, musí si ekonomie položit a zodpovědět pouze jedinou otázku: Jak funguje?
+
+Intervencionismus
+
+Je možné identifikovat dvě verze provádění socialismu. První verze (říkejme jí leninská či ruská) je čistě byrokratická. Veškeré továrny, obchody a podniky jsou formálně zestátněny; stávají se odděleními vlády spravovanými úředníky. Každá jednotka výrobního aparátu je ve stejném vztahu k nadřazené centrální organizaci, jako je místní poštovní úřad k ministrovi pošt.
+
+Druhá verze (můžeme ji nazývat cestou hindenburskou či německou) nominálně zachovává soukromé vlastnictví výrobních prostředků a ponechává zdání běžných trhů, cen, mezd a úrokových měr. Už ale neexistují podnikatelé, ale pouze správci podniků. Tito správci podniků se zdánlivě podílejí na řízení podniků, jež jsou jim svěřeny. Nakupují a prodávají, najímají a propouštějí zaměstnance a odměňují jejich služby, sjednávají půjčky a platí úroky a odpisy. Při všech svých činnostech ale musí bezpodmínečně poslouchat příkazy vydávané nejvyšším vládním úřadem pro správu výroby. Tento úřad říká správcům podniků, co a jak mají vyrábět, za jaké ceny a od koho kupovat, za jaké ceny a komu prodávat. Určuje každému pracovníkovi jeho zaměstnání a pevně stanovuje jeho mzdu. Nařizuje, komu a za jakých podmínek musí kapitalisté svěřit své finanční prostředky.
+
+Směna na trhu je pouhým klamem. Veškeré mzdy, ceny a úrokové míry jsou stanoveny vládou – pouze jako mzdy, ceny a úrokové míry vypadají. Ve skutečnosti se jedná o kvantitativní podmínky ve vládních nařízeních určujících zaměstnání, příjem, spotřebu a životní úroveň každého občana. Vláda řídí veškeré výrobní procesy. Správci podniků jsou podřízeni vládě, a nikoli poptávce spotřebitelů a tržní cenové struktuře. Jedná se o socialismus, který se schovává za kapitalistickou terminologií.
+
+Některé pojmy kapitalistické tržní ekonomiky jsou zachovány, ale znamenají něco zcela jiného než v ekonomice tržní.
+
+Abychom předešli záměně socialismu a intervencionismu, je nutné zdůraznit následující.
+
+Systém intervencionismu či narušeného tržního hospodářství se od německé verze socialismu liší tím, že se stále jedná o tržní hospodářství. Vláda zasahuje do fungování tržní ekonomiky, ale nechce zcela odstranit trh. Usiluje o to, aby se výroba a spotřeba vyvíjely odlišně od jejich podoby na nenarušovaném trhu, a to tak, že fungování trhu doplňuje o nařízení, příkazy a zákazy, nad jejichž dodržováním bdí policie a donucovací aparát státní moci. Jedná se však o izolované případy intervencí.
+
+Vláda nemá za cíl spojit je do integrovaného systému, který by určoval ceny, mzdy a úrokové míry, a převést tak kontrolu nad výrobou a spotřebou do rukou státních orgánů.

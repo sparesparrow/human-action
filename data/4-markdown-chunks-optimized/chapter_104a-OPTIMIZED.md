@@ -1,0 +1,23 @@
+Snahy spojovat hospodářské deprese s vlivy z vesmíru, z nichž nejpozoruhodnější byla teorie slunečních skvrn Williama Stanleyho Jevonse, zcela selhaly. Tržní hospodářství dokázalo poměrně uspokojivě přizpůsobovat výrobu a prodej všem přirozeným podmínkám lidského života a jeho prostředí. Je poměrně arbitrární předpokládat, že existuje pouze jedna skutečnost – jmenovitě domnělé pravidelné výkyvy úrody –, s níž si tržní hospodářství nedokáže poradit.
+
+Proč podnikatelé nedokážou rozpoznat existenci výkyvů v produkci zemědělských plodin a přizpůsobit jim své podnikatelské aktivity tak, aby omezili jejich nepříznivý dopad na své plány?
+
+Vedeny marxistickým heslem „anarchie výroby" vysvětlují současné nepeněžní doktríny hospodářského cyklu cyklické výkyvy pomocí tendence k nevyrovnanému objemu investic v různých průmyslových odvětvích, tendence neoddělitelně spjaté s kapitalismem. Přesto žádná z těchto doktrín založených na nevyrovnaném objemu investic nepopírá skutečnost, že každý podnikatel se snaží těmto chybám vyhnout, protože jinak mu způsobí vážné finanční ztráty. Podstatou těchto aktivit podnikatelů a kapitalistů je právě nepouštět se do projektů, které považují za neziskové.
+
+Pokud člověk předpokládá, že všichni podnikatelé mají sklon v těchto svých snahách selhat, zároveň tím říká, že všichni tito podnikatelé nejsou schopni vidět vzdálenější budoucnost. Jsou příliš hloupí na to, aby se vyhnuli určitým nástrahám, a proto při provádění svých aktivit opakovaně šlapou vedle. Celá společnost tak musí platit za chyby těchto tupých spekulantů, průkopníků a podnikatelů.
+
+Je zřejmé, že lidé chybují a podnikatelé zcela jistě nejsou v tomto ohledu žádnou výjimkou. Nesmíme však zapomenout na to, že na trhu neustále probíhá proces výběru. Existuje na něm nepřetržitá tendence vyřazovat méně zdatné podnikatele, tj. ty, kteří neuspějí ve své snaze správně předvídat budoucí poptávku spotřebitelů.
+
+Pokud jedna skupina podnikatelů vyrábí statky ve větším objemu, než je požadováno spotřebiteli, a následně tak nemůže dané statky prodat za ziskovou cenu a utrpí ztráty, ostatní skupiny, vyrábějící věci, po kterých veřejnost touží, dosáhnou tím vyšších zisků. Některá podnikatelská odvětví upadají, zatímco jiná vzkvétají. Nemůže vzniknout žádná všeobecná hospodářská deprese.
+
+Zastánci doktrín, kterými se zabýváme, však argumentují jinak. Předpokládají, že nejen třída podnikatelů, ale všichni lidé jsou stiženi slepotou. Protože podnikatelská třída není uzavřeným společenským systémem s uzavřeným vstupem pro ostatní, každý podnikavý člověk je tak ve skutečnosti schopen ohrozit ty, kdo do této třídy již patří. Historie je plná nesčetných příkladů nově příchozích lidí zcela bez prostředků, kteří skvěle uspěli při výrobě statků, jež byly podle jejich vlastního názoru vhodné k uspokojení nejnaléhavějších potřeb spotřebitelů.
+
+Z tohoto důvodu tvrzení, že se všichni podnikatelé pravidelně stávají obětí určitých omylů, mlčky předpokládá, že všichni prakticky jednající lidé nemají rozum. Předpokládá, že nikdo, kdo podniká, ani nikdo, kdo o podnikání uvažuje, pokud dostane příležitost díky selhání stávajících podnikatelů, není dostatečně bystrý na to, aby porozuměl skutečnému stavu trhu.
+
+Oproti tomu teoretici, kteří neprovozují nic jiného než pouhé filozofování o jednání ostatních, považují sebe sama za dost chytré k tomu, aby dokázali odhalit chyby svádějící na scestí ty, kdo podnikají. Tito vševědoucí profesoři nejsou nikdy oklamáni chybami zatemňujícími úsudky všech ostatních. Vědí přesně, co je špatně se soukromým podnikáním. Jejich požadavky na získání diktátorských pravomocí jsou tak zcela oprávněné.
+
+Nejvíce ohromující v souvislosti s těmito doktrínami je jejich závěr, že podnikatelé ve své malomyslnosti neústupně trvají na svých mylných postupech, přestože tito učenci již dávno odhalili jejich nesmyslnost. I přesto, že jsou tyto postupy vyvráceny v každé učebnici, podnikatelé je neustále opakují. Zjevně neexistuje jiný způsob, jak se vyhnout opakování hospodářských depresí než – v souladu s Platónovými utopickými představami – svěřit nejvyšší moc filozofům.
+
+Prozkoumejme stručně dvě nejrozšířenější verze těchto doktrín založených na nepoměru investic.
+
+První z nich je doktrína trvanlivých statků. Tyto statky poskytují své služby po určité období. Dokud trvá jejich životnost, jejich majitel je nechce nahradit jinými. Proto jakmile lidé provedli své nákupy, poptávka po nových výrobcích klesá. Podnikání se nedaří. Oživení je možné až po určité době, když jsou staré domy, automobily, ledničky a podobné statky opotřebovány a jejich majitelé musí nakoupit nové.

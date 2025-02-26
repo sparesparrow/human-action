@@ -1,0 +1,5 @@
+Ke každému ztrátovému projektu, který je uskutečněn s vládní pomocí, existuje odpovídající projekt, od jehož uskutečnění se upustilo jen kvůli zásahu vlády. Přitom by tento neuskutečněný projekt býval ziskový, tj. byl by využil omezené výrobní prostředky v souladu s nejnaléhavějšími potřebami spotřebitelů. Z pohledu spotřebitelů je využití těchto výrobních prostředků pro uskutečnění nevýnosného projektu plýtváním.
+
+Připravuje je o uspokojení, kterému dávají přednost před tím, co jim může poskytnout vládou sponzorovaný projekt.
+
+Důvěřivé masy, které si nevidí na špičku nosu, jsou uneseny báječnými úspěchy svých vládců. Nejsou schopny vidět, že směnku musí splatit ony samy a následně se budou muset zříct mnoha uspokojení, kterých by si spokojeně užívaly, kdyby byla vláda utratila za neziskové projekty méně. Nemají tu představivost, aby uvažovaly o možnostech, které vláda nedovolila uskutečnit.

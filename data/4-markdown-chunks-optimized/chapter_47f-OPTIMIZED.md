@@ -1,0 +1,11 @@
+Ve svém postavení obchodníka je člověk sluhou spotřebitelů, který je nucen vyhovět jejich přáním. Nemůže se oddávat svým vlastním nápadům a představám. Ale nápady a představy jeho spotřebitelů, jsou-li tito spotřebitelé připraveni za ně zaplatit, jsou pro něj nejvyšším zákonem. Své chování musí přizpůsobit poptávce ze strany spotřebitelů. Jestliže spotřebitelé, bez smyslu pro krásu, dávají přednost ošklivým a vulgárním věcem, musí je proti svému přesvědčení takovými věcmi zásobovat.
+
+Pokud spotřebitelé nechtějí platit za domácí výrobky vyšší cenu než za výrobky ze zahraničí, musí, pokud jsou levnější, nakupovat zahraniční výrobky. Zaměstnavatel nemůže poskytovat výhody na úkor spotřebitelů. Nemůže platit vyšší mzdové sazby, než jaké určil trh, pokud kupující nejsou ochotni platit úměrně vyšší ceny za statky vyrobené v podnicích, v nichž jsou vyšší mzdové sazby než v jiných podnicích.
+
+Jinak je tomu u člověka v postavení toho, kdo utrácí svou výplatu. Má plnou svobodu dělat to, co má nejraději. Může rozdávat almužny. Může se, motivován různými teoriemi a předsudky, stavět proti zboží určitého původu nebo zdroje a dávat před – technologicky – lepšími nebo levnějšími výrobky přednost horším nebo dražším.
+
+Při nakupování lidé zpravidla prodávajícímu nedávají dary. Přesto se to však stává. Někdy je těžké rozpoznat hranici mezi kupováním potřebného zboží a služeb a dáváním almužen. Ten, kdo nakupuje na dobročinném výprodeji, obvykle spojuje nákup s darem na charitativní účel. Ten, kdo dá šesťák slepému pouličnímu muzikantovi, určitě neplatí za pochybnou produkci; jednoduše dává milodar.
+
+Člověk jedná v jednotě. Podnikatel, který vlastní celou firmu, možná někdy stírá hranice mezi podnikáním a charitou. Pokud chce utěšit nešťastného přítele, ohleduplné city ho mohou vést k tomu, že se uchýlí k postupu, který tomu druhému ušetří trapný pocit, že žije z milodarů. Dá příteli práci ve své kanceláři, i když jeho pomoc nepotřebuje nebo by mohl přijmout rovnocenného pomocníka za nižší plat. Potom se poskytovaný plat formálně jeví jako součást obchodních výdajů. Ve skutečnosti je to výdaj zlomku obchodníkových příjmů.
+
+Podíváme-li se na to správně, jedná se o spotřebu, a nikoli vydání určené ke zvýšení zisku firmy.

@@ -1,0 +1,23 @@
+Mnoho současných univerzit se nestalo semeništi socialismu kvůli situaci vládnoucí na katedrách ekonomie, ale kvůli poznatkům předávaným studentům na ostatních katedrách. Na katedrách ekonomie lze stále najít alespoň nějaké ekonomy a i ostatním učitelům mohou být známy některé výhrady vznášené proti uskutečnitelnosti socialismu. Situace je odlišná v případě mnoha učitelů filozofie, historie, literatury, sociologie a politických věd. Tito lidé interpretují historii na základě vulgarizované verze dialektického materialismu. Dokonce i ti, kdo vášnivě útočí na marxismus kvůli jeho materialismu a ateismu, jsou pod vlivem myšlenek obsažených v Komunistickém manifestu a programu Komunistické internacionály.
+
+Hospodářské deprese, masovou nezaměstnanost, inflaci, válku a chudobu vysvětlují jako zla, jež kapitalismus nutně obsahuje, a naznačují, že tyto jevy mohou vymizet, pouze když se zbavíme i kapitalismu.
+
+Obecné vzdělávání a ekonomie
+
+V zemích, kde nedochází k bojům mezi různými jazykovými skupinami, může veřejné vzdělávání fungovat, je-li omezeno na čtení, psaní a počítání. Chytrým dětem je možné přidat také základní poznatky geometrie, přírodních věd a platných zákonů země. Jakmile ale někdo chce postoupit ještě dále, objevují se vážné problémy. Výuka na základní úrovni se nutně mění v indoktrinaci. Přestává být totiž možné adolescentům představit všechny stránky problému a nechat je vybrat si mezi konkurujícími si názory.
+
+Stejně nemožné je najít učitele, kteří by studentům předali názory, s nimiž sami nesouhlasí, takovým způsobem, jenž by uspokojil zastánce těchto názorů. Strana, která má školy pod kontrolou, má možnost propagovat vlastní názory a znevažovat názory ostatních stran.
+
+Liberálové devatenáctého století vyřešili tento problém v oblasti náboženského vyučování pomocí oddělení státu a církve. V liberálních zemích není náboženství ve státních školách vyučováno. Rodiče ale mají možnost poslat své děti do církevních škol podporovaných náboženskými komunitami.
+
+Tento problém se ale neomezuje jen na výuku náboženských a některých dalších teorií přírodních věd, jež jsou v rozporu s Biblí. Týká se dokonce výuky historie a ekonomie.
+
+Veřejnost si tuto skutečnost uvědomuje pouze s ohledem na mezinárodní souvislosti výuky historie. Dnes se někdy hovoří o nutnosti osvobodit výuku historie od vlivu nacionalismu a šovinismu. Jen málokdo si ale uvědomí, že problém nestrannosti a objektivity se týká stejně pohledu na domácí historii. Společenská filozofie učitele či autora učebnice dává podobu výkladu. Čím více je kvůli srozumitelnosti pro nevyspělý intelekt dětí a adolescentů nutné výklad zjednodušit a zestručnit, tím horší dopady můžeme sledovat.
+
+Marxisté a intervencionisté se domnívají, že výuka historie ve školách je znečištěna schvalováním myšlenek klasického liberalismu. Chtějí nahradit tuto „buržoazní" interpretaci historie pohledem svým. Podle marxistů byly anglická revoluce roku 1688, americká revoluce, Velká francouzská revoluce a revoluční hnutí na evropském kontinentu v devatenáctém století buržoazními hnutími. Vyústily v porážku feudalismu a nastolení buržoazního řádu. Nedošlo k osvobození mas proletariátu; ty pouze přešly z třídní nadvlády aristokracie do třídní nadvlády kapitalistických vykořisťovatelů. Proto je prý nutné osvobodit pracujícího člověka a zrušit kapitalistický způsob výroby. Intervencionisté tvrdí, že toho je nutné dosáhnout pomocí Socialpolitik nebo New Dealu. Ortodoxní marxisté na druhou stranu tvrdí, že pouze násilné svržení buržoazního systému vlády může skutečně proletariát vysvobodit.
+
+Člověk se nemůže zabývat žádnou historickou událostí, aniž by se nemusel jasně vyjádřit k těmto kontroverzním problémům a ekonomickým teoriím, jež za nimi nalézáme. Učebnice a učitelé nemohou zachovat nestrannost ohledně tvrzení, že „nedokončenou revoluci" je třeba dovršit revolucí komunistickou. Každé tvrzení o událostech posledních tří set let si vyžaduje zaujeti jasného stanoviska k těmto sporům. Člověk se nemůže vyhnout volbě mezi filozofií Prohlášení nezávislosti a Gettysburského projevu nebo Komunistického manifestu.
+
+Máme zde jasný problém a nic nezískáme, když strčíme hlavu do písku.
+
+Na střední škole a dokonce i na vysoké škole představuje předávání historických a ekonomických znalostí v podstatě indoktrinaci. Větší část studentů není zcela jistě dostatečně vyspělá, aby si mohla vytvořit vlastní názor na základě kritického posouzení učitelova vylíčení dané situace.

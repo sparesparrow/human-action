@@ -1,0 +1,21 @@
+Nesmírné popularitě se dnes restriktivní opatření těší proto, že lidé si neuvědomují jejich důsledky. Při posuzování dopadů zkrácení pracovního týdne pomocí vládního nařízení si veřejnost není vědoma skutečnosti, že celkový výstup musí nutně poklesnout a že je velmi pravděpodobné, že životní úroveň příjemců mezd poklesne také.
+
+Dnešní „neortodoxní" přístup bere jako dogma skutečnost, že „pracovní" legislativa přináší pracovníkům „sociální výhody" a že náklady těchto opatření dopadnou zcela na zaměstnavatele. Kdokoli toto dogma zpochybňuje, je označen za pochlebovače a apologetu nespravedlivých nároků bezcitných vykořisťovatelů a nemilosrdně pronásledován. Takový člověk prý chce uvrhnout příjemce mezd do chudoby a období dlouhého pracovního týdne v raných fázích moderního industrialismu.
+
+Proti všem těmto pomluvám je nutné neustále zdůrazňovat, že za tvorbu bohatství a blahobytu je odpovědná výroba, a nikoli omezení. A že na situaci, kdy průměrný příjemce mezd v kapitalistických zemích spotřebovává více statků a může si užívat více volného času než jeho předchůdci a kdy uživí svou ženu a děti a nemusí je posílat do práce, nemají zásluhu vlády ani odbory. Jedná se totiž o výsledek skutečnosti, že podnikatelé usilující o dosažení zisku akumulovali a investovali více kapitálu, a tím zvýšili mezní produktivitu práce.
+
+Zasahování do struktury trhu znamená, že úřad stanovuje ceny komodit a služeb a úrokových měr na jiné výši, než kterou by určil neomezovaný trh. Sám nařizuje nebo skrytě či otevřeně zmocňuje určité skupiny lidí, aby nařídily ceny či sazby, které mají být považovány za maximální či minimální ceny. K jejich vynucení pak využívá nátlaku a donucení.
+
+Vláda se k takovým nařízením uchyluje z toho důvodu, že chce pomoci buď kupujícím (v případě maximálních cen), nebo prodávajícím (v případě cen minimálních). Maximální cena má za úkol kupujícímu zajistit to, co chce, za nižší cenu, než je cena na neomezovaném trhu. Minimální cena má na druhou stranu zajistit, aby prodávající mohl své zboží či služby prodat za cenu vyšší. Které skupině nakonec bude vládou pomoženo, závisí na rozložení politických sil.
+
+Vlády se občas uchylují k využití maximálních cen v případě nejrůznějších komodit, občas se rozhodnou pro ceny minimální. Někdy nařizují maximální mzdové sazby, jindy minimální mzdové sazby. Pouze v případě úrokových měr se nikdy nerozhodly pro stanovení minimálních sazeb. Vždy se totiž dívaly s podezřením na úspory, investice a půjčování peněz.
+
+Dosáhne-li zasahování do komoditních cen, mzdových a úrokových sazeb úrovně, kdy zahrnuje veškeré ceny, mzdy a úrokové míry, můžeme hovořit o úplném nahrazení tržního hospodářství socialismem (v jeho německé verzi). V takové situaci v podstatě zcela mizí trhy, meziosobní směna, soukromé vlastnictví výrobních prostředků, podnikatelství a soukromá iniciativa. Žádný jedinec již nemá možnost ovlivňovat dle vlastního úsudku výrobní proces.
+
+Každý musí poslouchat příkazy ústředí, kde se o výrobě rozhoduje. To, čemu se v těchto nařízeních říká ceny, mzdy a úrokové míry, nejsou ceny, mzdy ani úrokové míry v katalaktickém smyslu těchto slov. Jedná se o pouhé kvantitativní výměry stanovené členem nadřízeného orgánu bez vazby na tržní proces.
+
+Mnozí obhájci vládních zásahů do cen neměli a nemají v této otázce jasno. Neuvědomují si fundamentální rozdíl mezi tržní ekonomikou a netržní společností. Tato nejasnost jejich myšlení se odráží v jimi používaném nejednoznačném a vágním jazyce a zmatečné terminologii.
+
+Existovali a existují zastánci regulace cen, kteří tvrdí, že chtějí zachovat tržní hospodářství. Otevřeně se vyslovují v tom smyslu, že vlády stanovující ceny, mzdy a úrokové míry mohou pomocí vyhlášek dosáhnout svých cílů, aniž by zcela odstranily trh a soukromé vlastnictví výrobních prostředků. Dokonce tvrdí, že regulace cen je nejlepším či jediným způsobem k zachování systému soukromého podnikání a zabránění nastolení socialismu.
+
+Velmi je pobuřuje, když někdo pochybuje o správnosti jejich doktríny a ukazuje, že nemají-li se věci z pohledu vlády a intervencionistických doktrinářů zhoršit, musí regulace cen vyústit v socialismus. Na svou obranu tvrdí, že nejsou ani socialisty, ani komunisty a že jejich cílem je ekonomická svoboda, a nikoli totalitarismus.

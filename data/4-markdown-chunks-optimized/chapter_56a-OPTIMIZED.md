@@ -1,0 +1,21 @@
+Plodem tohoto smýšlení je zvyk používat pro podnikání terminologii politické vlády a vojenských akcí. Úspěšní podnikatelé jsou nazýváni králi nebo kapitány, jejich podnik impériem nebo královstvím. Pokud by tento styl byl pouze neškodnou metaforou, nebylo by třeba ho kritizovat. Je to však zdroj vážných chyb, které hrají neblahou roli v současných teoriích.
+
+Vláda je nástrojem nátlaku a donucení. Má moc, aby si poslušnost vynutil silou. Politický vládce, ať je to autokrat nebo lid zastoupený svými zmocněnci, disponuje silou k potlačení rebelií, dokud jeho ideologická moc trvá.
+
+Jiného druhu je postavení, které v tržním hospodářství zaujímají podnikatelé a kapitalisté. „Čokoládový král" nemá žádnou moc nad spotřebiteli, svými zákazníky. Poskytuje jim čokoládu v co nejvyšší kvalitě a za co nejnižší ceny. Spotřebitelům nevládne, on jim slouží. Spotřebitelé k němu nejsou vázáni. Mají naprostou svobodu přestat chodit do jeho obchodů. Pokud spotřebitelé dají přednost utracení svých peněz jinde, přijde o své „království". „Nevládne" ani svým dělníkům.
+
+Zjednává si jejich služby tak, že jim platí přesně takovou částku, jakou mu jsou spotřebitelé ochotni navrátit, když si jeho výrobek kupují. Ještě v menší míře mají kapitalisté a podnikatelé politický vliv. Civilizované státy v Evropě a v Americe byly dlouhou dobu řízeny vládami, které nijak podstatně nebránily chodu tržního hospodářství. Dnes v těchto zemích mají většinu strany, které jsou ke kapitalismu nepřátelské a věří, že každé zlo, které postihne kapitalisty a podnikatele, je mimořádně prospěšné pro lid.
+
+V nenarušovaném tržním hospodářství nemohou kapitalisté a podnikatelé očekávat výhody z toho, že podplatí úředníky a politiky. Na druhé straně úředníci a politici nejsou v situaci, že by museli podnikatele vydírat a mámit z nich úplatky. V intervencionistické zemi se silné zájmové skupiny snaží zajistit svým členům výhody na úkor slabších skupin a jednotlivců. Pak může obchodník považovat za výhodné chránit se proti diskriminačnímu jednání ze strany výkonných úředníků a zákonodárného sboru pomocí úplatků.
+
+Jakmile si na takové metody zvyknou, mohou se je snažit využít, aby si zajistili výhody. Skutečnost, že podnikatelé uplácejí politiky a úředníky a že jsou takovými lidmi vydíráni, není známkou toho, že by byli nadřazeni a vládli zemi. Jsou to ovládaní – nikoli vládci –, kdo uplácí a platí desátky.
+
+Většině podnikatelů brání v tom, aby se neuchylovali k uplácení, jejich mravní přesvědčení nebo strach. Troufají si udržovat systém svobodného podnikání a bránit se proti diskriminaci legitimními demokratickými metodami. Vytvářejí obchodní sdružení a snaží se ovlivnit veřejné mínění. Výsledky takových snah jsou dosud vcelku nicotné, jak o tom svědčí triumfální prosazování protikapitalistických politik. V nejlepším případě byly schopny dosáhnout toho, že na chvíli pozdržely některá mimořádně nepřijatelná opatření.
+
+Demagogové překrucují tento stav věcí tím nejhloupějším způsobem. Říkají nám, že tato sdružení bankéřů a výrobců jsou skutečnými vládci svých zemí a že ovládají celý aparát toho, co nazývají „plutodemokratickou" vládou. Pouhý výčet zákonů, které byly schváleny za poslední desetiletí zákonodárným sborem kterékoli země, stačí k tomu, aby takové legendy vyvrátil.
+
+V přírodě převládají nesmiřitelné střety zájmů. Prostředky živobytí jsou omezené. Rozmnožování má sklon předbíhat zdroje živobytí. Pouze nejschopnější rostliny a zvířata přežijí. Antagonismus mezi zvířetem, které umírá hlady, a jiným, které mu bere jídlo, je nesmiřitelný.
+
+Spolupráce ve společnosti v podmínkách dělby práce takové antagonismy odstraňuje. Nepřátelství nahrazuje partnerstvím a vzájemností. Příslušníky společnosti spojuje ve společném jednání.
+
+Termín konkurence, který se používá pro podmínky života zvířat, označuje rivalitu mezi zvířaty, která se projevuje při hledání potravy. Tento jev můžeme nazvat biologickou soutěží. Biologická soutěž se nesmí zaměňovat se společenskou soutěží, tj. se snahou jednotlivce získat co nejvýhodnější postavení v systému spolupráce ve společnosti. Jelikož budou vždy existovat postavení, která lidé oceňují výše než jiná, budou o ně lidé stále usilovat a snažit se předstihnout své konkurenty. Společenská soutěž je proto přítomna v každém představitelném uspořádání organizace společnosti.

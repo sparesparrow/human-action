@@ -1,0 +1,23 @@
+Nyní předpokládejme, že zvýšení množství úvěrových nebo neplnohodnotných peněz nebo úvěrová expanze vytvoří dodatečné peníze nutné pro zvýšení objemu hotovosti držené jednotlivci. Potom nastanou nezávisle na sobě tři procesy: tendence k poklesu cen statků způsobená zvýšením objemu dostupných kapitálových statků a následné rozšíření výrobních aktivit, tendence k poklesu cen způsobená růstem poptávky po penězích za účelem zvýšení držby hotovosti a konečně tendence k růstu cen vyvolaná zvýšením nabídky peněz.
+
+Tyto tři procesy probíhají do jisté míry ve stejném čase. Každý z nich způsobuje specifické důsledky, které mohou být podle okolností zesíleny nebo zeslabeny opačnými důsledky, pocházejícími z ostatních dvou procesů. Hlavní věcí však je to, že kapitálové statky vzniklé na základě dodatečného spoření nejsou zničeny souběžnými měnovými změnami – změnami v poptávce a nabídce peněz.
+
+Kdykoli jednotlivec uspoří určitou sumu peněz místo aby ji utratil za spotřebu, spořící proces se dokonale shoduje s procesem kapitálové akumulace a investování. Nezáleží na tom, zda spořící jednotlivec zvýší nebo nezvýší objem držené hotovosti. Čin spoření má vždy svůj protějšek v nabídce vyrobených a nespotřebovaných statků, statků dostupných pro budoucí výrobní činnosti. Úspory jsou vždy ztělesňovány konkrétními kapitálovými statky.
+
+Představa, že nahromaděné peníze jsou neproduktivní součástí celkového bohatství a způsobují snížení té části bohatství, která je věnovaná výrobě, je pravdivá jen v tom smyslu, že zvýšení kupní síly peněžní jednotky vede k využití dodatečných výrobních faktorů na těžbu zlata a přesun zlata z průmyslového do peněžního užití. To je ovšem způsobeno snahou o zvýšení držby hotovosti, nikoli spořením. Spoření je v tržním hospodářství možné pouze prostřednictvím vzdání se spotřebování části příjmu.
+
+Užití úspor jednotlivými spořícími lidmi v podobě hromadění peněz ovlivňuje určení kupní síly peněz, a může tedy snížit nominální objem kapitálu, tj. jeho peněžního vyjádření; nevede však k tomu, že by nějaká část naakumulovaného kapitálu zůstala neproduktivní.
+
+Již jsme si ukázali, že časová preference je kategorií přítomnou v každém lidském jednání. Časová preference se projevuje v jevu čistého úroku, tj. diskontování budoucích statků vůči statkům současným.
+
+Úrok není pouhým úrokem z kapitálu. Úrok není ani zvláštním důchodem pocházejícím z využití kapitálových statků. Přiřazení tří druhů důchodů – mezd, zisku a renty – třem výrobním faktorům – práci, kapitálu a půdě –, jak učili klasičtí ekonomové, je neudržitelné. Renta není zvláštním příjmem z půdy. Renta je obecným katalaktickým jevem; v oblasti práce a kapitálových statků hraje stejnou roli jako v případě půdy. Navíc neexistuje žádný homogenní zdroj důchodu, který by mohl být nazván ziskem v tom smyslu, v jakém ho používali klasičtí ekonomové.
+
+Zisk a úrok nejsou typickými znaky kapitálu o nic více než jsou typickými znaky půdy.
+
+Ceny spotřebních statků jsou souhrou sil působících na trhu rozděleny různým komplementárním faktorům spolupracujícím při jejich výrobě. Protože spotřební statky jsou současné statky, zatímco výrobní faktory jsou prostředky výroby budoucích statků, a protože jsou současné statky hodnoceny výše, než budoucí statky stejného druhu a množství, rozdělovaná částka nedosahuje – ani v konceptu rovnoměrně plynoucí ekonomiky – současné ceny daných spotřebních statků. Rozdíl je představován čistým úrokem.
+
+Není specificky spojen se žádnou ze tří skupin výrobních faktorů, které rozlišovali klasičtí ekonomové. Podnikatelský zisk a ztráta jsou vyvolány změnami tržních dat a následnými změnami cen, které se objevují v průběhu doby výroby.
+
+Naivní uvažování nevidí žádný problém v současném příjmu pocházejícím z lovu, rybaření, chovu dobytka, lesnictví a zemědělství. Příroda vytváří zvěř, ryby a dobytek a stojí za jejich růstem, za tím, že krávy dávají mléko a slepice snáší vejce, stromy tvoří dřevo a ovoce a ze semen rostou klasy. Ten, kdo má nárok přivlastnit si toto obnovující se bohatství, ten se těší ze stálého příjmu. Podobně jako proud, jenž neustále přináší novou vodu, tento „proud důchodu" neustále plyne a přináší znovu a znovu nové bohatství. Celý proces vypadá jako přírodní jev.
+
+Avšak pro ekonoma představuje otázku určení cen půdy, dobytka a ostatních věcí. Pokud by budoucí statky nebyly prodávány a kupovány za diskontovanou cenu oproti současným statkům, kupující půdy by musel zaplatit cenu rovnou součtu všech budoucích čistých příjmů, jež by nenechala žádný prostor pro běžný opakující se příjem.

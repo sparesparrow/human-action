@@ -1,0 +1,23 @@
+Existuje však jiná důležitá otázka, již je třeba si položit. Předpokládejme, že existuje mezinárodní banka vydávající fiduciární prostředky své klientele tvořené všemi obyvateli světa. Není podstatné, zda jsou tyto peněžní substituty drženy přímo jednotlivci, nebo zda jsou drženy různými národními centrálními bankami jako rezervy, proti kterým jsou vydávány národní peněžní substituty. Rozhodující je, že existuje jednotná světová měna. Národní bankovky a šekové peníze jsou směnitelné za peněžní substituty vydané mezinárodní bankou.
+
+Nutnost držet národní měnu v paritě s mezinárodní měnou omezuje schopnost národního systému centrálního bankovnictví provádět úvěrovou expanzi. Světová banka je ovšem omezena pouze těmi faktory, které omezují úvěrovou expanzi ze strany jediné banky v izolované ekonomice nebo na celém světě.
+
+Stejně tak můžeme předpokládat, že mezinárodní banka není bankou vydávající peněžní substituty, jejichž částí jsou i fiduciární prostředky, ale světová instituce vydávající mezinárodní fiduciární peníze. Zlato bylo zcela zbaveno svého peněžního užití. Jediné peníze, které jsou užívány, jsou peníze vytvořené touto mezinárodní institucí. Ta může libovolně zvyšovat množství peněz, pokud nezajde tak daleko, aby způsobila závěrečnou fázi boomu a zhroucení měny.
+
+Tím je uskutečněn ideál keynesovců. Máme fungující instituci, která může použít expanzionistický tlak na světový obchod.
+
+Zastánci těchto plánů ovšem zapomněli na zásadní problém, a to na rozdělení dodatečných množství úvěrových nebo papírových peněz.
+
+Předpokládejme, že mezinárodní instituce zvýší objem emise o určitou sumu, která jde celá do jedné země, Ruritánie. Konečným výsledkem tohoto inflačního jednání bude růst cen statků a služeb na celém světě. Situace lidí v různých zemích však může být v průběhu inflačního procesu ovlivněna různým způsobem. Obyvatelé Ruritánie jsou první skupinou obdarovanou dodatečnou manou z nebes. Mají ve svých kapsách více peněz, zatímco zbytek světa svůj podíl nových peněz ještě nedostal. Mohou si dovolit kupovat za vyšší ceny, ostatní nikoli. Obyvatelé Ruritánie proto odeberou ze světového trhu více statků než předtím. Ostatní jsou nuceni omezit svoji spotřebu, protože nemohou konkurovat vyšším cenám, jež jsou ochotni zaplatit obyvatelé Ruritánie.
+
+Zatímco proces cenového přizpůsobení změněnému peněžnímu vztahu pokračuje, obyvatelé Ruritánie mají oproti ostatním výhodu. Když celý proces skončí, obyvatelé Ruritánie budou obohaceni na úkor ostatních lidí.
+
+Hlavním problémem těchto expanzionistických pokusů je podíl na dodatečných penězích, který má být přidělen různým národům. Každý národ bude zastávat takový způsob rozdělení, který mu dá největší možný podíl. Průmyslově nerozvinuté země Východu budou například pravděpodobně doporučovat rovný podíl peněz na obyvatele, neboť tento způsob je zjevně zvýhodní na úkor průmyslově rozvinutých národů. Ať už bude způsob rozdělení jakýkoli, všechny národy budou nespokojeny a budou si stěžovat na nerovné zacházení. Budou následovat vážné spory, které celý plán zničí.
+
+Nemá smysl namítat, že tato otázka nehrála důležitou roli při jednáních předcházejících založení Mezinárodního měnového fondu a že bylo poměrně snadné dosáhnout dohody týkající se užití jeho zdrojů. Brettonwoodská konference se konala za velmi výjimečných okolností. Většina zúčastněných států byla v té době zcela závislá na laskavosti Spojených států.
+
+Kdyby Spojené státy přestaly bojovat za jejich svobodu a poskytovat jim materiální pomoc prostřednictvím půjček a pronájmů, byly by tyto země odsouzeny k záhubě. Vláda Spojených států na druhou stranu považovala měnovou dohodu za způsob, jak skrytě pokračovat v půjčkách a pronájmech i po ukončení válečného stavu.
+
+Spojené státy byly ochotny dávat a ostatní účastníci – zvláště evropské země, mnohé z nich v té době stále okupované německou armádou, a asijské země – byli ochotni přijmout, cokoli jim bylo nabídnuto. Jakmile tedy nahradíme falešný postoj Spojených států k finančním a obchodním otázkám realističtějším způsobem uvažování, všechny související problémy jsou zřetelnější.
+
+Mezinárodní měnový fond nedosáhl toho, co jeho příznivci očekávali. Na výročních zasedáních fondu se vždy velmi diskutuje a občas jsou předloženy věcné připomínky a výtky týkající se peněžních a úvěrových politik vlád a centrálních bank. Fond sám se angažuje v půjčkách různým vládám a centrálním bankám. Za svoji hlavní úlohu považuje pomoci vládám udržet nerealistický směnný kurz jejich národních měn v podmínkách úvěrové expanze. Metody, ke kterým se přitom uchyluje, se zásadně neliší od těch běžně užívaných. Peněžní záležitosti světa se dál odehrávají, jako by žádná Brettonwoodská dohoda a žádný Mezinárodní měnový fond neexistovaly.

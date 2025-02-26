@@ -1,0 +1,23 @@
+Pokud dále předpokládáme, že toto hospodářství je statickým hospodářstvím a že se všechny termínové obchody soustřeďují v jedné společnosti, je zřejmé, že se celková velikost ztráty této společnosti přesně rovná celkové velikosti jejích zisků. Abychom zavedli socialistický stav bez zisků a ztrát, stav nerušené jistoty a stability, stačí nám pouze tuto společnost zestátnit. Tak je tomu ale pouze proto, že naše definice statického hospodářství zahrnuje rovnost celkové velikosti ztrát a celkové velikosti zisků.
+
+V měnícím se hospodářství se musí objevit buď přebytek zisků, nebo ztrát.
+
+Bylo by plýtváním času hovořit tu déle o překombinovaných představách, které neposouvají analýzu hospodářských problémů dále. Jediným důvodem pro to, že se o nich zmiňujeme, je skutečnost, že odrážejí názory, které jsou základem některých kritik vznášených vůči hospodářskému systému kapitalismu a některých falešných plánů, jež byly navrženy pro socialistické řízení podniků. Skutečně je pravda, že socialistický program je logicky slučitelný s neuskutečnitelnými imaginárními konstrukty rovnoměrně plynoucí ekonomiky a statického hospodářství.
+
+Záliba, s níž se matematičtí ekonomové téměř výhradně zabývají podmínkami těchto imaginárních konstruktů a stavem „rovnováhy", který je v nich obsažen, způsobila, že lidé zapomínají na to, že tyto konstrukty jsou nereálné, samy si odporující, fiktivní pomůcky myšlení a nic jiného. Určitě to nejsou vhodné modely pro zobrazení živoucí organizace jednajících lidí.
+
+Tržní hospodářství je společenský systém dělby práce za soukromého vlastnictví výrobních prostředků. Každý jedná sám za sebe; jednání každého člověka však směřuje stejně k uspokojení potřeb jiných lidí jako k uspokojení jeho vlastních potřeb. Každý svým jednáním slouží spoluobčanům. Na druhé straně každému jeho spoluobčané slouží. Každý je sám o sobě prostředkem i cílem, konečným cílem pro sebe a prostředkem pro ostatní v jejich snaze dosáhnout vlastních cílů.
+
+Tento systém je řízen trhem. Trh směruje činnost jednotlivců do těch oblastí, v nichž nejlépe slouží potřebám svých bližních. V působení trhu není ani nátlak, ani donucení. Stát, společenský nástroj nátlaku a donucení, se nevměšuje do trhu a do činností občanů, jež jsou řízeny trhem. Svou moc používá pouze k tomu, aby zabránil jednání, které by bylo zhoubné pro zachování a hladký chod tržního hospodářství. Ochraňuje život, zdraví a majetek jednotlivců proti násilným a podvodným útokům ze strany domácích zločinců a vnějších nepřátel.
+
+Stát tak vytváří a udržuje prostředí, v němž tržní hospodářství může bezpečně působit. Marxistický slogan „anarchická výroba" přiléhavě charakterizuje tuto společenskou strukturu jako hospodářský systém, který není řízen diktátorem, výrobním carem, který každému přiřazuje úkol a nutí ho, aby tento rozkaz poslouchal. Každý člověk je svobodný; nikdo nepodléhá žádnému despotovi. Jednotlivec se sám od sebe včleňuje do systému spolupráce.
+
+Trh ho řídí a odhaluje mu, jakým způsobem může nejlépe podpořit vlastní blahobyt, stejně jako blahobyt ostatních lidí. Trh je všemu nadřazený. Jenom samotný trh uvádí celý společenský systém v řád a dodává mu smysl a význam.
+
+Trh není místo, věc, ani kolektivní entita. Trh je proces, který je uváděn do chodu jednáním různých jednotlivců, jež spolupracují v rámci dělby práce. Síly, které určují – stále se měnící – stav trhu, jsou hodnotové soudy těchto jednotlivců a jejich jednání, jež je řízeno těmito hodnotovými soudy. Stavem trhu je v každé chvíli cenová struktura, tj. souhrn směnných poměrů stanovených vzájemným působením těch, kteří chtějí koupit, a těch, kteří chtějí prodat. Na trhu není nic nelidského nebo mystického. Tržní proces je výhradně výslednicí lidského jednání.
+
+Každý tržní jev může být vystopován zpět k určitým volbám členů tržní společnosti.
+
+Tržní proces je přizpůsobování individuálního jednání různých členů tržní společnosti požadavkům vzájemné spolupráce. Tržní ceny říkají výrobcům, co mají vyrábět, jak to mají vyrábět a v jaké kvalitě. Trh je ohniskem, k němuž se sbíhají činnosti jednotlivců. Je to také střed, z něhož se činnosti jednotlivců rozbíhají.
+
+Tržní hospodářství se musí přísně odlišovat od druhého myslitelného – ačkoli nerealizovatelného – systému společenské spolupráce v rámci dělby práce, systému společného neboli státního vlastnictví výrobních prostředků. Tento druhý systém se všeobecně nazývá socialismem, komunismem, plánovaným hospodářstvím nebo státním kapitalismem. Tržní hospodářství neboli kapitalismus, jak se běžně nazývá, a socialistické hospodářství se navzájem vylučují.

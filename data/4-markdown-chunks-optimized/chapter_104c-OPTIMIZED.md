@@ -1,0 +1,17 @@
+Uspokojivé vysvětlení hospodářských cyklů nemůže být postaveno na skutečnosti, že jednotlivé firmy nebo skupiny firem špatně odhadují budoucí stav trhu a kvůli tomu činí mylné investice. Předmětem hospodářského cyklu je všeobecný rozmach podnikatelských aktivit, sklon k rozšiřování produkce ve všech odvětvích a následná všeobecná deprese. Tyto jevy nemohou být způsobeny tím, že zvýšené zisky v některých odvětvích vedou k jejich expanzi a odpovídajícím nadměrným investicím v odvětvích vyrábějících zařízení nutné k této expanzi.
+
+Je velmi dobře známou skutečností, že čím dále boom postoupil, tím obtížnější je nakoupit stroje a jiné vybavení. Podniky vyrábějící tyto věci nestíhají vyřizovat objednávky. Jejich zákazníci musí dlouho čekat, než jsou jim tyto stroje doručeny. To jasně ukazuje, proč odvětví výrobních statků nerozšiřují svá výrobní zařízení tak rychle, jak předpokládá princip akcelerace.
+
+Avšak i kdybychom pouze pro potřeby naší diskuse byli ochotni připustit, že se kapitalisté a podnikatelé chovají takovým způsobem, jaký popisuje teorie nerovnoměrnosti, stále zbývá vysvětlit, jak by v tom mohli pokračovat bez úvěrové expanze. Usilování o tyto dodatečné investice zvyšuje ceny komplementárních výrobních faktorů a úrokovou míru na úvěrovém trhu. Pokud by nedocházelo k úvěrové expanzi, tyto jevy by expanzionistické sklony brzy zastavily.
+
+Zastánci teorií nerovnoměrnosti popisují určité události v oblasti zemědělství, jež mají potvrdit jejich tvrzení o neodmyslitelném nedostatku zaopatření ze strany soukromých podniků. Je však nepřípustné názorně dokládat typické rysy svobodného konkurenčního podnikání poukazem na podmínky ve sféře středních a drobných zemědělců. V mnoha zemích v této oblasti nevládne trh a spotřebitelé, ale vládní zásahy, zamýšlené jako ochrana zemědělců proti tržní proměnlivosti.
+
+Tito zemědělci se nepohybují na nenarušovaném trhu; jsou nejrůznějšími způsoby zvýhodňováni a hýčkáni. Oblast jejich výrobních činností je tak řečeno rezervací, v níž jsou uměle a na úkor nezemědělských vrstev udržovány technologická zaostalost, úzkoprsá svéhlavost a podnikatelská neschopnost. Pokud při své činnosti udělají chybu, vláda přinutí k zaplacení spotřebitele, daňové poplatníky a hypoteční věřitele.
+
+Je pravda, že se v pěstování obilí nebo chovu vepřů a jiných zemědělských výrobách vyskytují propojené cykly. Jejich opakovaný výskyt je však následkem toho, že tresty uplatňované trhem vůči neefektivním a neschopným podnikatelům na značnou část zemědělců nedopadají. Tito zemědělci nejsou odpovědní za své jednání, protože jsou oblíbenci vlády a politiků. Kdyby tomu tak nebylo, již dávno by zkrachovali a jejich bývalá hospodářství by dnes spravoval někdo chytřejší.
+
+Práce a mzdy
+
+Introverzivní práce a extroverzivní práce
+
+Člověk může překonat újmu z práce (vzdát se požitku z volného času) z různých důvodů. Může pracovat proto, aby byly jeho mysl a tělo silné, aktivní a čilé. Újma z práce není cenou za dosažení těchto cílů; její překonání je neoddělitelné od spokojenosti, o kterou je usilováno. Nejzřetelnějšími případy jsou čisté sportování bez záměru získat odměnu nebo společenský úspěch a hledání pravdy a poznání provozované jen pro hledání samotné, a nikoli jako prostředek zvýšení něčích schopností a dovedností při výkonu jiných druhů práce, zaměřených na jiné cíle.

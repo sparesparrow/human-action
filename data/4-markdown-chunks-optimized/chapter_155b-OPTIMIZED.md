@@ -1,0 +1,15 @@
+Prostředky směny a peníze jsou produkty trhu. Věc se stává prostředkem směny či penězi, když s ní lidé provádějí tržní transakce. Vlády vedou k zásahům do měnových záležitostí stejné pohnutky jako v případě jiných směn, tedy když je například třeba rozhodnout, zda nesplnění smluvních povinností jedné ze stran zakládá důvod použití síly ze strany vlády.
+
+Jestliže jedna ze stran (či strany obě) dočasně své povinnosti přestanou plnit, stává se, že je věc předána soudu, aby rozhodl, jakým způsobem má ke splnění smlouvy dojít. Je-li součástí plnění peněžní částka, je třeba rozhodnout, jaký význam mají peněžní smluvní ujednání mít.
+
+Zákony dané země a soudy určují, co smluvní strany myslely, když hovořily o peněžních částkách, a stanovují, jakým způsobem bude povinnost zaplatit splněna v souladu s podmínkami smlouvy. Musí určit, co je a co není zákonným platidlem. Při této činnosti zákony ani soudy nevytvářejí peníze. Věc se stává penězi pouze tím, že ji lidé směňující komodity a služby běžně používají jako prostředek směny.
+
+Ražba mincí byla po dlouhou dobu výsadou vládců. Tato činnost vlády původně neměla jiný cíl než razit a potvrzovat váhy a míry. Vládní punc na kousku plechu měl za úkol potvrdit jeho váhu a ryzost. Když se později panovníci uchýlili k nahrazování části drahých kovů podřadnějšími a levnějšími kovy při zachování vzhledu a jména mincí, činili tak potají a s vědomím, že podvádějí veřejnost. Jakmile lidé tuto lest odhalili, zlehčené mince byly oproti starým a kvalitnějším mincím směňovány s diskontem.
+
+Vlády reagovaly použitím nátlaku a donucení. Zákonem zakázaly v obchodě a při úhradě odložených plateb rozlišovat mezi „dobrými" a „špatnými" penězi a v případě „špatných" peněz zavedly maximální ceny. Očekávaný výsledek se ale nedostavil. Tato nařízení nezastavila proces vyrovnávání komoditních cen a došlo k dopadům podle Greshamova zákona.
+
+Historie vládních zásahů do měnové oblasti není pouhým seznamem zlehčování měn a neúspěšných snah zabránit nevyhnutelným důsledkům. Některé vlády nepovažovaly ražbu mincí za prostředek k podvodu, ale za veřejnou službu určenou k zajištění hladkého fungování trhu.
+
+Ovšem i tyto vlády se často z nevědomosti nebo diletantství uchylovaly k opatřením zasahujícím do struktury cen. Když byly dva drahé kovy používány jako peníze, vlády se naivně domnívaly, že je jejich úkolem sjednotit měnový systém a nařídit pevný směnný poměr mezi zlatem a stříbrem. Tento systém se ukázal být omylem a nepřinesl bimetalismus, ale měnící se standard.
+
+Kov nadhodnocený v zákonem stanovené pevné relaci v domácím oběhu převládal, zatímco druhý kov vymizel. Vlády nakonec od svých marných pokusů upustily a smířily se s monometalismem. Politika nákupů stříbra ve Spojených státech nebyla v podstatě nástrojem měnové politiky, šlo pouze o mechanismus zvyšování cen stříbra prospívající vlastníkům dolů, jejich zaměstnancům a příslušným státům.

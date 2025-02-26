@@ -1,0 +1,11 @@
+Údajná logická heterogenita primitivního člověka
+
+Je rozšířeným omylem věřit, že práce Luciena Lévy-Bruhla podporují doktrínu, že logická struktura mysli primitivního člověka byla a je kategoricky odlišná od člověka civilizovaného. Naopak, závěry o mentálních funkcích primitivních lidí, které Lévy-Bruhl získal pečlivým zkoumáním veškerého dostupného materiálu, jasně prokazují, že kategorie myšlení a jednání hrají v životě divochů stejnou roli jako u nás. Obsah myšlení primitivních lidí se liší od obsahu našich myšlenek, avšak formální a logická struktura je shodná u obou.
+
+Je pravda, že sám Lévy-Bruhl tvrdí, že mentalita primitivních lidí je ve svém charakteru zásadně „mystická a předlogická". Kolektivní označení primitivních lidí jsou řízena „zákonem účasti" a jsou v důsledku toho indiferentní vůči zákonu sporu. Lévy-Bruhlovo rozlišení mezi předlogickým a logickým myšlením však odkazuje na obsah, a nikoli na formu a kategorickou strukturu myšlení. Říká totiž, že i mezi lidmi, jako jsme my, myšlenky a vztahy řízené „zákonem účasti", více či méně nezávisle, více či méně narušené, avšak dosud nenahraditelně existujíbok po boku s myšlenkami podřízenými zákonům uvažování. „Předlogické a mystické koexistuje s logickým."
+
+Lévy-Bruhl degraduje základní učení křesťanství do sféry předlogické mysli. Proti křesťanským doktrínám a jejich interpretacím teologií samozřejmě může být a bylo vzneseno mnoho námitek. Nikdo se však neodvážil tvrdit, že otcové křesťanství a filozofové, mezi nimi svatý Augustin a svatý Tomáš, byli obdařeni myslí, jejíž logická struktura by byla kategoricky odlišná od myslí našich současníků. Spor mezi člověkem, který věří na zázraky, a tím, kdo nevěří, se vztahuje k obsahu myšlení, nikoli k jeho formě. Člověk, který se snaží dokázat možnost a reálnost zázraků, se může mýlit.
+
+Odhalit jeho chybu však není, jak ve svých brilantních esejích ukázali Hume a Mill, o nic méně logicky komplikované než vyvrácení jakéhokoli filozofického či ekonomického omylu.
+
+Cestovatelé a misionáři podávají zprávy, že v Africe a Polynésii primitivní lidé ustrnou na svém nejpůvodnějším vnímání věcí a nikdy nepřemýšlejí, zda by se mu mohli nějak vyhnout.

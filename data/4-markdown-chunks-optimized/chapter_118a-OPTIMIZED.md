@@ -1,0 +1,5 @@
+Když se člověk zabývá hospodářskými otázkami půdy, tj. původních nelidských výrobních faktorů, musí jasně odlišovat praxeologický pohled od pohledu kosmologického. Pro kosmologii má při studiu kosmických jevů smysl mluvit o trvání a zachování hmoty a energie. Jestliže porovnáme oblast, v níž je lidské jednání schopno působit na přirozené vnější podmínky lidského života, s působením přírodních objektů, můžeme přírodní síly nazvat nezničitelnými a trvalými nebo – přesněji – v bezpečí před zničením lidským jednáním.
+
+Pro velká časová období, o nichž pojednává kosmologie, je eroze půdy (v nejširším smyslu toho slova) v míře, kterou mohou způsobit zásahy lidí, zanedbatelná. Nikdo dnes neví, jestli kosmické změny během milionů let změní či nezmění pouště a neúrodnou zemi na půdu, která z pohledu našich dnešních znalostí bude muset být popsána jako mimořádně plodná, a nejbujnější tropické zahrady v neúrodnou zem.
+
+Právě proto, že nikdo nemůže předvídat takové změny ani se pokusit ovlivnit kosmické události, které je pravděpodobně přinesou, je o nich zbytečné uvažovat, když se zabýváme otázkami lidského jednání.

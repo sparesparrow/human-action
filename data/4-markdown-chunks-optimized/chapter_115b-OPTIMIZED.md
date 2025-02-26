@@ -1,0 +1,23 @@
+Pokud by se někdo cítil dotčen touto terminologií, protože užití slov jako svoboda a donucení může vést k narušení objektivního pojednání o daném problému, může si stejně dobře zvolit jiné pojmy. Můžeme nahradit pojem svobodná práce písmenem F a pojem nucená práce písmenem C. Volba pojmů neovlivní rozhodující otázku. To, na čem záleží, je: Jaký druh podnětu může přimět člověka podstoupit újmu z práce, pokud jeho vlastní uspokojení potřeb nezávisí přímo ani do zjevné míry nepřímo na množství a kvalitě jeho výkonu?
+
+Předpokládejme v zájmu naší diskuse, že mnoho pracovníků, možná dokonce i většina z nich, bude dobrovolně a svědomitě usilovat o nejlepší možné naplnění úkolů svěřených jim jejich nadřízenými. (Zanedbejme skutečnost, že určení úkolů uložených různým jednotlivcům by v socialistickém společenství narazilo na neřešitelné problémy.) Jak však nakládat s těmi, kdo jsou při provádění určených povinností líní a lehkomyslní? Neexistuje žádný jiný způsob než je potrestat.
+
+Jejich nadřízení musí mít autoritu určit porušení pravidel, posoudit jeho subjektivní důvody a vyměřit odpovídající trest. Smluvní svazek je nahrazen hegemonickým svazkem. Pracovník se stává předmětem volného nakládání svých nadřízených, je osobně podřízen kárné moci svého vedoucího.
+
+V tržním hospodářství prodává pracovník své služby, stejně jako ostatní lidé prodávají své zboží. Zaměstnavatel není pánem zaměstnance. Je pouze kupujícím služeb, které musí nakoupit za jejich tržní cenu. Stejně jako každý kupující i zaměstnavatel si samozřejmě může leccos dovolit. Pokud však sáhne ke svévolnému najímání či propouštění pracovníků, bude za to muset zaplatit. Zaměstnavatel či zaměstnanec pověřený vedením určité části podniku může při najímání dělníky diskriminovat, propouštět je podle své libosti nebo snížit jejich mzdy pod úroveň tržní sazby.
+
+Toto svévolné jednání však může ohrozit ziskovost jeho podniku nebo oddělení, a tím zhoršit jeho vlastní příjem a jeho postavení v hospodářském systému. V tržním hospodářství přinášejí takové vrtochy svůj vlastní trest. Jedinou skutečnou a účinnou ochranu námezdních pracovníků poskytuje v tržní ekonomice působení faktorů určujících cenovou tvorbu. Trh umožňuje pracovníkovi nezávislost na libovůli zaměstnavatele a jeho pomocníků. Pracovníci jsou stejně jako jejich zaměstnavatelé podřízeni pouze nadvládě spotřebitelů.
+
+Kupováním či zdržením se nákupů určují spotřebitelé ceny výrobků a využití výrobních faktorů a přiřazují každému druhu práce jeho tržní cenu.
+
+Pracovníka činí svobodným právě skutečnost, že zaměstnavatel pod tlakem tržní cenové struktury považuje práci za zboží, nástroj k vydělení zisku. Zaměstnanec je v jeho očích pouze člověk, který mu za peněžní odměnu pomůže vydělat peníze. Zaměstnavatel platí za poskytnuté služby a zaměstnanec pracuje, aby získal mzdu. V tomto vztahu mezi zaměstnavatelem a zaměstnancem nepřichází v úvahu oblíbenost či nemilost. Najatý člověk zaměstnavateli nedluží žádnou laskavost; dluží mu určité množství práce určitého druhu a kvality.
+
+Z tohoto důvodu se může zaměstnavatelům v tržním hospodářství dařit i bez práva trestat zaměstnance. Všechny netržní výrobní systémy musí dát těm, kdo vládnou, právo pobízet pomalé dělníky k větší horlivosti a snaze. Jelikož uvěznění brání pracovníkovi ve výkonu jeho práce, nebo přinejmenším výrazně snižuje hodnotu jeho přispění, tělesné tresty byly vždy tradičním prostředkem toho, aby se otroci a nevolníci nevyhýbali své práci. Se zrušením nevolnické práce bylo možné zbavit se i biče jako stimulu. Bičování bylo symbolem otrocké práce.
+
+Členové tržního hospodářství považují tělesné tresty za nelidské a ponižující do takové míry, že byly zrušeny také ve školách, v trestním zákoníku i při vojenském výcviku.
+
+Kdo věří, že se socialistické společenství obejde bez nátlaku a donucení vůči líným pracovníkům, protože každý bude sám od sebe plnit své povinnosti, se stává obětí klamu obsaženého v doktríně anarchismu.
+
+V rámci ricardiánské ekonomie byla teorie renty pokusem o řešení těch problémů, ke kterým moderní ekonomie přistupuje prostřednictvím analýzy mezního užitku.
+
+Pokud Ricardovu teorii posuzujeme z pohledu dnešních znalostí, není příliš uspokojivá; metoda založená na teorii subjektivní hodnoty je bezpochyby zdaleka nejlepší. Teorie renty si svou slávu přesto zcela zasloužila; pozornost věnovaná jejímu vzniku a zdokonalení přinesla kvalitní ovoce. Není důvod, aby se dějiny ekonomie za teorii renty hanbily.

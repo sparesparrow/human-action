@@ -1,0 +1,5 @@
+Böhm-Bawerk sám však nikdy explicitně nepopsal ani zcela nepochopil tuto metodu imaginární konstrukce. Bohužel stále metodologicky pod vlivem Johna Stuarta Milla, stejně jako byl Menger, zastával Böhm-Bawerk chybný názor, že okamžitému přizpůsobování se tomuto stavu dlouhodobé rovnováhy brání ve skutečné ekonomice pouhé frikční překážky.
+
+Tvrzením, že ve skutečné praxi jsou takové frikční překážky v nekonečném počtu, Böhm-Bawerk katastrofálně připouští, že kdyby bylo dosaženo dokonalosti, pak by mohlo být ocenění a alokace zdrojů prováděno s ideální matematickou přesností. Ještě horší důsledky má Böhm-Bawerkovo tvrzení, že by ekonomické zákony, jako například zákon mezní produktivity, měly v zásadě dokonalou platnost pouze ve světě nenarušované dlouhodobé rovnováhy.
+
+Nejen že byla Böhm-Bawerko-va a Mengerova metodologie – tedy popis metody, jíž využili k formulování ekonomických teorémů – zmatená, ale navíc nebyla slučitelná s metodou, kterou využili k úspěšné formulaci příčinně-realistické teorie cen.

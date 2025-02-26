@@ -1,0 +1,9 @@
+Podle nich tato válka nebyla zajímavá. Nebyla vedena řádnými armádami vedenými profesionálními veliteli. Civilisté, jako například Lincoln, zasahovali do vedení operací. Z této války se proto nelze příliš přiučit, říkají. Ale právě v této občanské válce poprvé hrály problémy meziregionální dělby práce rozhodující roli. Jih byl vesměs zemědělský a jeho zpracovatelský průmysl nevýznamný. Konfederace závisela na dodávkách výrobků z Evropy.
+
+Jelikož námořní síly Unie byly dostatečně silné a prováděly účinnou blokádu jejich břehů, brzy začala pociťovat nedostatek vybavení.
+
+Němci museli v obou světových válkách řešit obdobný problém. Záviseli na dodávkách potravin a surovin ze zámoří. Nemohli se ale vyhnout britské blokádě. V obou válkách bylo o výsledku rozhodnuto v bitvách o Atlantik. Němci prohráli, protože se jim nepodařilo odstřihnout britské ostrovy od přístupu ke světovým trhům a sami nebyli schopni si zabezpečit vlastní dodávky zboží po moři. Strategický problém byl určen podmínkami mezinárodní dělby práce.
+
+Němečtí váleční štváči se rozhodli přijmout politiky, které – jak doufali – umožní Německu vést válku navzdory znevýhodnění vyplývajícího z podoby mezinárodního obchodu. Řešení tohoto problému spatřovali v Ersatz, substitutu.
+
+Substitut je statek, který je buď méně vhodný či dražší, nebo obojí v porovnání se statkem, jejž má nahradit. Kdykoli se díky nové technologii podaří vyrobit či objevit něco, co je buď vhodnější, nebo levnější než dříve užívaná věc, představuje tato nová věc technologickou inovaci; je to zdokonalení, a ne Ersatz. Základním znakem Ersatz, tak jak byl tento termín užíván v rámci hospodářsko-vojenské doktríny, je horší kvalita nebo vyšší náklady nebo oboje.

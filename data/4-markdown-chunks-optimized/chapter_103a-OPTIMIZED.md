@@ -1,0 +1,25 @@
+# 10
+
+Neznalost se projevuje i ve zmatení mezi deflací a kontrakcí a procesem přizpůsobení, k němuž musí vést každý expanzionistický boom. To, zda krize způsobí omezení objemu fiduciárních prostředků, záleží na institucionální struktuře úvěrového systému, který boom vytvořil. Omezení se může objevit, když krize vyústí v úpadky bank poskytujících oběžný úvěr a snížení není vyrovnáno odpovídající expanzí ze strany zbývajících bank.
+
+Nejde však nutně o doprovodný příznak deprese; je nade vši pochybnost, že se tato situace neobjevila v posledních osmdesáti letech v Evropě a že míra, v níž se objevila ve Spojených státech vlivem Zákona o federálním rezervním systému z roku 1913, byla vysoce přeceňována. Nedostatek úvěru provázející krizi není způsoben kontrakcí, ale upuštěním od další úvěrové expanze.
+
+Poškozuje všechny podniky – nejen ty, které jsou odsouzeny k zániku při jakékoli úrovni úrokové míry, ale i ty, jejichž podnikání je zdravé a mohlo by vzkvétat, kdyby byl k dispozici odpovídající úvěr. S tím, jak nejsou spláceny úvěry, banky nemají dostatek prostředků k poskytnutí úvěrů i těm nejspolehlivějším firmám. Krize se stává všeobecnou a nutí všechna podnikatelská odvětví a všechny podniky omezit rozsah jejich činností.
+
+Těmto druhotným dopadům předchozího boomu se nelze žádným způsobem vyhnout.
+
+Jakmile se objeví deprese, všichni začnou naříkat na deflaci a dožadovat se pokračování expanzivní politiky. Je pravda, že i bez jakéhokoli omezení nabídky dostupných skutečných peněz a fiduciárních prostředků způsobuje deprese hotovostí vyvolanou tendenci k růstu kupní síly peněžní jednotky. Každá firma usiluje o zvýšení držené hotovosti a tyto snahy ovlivňují poměr mezi nabídkou peněz a poptávkou po penězích za účelem jejich držení v podobě hotovosti. To je možné správně nazývat deflací.
+
+Je však vážným omylem věřit, že pokles cen statků je způsoben usilováním o vyšší objem držené hotovosti. Příčinný vztah je právě opačný. Ceny výrobních faktorů – jak hmotných, tak lidských – dosáhly nadměrné úrovně v době boomu. Musejí se znovu snížit a teprve tehdy mohou podniky opět dosahovat zisku. Podnikatelé zvyšují objem jimi držené hotovosti, protože přestávají nakupovat statky a najímat pracovníky tak dlouho, dokud struktura cen a mezd není přizpůsobena skutečnému stavu tržních dat. Proto jakákoli snaha vlády nebo odborů tomuto přizpůsobení zabránit nebo ho oddálit stagnaci pouze protahuje.
+
+Ani ekonomové často nedokázali tento vzájemný vztah pochopit. Argumentovali následovně: Cenová struktura vzniklá v době boomu je výsledkem expanzionistického tlaku. Pokud ustane další růst objemu fiduciárních prostředků, musí se zastavit i vzestup cen a mezd. Kdyby však nedošlo k deflaci, nemohl by se dostavit žádný pokles cen a mzdových sazeb.
+
+Tato argumentace by byla pravdivá, kdyby inflační tlak neovlivnil úvěrový trh předtím, než vyčerpal své přímé dopady na ceny statků. Předpokládejme, že vláda izolované země vydá dodatečné papírové peníze, aby mohla vyplatit příspěvky obyvatelům s nízkým příjmem. Zvýšení cen statků, které toto jednání přinese, by narušilo výrobu; vedlo by k přesunu výroby od spotřebních statků nakupovaných nepodporovanými skupinami obyvatel k výrobě těch statků, které poptávají příjemci dávek.
+
+Pokud je tato politika podporování některých skupin později opuštěna, ceny statků poptávaných dříve podporovanými skupinami klesnou a ceny statků poptávaných nepodporovanými se naopak zvýší. Nebude však existovat žádná tendence kupní síly peněžní jednotky vrátit se na předinflační úroveň. Struktura cen bude ovlivněna inflačním krokem natrvalo, pokud vláda nestáhne z trhu dodatečný objem papírových peněz, který do něj napumpovala v podobě dávek.
+
+Věci se mají jinak, pokud úvěrová expanze zasáhne nejprve úvěrový trh. V tomto případě jsou účinky inflace znásobeny důsledky mylných kapitálových investic a nadměrné spotřeby. Podnikatelé tlačí ceny do výše vzájemným přeplácením při soutěžení o větší podíl na omezené zásobě kapitálových statků a práce. Ceny mohou zůstat na této úrovni, pouze dokud úvěrová expanze pokračuje zvyšujícím se tempem. Jakmile se příliv dalších fiduciárních prostředků zastaví, je prudký pokles cen všech statků a služeb nevyhnutelný.
+
+Zatímco boom pokračuje, lidé mají sklon nakupovat, co mohou, protože očekávají další růst cen. V období deprese naopak nákupy omezují, protože očekávají jejich pokračující pokles. Náprava věcí a návrat k normálnímu stavu mohou začít, až když jsou ceny a mzdové sazby tak nízko, že dostatečné množství lidí jejich další pokles nepředpokládá. Jediným prostředkem zkrácení období mylného podnikání je vyhnout se jakýmkoli pokusům o oddálení nebo o zastavení poklesu cen a mzdových sazeb.
+
+Změna peněžního vztahu, způsobená zvýšením objemu fiduciárních prostředků, se začne objevovat v cenové struktuře až tehdy, když začne probíhat ozdravný proces.

@@ -1,0 +1,25 @@
+Koncept ekonomické rovnosti ovládaných, které byly tyto národy a jejich vládci oddáni, nebyl přesně definován. Přes tuto vágnost se ale lišil zásadním způsobem v jednom ohledu: v úplném zavržení nahromadění velkého majetku v rukou jakéhokoli jedince. Vládci totiž považovali bohaté lidi za ohrožení svého politického postavení.
+
+Všichni, jak vládci, tak ovládaní, byli přesvědčeni, že žádný člověk nemůže nahromadit nadbytečné prostředky jinak, než tak, že připraví jiné o to, co by jim mělo po právu patřit, a že bohatství několika zámožných lidí je příčinou chudoby většiny ostatních. Pozice bohatých podnikatelů byla ve všech orientálních zemích nesmírně ošemetná. Byli vydáváni na milost úředníků. Ani četné úplatky je nedokázaly ochránit před konfiskací.
+
+Veškerý lid zajásal, kdykoli se majetný podnikatel stal obětí závisti a nenávisti úředníků.
+
+Tento odpor k penězům zastavil civilizační pokrok na Východě a uvrhl masy na hranici hladu. Jelikož nedocházelo k akumulaci kapitálu, nemohlo docházet k technologickým zdokonalením. Kapitalismus přišel na Východ jako cizí dovezená ideologie, vnucená cizími armádami a námořnictvem v podobě koloniální dominance nebo extrateritoriální správy. Tyto násilné způsoby zcela jistě nepředstavovaly správné prostředky ke změně tradicionalistické mentality orientálních národů.
+
+Uznání této skutečnosti ale nijak nemění platnost tvrzení, že to bylo odmítání kapitálové akumulace, jež odsoudilo stovky milionů Asiatů k chudobě a hladu.
+
+Koncept rovnosti, se kterým přicházejí naši dnešní propagandisté blahobytu, je pouhou kopií asijské myšlenky rovnosti. Přestože je ve všech ostatních ohledech velmi neurčitá, je zcela konkrétní ve svém odporu k velkým majetkům. Staví se proti velkému podnikání a velkému bohatství. Obhajuje různá opatření k omezení růstu velikosti podniků a zvýšení rovnosti prostřednictvím konfiskačního zdanění příjmů a jmění. A využívá závisti nerozumných mas.
+
+Okamžitými hospodářskými dopady konfiskačních politik jsme se již zabývali. Je zjevné, že v dlouhém období tyto politiky musí vyústit nejen ve zpomalení a úplné zastavení další akumulace kapitálu, ale také ve spotřebu kapitálu akumulovaného v dřívějších dobách. Nejenže tedy zastaví další pokrok směrem k většímu materiálnímu blahobytu, ale dokonce trend obrátí a vyvolají tendenci k postupující chudobě. Asijské ideály by zvítězily; a Východ by se konečně setkal se Západem na stejné úrovni nouze.
+
+Škola blahobytu tvrdí, že brání nejen zájmy celé společnosti proti sobeckým zájmům podnikatelů, jimž jde pouze o zisk; ale také bere v úvahu trvalé dlouhodobé zájmy národa oproti krátkodobým zájmům spekulantů, podnikatelů a kapitalistů, kteří jsou výlučně oddáni zisku a na budoucnosti celé společnosti jim nezáleží. Toto druhé tvrzení je samozřejmě neslučitelné s důrazem, který tato škola klade na krátkodobé politiky oproti dlouhodobým zájmům.
+
+Konzistence ale nepatří mezi silné stránky teoretiků blahobytu. Ponechme nyní tento rozpor stranou a prozkoumejme je bez ohledu na jejich vnitřní rozpornost.
+
+Úspory, akumulace kapitálu a investice vyjímají jisté prostředky ze současné spotřeby a věnují je na zlepšení budoucích podmínek. Člověk, který spoří, se vzdává navýšení současného uspokojení, aby zlepšil blahobyt svůj a své rodiny ve vzdálenější budoucnosti. Jeho záměry jsou jistě sobecké v běžném významu tohoto slova. Důsledky jeho sobeckého chování ale přinášejí prospěch trvalým dlouhodobým zájmům celé společnosti a všem jejím členům. Jeho konání přináší veškeré jevy, které by i ten nejbigotnější propagandista blahobytu označil za ekonomické zlepšení a pokrok.
+
+Politiky obhajované školou blahobytu odstraňují motivace občanů ke spoření. Na jedné straně opatření směrovaná k omezení velkých příjmů a majetků významně snižují či zcela ničí schopnost bohatších lidí spořit. Na druhé straně se s prostředky, kterými lidé s průměrnými příjmy dříve přispívali k akumulaci kapitálu, nakládá způsobem, jenž má vést k jejich spotřebě.
+
+Když v minulosti člověk spořil a své peníze svěřil spořitelně nebo uzavřel pojistku, banka či pojišťovna investovala ekvivalentní sumu. I když člověk později uspořenou sumu spotřeboval, nedocházelo tím ke snižování investic či spotřebě kapitálu. Celkové investice spořitelen a pojišťoven postupně navzdory těmto výběrům rostly.
+
+Dnes existuje snaha nutit banky a pojišťovny investovat více a více do vládních dluhopisů. Fondy institucí sociálního zabezpečení sestávají zcela z nároků na veřejný dluh. Dokud je veřejné zadlužení způsobeno výdaji na běžnou spotřebu, úspory jednotlivců nevedou k akumulaci kapitálu. Zatímco v neomezované tržní ekonomice se úspory, kapitálová akumulace a investice shodují, v intervencionistickém hospodářství mohou být úspory občanů promrhány vládou. Jednotlivec omezuje současnou spotřebu, aby se zaopatřil na budoucnost.

@@ -1,0 +1,17 @@
+Každá odchylka od směru, který jim předepisuje poptávka spotřebitelů, jde na vrub podnikatelů. I ta nejmenší odchylka, ať už navozená záměrně nebo způsobená chybou, špatným odhadem nebo lajdáctvím, omezuje jejich zisk nebo ho úplně odejme. Vážnější odchylky vedou ke ztrátám, a tak zmenšují nebo úplně pohlcují jejich bohatství. Kapitalisté, podnikatelé a majitelé půdy mohou uchovat a zvýšit své bohatství pouze tím, že budou co nejlépe plnit příkazy spotřebitelů.
+
+Nemají svobodu utrácet peníze, které jim spotřebitelé nejsou ochotni vrátit tím, že za jejich výrobky zaplatí více. Při vedení svých podniků musí být bezcitní a musí mít tvrdé srdce, protože sami spotřebitelé – jejich nadřízení – jsou bezcitní a mají tvrdá srdce.
+
+Spotřebitelé určují nejen definitivní ceny spotřebního zboží, ale také ceny všech výrobních faktorů. Určují příjmy každého člena tržního hospodářství. Spotřebitelé, a nikoli podnikatelé, platí nakonec mzdy, které si vydělal každý jednotlivý pracovník, okouzlující filmová hvězda, stejně jako uklízečka. S každým utraceným centem určují spotřebitelé směr všech výrobních procesů a podrobnosti organizace veškeré podnikatelské činnosti. Tento stav věcí se popisuje tak, že se trh nazývá demokracií, v níž každý cent dává právo odevzdat hlas.
+
+Správnější by bylo říct, že demokratické zřízení je systém, který připisuje občanům stejnou nadřazenost při provádění vlády, jakou jim tržní hospodářství dává jako spotřebitelům. Toto srovnání je však nedokonalé. V politické demokracii jsou při formování chodu věcí účinné pouze hlasy, které dostal většinový kandidát nebo většinový program. Hlasy, které obdržela menšina, politiku přímo neovlivňují. Na trhu však nepřijde žádný hlas nazmar. Každý utracený cent má sílu působit na výrobní procesy. Nakladatelé neuspokojují jen většinu tím, že vydávají detektivky, ale také menšinu, která čte lyrickou poezii a filozofické traktáty.
+
+Pekaři nepečou chléb jen pro zdravé lidi, ale také pro nemocné, kteří mají zvláštní diety. Rozhodnutí spotřebitele jsou uváděna ve skutečnost s veškerou silou, kterou jim spotřebitel dodává svou ochotou utratit určité množství peněz.
+
+Je pravda, že na trhu nemají různí spotřebitelé stejné volební právo. Bohatí odevzdávají více hlasů než chudí občané. Tato nerovnost je však sama o sobě výsledkem předchozího volebního procesu. V čistém tržním hospodářství být bohatý je výsledkem úspěchu při co nejlepším uspokojení poptávky spotřebitelů. Bohatý člověk může uchovat své bohatství pouze tím, že bude stále co nejefektivněji spotřebitelům sloužit.
+
+Tak jsou majitelé hmotných výrobních faktorů a podnikatelé fakticky pověřenci spotřebitelů, kteří jsou s možností odvolání jmenováni volbami, jež se dennodenně opakují.
+
+V působení tržního hospodářství existuje pouze jeden případ, v němž třída vlastníků není úplně podřízena suverenitě spotřebitelů. Porušením nadvlády spotřebitelů jsou monopolní ceny.
+
+Příkazy zadávané podnikateli při řízení jejich záležitostí lze slyšet a vidět. Nikomu se nemůže stát, že by si jich nebyl vědom. Dokonce i poslíček ví, že v podniku rozhoduje ředitel. O něco víc rozumu je však třeba, abychom si všimli závislosti podnikatele na trhu. Příkazy, které dávají spotřebitelé, nejsou zjevné, nemohou být vnímány smysly. Mnoha lidem chybí dostatečná bystrost, aby si jich všimli. Takoví padnou za oběť iluzi, že podnikatelé a kapitalisté jsou nezodpovědní autokraté, po nichž nikdo nechce, aby se za své jednání zodpovídali.

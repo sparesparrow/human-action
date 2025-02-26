@@ -1,0 +1,23 @@
+XXVI. Nemožnost ekonomické kalkulace za socialismu
+
+1. Problém
+
+Ředitel chce postavit dům. K tomu existuje mnoho metod, které může použít. Každá z nich nabízí – z pohledu ředitele – určité výhody a nevýhody pro budoucí využití budovy a různou výslednou dobu, po niž budova může sloužit. Každá z těchto metod vyžaduje jiné náklady stavebního materiálu a práce a stavba trvá jinou dobu. Kterou metodu by měl ředitel vybrat? Položky různého materiálu a různého druhu vynaložené práce nemůže převést na společného jmenovatele. Proto je nemůže porovnat.
+
+Nemůže přiřadit konkrétní číselné vyjádření ani době čekání (období stavby), ani době, po niž bude budova sloužit. Krátce řečeno, při srovnávání nákladů, které mají být vynaloženy, a zisků, které mají vyplynout, se nemůže opřít o žádné aritmetické operace. Plány jeho architektů vypočítávají obrovské množství různých naturálních položek. Odkazují na fyzikální a chemické vlastnosti různých materiálů a na fyzickou produktivitu různých strojů, nástrojů a postupů.
+
+Ale všechna jejich tvrzení zůstávají zcela bez jakéhokoli vzájemného vztahu. Neexistuje žádný prostředek, jak mezi nimi stanovit nějaké poměry.
+
+Představte si, v jak těžké pozici se ředitel nachází, když se setká s nějakým projektem. Musí dát pozor na to, jestli realizace projektu zvýší či nezvýší blahobyt, tedy jestli něco přidá k existujícímu bohatství, aniž by ohrozila uspokojení potřeb, které ředitel považuje za naléhavější. Avšak žádná ze zpráv, které dostane, mu k řešení tohoto problému neposkytne klíč.
+
+Pro účely důkazu můžeme nejdříve ignorovat dilemata, která s sebou nese výběr spotřebního zboží, jež se má vyrábět. Můžeme předpokládat, že tento problém je vyřešen. Existuje však zarážející rozmanitost spotřebního zboží a nekonečný výběr postupů, které lze použít pro výrobu konkrétního spotřebního zboží. Musí se určit nejvýhodnější umístění každého průmyslového odvětví a optimální velikost každého podniku a každého jednotlivého zařízení. Musí se určit, jaký druh mechanické síly se v každém z nich využije a který z různých způsobů výroby této energie se má použít. Všechny tyto problémy jsou vznášeny denně v tisícovkách případů. V každém případu se vyskytují jiné podmínky a každý vyžaduje zvláštní řešení, které těmto podmínkám vyhovuje.
+
+Množství položek, kterých se rozhodnutí ředitele musí týkat, je mnohem větší, než jak by ukazoval pouhý technický popis dostupného spotřebního zboží pomocí fyziky a chemie. Musí být bráno v úvahu umístění každé z nich i schopnost sloužit u kapitálových investic, které byly učiněny v minulosti pro jejich využití. Ředitel jednoduše nemůže uvažovat o uhlí jako takovém, ale o tisícovkách šachet, které už jsou na různých místech v provozu, a o možnosti otevřít nové šachty s různými důlními metodami v každé z nich, o různých metodách využití uhlí pro výrobu tepla, elektřiny a velkého množství druhotných sloučenin. Můžeme říct, že současný stav technologických znalostí umožňuje vyrobit téměř všechno z téměř čehokoli.
+
+Naši předkové například znali pouze omezené množství způsobů využití dřeva. Moderní technologie přinesla velké množství nových možných využití. Dřevo může být využito pro výrobu papíru, různých textilních vláken, potravin, léků a mnoha dalších syntetických výrobků.
+
+Pro zásobování měst čistou vodou jsou dnes používány dvě metody. Buď se voda přivádí z velkých vzdáleností vodovodem, to je stařičká metoda, jež se používá už dlouhou dobu, nebo se chemicky čistí voda, která je k dispozici v blízkosti města. Proč se voda nevyrábí synteticky v továrnách? Moderní technika by snadno vyřešila technologické problémy, které jsou s tím spojeny. Průměrný člověk se setrvačností myšlení takové projekty s chutí zesměšní jako čiré bláznovství.
+
+Avšak jediným důvodem, proč je dnes – i když možná ne někdy v budoucnu – výroba umělé pitné vody vyloučena, je, že ekonomická kalkulace v penězích ukazuje, že je to dražší postup než jiné metody. Odstraňte ekonomickou kalkulaci a nemáte žádný prostředek pro rozumnou volbu mezi různými alternativami.
+
+Je pravda, že socialisté namítají, že ekonomická kalkulace není neomylná. Říkají, že kapitalisté někdy udělají ve svých výpočtech chyby. Samozřejmě že se to stává a vždy se to stávat bude, neboť veškeré lidské jednání směřuje do budoucna a budoucnost je vždy nejistá. I ty nejpečlivěji vypracované plány jsou zmařeny, jestliže se očekávání ohledně budoucnosti zhroutí. To je však zcela jiný problém. Dnes kalkulujeme z pohledu našich dnešních znalostí a našeho dnešního předvídání budoucích podmínek.

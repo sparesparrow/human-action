@@ -1,0 +1,23 @@
+Když se blížíme k optimální kombinaci zvyšováním množství jediného faktoru při konstantním množství faktorů ostatních, pak mohou jednotkové výnosy variabilního faktoru růst buď proporcionálně, nebo dokonce rychleji. Stroj může, je-li obsluhován 2 pracovníky, produkovat p, při obsluze 3 pracovníky 3p, 4 pracovníky 6p, 5 pracovníky 7p, 6 pracovníky rovněž 7p. V takovém případě je optimální výstup na pracovníka 6/4 dosahován při obsluze stroje 4 pracovníky, zatímco ostatní kombinace přinášejí 1/2p, p, 7/5p a 7/6p. Pokud například místo 2 zaměstnáme 3 nebo 4 pracovníky, vzrostou výnosy rychleji, než odpovídá nárůstu pracovníků. Nerostou v poměru 2:3:4, nýbrž v poměru 1:3:6. Sledujeme rostoucí výnosy na pracovníka. Nejedná se však o nic jiného než o převrácený zákon klesajících výnosů.
+
+Jestliže se nějaká továrna odchyluje od optimální kombinace používaných faktorů, je méně efektivní než továrna, kde je tato odchylka menší. V zemědělství i zpracovatelském průmyslu je mnoho faktorů ne zcela dělitelných. Zejména ve zpracovatelském průmyslu je snazší dosáhnout optimální kombinace rozšiřováním produkce než jejím omezováním. Jestliže je nejmenším množstvím jednoho či více faktorů příliš velké, než aby mohlo být v malé čistě velké továrně optimálně využito, je jedinou cestou, jak dosáhnout optima, zvětšení výrobního provozu.
+
+Výhoda velkovýroby je způsobena právě těmito faktory.
+
+Plný význam tohoto problému bude nastíněn později, při diskusi otázek nákladového účetnictví.
+
+Lidská práce jako prostředek
+
+Využití fyziologických funkcí a projevů lidského života jako prostředku nazýváme prací. Projev potenciálu lidské energie a životních procesů, které člověk, jehož života jsou projevem, nevyužívá k dosažení vnějších cílů odlišných od pouhého probíhání těchto procesů a od fyziologické role, kterou hrají při biologickém naplnění jeho vlastního nakládání se životem, není práce, to je prostě život.
+
+Člověk pracuje tím, že využívá svých sil a schopností coby prostředku k odstranění pociťované nespokojenosti a že nahrazuje spontánní a samovolné uvolňování svých schopností a nervového napětí jejich účelovým využíváním. Práce je prostředkem, nikoli cílem sama o sobě.
+
+Každý jednotlivec má pouze omezené množství energie, které může vydat, a každá jednotka práce může způsobit pouze omezený účinek. Jinak by lidské práce bylo více než dostatek, nebyla by vzácnou, nepovažovala by se za prostředek k odstranění nespokojenosti a nebylo by s ní jako s takovou hospodařeno.
+
+Ve světě, v němž by se s prací hospodařilo pouze z toho důvodu, že je dostupná v množství neumožňujícím dosažení veškerých cílů, pro něž může být použita jako prostředek, by se nabídka dostupné práce rovnala veškerému množství práce, které jsou všichni lidé dohromady schopni vydat. V takovém světě by chtěl každý pracovat, dokud by zcela nevyčerpal svou momentální pracovní kapacitu. Čas, který není potřeba pro opětovné vytvoření a obnovení schopnosti pracovat spotřebované předchozí prací, by byl zcela věnován práci. Každé nevyužití plné pracovní kapacity by bylo považované za ztrátu. Vykonáním více práce by člověk zvýšil vlastní blahobyt. To, že zůstala část dostupného potenciálu nevyužita, by se hodnotilo jako ztráta blahobytu. Samotná myšlenka lenosti by nebyla známá.
+
+Nikdo by si neřekl: mohl bych dělat to či ono, ale nestojí to za to, nevyplatí se to, preferuji raději volný čas. Každý by považoval svou plnou pracovní kapacitu za zásobu výrobních faktorů, kterou by rád celou využil. I jen sebemenší možnost sebemenšího zvýšení blahobytu by se považovala za dostatečný incentiv k větší práci, pokud by se stalo, že v daný okamžik neexistuje výnosnější alternativa, na kterou by dotyčné množství práce mohlo být využito.
+
+V našem světě se věci mají jinak. Vykonávání práce považujeme za nepříjemné. Nepracovat se považuje za uspokojivější stav věcí než pracovat. Volný čas je za jinak stejných okolností preferován před prací. Lidé pracují, jen když upřednostňují výnos z práce před poklesem uspokojení způsobeným omezením volného času. Práce v sobě obsahuje újmu.
+
+Psychologie a fyziologie se můžou pokoušet tento fakt vysvětlit. Praxeologie se nemusí zabývat tím, zda se jim to povede, či nikoli. Pro praxeologii je faktem, že lidé chtějí volný čas, a proto posuzují svou vlastní schopnost způsobit účinky s odlišnými pocity, než s jakými posuzují schopnost hmotných výrobních faktorů. Když člověk zvažuje vydání vlastní práce, zkoumá nejen to, zda neexistuje nějaký více žádoucí cíl, na jehož dosažení by dané množství práce bylo možné použít, ale rovněž zda by nebylo více žádoucí se dalšího vydávání práce zdržet.

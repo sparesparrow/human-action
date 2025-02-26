@@ -1,0 +1,23 @@
+17. Politiky odborových svazů se běžně charakterizují jako monopolistické programy, které chtějí nahradit konkurenční mzdové sazby monopolními mzdovými sazbami. Odborové svazy však zpravidla neusilují o monopolní mzdové sazby. Odbory chtějí omezit konkurenci ve svém vlastním sektoru pracovního trhu, aby tam zvýšily mzdové sazby. Nesmíme však zaměňovat omezení konkurence a monopolní ceny.
+
+Charakteristickým rysem monopolních cen je skutečnost, že prodej pouhé části celkových dostupných zásob přináší vyšší výnos než prodej celku. Monopolista dosahuje monopolního výnosu stažením části zásob z trhu. Situaci, v níž existuje monopolní cena, jako takovou necharakterizuje výše výnosu, ale záměrné jednání monopolisty, který ji vyvolává. Monopolista má zájem využít všechny zásoby, které má k dispozici. Zajímá ho každý zlomek těchto zásob. Pokud část zásob zůstane nevyužita, je to jeho ztráta. Přesto se rozhodne ponechat část nevyužitu, protože za existujícího stavu poptávky je pro něj výhodnější chovat se tímto způsobem. Jeho rozhodnutí je motivováno zvláštním stavem trhu.
+
+Monopol, který je jedním ze dvou nutných podmínek pro vznik monopolních cen, může být – a zpravidla je – výsledkem institucionálního zásahu do tržních dat. Ale tyto vnější síly přímo nevedou k monopolním cenám. Pouze je-li splněn i druhý požadavek, vznikne příležitost pro monopolistické jednání.
+
+Jinak je tomu v případě prostého omezení nabídky. Tam autory omezení nezajímá, co se může stát s částí nabídky, které zabrání v přístupu na trh. Osud lidí, kteří tuto nabídku vlastní, se jich netýká. Sledují pouze tu část nabídky, která na trhu zůstane.
+
+Monopolistické jednání je pro monopolistu výhodné pouze tehdy, jestliže celkové čisté výnosy při monopolní ceně převyšují celkové čisté výnosy při případné konkurenční ceně. Restriktivní jednání je na druhé straně vždy výhodné pro privilegovanou skupinu a nevýhodné pro ty, které vylučuje z trhu. Vždy zvyšuje jednotkovou cenu, a proto zvyšuje také celkové čisté výnosy privilegované skupiny. Ta nebere v úvahu ztráty vyloučené skupiny.
+
+Může se stát, že výhody, které má privilegovaná skupina z omezení konkurence, jsou pro ni mnohem lukrativnější, než by tomu mohlo být při jakékoli představitelné taktice monopolní ceny. To je však jiná otázka. Nezakrývá katalaktické rozdíly mezi těmito dvěma způsoby jednání.
+
+Odborové svazy usilují o monopolistické postavení na trhu práce. Jakmile ho však dosáhnou, je jejich politika restriktivní; není to politika monopolních cen. Chtějí omezit nabídku práce ve své oblasti, aniž se starají o osud těch, kdo jsou vyloučeni. V každé relativně málo zalidněné zemi uspěly ve vybudování imigračních bariér. Tak udržují své relativně vysoké mzdové sazby. Vyloučení cizí pracovníci jsou nuceni zůstat ve svých zemích, v nichž je nižší mezní produktivita práce, a tudíž i nižší mzdové sazby.
+
+Tendence k vyrovnávání mzdových sazeb, která existuje v podmínkách svobodné mobility práce ze země do země, je ochromena. Na domácím trhu odbory nestrpí konkurenci pracovníků, kteří nejsou odborově organizovaní, a vstup do odborové organizace povolí pouze omezenému počtu pracovníků. Komu není vstup povolen, musí odejít do méně placených zaměstnání nebo zůstat nezaměstnaný. Odbory se o osud těchto lidí nezajímají.
+
+Dokonce i když odborový svaz vezme odpovědnost za své nezaměstnané členy na sebe a z příspěvků zaměstnaných členů jim vyplácí příspěvky v nezaměstnanosti, jež nejsou nižší než výdělky zaměstnaných členů, není jednání tohoto odborového svazu politikou monopolní ceny, protože nezaměstnaní členové odborů nejsou jedinými lidmi, jejichž schopnost vydělávat je negativně ovlivněna postupem odborového svazu nahradit potenciální nižší tržní mzdové sazby vyššími sazbami. Zájmy těch, kdo nejsou přijati za členy, nejsou brány v úvahu.
+
+Matematický přístup k teorii monopolních cen
+
+Matematičtí ekonomové věnují zvláštní pozornost teorii monopolních cen. Vypadá to, jako by monopolní ceny byly kapitolou katalaxie, pro niž se matematický přístup hodí víc než pro jiné kapitoly. Avšak služby, které matematici mohou v této oblasti nabídnout, jsou také nevalné.
+
+Ke konkurenčním cenám nemůže matematika poskytnout nic víc než matematický popis různých rovnovážných stavů a podmínek v imaginárním konstruktu rovnoměrně plynoucí ekonomiky. Nemůže říct nic o jednáních, která by nakonec ustavila tyto rovnováhy a tento rovnoměrně plynoucí systém, pokud by se neobjevily žádné nové změny.

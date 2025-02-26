@@ -1,0 +1,19 @@
+Dnes lidé tvrdí totéž o různých odvětvích velkého podnikání: nemůžete napadat jejich postavení, jsou příliš velcí a příliš silní. Soutěž však neznamená, že se komukoli bude dobře dařit jen na základě toho, že bude napodobovat, co dělají jiní. Znamená příležitost sloužit spotřebitelům lépe nebo levněji a nebýt při tom omezován výhodami udělenými těm, jejichž existující práva taková inovace poškozuje. Nově příchozí, který se chce vzepřít právům starých zavedených firem, potřebuje zejména mozek a myšlenky.
+
+Jestliže jeho projekt dokáže uspokojit nejnaléhavější z neuspokojených potřeb spotřebitelů nebo je zajistit levněji než dlouholetí dodavatelé, pak uspěje i přes tolik diskutovanou velikost a sílu starých firem.
+
+Katalaktická soutěž nesmí být zaměňována s boxerskými zápasy nebo s volbou královny krásy. Jejich účelem je zjistit, kdo je nejlepším boxerem nebo nejkrásnější dívkou. Společenskou funkcí katalaktické soutěže ovšem není stanovit, který chlapík je nejchytřejší, a odměnit vítěze titulem a medailí. Její funkcí je zajistit nejlepší uspokojení spotřebitelů, jakého je za daného stavu hospodářských dat možno dosáhnout.
+
+Rovnost příležitostí se nevyskytuje ani v boxu nebo soutěži krásy, ani v žádné jiné oblasti soutěžení, ať už biologického nebo společenského. Naprostá většina lidí je vzhledem k fyziologické stavbě svého těla zbavena možnosti získat titul mistra světa v boxu nebo královny krásy. Jen velice málo lidí může soutěžit na trhu práce jako operní zpěváci nebo filmové hvězdy. Nejpříhodnější pozici v soutěži na poli vědeckých výsledků mají vysokoškolští profesoři.
+
+Přesto tisíce a tisíce profesorů umírají, aniž by zanechali jakoukoli stopu v historii myšlení a vědeckého pokroku, zatímco mnozí ze znevýhodněných outsiderů získají slávu díky báječným objevům.
+
+Běžně je za špatnou považována skutečnost, že katalaktická soutěž není stejně otevřena pro každého. Začátek je daleko obtížnější pro chudého chlapce než pro syna bohatých rodičů. Spotřebitele však nezajímá otázka, zda lidé, kteří je budou obsluhovat, začínají či nezačínají za rovných podmínek. Jejich jediným zájmem je zajistit co možná nejlepší uspokojení svých potřeb.
+
+Protože je systém dědičného majetku v tomto ohledu účinnější, dávají mu přednost před jinými, méně účinnými systémy. Dívají se na věc z pohledu společenské prospěšnosti a společenského blahobytu, nikoli z pohledu údajných, imaginárních a nesplnitelných „přirozených" práv každého jedince na rovnou příležitost při soutěžení. Prosazení takových práv by vyžadovalo, aby ti, kdo se narodili s větší inteligencí a větší silou vůle než průměrní lidé, byli znevýhodněni. Je jasné, že by to bylo absurdní.
+
+Termín soutěž je používán zejména jako protipól monopolu. V tomto druhu řeči se termín monopol používá v různých významech, které se musí jasně rozlišovat.
+
+První význam slova monopol, který se velice často předpokládá při běžném použití tohoto termínu, označuje stav věcí, v němž držitel monopolu, ať už jím je jednotlivec nebo skupina jednotlivců, výhradně kontroluje některou z podstatných podmínek přežití lidstva. Takový monopolista má moc nechat zemřít hladem všechny, kdo neposlouchají jeho rozkazy. On diktuje a ostatní nemají jinou možnost než vzdát se, nebo zemřít. Vzhledem k takovému monopolu neexistuje trh ani žádný druh katalaktické soutěže.
+
+Držitel monopolu je pán a ostatní jsou otroci, kteří jsou plně závislí na jeho přízni. U tohoto druhu monopolu není třeba se zdržovat. K tržnímu hospodářství nemá vůbec žádný vztah. Stačí uvést jeden příklad. Takový absolutní a totální monopol by uplatňoval celosvětový socialistický stát; měl by moc rozdrtit své odpůrce tím, že by je nechal zemřít hladem.

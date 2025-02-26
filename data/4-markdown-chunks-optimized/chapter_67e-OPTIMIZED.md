@@ -1,0 +1,23 @@
+Avšak poté, co tuto nenapravitelnou chybu udělali, je tomu tak, že veřejnost chce dostat víc a je připravena platit za něj tolik, kolik teď činí teoretická konkurenční tržní cena. V současné situaci neschvaluje jednání podniku, které stahuje určité množství variabilního kapitálu z využití pro výrobu. Tato částka jistě nezůstane nevyužita. Odchází do jiných oborů podnikání a vyrábí zde něco jiného, konkrétně jiný výrobek. Avšak v současných podmínkách by spotřebitelé před zvýšením dostupného množství výrobků dali přednost zvýšení dostupného množství původního produktu. Důkazem je, že v nepřítomnosti monopolistického omezení výrobní kapacity by výnosnost výroby byla tak vysoká, že by se vyplatila víc než zvýšení množství vyráběného jiného výrobku.
+
+Tento případ má dva charakteristické rysy. Zaprvé, monopolní ceny placené kupujícími jsou stále nižší, než kolik by činily celkové náklady výroby, pokud by byly plně započteny všechny vklady investorů. Zadruhé, monopolní výnosy firmy jsou tak malé, že nepřemění celé toto podnikání na dobrou investici. Zůstává špatnou investicí. Právě tato skutečnost vytváří monopolní postavení firmy. Nikdo zvenku nechce do podnikání na tomto poli vstoupit, protože výroba vede ke ztrátám.
+
+Monopol z neúspěšnosti vůbec není pouhou akademickou konstrukcí. Dnes je aktuální například v případě některých železničních společností. Je však třeba mít se na pozoru před tím, aby každý případ nevyužité výrobní kapacity nebyl chybně interpretován jako monopol z neúspěšnosti.
+
+Dokonce i když monopol neexistuje, může být výnosnější využít variabilní kapitál pro jiné účely místo rozšiřování výroby firmy až na úroveň danou kapacitou jejího trvanlivého nepřevoditelného vybavení; potom je omezení objemu výroby v přísné shodě se stavem konkurenčního trhu a s přáním veřejnosti.
+
+Místní monopoly mají zpravidla institucionální původ. Existují však i místní monopoly, které vznikly z podmínek nenarušovaného trhu. Institucionální monopol je často určen k tomu, aby obchodoval s monopolem, který se objevil nebo který se pravděpodobně objeví bez autoritářského zásahu do trhu.
+
+Katalaktická klasifikace místních monopolů musí rozlišovat tři skupiny: mezní monopol, monopol z omezeného prostoru a licenční monopol.
+
+Místní mezní monopol je charakterizován skutečností, že bariérou, která brání lidem zvnějšku konkurovat na místním trhu a rozbít monopol místních prodejců, je relativní výše přepravních nákladů. Nejsou potřeba žádná cla, pokud má být poskytnuta omezená ochrana firmě, která vlastní přilehlé přírodní zdroje potřebné pro výrobu cihel, proti konkurenci ze vzdálené cihelny. Přepravní náklady jí poskytují rozdíl, v němž může být výhodná monopolní cena nalezena, umožňuje-li to stav poptávky.
+
+Až potud se místní mezní monopoly katalakticky neliší od jiných případů mezních monopolů. To, co je odlišuje a proč je nutné zabývat se jimi odděleně, je na jedné straně jejich vztah k rentě z městské půdy a na druhé straně jejich vztah k rozvoji města.
+
+Předpokládejme, že na území, které nabízí výhodné podmínky pro shromažďování narůstajícího městského obyvatelstva, platí monopolní ceny stavebního materiálu. V důsledku toho jsou náklady na výstavbu vyšší, než by byly, kdyby takový monopol neexistoval. Ale ti, kdo zvažují pro a proti umístění svých domů a dílen, nemají žádný důvod, aby za koupi nebo pronájem takových domů a dílen platili vyšší ceny. Tyto ceny jsou určovány na jedné straně odpovídajícími cenami v jiných oblastech a na druhé straně výhodami, jež přináší usazení se v tomto území ve srovnání s usazením se někde jinde.
+
+Vyšší náklady, které jsou potřebné na výstavbu, tyto ceny neovlivňují; zatěžují výnosy z půdy. Břemeno monopolních výnosů prodejců stavebního materiálu dopadá na vlastníky městských pozemků. Tyto zisky pohltí částky, které by v jejich nepřítomnosti vlastníci pozemků dostali.
+
+Dokonce i v nepříliš pravděpodobném případě, že poptávka po domech a dílnách je taková, že majitelům pozemků umožňuje dospět při prodeji a pronájmu k monopolním cenám, by monopolní ceny stavebního materiálu ovlivnily pouze výnosy majitelů pozemků, nikoli ceny, které zaplatí kupci nebo nájemníci.
+
+Skutečnost, že se břemeno monopolních výnosů přenáší do ceny městského využití půdy, neznamená, že nebrání růstu města. Odsouvá využití okrajových pozemků pro rozšíření městského osídlení. Chvíle, kdy se pro majitele nějakého předměstského pozemku stává výhodným vyjmout ho ze zemědělského nebo jiného nezastavěného využití a využít ho pro rozvoj města, nastane později.

@@ -1,0 +1,23 @@
+Hlavním zájmem mnoha autorů devatenáctého a dvacátého století bylo zkreslit a překroutit tento očividný stav věcí. Říkali, že dělníci jsou vydáni na milost zaměstnavatelům. Je sice pravda, že zaměstnavatel má právo propustit svého zaměstnance. Pokud však toto právo využije jen pro svůj rozmar, poškodí své vlastní zájmy. Znevýhodní sám sebe, když se zbaví lepšího člověka, aby přijal někoho méně výkonného. Trh nikomu přímo nebrání, aby nezpůsoboval o své vůli škodu svým spoluobčanům; pouze takové chování trestá.
+
+Obchodník má plnou svobodu být hrubý na své zákazníky, jestliže je připraven nést důsledky. Zákazníci mají plnou svobodu bojkotovat dodavatele, pokud jsou připraveni za to zaplatit. To, co při službách spoluobčanům žene každého k maximálnímu úsilí a potlačuje vrozené sklony ke svévoli a zlým úmyslům, není v rámci trhu nátlak a donucení ze strany četníků, katů a trestních tribunálů; je to vlastní zájem. Člen smluvní společnosti je svobodný, protože slouží druhým pouze ve službě sobě samému.
+
+Jediné, co ho omezuje, je nevyhnutelný přirozený jev omezenosti zdrojů. Co se týče ostatního, je v rámci trhu svobodný.
+
+Neexistuje žádná jiná svoboda a volnost než ta, kterou přináší tržní hospodářství. V totalitní hegemonické společnosti je jedinou svobodou, která je jednotlivci ponechána, protože mu nemůže být odepřena, svoboda spáchat sebevraždu.
+
+Stát, společenský aparát nátlaku a donucení, to jsou nutně hegemonická pouta. Kdyby vláda měla takové postavení, že by mohla dle libosti rozšiřovat svou moc, mohla by zrušit tržní hospodářství a nahradit ho všeobecným totalitním socialismem. Aby se tomu zabránilo, je nutné moc vlády omezit. To je úloha všech ústav, listin práv a zákonů. To je smysl všech bojů, které lidé svedli za svobodu.
+
+Kritici svobody mají v tomto smyslu pravdu, když ji nazývají „buržoazní" záležitostí a když obviňují práva, která svobodu zaručují, z negativismu. V říši státu a vlády znamená svoboda omezení, jež je uvaleno na výkon policejní moci.
+
+Nemuseli bychom se u této zřejmé skutečnosti zdržovat, kdyby mistři v destrukci svobody záměrně nezpůsobili sémantický zmatek. Uvědomili si, že je pro ně beznadějné otevřeně a upřímně bojovat za otroctví a omezení. Pojmy svoboda a volnost měly takovou vážnost, že žádná propaganda nemohla otřást jejich popularitou. V oblasti západní civilizace byla svoboda od nepaměti považována za největší dobro. To, co Západu dodalo jeho prominentní postavení, byla právě starost o svobodu, společenský ideál, který je obyvatelům Orientu cizí.
+
+Sociální filozofie západní civilizace je v zásadě filozofií svobody. Hlavním obsahem dějin Evropy a osad založených evropskými emigranty a jejich potomky v jiných částech světa byl boj za svobodu. Značkou naší civilizace je „drsný" individualismus. Žádný otevřený útok na svobodu jednotlivce neměl naději na úspěch.
+
+Obhájci totality tedy zvolili jinou taktiku. Převrátili smysl slov. Nazvali pravou nebo ryzí svobodou podmínky jednotlivců v systému, v němž nemají žádná jiná práva než poslouchat rozkazy. Ve Spojených státech se nazývají pravými liberály, protože usilují o takový společenský řád. Ruské metody diktátorské vlády nazývají demokracií. Násilné a donucovací metody odborových svazů nazývají „průmyslovou demokracií". Svobodou tisku nazývají stav věcí, v němž smí svobodně vydávat knihy a noviny pouze vláda. Definují svobodu jako možnost dělat „správné" věci a samozřejmě si osobují právo rozhodovat, co je správné a co ne. V jejich očích všemohoucnost vlády znamená úplnou svobodu. Pravým smyslem jejich boje za svobodu je zbavit policejní síly všech omezení.
+
+Tržní hospodářství, říkají tito samozvaní liberálové, poskytuje svobodu pouze parazitické třídě vykořisťovatelů, buržoazii. Tito darebáci prý mají plnou svobodu zotročovat masy. Námezdní pracovník není svobodný; musí dřít výhradně pro blaho svých pánů, zaměstnavatelů. Kapitalisté si přisvojují, co by podle nezadatelných lidských práv mělo patřit pracovníkům. V socialismu bude mít pracovník svobodu a lidskou důstojnost, protože už nebude muset otročit pro kapitalistu. Socialismus znamená zrovnoprávnění obyčejného člověka, znamená svobodu pro všechny.
+
+A navíc znamená bohatství pro všechny.
+
+Tato učení dokázala triumfovat, protože se nesetkala s účinnou racionální kritikou. Někteří ekonomové odvedli výtečnou práci při demaskování jejich omylů a rozporů. Veřejnost však ekonomické teorie ignoruje. Argumenty, které proti socialismu předkládají průměrní politici a autoři, jsou buď hloupé, nebo irelevantní. Nemá cenu trvat na údajném „přirozeném" právu jednotlivců vlastnit majetek, jestliže jiní lidé tvrdí, že nejdůležitějším „přirozeným" právem je rovnost příjmu. Takové spory nemohou být nikdy rozhodnuty.

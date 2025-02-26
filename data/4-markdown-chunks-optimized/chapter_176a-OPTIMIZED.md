@@ -1,0 +1,13 @@
+Wieser byl prvním velkým učitelem Machlupa, který absolvoval jeho jednoroční kurz teorie dvakrát. Haberler navštěvoval Wieserův kurz a později studoval s Wieserovým následovníkem, Hansem Mayerem, který v roce 1922 převzal Wieserovo místo na univerzitě.
+
+Protože Wieserovy přednášky těsně kopírovaly Social Economics – buď přímo četl, nebo ji víceméně znal zpaměti – nebylo překvapující, že členové čtvrté generace považovali Wieserovo pojednání za základní teoretický výstup rakouské školy. Hayek v roce 1926 napsal, že Theorie der gesellschaftlichen Wirtschaft nebyla jen jediným důsledným zpracováním ekonomické teorie vytvořeným moderní subjektivistickou školou, ale především představuje dílo, které může být největší syntézou, jíž bylo v té době ekonomickou teorií dosaženo.
+
+Oskar Morgenstern knihu roku 1927 oslavoval jako dílo, jež se stalo nejdůležitější formulací rakouské teorie a největším systematickým pojednáním napsaným rakouským ekonomem, v němž je princip mezního užitku prozkoumán do všech svých důsledků. Charakterizoval ji také jako jednu z těch všeobecně zajímavých knih, které představují přelom ve vývoji ekonomické teorie.
+
+Stejně důležitá jako Wieserovo pojednání byla v letech formování čtvrté generace Schumpeterova první kniha Das Wesen, kde obhajoval model všeobecné rovnováhy jakožto klíčový koncept čisté ekonomické teorie. Ukazuje se, že tato kniha měla na mladé ekonomické teoretiky ještě větší vliv. Hayek ve svých spisech odkazuje na „jeho skvostnou knihu" a tvrdí, že myšlenky v jeho díle jsou velmi podstatné pro pochopení vývoje ekonomické teorie.
+
+Morgenstern vzpomínal, že Das Wesen bylo ve Vídni lačně čteno i dlouho po první světové válce, přičemž jeho mladická svěžest a ráznost se mladým studentům zamlouvaly. Sám pamatoval na pocit prozření, který se dostavil, když knihu poprvé dostal do ruky.
+
+Machlup byl Schumpeterem také ohromen. Stěžoval si, že byl nespravedlivě vyloučen z členstva rakouské školy pro svůj obdiv k matematické škole z Lausanne. I on přijal Schumpeterovu vizi účelu a metody čisté teorie. V článku mapujícím Schumpeterovu ekonomickou metodologii Machlup přiznává Schumpeterovi dokonalé pochopení obecné epistemologie a vědecké metody.
+
+Z Machlupových vlastních obsáhlých spisů o metodologii je zřejmé, že přijal postoj metodologické tolerance. Ten by se dal zestručnit do dvou tvrzení: zaprvé, že úplné vysvětlení komplexní ekonomické reality vyžaduje historickou a statistickou, stejně jako teoretickou analýzu; zadruhé, že ekonomická teorie svými schématy, modely a teorémy definuje a popisuje podstatné souvislosti.

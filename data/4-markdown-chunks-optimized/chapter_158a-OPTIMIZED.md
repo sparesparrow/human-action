@@ -1,0 +1,25 @@
+Typický průběh úvěrové expanze byl až do doby před několika desetiletími určen těmito dvěma faktory: šlo o úvěrovou expanzi v podmínkách zlatého standardu a nejednalo se o výsledek koordinované aktivity různých vlád a centrálních bank, jejichž chování tyto vlády řídily. První z uvedených skutečností znamenala, že vlády nebyly ochotny zrušit směnitelnost národních bankovek v pevně stanovené paritě. Z druhé skutečnosti vyplývala neexistence kvantitativní jednotnosti ve výši úvěrové expanze.
+
+Některé země prováděly větší expanzi a jejich banky následně musely čelit nebezpečí značného odlivu zlatých rezerv a deviz. Tyto banky tak byly kvůli záchraně svých měn nuceny přistoupit k drastické úvěrové restrikci. Daly tedy vzniknout panice a způsobily depresi na domácím trhu. Tato panika se velmi rychle rozšířila do ostatních zemí. Podnikatelé v těchto zemích se vylekali a zvýšili velikost svých úvěrů, aby v případě potřeby měli dostatek likvidních prostředků.
+
+A právě tento nárůst poptávky po nových úvěrech přiměl měnové úřady jejich zemí, již tak zneklidněné krizí v první zemi, také se uchýlit k úvěrové kontrakci. Deprese se tak stala během několika dnů či týdnů mezinárodním jevem.
+
+Devalvační politika tento typický sled událostí do jisté míry změnila. Měnové autority se při existenci hrozby odlivu zlata ze země ne vždy uchylují k úvěrové restrikci a ke zvýšení úrokové míry stanovené systémem centrálního bankovnictví. Devalvují. Devalvace ale problém neřeší. Jestliže vládě nezáleží na tom, v jakém rozsahu stoupnou směnné kurzy, může po jistou dobu i nadále úvěrovou expanzi provádět. Jednoho dne ale přijde závěrečná fáze boomu a rozvrátí měnový systém této země.
+
+Chce-li se na druhou stranu vláda vyhnout nutným opětovným a zvyšujícím se devalvacím, musí svou domácí měnovou politiku provádět tak, aby její úvěrová expanze nebyla větší než úvěrová expanze ostatních zemí, s jejichž měnami chce zachovat stabilní směnný kurz.
+
+Mnozí ekonomové se domnívají, že pokusy vlád provádět úvěrovou expanzi vždy způsobí stejné, téměř pravidelné střídání období rozvoje hospodářství a následné deprese. Předpokládají, že dopady úvěrové expanze se v budoucnu nebudou lišit od dopadů, jež pozorujeme od konce osmnáctého století ve Velké Británii a od poloviny devatenáctého století v západní a střední Evropě a v Severní Americe. Okolnosti se ale změnily. Učení měnové teorie hospodářského cyklu je dnes tak dobře známé i mimo ekonomickou obec, že naivní optimismus podněcující podnikatele v obdobích boomu v minulosti byl nahrazen jistou opatrností. Je možné, že podnikatelé budou v budoucnu reagovat na úvěrovou expanzi jinak, než reagovali v minulosti. Možná že se pokusí nevyužívat pro rozvoj svých podniků snadno dostupné levné peníze, protože budou vědět, že boom nevyhnutelně jednou skončí.
+
+Lze vidět jisté náznaky předjímající tuto změnu, ale ještě je příliš brzo činit jakékoli zásadní závěry.
+
+Měnová teorie hospodářského cyklu ovlivnila zcela jistě běh věcí v jiném směru. Ačkoli žádný oficiální zdroj – ať již pracuje ve vládních finančních službách, centrální bance nebo vyučuje na neo-ortodoxní univerzitě – to zatím nepřizná, veřejné mínění v podstatě již nepopírá dvě hlavní teze teorie oběžného úvěru: že příčinou deprese je předcházející boom a že tento boom je stvořen úvěrovou expanzí. Vědomí těchto skutečností děsí finanční analytiky při prvních známkách objevujícího se boomu.
+
+Následně i vláda začíná hovořit o nutnosti zabránit dalšímu nárůstu cen a zisků a poskytování úvěrů začíná být omezováno. Boom rychle končí a začíná recese. Výsledkem těchto změn bylo v posledním desetiletí výrazné zkrácení délky cyklu. Stále docházelo ke střídání období rozmachu a propadu, ale tyto fáze trvaly kratší dobu a častěji se střídaly. Je to již zcela něco jiného než „klasická" doba deseti a půl roku cyklu zemědělské produkce Williama Stanleyho Jevonse.
+
+Hlavně tím, že boom končí dříve, dochází k menšímu množství mylných investic a následná deprese je v důsledku toho také mírnější.
+
+Chiméra proticyklických politik
+
+Základním prvkem „neortodoxních" teorií propagovaných jak všemi socialisty, tak všemi intervencionisty je tvrzení, že stále se opakující hospodářské krize jsou jevem nerozlučně spjatým s fungováním tržního hospodářství. Zatímco socialisté jsou přesvědčeni, že pouze nahrazení kapitalismu socialismem nás může tohoto zla zbavit, intervencionisté věří, že je v rukách vlády napravit fungování tržního hospodářství a nastolit, jak říkají, „hospodářskou stabilitu".
+
+Tito intervencionisté by měli pravdu, kdyby jejich plán proti vzniku depresí měl za cíl rozhodné zřeknutí se politik úvěrové expanze. Tuto myšlenku však dopředu zavrhují. Jejich cílem je stále více a více nových úvěrů a vyhnutí se vzniku depresí prostřednictvím speciálních „proticyklických" opatření.

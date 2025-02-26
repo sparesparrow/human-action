@@ -1,0 +1,23 @@
+Pro problémy nákladového účetnictví je nepodstatné, zda firma kapitál investovaný do svého podnikání vlastní, nebo zda si jeho větší či menší část půjčila a musí dostát podmínkám úvěrové smlouvy, která přísně určuje úrokovou míru a data splatnosti úroků i jistiny. Výrobní náklady zahrnují pouze úroky z kapitálu, který ještě existuje a pracuje v podniku. Nezahrnuje úroky z kapitálu, který byl v minulosti promrhán špatnými investicemi nebo neefektivním prováděním běžné podnikatelské činnosti.
+
+Úloha spočívající na podnikateli je vždy použít co nejlepším způsobem zásobu kapitálových statků, které jsou nyní k dispozici, k uspokojení budoucích potřeb. Při sledování tohoto cíle se nesmí nechat svést chybami a selháními z minulosti, které nelze jednoduše odklidit. V minulosti mohl být postaven podnik, který by nebyl budován, kdyby měl člověk lepší předpověď nynější situace. Je marné naříkat nad touto historickou skutečností. Hlavní je zjistit, zda podnik stále může činemůže poskytovat nějaké služby, a je-li odpověď kladná, jak ho lze nejlépe využít. Pro konkrétního podnikatele je samozřejmě smutné, že se nevyhnul chybám.
+
+Ztráty, které utrpěl, zhoršují jeho finanční situaci. Neovlivňují však náklady, které je třeba zohlednit při plánování budoucí činnosti.
+
+Tento bod je důležité zdůraznit, protože bývá při běžném vykládání a ospravedlňování různých opatření překrucován. Tím, že se nějakým firmám a společnostem uleví od břemene dluhů, se „nesníží náklady". Politika úplného nebo částečného smazání dluhů nebo úroků z nich nesnižuje náklady. Přesouvá bohatství od věřitelů k dlužníkům; přenáší dopad ztrát vzniklých v minulosti z jedné skupiny lidí na jinou skupinu, tj. z majitelů kmenových akcií na majitele prioritních akcií a podnikových dluhopisů.
+
+Tento argument o snížení nákladů je často využíván na podporu devalvace měny. V tomto případě je naprosto stejně chybný jako všechna ostatní zdůvodnění předložená za tímto účelem.
+
+Běžně se k fixním nákladům řadí také náklady vyvolané využitím stávajících výrobních faktorů, které jsou buď naprosto nepřevoditelné, nebo které mohou být uzpůsobeny k jiným výrobním účelům pouze za cenu velkých ztrát. Tyto faktory mají trvalejší charakter než ostatní požadované výrobní faktory. Nejsou však věčné. Ve výrobním procesu jsou spotřebovávány. S každou vyrobenou jednotkou produkce je vyčerpána část schopnosti stroje vyrábět. Rozsah tohoto opotřebení lze přesně určit pomocí techniky a podle toho může být učiněn odhad v penězích.
+
+Není to jen tento peněžní ekvivalent opotřebení stroje, čím se musí zabývat podnikatelská kalkulace. Podnikatel se nezajímá pouze o dobu technické životnosti stroje. Musí vzít v úvahu budoucí stav trhu. I když stroj může být ještě technicky naprosto upotřebitelný, tržní podmínky mohou způsobit, že je zastaralý a bezcenný.
+
+Jestliže poptávka po jeho výrobcích významně poklesne nebo úplně zmizí, nebo když se objeví efektivnější metody, jak zajistit spotřebitelům tyto výrobky, je stroj z ekonomického pohledu pouze kusem železa. Když podnikatel plánuje činnost svého podniku, musí plně zohlednit očekávaný budoucí stav trhu. Velikost „fixních" nákladů, které vstupují do jeho kalkulace, závisí na tom, jak rozumí budoucím událostem. Nelze je jednoduše stanovit z technického pohledu.
+
+Technologové mohou stanovit optimální využití výrobního celku. Ale toto technické optimum se může lišit od toho, co podnikatel – na základě svého hodnocení budoucích tržních podmínek – zadává do ekonomické kalkulace. Předpokládejme, že továrna je vybavena stroji, které mohou být používány po dobu deseti let. Každý rok je odepsáno 10 procent jejich hodnoty. Ve třetím roce tržní podmínky postaví podnikatele před rozhodnutí.
+
+Může zdvojnásobit roční produkci a prodat ji za cenu, která (kromě pokrytí nárůstu variabilních nákladů) převyšuje částku odpisů za běžný rok a současnou hodnotu částky posledního odpisu. Ale toto zdvojnásobení objemu výroby ztrojnásobí opotřebení zařízení a dodatečný výnos z prodeje dvojnásobného množství výrobků není dostatečný k tomu, aby nahradil současnou hodnotu částky odpisů za devátý rok.
+
+Kdyby podnikatel v kalkulaci uvažoval s roční částkou odpisů jako s pevným prvkem, musel by zdvojnásobení výroby považovat za nerentabilní, protože dodatečné výnosy zaostávají za dodatečnými náklady. Nepřistoupil by na rozšíření výroby za technické optimum.
+
+Avšak podnikatel počítá jinak, i když v účetnictví může odpisovat každý rok stejnou částku. Jestli podnikatel dá či nedá přednost zlomku současné hodnoty částky odpisů v devátém roce před technologickou službou, kterou mu stroj může poskytnout devátý rok, závisí na jeho názoru na budoucí stav trhu.

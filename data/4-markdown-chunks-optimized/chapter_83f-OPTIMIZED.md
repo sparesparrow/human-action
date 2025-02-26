@@ -1,0 +1,21 @@
+Obchodníci na tomto zvláštním trhu jsou při předvídání budoucích změn rychlejší než zbytek lidí. V důsledku toho odráží cenová struktura devizového trhu nový peněžní vztah dříve než ceny mnohých statků a služeb. Jakmile domácí inflace začne jakkoli ovlivňovat ceny některých statků a dlouho předtím, než se její dopady na většinu cen statků a služeb vyčerpají, ceny zahraničních měn porostou až do bodu odpovídajícího konečnému stavu domácích cen a mzdových sazeb.
+
+Tato skutečnost byla vykládána zcela mylně. Lidé si nebyli schopni uvědomit, že nárůst směnných kurzů pouze předvídá pohyb domácích cen statků. Vysvětlovali prudký růst kurzů jako výsledek nepříznivé platební bilance. Tvrdili, že poptávka po zahraniční měně byla zvýšena zhoršením obchodní bilance nebo jiných položek platební bilance, nebo jednoduše špinavými intrikami části nevlasteneckých spekulantů. Čím vyšší jsou ceny zahraničních měn, tím více vzrostou domácí ceny dovážených statků. Ceny domácích výrobků musí udělat totéž, protože jinak by jejich nízká úroveň přiměla podnikatele, aby je stáhli z domácí spotřeby a prodali se ziskem v zahraničí.
+
+Je jednoduché ukázat omyly obsažené v této rozšířené doktríně. Pokud nebyl nominální důchod domácích obyvatel zvýšen inflací, budou nuceni omezit svoji spotřebu buď dovážených, nebo domácích výrobků. V prvním případě by se snížily dovozy, ve druhém by se zvýšily vývozy. Tak by se obchodní bilance vrátila zpět k tomu, co merkantilisté nazývají příznivým stavem.
+
+Jsou-li merkantilisté zahnáni do úzkých, nemohou jinak než připustit, že je tato úvaha přesvědčivá. Ale, jak říkají, týká se pouze obchodu za normálních podmínek. Nebere prý v úvahu takovou situaci, ve které země musí dovážet nezbytně nutné statky, jako jsou například potraviny nebo základní suroviny. Dovoz těchto statků nemůže být zredukován pod určité minimum. Jsou dováženy bez ohledu na to, jakou cenu je za ně nutné zaplatit.
+
+Pokud nemůže být zahraniční měna nutná pro jejich dovoz obstarána odpovídajícím objemem vývozu, obchodní bilance se stává nepříznivou a směnné kurzy rostou stále výše.
+
+Tento argument je stejně klamný jako ostatní merkantilistické představy. Ať už je poptávka jednotlivce nebo skupiny jednotlivců po nějakých statcích jakkoli naléhavá nebo důležitá, mohou ji uspokojit na trhu pouze tím, že zaplatí tržní cenu. Pokud chce Rakušan nakoupit kanadskou pšenici, musí za ni zaplatit tržní cenu v kanadských dolarech. Ty získá vývozem statků buď přímo do Kanady, nebo do nějaké jiné země. Nezvýší množství dostupných kanadských dolarů tím, že zaplatí za kanadský dolar vyšší cenu (v šilincích, rakouské domácí měně).
+
+Kromě toho si nemůže dovolit platit tuto vyšší cenu (v šilincích) za dováženou pšenici, pokud zůstal jeho příjem (v šilincích) nezměněn. Pouze pokud rakouská vláda zahájí inflační politiku, a tím zvýší počet šilinků v kapsách obyvatel Rakouska, mohou si Rakušané dovolit kupovat stejné množství kanadské pšenice jako dříve, aniž by museli omezovat ostatní výdaje.
+
+Pokud ovšem k domácí inflaci nedojde, jakýkoli růst cen dovážených statků povede buď k poklesu jejich spotřeby, nebo k omezení spotřeby ostatních statků. Tak se spustí proces přizpůsobení popsaný výše.
+
+Pokud nemá člověk peníze na to, aby si koupil chléb od svého souseda, vesnického pekaře, nikdo nehledá příčinu v domnělé vzácnosti peněz. Příčinou je, že tento člověk neuspěl při vydělávání potřebného množství peněz, buď prodejem statků, nebo poskytováním služeb, za něž jsou ostatní lidé ochotni platit. Totéž platí i pro mezinárodní obchod. Země může velmi strádat z toho důvodu, že není schopna prodat v zahraničí ani tolik zboží, kolik je třeba k nákupu potravin pro její obyvatele. To však neznamená, že by byla zahraniční měna vzácná.
+
+Znamená to, že obyvatelé dané země jsou chudí. A domácí inflace pochopitelně není vhodným prostředkem k odstranění této chudoby.
+
+Stejně tak nemá spekulace žádný vztah k určování směnných kurzů. Spekulanti pouze předvídají očekávané změny. Pokud se zmýlí, pokud je jejich názor, že dojde k inflaci, chybný, struktura cen a směnných kurzů nebude odpovídat jejich očekáváním a budou muset za svoji chybu zaplatit svoji vlastní ztrátou.

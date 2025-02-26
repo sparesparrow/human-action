@@ -1,0 +1,11 @@
+Tímto způsobem směřuje fungování trhu k odstranění těchto často diskutovaných nerovnováh. Pomocí zvýšení množství peněz je možné oddálit nebo přerušit tento proces přizpůsobení. Je však nemožné zbavit ho významu nebo ho učinit méně bolestným pro ty, jichž se týká.
+
+Pokud by vládou způsobené změny kupní síly vyvolané hotovostí vedly jen k přesunu bohatství od jedněch lidí k jiným, nebylo by přípustné odsoudit je z pohledu katalaktické vědecké neutrality. Je zjevně mylné ospravedlňovat je pomocí všeobecného dobra nebo blahobytu veřejnosti. Bylo by je nicméně stále možné považovat za politická opatření vhodná k prosazování zájmů některých skupin lidí na úkor ostatních bez toho, aby vznikala nějaká další škoda. Avšak do hry vstupují i jiné okolnosti.
+
+Není nutné poukazovat na důsledky, k nimž vede nepřetržitá deflační politika. Takovou politiku nikdo nepodporuje. Přízeň lidu a po potlesku toužících publicistů a politiků patří inflaci. S ohledem na tyto snahy musíme zdůraznit tři body. Zaprvé: Inflační nebo expanzivní politika musí vyústit v nadměrnou spotřebu na jedné straně a mylné investice na straně druhé. Vede k plýtvání kapitálem a ohrožuje uspokojování potřeb v budoucnu.
+
+Zadruhé: Proces inflace neodstraňuje nutnost přizpůsobování produkce a realokace zdrojů. Pouze ji oddaluje a tím zhoršuje. Zatřetí: Inflace nemůže být trvalou politikou, protože, je-li nepřetržitá, nutně končí rozpadem peněžního systému.
+
+Drobný obchodník nebo hostinský se může snadno stát obětí zdání, že vše, co je zapotřebí k rozkvětu jeho podnikání i podnikání jeho kolegů, je větší útrata ze strany veřejnosti. V jeho očích je klíčové donutit obyvatelstvo více utrácet. Je však ohromující, že toto přesvědčení může být světu prezentováno jako nová sociální filozofie. Lord Keynes a jeho následovníci učinili nedostatek sklonu ke spotřebě odpovědným za to, co považovali v hospodářských poměrech za neuspokojivé. Podle jejich názoru není ke zlepšení životní úrovně lidí nutné zvýšit výrobu, ale zvýšit výdaje. Aby lidé mohli více utrácet, je doporučována „expanzivní" politika.
+
+Tato doktrína je jak stará, tak také mylná. Jejímu rozboru a odmítnutí bude věnována kapitola zabývající se hospodářským cyklem.

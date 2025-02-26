@@ -1,0 +1,21 @@
+6. Pokud úřady poskytnou každému zaměstnanému dělníkovi, jehož výdělky zaostávají za určitou minimální úrovní, příspěvek zvyšující jeho příjem na toto minimum, není míra mzdových sazeb ovlivněna přímo. Nepřímo by mohlo dojít k poklesu mzdových sazeb v důsledku toho, že by tento systém přiměl hledat práci i ty, kdo dříve nepracovali, a tím způsobit zvýšení nabídky práce.
+
+Mzdy a holé přežití
+
+Život primitivního člověka byl nekonečným bojem s nedostatkem přírodou daných prostředků pro jeho obživu. Mnozí jednotlivci a celé rodiny, kmeny a rasy během této zoufalé námahy zajistit své holé přežití podlehly. Primitivní člověk byl vždy pronásledován strachem ze smrti hladem. Civilizace nás od těchto nebezpečí osvobodila. Lidský život je neustále ohrožován nesčetnými hrozbami; může být ukončen v jakémkoli okamžiku přírodními silami, které jsou mimo naši kontrolu, přinejmenším při současném stavu našich znalostí a schopností.
+
+Hrůza z hladovění však již lidi žijící v kapitalistické společnosti nesužuje. Ten, kdo je schopen pracovat, vydělá mnohem více, než je nutné pro pouhou obživu.
+
+Samozřejmě že existují i lidé neschopní pracovat. Dále existují i invalidní osoby, jež mohou vykonávat malé množství práce, ale jejichž postižení jim znemožňuje vydělávat tolik, kolik si vydělají jiní pracovníci; občas jsou jejich mzdové sazby tak nízké, že si pro sebe nemohou zajistit obživu. Tito lidé mohou získat prostředky na své živobytí, jen když jim ostatní lidé pomohou. Jejich nouzi jim pomůže překonat síť příbuzných, přátel, dobročinnost dárců a nadací a obecní péče o chudé.
+
+Lidé žijící z darů ostatních se nepodílejí na společenském procesu výroby; pokud jde o obstarávání prostředků k uspokojení potřeb, tito lidé nejednají; přežijí jen díky tomu, že se o ně starají ostatní. Otázky péče o chudé jsou otázkami uspořádání spotřeby, nikoli uspořádání výrobních aktivit. Jako takové leží za hranicí teorie lidského jednání, jež se zabývá jen zaopatřováním prostředků nutných pro spotřebu, nikoli způsoby jejich spotřeby.
+
+Katalaktická teorie se zabývá způsoby dobročinné podpory chudých jen do té míry, do jaké případně ovlivňují nabídku práce. Někdy se stalo, že přístupy užité v rámci péče o chudé podpořily neochotu pracovat a nečinnost tělesně schopných dospělých.
+
+V kapitalistické společnosti převládá tendence k plynulému růstu podílu investovaného kapitálu na obyvatele. Akumulace kapitálu vysoce převyšuje tempo růstu počtu obyvatel. V důsledku toho mají tendenci nepřetržitě růsti mezní produktivita práce, reálné mzdové sazby a životní úroveň příjemců mezd. Toto zlepšení však není projevem fungování nevyhnutelných zákonů lidského vývoje; jde o výslednou tendenci souhry sil, které mohou svobodně projevit své důsledky pouze v kapitalismu. Je možné, a vezmeme-li v úvahu směr současných politik i pravděpodobné, že spotřeba kapitálu spolu se zvýšením nebo nedostatečným poklesem počtu obyvatel věci obrátí. Potom se může stát, že lidé znovu poznají, co znamená hladovění, a poměr mezi dostupnými kapitálovými statky a počtem obyvatel bude tak nepříznivý, že si část pracovníků nevydělá ani na holé přežití.
+
+Pouhé přiblížení se tomuto stavu by zajisté způsobilo ve společnosti nesmiřitelné rozpory a střety, jejichž násilí by vedlo k úplnému rozpadu společenských vazeb. Společenská dělba práce nemůže být zachována, jestliže je část spolupracujících členů společnosti odsouzena vydělat si méně, než kolik potřebuje k holému přežití.
+
+Koncept fyziologického životního minima, na které se odkazuje „železný zákon mzdový" a který je znovu a znovu předkládán nejrůznějšími demagogy, nemá pro katalaktickou teorii určení mzdových sazeb žádný význam. Vyšší produktivita práce vykonávané v souladu s principy společenské dělby práce oproti snahám izolovaných jednotlivců, díky níž se práceschopné dospělé osoby nemusí obávat hladovění, jež denně hrozilo jejich předchůdcům, je jedním ze základů, na kterých spočívá společenská spolupráce.
+
+V kapitalistickém společenství nehraje životní minimum žádnou katalaktickou roli.

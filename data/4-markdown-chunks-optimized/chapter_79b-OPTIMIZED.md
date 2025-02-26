@@ -1,0 +1,17 @@
+Není tedy nic zvláštního ani špatného na tom, že v rámci takto proměnlivého světa nejsou peníze ani neutrální, ani nemají stabilní kupní sílu. Všechny plány na dosažení neutrálních a stabilních peněz jsou vnitřně rozporné. Peníze jsou prvkem jednání a následkem toho i změny. Změny v peněžním vztahu, tj. ve vztahu mezi nabídkou peněz a poptávkou po penězích, mají dopad na směnný poměr mezi penězi na jedné straně a prodejnými statky na straně druhé. Tyto změny neovlivňují ceny různých statků a služeb ve stejném čase a rozsahu.
+
+V důsledku toho dopadají odlišným způsobem na bohatství různých členů společnosti.
+
+Změny v kupní síle peněz, tj. ve směnném poměru mezi penězi a prodejnými statky, mohou být způsobeny buď stranou peněz, nebo naopak stranou prodejných statků. Změny, které je vyvolávají, se mohou objevit buď v poptávce a nabídce peněz, nebo v poptávce a nabídce ostatních statků a služeb. Podle toho můžeme rozlišovat mezi změnami kupní síly, které jsou vyvolány hotovostí, a těmi, jež jsou vyvolány statky.
+
+Změny kupní síly vyvolané statky mohou být zapříčiněny změnami nabídky statků a služeb nebo poptávky po jednotlivých statcích a službách. Všeobecný růst nebo pokles poptávky po všech statcích a službách, nebo po většině z nich, může být způsoben pouze prostřednictvím peněz.
+
+Prozkoumejme nyní společenské a ekonomické důsledky změn kupní síly peněz za následujících tří předpokladů: zaprvé, peníze lze v tomto případě použít pouze jako peníze – tj. jako prostředek směny – a nemohou sloužit jinému účelu; zadruhé, existuje jen směna současných statků za budoucí statky; zatřetí, nebereme v úvahu vliv změn kupní síly na peněžní kalkulaci.
+
+Za uvedených předpokladů způsobí hotovostí vyvolané změny kupní síly přesuny bohatství mezi různými jednotlivci. Někteří zbohatnou, jiní zchudnou; někteří jsou zásobeni lépe, jiní hůře; co jedni získají, je vyrovnáno ztrátou ostatních. Není ovšem možné vysvětlovat tento fakt tak, že celkové uspokojení zůstává nezměněno, nebo – protože se nezměnila celková nabídka – že se celkové uspokojení či spokojenost díky změnám v rozdělení bohatství zvýšily nebo snížily. Představy celkového uspokojení nebo celkové spokojenosti jsou bezobsažné. Není možné najít měřítko pro porovnávání rozdílných úrovní uspokojení nebo štěstí, dosažených různými jednotlivci.
+
+Změny kupní síly vyvolané hotovostí nepřímo vytvářejí další změny tím, jak podporují buď akumulaci dodatečného kapitálu, nebo spotřebu kapitálu, který je k dispozici. Zda se tento druhotný efekt objeví a jaký bude jeho směr, závisí na konkrétních podmínkách každého případu.
+
+Změny kupní síly vyvolané statky nejsou často ničím jiným než důsledky změny poptávky po jednom statku na poptávku po jiném statku. Pokud jsou způsobeny zvýšením nebo snížením poptávky statků, nepředstavují pouze přesun od jedněch lidí k jiným. Neznamenají, že Petr získává to, co Pavel ztratil. Někteří mohou zbohatnout, i když není nikdo ochuzen, a naopak.
+
+Služby, jež peníze poskytují, jsou podmíněny výší jejich kupní síly. Nikdo nechce držet určitý počet mincí nebo peníze o určité hmotnosti; každý chce mít hotovost s určitou kupní silou. Jak fungování trhu směřuje k určení konečné kupní síly peněz v té výši, při níž se vyrovnají nabídka s poptávkou po penězích, nikdy nemůže nastat přebytek nebo nedostatek peněz. Každý jednotlivec a všichni jednotlivci dohromady se plně těší z výhod, které získávají z nepřímé směny a používání peněz, bez ohledu na to, zda je celkové množství peněz velké, nebo malé.

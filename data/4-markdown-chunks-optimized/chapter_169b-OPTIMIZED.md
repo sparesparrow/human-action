@@ -1,0 +1,25 @@
+Veřejnost se na lobbyisty dívá podezíravě a viní je z bezútěšných dopadů intervencionistické legislativy. Kořen zla však spočívá hlouběji. Filozofie nejrůznějších zájmových skupin pronikla do legislativních sborů. Dnes v parlamentech najdeme zástupce pěstitelů obilí, chovatelů dobytka, zemědělských družstev, těžařů stříbra, zástupce nejrůznějších odborových centrál, odvětví, která nemohou obstát v zahraniční konkurenci bez existence cel, a mnoha dalších zájmových skupin. Najdeme i pár takových, pro které zájmy země stojí nad zájmy jejich zájmových skupin. Totéž platí i pro jednotlivá ministerstva. Ministr zemědělství se považuje za zastánce zájmů zemědělství; jeho hlavním cílem je zajistit nárůst cen potravin.
+
+Ministr práce se považuje za zástupce odborů a jeho základním cílem je posílit co nejvíce jejich postavení. Každé ministerstvo provádí vlastní politiku a podniká kroky, které jsou v rozporu s kroky ostatních ministerstev.
+
+Mnoho lidí si dnes stěžuje na nedostatek politiků, kteří by byli skutečnými státníky. V prostředí převládajících myšlenek intervencionismu mohou ale úspěšnou politickou kariéru vést pouze lidé, kteří se ztotožňují se zájmy nějaké zájmové skupiny. Státník, jenž má hledět daleko kupředu, ale nepotřebuje mentalitu odboráře či zástupce sdružení zemědělců. Služba krátkozrakým cílům zájmové skupiny nevybaví člověka vlastnostmi, které by z něj učinily úspěšného státníka. Státnické chování má totiž podobu dlouhodobého uvažování.
+
+Zájmové skupiny ale dlouhodobé uvažování nezajímá. Politováníhodné selhání výmarského systému v Německu a třetí francouzské republiky bylo převážně způsobeno právě skutečností, že dotčení politici byli pouze experty na záležitosti zájmových skupin.
+
+Předpovídání jako profese
+
+Když si podnikatelé konečně uvědomili, že hospodářský boom vyvolaný úvěrovou expanzí není trvalý a nutně povede k hospodářskému propadu, zjistili, že je pro ně důležité včas vědět, kdy k tomuto zlomu dojde. Obrátili se tedy na ekonomy se žádostí o radu.
+
+Ekonom ví, že takovýto boom nutně vyústí v depresi. Neví – a ani nemůže vědět –, kdy se krize objeví. To v každém jednotlivém případě závisí na konkrétních podmínkách. Mnohé politické události mohou mít na tento výsledek určitý vliv. Neexistují žádná pravidla, podle kterých bychom mohli trvání boomu nebo následné deprese vypočíst. A i kdybychom taková pravidla měli, podnikatelům by nikterak neposloužila.
+
+Aby se jednotlivý podnikatel totiž dokázal vyhnout ztrátě, potřebuje vědět, kdy ke zlomu dojde, v okamžiku, kdy ostatní podnikatelé stále věří, že hospodářský propad je dále, než tomu je ve skutečnosti. V takové situaci by mu jeho lepší znalost umožnila přizpůsobit své podnikání takovým způsobem, aby jej tento propad negativně nezasáhl. Kdyby ale konec boomu bylo možné spočítat podle nějakého vzorce, všichni podnikatelé by se výsledek dozvěděli ve stejný okamžik.
+
+Jejich snaha přizpůsobit své podnikání této informaci by okamžitě vedla ke vzniku veškerých projevů hospodářské deprese. Pro všechny by už bylo příliš pozdě na to, aby se dokázali problémům vyhnout.
+
+Kdyby bylo možné vypočítat budoucí podobu trhu, budoucnost by přestala být nejistá. Neexistovala by ani podnikatelská ztráta, ani zisk. Dovednosti, které lidé od ekonomů očekávají, přesahují schopnosti jakéhokoli smrtelníka.
+
+Samotná myšlenka, že budoucnost je předvídatelná, že konkrétní rozumění světu, jež je základem činnosti podnikatelů, je možné nahradit nějakými vzorci a že znalost těchto vzorců může z každého udělat podnikatele, je samozřejmě výsledkem celé změti omylů a mylných představ, jež nalézáme u kořenů dnešních antikapitalistických politik. V celé soustavě, jež si říká marxistická filozofie, nenajdeme ani nejmenší odkaz na skutečnost, že hlavním úkolem konání je zaopatřit se na události nejisté budoucnosti. Dnešní používání termínu spekulant pouze s hanlivým nádechem zřetelně prokazuje, že naši současníci vůbec netuší, v čem spočívá základní problém lidského jednání.
+
+Podnikatelský úsudek nelze koupit na trhu. Podnikatelská myšlenka, která je uskutečněna a přináší zisk, má přesně tu vlastnost, že většinu lidí nenapadne. Zisky nepřináší správný odhad jako takový, ale lepší odhad, než má zbytek lidí. Odměnu získávají pouze rebelové, kteří se nenechají svést omyly, jež zastávají davy. Ziskům dává vzniknout skutečnost, že se někdo připravil na budoucnost v situaci, kdy to ostatní dostatečně neudělali.
+
+Podnikatelé a kapitalisté vydávají napospas svůj vlastní hmotný blahobyt, jsou-li zcela přesvědčeni o správnosti svých plánů. Nikdy by se nerozhodli vzít svůj ekonomický život do svých rukou proto, že jim to poradil nějaký expert. Neznalí lidé, kteří působí na akciových a komoditních burzách na základě doporučení expertů, o své peníze přijdou, ať už mají svou inspiraci a „důvěrné" informace odkudkoli.

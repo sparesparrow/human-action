@@ -1,0 +1,13 @@
+Využití více strojů či lepších strojů je možné pouze tehdy, je-li dostupný požadovaný kapitál. Nutnou podmínkou každého dalšího technologického zdokonalení jsou úspory, tj. vyšší výroba než spotřeba. Pouhá znalost technologie je k ničemu, neexistuje-li potřebný kapitál. Indičtí podnikatelé znají americké výrobní postupy. Nemohou je ale převzít nikoli kvůli nízkým mzdám, ale kvůli nedostatku kapitálu.
+
+Kapitalistické spoření na druhou stranu nutně vede k využití dodatečných strojů a nástrojů. Prosté spoření, tj. shromažďování zásob spotřebních statků jako rezervy na horší časy, hraje v tržní ekonomice jen zanedbatelnou úlohu. Je pravidlem, že úspory v kapitalismu jsou představovány úsporami kapitalistů. Převis výroby nad spotřebou je investován buď přímo v průmyslovém či zemědělském podnikání samotného tvůrce úspor, nebo nepřímo v podnicích ostatních lidí prostřednictvím nástrojů, jako jsou spořící vklady, kmenové či prioritní akcie, obligace, dluhopisy a hypotéky.
+
+V té míře, v jaké lidé zachovají svou spotřebu pod úrovní čistého příjmu, je vytvářen dodatečný kapitál, který je zároveň využíván k rozvoji kapitálového vybavení výrobního aparátu. Jak jsme si ukázali, tento výsledek nemůže být ovlivněn jakoukoli zároveň působící tendencí k nárůstu držby hotovosti.
+
+K využití většího množství či lepší kvality nástrojů je nezbytně nutná dodatečná akumulace kapitálu. Možnost uplatnění dodatečného kapitálu však bude existovat, pouze pokud pro něj využití většího množství a lepší kvality nástrojů vytvoří volný prostor.
+
+Ricardovo tvrzení a z něj odvozená teorie odborů věci převrací. Tendence ke zvýšení mzdových sazeb není příčinou, ale důsledkem technologického zdokonalení. Podnikatel usilující o dosažení zisku je veden k využívání nejefektivnějších výrobních metod. V cestě ke zlepšení vybavení jeho podniku mu brání pouze nedostatek kapitálu. Není-li potřebný kapitál dostupný, nemůže ho dodat žádná manipulace s výší mzdových sazeb.
+
+Minimální mzdy mohou ohledně využívání strojů dosáhnout pouze přesunu dodatečných investic z jednoho sektoru do druhého. Předpokládejme, že v hospodářsky zaostalé zemi Ruritánii se odborům sdružujícím dělníky v docích podaří přinutit podnikatele vyplácet mzdy, jež jsou relativně mnohem vyšší než mzdy v ostatních sektorech země. Pak se může stát, že nejziskovějším využitím dodatečného kapitálu bude nákup mechanických zařízení k nakládání a vykládání lodí.
+
+Takto využitý kapitál musí být ale odebrán z jiných odvětví ruritánské ekonomiky, v nichž by byl při neexistenci politiky odborů využit efektivněji. Výsledkem vysokých mezd dělníků v docích není zvýšení, ale pokles celkové výroby v Ruritánii.

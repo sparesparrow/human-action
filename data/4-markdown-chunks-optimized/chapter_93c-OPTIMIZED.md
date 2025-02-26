@@ -1,0 +1,23 @@
+6. Vliv minulosti na jednání
+
+Čím dále pokročila akumulace kapitálových statků, tím větším problémem se stává jejich převoditelnost. Primitivní metody zemědělců a řemeslníků minulých dob mohly být snadněji přizpůsobeny novým úkolům než moderní kapitalistické metody. Avšak právě moderní kapitalismus musí čelit náhlým změnám podmínek. Změny technologických znalostí a poptávky spotřebitelů, k nimž v naší době dochází denně, způsobují zastarávání mnohých plánů řídících výrobní procesy a vyvolávají otázku, zda by měly být i nadále sledovány nebo nikoli.
+
+Lidí se může zmocnit duch rozsáhlé inovace, může zvítězit nad překážkami v podobě otupělosti a nečinnosti, může povzbudit zlenivělé otroky stereotypů k zásadní změně tradičních hodnocení a může rozhodně pobídnout ke sledování nových cest, vedoucích k novým cílům. Doktrináři se mohou snažit zapomenout, že jsme ve všech našich snaženích dědici našich otců a že naše civilizace, výsledek dlouhého vývoje, nemůže být přeměněna naráz.
+
+Ať již je sklon k inovacím jakkoli silný, je držen v určitých mezích faktory nutícími lidi neodchylovat se ukvapeně ze směru zvoleného jejich předky. Veškeré materiální bohatství je výsledkem minulých činností a je ztělesňováno konkrétními kapitálovými statky s omezenou převoditelností. Naakumulované kapitálové statky směrují jednání žijících lidí do odvětví, která by si nezvolili, kdyby jejich možnost rozhodování nebyla omezena svazujícími činy provedenými v minulosti.
+
+Kapitálové statky jsou konzervativním prvkem. Nutí nás přizpůsobit naše jednání podmínkám vyvolaným naším vlastním jednáním v minulosti a uvažováním, volbami a jednáním minulých generací.
+
+Můžeme si představovat, jak by věci vypadaly, kdybychom uspořádali všechny výrobní procesy a vyráběli veškeré kapitálové statky podle našich současných znalostí o přírodních zdrojích, geografii, technologii a hygieně. Výrobní centra bychom umístili na jiná místa. Zemský povrch bychom zalidnili jiným způsobem. Některé oblasti, které jsou dnes hustě osídlené a plné továren a zemědělských statků, by byly méně obydlené. Shromáždili bychom více lidí, více obchodů a více statků v jiných oblastech. Všechny podniky by byly vybavené nejvýkonnějšími stroji a nástroji.
+
+Každý z nich by měl přesně tu velikost, jež je nutná k nejhospodárnějšímu využití jeho výrobní kapacity. Ve světě našeho dokonalého plánování by nebylo technologické zaostalosti, neexistovala by žádná nevyužitá výrobní kapacita a žádné přesuny lidí a statků, bez nichž by se šlo obejít. Produktivita lidského úsilí by daleko předčila tu v naší současné, nedokonalé situaci.
+
+Spisy socialistů jsou plné podobných utopických představ. Ať už sami sebe nazývají marxistickými nebo nemarxistickými socialisty, technokraty nebo prostě plánovači, všichni touží po tom, aby nám ukázali, jak hloupě jsou věci v realitě uspořádány a jak šťastně bychom mohli žít, kdybychom svěřili reformátorům diktátorské pravomoci. Říkají, že jsou to pouze nedostatky kapitalistického způsobu výroby, jež brání lidstvu těšit se ze všech vymožeností, které by mohly být vytvořeny za současného stavu technologických znalostí.
+
+Zásadní chybou tohoto racionalistického fantazírování je špatné pochopení podstaty dostupných kapitálových statků a jejich vzácnosti. Dnes dostupné meziprodukty byly vyrobeny v minulosti našimi předky nebo námi samotnými. Plány, podle nichž byly vyrobeny, byly výsledkem tehdy převládajících představ o cílech a technologických postupech. Když uvažujeme o jiných cílech a jiných metodách, stojíme před jinou možností.
+
+Musíme buď velkou část dostupných kapitálových statků nechat nevyužitou a začít vyrábět moderní vybavení od začátku, nebo můžeme co nejvíce přizpůsobit naše výrobní procesy zvláštnímu charakteru dostupných kapitálových statků. Zbytek je na spotřebitelích, stejně jako v ostatních případech v tržním hospodářství. Jejich chování, to, zda budou nebo nebudou nakupovat, tuto záležitost vyřeší.
+
+Při svém výběru mezi starým bytem a novým bytem, vybaveným veškerými zařízeními pro pohodlný život, mezi železnicí a automobilem, mezi plynovým a elektrickým světlem, mezi bavlnou a výrobky z umělého hedvábí, mezi punčochami z hedvábí a nylonu nepřímo volí mezi dalším užíváním dříve naakumulovaných kapitálových statků a jejich sešrotováním.
+
+Pokud není stará budova, jež by mohla být obývána ještě celé roky, předčasně zbořena a nahrazena moderním domem, protože nájemníci nejsou ochotni platit vyšší nájemné a dávají přednost uspokojení jiných potřeb před bydlením v pohodlnějším bytě, je zjevné, jak je současná spotřeba ovlivněna podmínkami v minulosti.

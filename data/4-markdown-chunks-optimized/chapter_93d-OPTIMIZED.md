@@ -1,0 +1,25 @@
+Skutečnost, že ne každé technologické zlepšení je okamžitě použito ve všech možných užitích, je stejně jasná jako to, že ne všichni vyhazují svá stará auta nebo staré oblečení okamžitě poté, co se na trhu objeví lepší auto nebo přijdou do módy nové vzory. Ve všech těchto případech jsou lidé motivováni vzácností dostupných statků.
+
+Je sestrojen nový stroj, výkonnější než ty používané před ním. To, zda továrny, vybavené méně výkonnými stroji, tyto stroje nahradí novým modelem i přesto, že jsou stále použitelné, záleží na stupni nadřazenosti nového stroje. Ekonomicky rozumné bude sešrotovat staré vybavení pouze tehdy, postačuje-li nadřazenost nového k tomu, aby vynahradila nutné dodatečné výdaje.
+
+Nechť p je cena nového stroje, q je cena, za kterou lze tento stroj prodat do sběru, a jsou náklady na výrobu jedné jednotky produktu starým strojem, b jsou náklady na výrobu této jednotky novým strojem bez zohlednění nákladů na její nákup. Dále předpokládejme, že výhoda nového stroje spočívá pouze v lepším využití surovin a použité práce, a nikoli ve výrobě kvalitnějších výrobků, a celkový roční výstup označený z se nemění.
+
+Potom je nahrazení starého stroje novým výhodné, je-li příjem z (a – b) dostatečně velký, aby nahradil výdaje p – q. Pokud budeme předpokládat, že roční odpisy nového stroje jsou stejné jako starého, můžeme je zanedbat. Stejné úvahy platí pro přesun stávající továrny z jednoho místa s horšími výrobními podmínkami na místo, kde jsou výrobní podmínky lepší.
+
+Technologická zaostalost a podřadnost jsou dvě různé věci a nesmějí být zaměňovány. Může se stát, že strojní zařízení, jež je z technologického pohledu překonáno, je schopno úspěšně konkurovat lépe vybaveným zařízením nebo těm, která jsou umístěna na lepším místě. O této otázce rozhoduje stupeň nadřazenosti získaný díky technologicky výkonnějšímu zařízení nebo příhodnějšímu umístění srovnávanému s výdaji nutnými ke změně. Tento vztah závisí na převoditelnosti daných kapitálových statků.
+
+Rozlišování mezi technologickou dokonalostí a ekonomickými zájmy není, jak se nám snaží namluvit fantazírující inženýři, rysem kapitalismu. Pravda je, že jsme schopni uskutečnit všechny výpočty nutné pro poznání všech podstatných skutečností pouze díky ekonomické kalkulaci, jež je možná jedině v tržním hospodářství.
+
+Socialistický management by nebyl schopen zjistit stav věcí aritmetickými metodami. Nevěděl by tak, zda to, co plánuje a uskutečňuje, je či není nejvhodnější užití prostředků dostupných k uspokojení potřeb považovaných jím samým za nejnaléhavější a stále neuspokojené potřeby lidu.
+
+Pokud by však byl schopen kalkulovat, nepostupoval by jinak než kalkulující podnikatel. Neplýtval by vzácnými výrobními faktory na uspokojení potřeb považovaných za méně naléhavé, pokud by to bránilo uspokojení potřeb naléhavějších. Nespěchal by s likvidací použitelného výrobního zařízení, pokud by nutné investice ohrozily rozšíření výroby naléhavěji potřebných statků.
+
+Pokud člověk náležitě zváží otázku převoditelnosti kapitálu, může snadno vyvrátit celou řadu rozšířených omylů. Vezměme například argument „nedospělých odvětví" předkládaný ve prospěch protekcionismu. Jeho zastánci tvrdí, že dočasná ochrana je potřebná k rozvoji zpracovatelského průmyslu na místech s méně příhodnými podmínkami, nebo podmínkami stejně výhodnými jako v oblastech s již zavedenými konkurenty.
+
+Tento starší průmysl získal výhodu dřívějšího startu. Nyní je podporován pouhým historickým, náhodným a zjevně „iracionálním" faktorem. Tato výhoda brání vybudování konkurenčních podniků v oblastech, jejichž podmínky slibují, že tyto podniky budou schopny vyrábět levněji, nebo přinejmenším stejně levně jako staré podniky.
+
+Mohou připustit, že ochrana nedospělých odvětví je dočasně drahá. Ovšem učiněné oběti budou prý více než vyrovnány budoucími přínosy. Pravda je, že založení nedospělého odvětví je z ekonomického pohledu výhodné pouze tehdy, je-li nadřazenost nového umístění tak významná, že vyvažuje nevýhody plynoucí z opuštění nepřevoditelných nebo nepřemístitelných kapitálových statků investovaných ve stávajících podnicích.
+
+Pokud tomu tak je, nové podniky budou schopny úspěšně konkurovat starým bez jakékoli vládní pomoci. Pokud tomu tak není, je poskytnutá ochrana plýtváním, byť je pouze dočasná a umožňuje novému průmyslu obstát v pozdějším období.
+
+Clo se tak v podstatě rovná dotaci, kterou jsou nuceni platit spotřebitelé jako kompenzaci za užití vzácných výrobních faktorů při nahrazení stále použitelného vybavení určeného ke sešrotování a odebrání těchto vzácných faktorů z jiných užití, v nichž by mohly přinést služby, které jsou spotřebiteli hodnoceny více. Spotřebitelé jsou připraveni o příležitost uspokojit určité potřeby, protože potřebné kapitálové statky jsou nasměrovány do výroby statků jim dostupných již při neexistenci cla.

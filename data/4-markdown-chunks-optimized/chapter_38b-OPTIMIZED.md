@@ -1,0 +1,25 @@
+Praxeologie jako věda nemůže zasahovat do individuálního práva vybrat si a jednat. Konečné rozhodnutí je na jednajících lidech, nepatří teoretikům. Přínos vědy pro život nespočívá ve stanovení hodnotových ocenění, ale v objasnění podmínek, za nichž člověk musí jednat, a v objasnění důsledků různých způsobů jednání. Dává jednajícímu člověku k dispozici všechny informace, které potřebuje, aby se mohl rozhodnout s plným vědomím důsledků. Připravuje jakýsi odhad nákladů a zisků.
+
+V této úloze by věda selhala, kdyby z tohoto výkazu musela vypustit některou z položek, které mohou ovlivnit výběr a rozhodování lidí.
+
+Současné chybné výklady moderních přírodních věd, zejména darwinismu
+
+Někteří dnešní antiliberálové, jak na levém, tak na pravém křídle spektra, zakládají svá učení na nesprávném výkladu přínosů moderní biologie.
+
+Lidé nejsou stejní. Liberalismus osmnáctého století, stejně jako dnešní egalitarismus, vycházejí ze „samozřejmé pravdy", že „všichni lidé jsou stvořeni rovni a že jsou svým Stvořitelem vybaveni určitými nezadatelnými právy". Zastánci biologické filozofie společnosti však říkají, že přírodní vědy nevyvratitelným způsobem dokázaly, že lidé jsou různí. Při experimentálních pozorováních přírodních jevů není místo pro takové pojmy, jako jsou přirozená práva. Co se týče života a štěstí jakékoli bytosti, příroda nic necítí ani nevnímá.
+
+Příroda, to je železná nutnost a pravidelnost. Spojovat dohromady „kluzký" a vágní pojem svobody a neměnné absolutní zákony vesmírného pořádku je metafyzický nesmysl. Základní myšlenka liberalismu je tak demaskována jako klam.
+
+Nuže, je pravda, že liberální a demokratické hnutí osmnáctého a devatenáctého století čerpalo velký díl své síly z doktríny o přirozených právech a o vrozených nezadatelných právech jednotlivce. Tyto myšlenky, původně rozvinuté antickou filozofií a židovskou teologií, prostoupily křesťanským učením. Některé protikatolické sekty z nich udělaly centrální bod svých politických programů. Dlouhá řada významných filozofů je dokazovala. Staly se populárními a byly nejmocnější hybnou silou v předdemokratickém vývoji. Ještě dnes jsou stále podporovány.
+
+Jejich zastánci se nezabývají nepopiratelným faktem, že Bůh nebo příroda nestvořili lidi stejné, protože se mnoho lidí rodí zdravých jako buk, zatímco jiní jsou zmrzačeni a deformováni. Podle nich vznikají všechny rozdíly mezi lidmi kvůli vzdělání, příležitostem a společenským institucím.
+
+Učení utilitaristické filozofie a klasické ekonomie ale nemají s doktrínou přirozených práv nic společného. Podle nich je jedinou věcí, která má význam, společenský užitek. Nedoporučují vládu lidu, soukromé vlastnictví, toleranci a svobodu kvůli tomu, že jsou přirozené a spravedlivé, ale protože jsou výhodné. Jádrem Ricardovy filozofie je důkaz, že spolupráce ve společnosti a dělba práce mezi lidmi, kteří jsou v každém ohledu lepší a výkonnější, a lidmi, kteří jsou v každém ohledu horší a méně výkonní, je výhodná pro obě skupiny. Radikál Bentham vykřikoval: „Přirozená práva je hloupý nesmysl: přirozená a nezadatelná práva, to je rétorický nesmysl." Podle něj by „jediným cílem vlády mělo být největší štěstí co největší části společnosti".
+
+Při zjišťování, co by mělo být správné, se tudíž nezajímá o předpojaté myšlenky ohledně plánů či záměrů Boha či přírody, navždy skryté smrtelným lidem; soustřeďuje se na odhalení toho, co nejlépe slouží podpoře lidské prosperity a štěstí. Malthus ukázal, že příroda, když omezuje prostředky obživy, neposkytuje právo na existenci žádné živé bytosti a že by se člověk byl nikdy nepozvedl nad hranici hladovění, kdyby se zaslepeně uspokojoval ve svém přirozeném rozmnožovacím pudu.
+
+Tvrdil, že se lidská civilizace a blahobyt mohly rozvinout pouze proto, že se člověk naučil držet mravními zábranami na uzdě své sexuální chutě. Utilitaristé nebojují proti tyranské vládě a privilegiím proto, že je to proti zákonu přírody, ale protože to škodí prosperitě. Rovnost podle občanského práva nedoporučují proto, že jsou si lidé rovni, ale proto, že takový program je prospěšný pro obecné blaho.
+
+Při odmítání iluzorních pojmů přirozeného práva a lidské rovnosti moderní biologie pouze opakuje to, co již dávno předtím mnohem přesvědčivěji učili utilitarističtí bojovníci za liberalismus a demokracii. Je zřejmé, že žádná biologická doktrína nemůže nikdy zbavit platnosti to, co utilitaristická filozofie říká o společenské užitečnosti demokratické vlády, soukromého vlastnictví, svobody a rovnosti před zákonem.
+
+Dnešní převaha doktrín, které schvalují dezintegraci společnosti a násilný konflikt, není výsledkem údajného přizpůsobení sociální filozofie biologickým objevům, ale téměř všeobecného odmítání utilitaristické filozofie a ekonomické teorie. Lidé nahradili „ortodoxní" ideologii souladu správně pochopených, tj.

@@ -1,0 +1,23 @@
+Chovatel dobytka nekrmí krávy proto, aby byly šťastné, ale aby dosáhl cílů, jež jim přidělil ve svých plánech. Může dávat přednost většímu množství mléka, nebo masa, nebo něčeho jiného. Jaký typ lidí chtějí šlechtitelé lidí vypěstovat – atlety, nebo matematiky? Válečníky, nebo tovární dělníky?
+
+Ten, kdo by z člověka udělal materiál pro cílevědomé šlechtění a krmení, by si přisvojil despotickou moc a používal by spoluobčany jako prostředek k dosažení svých vlastních cílů, které se liší od cílů, k nimž směřují tito spoluobčané.
+
+Hodnotové soudy jednotlivce se liší v tom, co mu přináší větší uspokojení a co menší. Hodnotové soudy, které člověk vyslovuje o uspokojení jiného člověka, neříkají nic o uspokojení tohoto druhého člověka. Říkají pouze, jaké podmínky tohoto druhého člověka uspokojují lépe toho, kdo pronáší soud. Reformátoři, kteří se pídili po největším všeobecném uspokojení, nám pouze řekli, jaká situace ostatních lidí jim samým nejlépe vyhovuje.
+
+Autistické hospodářství
+
+Žádný imaginární konstrukt nevyvolal víc útoků než imaginární konstrukt izolovaného ekonomického činitele, který je naprosto závislý sám na sobě. Ekonomie se však bez něj neobejde. Aby mohla studovat meziosobní směnu, musí ji srovnávat s podmínkami, v nichž neexistuje. Konstruuje dvě různé představy autistického hospodářství, v němž existuje pouze autistická směna: hospodářství izolovaného jednotlivce a hospodářství socialistické společnosti. Při využití tohoto imaginárního konstruktu se ekonomové netrápí tím, zda takový systém může nebo nemůže skutečně fungovat.
+
+Jsou si plně vědomi skutečnosti, že jejich imaginární konstrukt je smyšlený. Robinson Crusoe, přestože možná existoval, ani generální ředitel dokonale izolovaného socialistického společenství, které nikdy neexistovalo, by se nedostali do situace, že by plánovali a jednali tak, jak lidé plánují a jednají pouze tehdy, když se uchýlí k ekonomické kalkulaci. V rámci našeho imaginárního konstruktu však můžeme klidně předstírat, že uměli kalkulovat, kdykoli taková představa může pomoci při diskusi o konkrétním problému, jímž se máme zabývat.
+
+Imaginární konstrukt autistického hospodářství stojí v pozadí oblíbeného rozlišování mezi produktivitou a ziskovostí, které se stalo měřítkem hodnotových soudů. Ti, kteří se k tomuto rozlišování uchýlili, považují autistické hospodářství, zejména to socialistického typu, za nejžádoucnější a nejdokonalejší systém řízení hospodářství. Každý jev tržního hospodářství se hodnotí podle toho, zda může či nemůže být odůvodněn z pohledu socialistického systému. Pozitivní hodnocení a přívlastek produktivní se přiřazují pouze takovému jednání, které by bylo účelné v plánech manažera takového systému. Všechny ostatní činnosti vykonávané v tržním hospodářství se nazývají neproduktivními navzdory skutečnosti, že mohou být ziskové pro ty, kdo je vykonávají. Tak například podpora prodeje, reklama a bankovnictví se považují za činnosti, které jsou ziskové, ale neproduktivní.
+
+Samozřejmě že ekonomie nemá k takovým arbitrárním hodnotovým soudům co říct.
+
+Stav klidu a rovnoměrně plynoucí ekonomika
+
+Jediná metoda, jak zacházet s problémy, které se týkají jednání, je představit si, že jednání v konečné fázi směřuje k navození takového stavu věcí, v němž už žádné jednání nebude, ať už proto, že veškerá nespokojenost byla odstraněna, nebo proto, že jakékoli další odstraňování pociťované nespokojenosti nepřichází v úvahu. Jednání tak směřuje ke stavu klidu, k neexistenci jednání.
+
+V souladu s tím analyzuje teorie cen meziosobní směnu z tohoto pohledu. Lidé budou směňovat na trhu, dokud nedojde k tomu, že už jakákoli další směna nebude možná, protože žádná strana nebude očekávat z nového úkonu směny další zlepšení svých do té doby existujících podmínek. Potenciální kupující považují ceny požadované potenciálními prodávajícími za neuspokojivé a naopak. Žádné další obchody se nekonají. Zavládne stav klidu. Tento stav klidu, který můžeme nazývat prostým stavem klidu, není imaginárním konstruktem. Dochází k němu stále znovu a znovu. Když se zavírá burza, brokeři mají vyřízené všechny pokyny, které mohly být provedeny za tržní cenu. Pouze ti potenciální prodávající a kupující, kteří považují tržní cenu za příliš nízkou, resp. příliš vysokou, neprodali nebo nenakoupili.
+
+Totéž platí pro všechny obchody. Celé tržní hospodářství je jakoby velkým místem směny nebo trhu. V každém okamžiku se uskuteční všechny takové obchody, které jsou strany ochotny uzavřít za uskutečnitelnou cenu. Nové obchody mohou být uzavřeny teprve tehdy, když se ocenění alespoň jedné ze stran změní.

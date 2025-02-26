@@ -1,0 +1,19 @@
+Touto aktivitou přispívá svým podílem k dalšímu hospodářskému rozvoji společnosti a zlepšení životní úrovně ostatních lidí. Na scéně se ale objevuje vláda a ničí příznivé dopady činnosti jednotlivců. Nic než tento příklad nevyvrací lépe klišé zastánců blahobytu, kteří staví do protikladu sobeckého a omezeného jedince, kterému jde výlučně o okamžité uspokojení a který nebere ohledy na blahobyt ostatních lidí a trvalé zájmy společnosti, a daleko do budoucna hledící dobrotivou vládu, jež se neustále soustřeďuje na podporu trvalého blaha celé společnosti.
+
+Zastánci blahobytu přicházejí s dvěma námitkami. Zaprvé, že motivem jednotlivce je sobectví, zatímco vláda je vedena dobrými úmysly. Přijměme pro tento okamžik, že jednotlivci se podobají ďáblu, zatímco vládci spíše andělům. V životě a realitě však nejsou rozhodující úmysly, ale výsledky, přestože Kant tvrdil opak. Existence a rozvoj společnosti jsou možné právě díky skutečnosti, že mírová spolupráce v podmínkách dělby práce slouží dlouhodobě nejlépe sobeckým zájmům jednotlivců.
+
+Skvělé výsledky tržní společnosti byly dosaženy tím, že veškeré její fungování spočívá právě na tomto principu.
+
+Druhá výtka připomíná, že v systému blahobytu soukromá akumulace kapitálu a investice jsou nahrazeny vládou prováděnou akumulací a vládními a veřejnými investicemi. Odkazuje se na skutečnost, že ne všechny fondy, které si vláda v minulosti vypůjčila, byly utraceny na běžné výdaje. Značná jejich část byla investována do stavby silnic, železnic, přístavů, letišť, elektráren a ostatních veřejných projektů. Další, neméně významná část byla utracena na vedení obranných válek, které nesporně nemohly být financovány jiným způsobem.
+
+Tato výtka ovšem míří zcela špatným směrem. Klíčové je to, že část úspor jednotlivců je vládou využita k běžné spotřebě a že nic vládě nebrání, aby tuto část zvýšila tak, že na běžnou spotřebu bude věnována suma celá.
+
+Je jasné, že když vláda znemožní lidem akumulovat a investovat dodatečný kapitál, odpovědnost za tvorbu nového kapitálu, má-li nějaký existovat, připadne právě jí. Obhájci principu blahobytu, podle nichž je vládní regulace synonymem božské péče, díky níž je lidstvo moudře a nepozorovatelně vedeno k vyšším a dokonalejším stadiím nevyhnutelného evolučního procesu, si neuvědomují komplikovanost problému a jeho důsledky.
+
+Nejen další úspory a akumulace dodatečného kapitálu, ale stejně tak i udržování kapitálu na jeho současné úrovni vyžadují omezení současné spotřeby, abychom se mohli těšit většímu množství statků v budoucnu; abstinence, vzdání se uspokojení, jehož je možné dosáhnout okamžitě.
+
+Tržní hospodářství vytváří prostředí, v němž je takové odříkání prováděno v jisté míře a v němž je jeho výsledek, akumulovaný kapitál, investovaný do těch výrob, ve kterých nejlépe uspokojuje nejnaléhavější potřeby spotřebitelů. Na tomto místě vyvstávají otázky, zda soukromá akumulace kapitálu může být nahrazena vládní akumulací a jakým způsobem bude vláda dodatečný naakumulovaný kapitál investovat. Tyto problémy nemá pouze socialistická ekonomika. Jsou neméně palčivé v intervencionistické ekonomice, která buď zcela, či téměř úplně odstranila podmínky pro tvorbu soukromého kapitálu.
+
+Dokonce i Spojené státy se zjevně stále více přibližují této situaci.
+
+Vezměme si příklad vlády, jež získala kontrolu nad využitím značné části úspor občanů. Investice státního penzijního systému, soukromých pojišťoven, spořitelen a komerčních bank jsou z velké části určeny úřady a mají podobu nákupu veřejného dluhu. Občané stále spoří. Zda jejich úspory ale povedou či nepovedou k akumulaci kapitálu, a zvýší-li tedy množství kapitálových statků použitelných ke zdokonalení výrobního zařízení, tak závisí na způsobu využití prostředků, jež si vláda půjčila.

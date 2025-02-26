@@ -1,0 +1,23 @@
+Rozlišuje ze svého pohledu mezi „skutečnými" potřebami člověka a imaginárními a falešnými chutěmi. Učí lidi, jak by měli jednat a k jakým prostředkům by měli směřovat.
+
+Důležitost takových doktrín je zřejmá. Ze svého pohledu fyziolog správně rozlišuje mezi rozumným jednáním a jednáním v rozporu s účelem. Správně odlišuje uvážlivé metody stravování od metod nerozumných. Může zatracovat jisté mody chování jako absurdní a v rozporu se „skutečnými" potřebami. Tyto soudy jsou však úplně mimo oblast, jíž se zabývá věda zkoumající realitu lidského jednání. Praxeologii a ekonomii zajímá nikoli to, co by člověk měl dělat, ale co skutečně dělá. Hygiena může správně či nesprávně tvrdit, že alkohol a nikotin jsou jedy. Ekonomie však musí vysvětlit ceny alkoholických nápojů a tabáku, které jsou, nikoli které by byly za jiných podmínek.
+
+V oblasti ekonomie není žádný prostor pro škálu potřeb odlišnou od hodnotové škály, která se odráží ve vlastním chování člověka.
+
+Ekonomie se zabývá skutečným člověkem, jaký je, slabým a chybujícím, nikoli ideální, dokonalou a vševědoucí bytostí, kterou může být jen Bůh.
+
+Jednání je pokus nahradit méně uspokojivý stav věcí stavem více uspokojivým. Tuto záměrně způsobenou změnu nazýváme směnou. Méně preferované podmínky jsou vyměněny za lepší. Méně uspokojivé je opuštěno, aby bylo možné dosáhnout stavu, který je člověku příjemnější. To, čeho se vzdáváme, se nazývá cena, kterou platíme za dosažení sledovaného cíle. Hodnota zaplacené ceny se nazývá náklady. Náklady se rovnají hodnotě, kterou přisuzujeme uspokojení, jehož jsme se museli vzdát, abychom dosáhli sledovaného cíle.
+
+Rozdíl mezi hodnotou zaplacené ceny a hodnotou dosaženého cíle se nazývá ziskem či čistým výnosem. Zisk v tomto primárním smyslu je čistě subjektivní, znamená zvýšení štěstí jednajícího člověka, psychický jev, který nelze ani měřit, ani vážit. Existuje více a méně při odstraňování pociťované nespokojenosti, avšak o kolik více jedno uspokojení převyšuje uspokojení jiné, lze pouze pociťovat, nelze to nijak objektivně stanovit. Hodnotový soud neměří, uspořádává na škále, stanovuje pořadí. Je vyjádřením pořadí preference a následnosti, ale nikoli vyjádřením míry a váhy. Lze na něj aplikovat pouze ordinální, nikoli kardinální čísla.
+
+Mluvit o nějaké kalkulaci hodnot nemá smysl. Kalkulace je možná pouze s kardinálními čísly. Rozdíl mezi hodnocením dvou stavů věcí je zcela psychický a osobní. Nelze jej nijak projektovat do vnějšího světa. Může jej vnímat pouze jednotlivec. Nelze jej sdělit jinému člověku. Je intenzivní veličinou.
+
+Fyziologie a psychologie vyvinuly různé metody, jejichž pomocí předstírají, že nalezly způsob, jak nemožnost měření intenzivních veličin obejít. Ekonomie se nemusí zabývat zkoumáním těchto spíše podezřelých pokusů. Sami jejich zastánci si uvědomují, že se na hodnotové soudy nevztahují. Avšak i kdyby ano, na ekonomické problémy by to nemělo žádný dopad. Ekonomie se totiž zabývá jednáním jako takovým, nikoli psychickými fakty, které v konkrétní jednání ústí.
+
+Znovu a znovu se stává, že jednání nevede ke splnění sledovaných cílů. Někdy představuje výsledek, přestože je horší v porovnání s očekávaným cílem, stále ještě zlepšení vůči předcházejícímu stavu věcí. Pak stále existuje zisk, přestože je menší, než člověk očekával. Může se nicméně stát, že jednání způsobí stav věcí, který je méně žádoucí než stav původní, který mělo ono jednání změnit. V tom případě je rozdíl mezi hodnocením výsledku a utrpěnými náklady ztrátou.
+
+Pojem změny implikuje pojem časové posloupnosti. Pevný, věčně neměnný svět by byl mimo čas, ale byl by mrtvý. Pojmy času a změny jsou neoddělitelně spjaty. Jednání směřuje ke změně, a je proto v časovém řádu. Lidský rozum dokonce nedokáže myšlenku bezčasové existence a bezčasového jednání ani pojmout.
+
+Jednající člověk rozlišuje mezi časem před jednáním, časem vlastního jednání a časem poté, co bylo jednání dokončeno. Nemůže být s ohledem na plynutí času neutrální.
+
+Logika a matematika se zabývají ideálními myšlenkovými systémy. Vztahy a implikace jejich systémů koexistují a jsou vzájemně závislé. Dokonalá mysl by je mohla uchopit všechny v jedné myšlence. Lidská neschopnost tohoto dosáhnout činí z myšlení jednání, které postupuje krok za krokem od méně uspokojivého stavu nedostatečného poznání k uspokojivějšímu stavu lepšího pochopení. Časový řád, v němž člověk získává poznání, však nesmíme zaměňovat s logickou simultánností všech součástí apriorně deduktivního systému.

@@ -1,0 +1,3 @@
+Výstup na jednotku vstupu by se zvýšil a podnikatelé by zaplnili trhy rostoucím množstvím levných statků. Pokud by souběžné zvyšování nabídky peněz v širším smyslu bylo méně rozsáhlé, než by odpovídalo tomuto hospodářskému vývoji, ceny všech statků by měly tendenci klesat. Jako skutečná historická událost probíhala úvěrová expanze vždy v prostředí, v němž silné faktory působily proti její tendenci zvyšovat ceny.
+
+Výsledkem tohoto střetu protichůdných sil však byla zpravidla převaha těch, které vytvářejí růst cen. Existovaly ovšem i výjimečné okolnosti, za nichž byl vzestup cen pouze mírný. Nejvýznamnějším příkladem je americký boom v letech 1926 až 1929.

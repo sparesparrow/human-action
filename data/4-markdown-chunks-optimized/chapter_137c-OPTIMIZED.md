@@ -1,0 +1,21 @@
+Ty případy monopolních cen, které by se objevily i na trhu, do nějž není zasahováno a který není narušován zásahy různých národních vlád a tajnými dohodami mezi skupinami vlád, mají malý význam. Týkají se některých surovin, jejichž nalezišť je málo a jsou zeměpisně soustředěná v určitých oblastech, a místních monopolů z omezeného prostoru. Je však pravda, že v těchto případech mohou monopolní ceny vzniknout dokonce i v nepřítomnosti vládních politik, které přímo či nepřímo směřují k jejich vzniku.
+
+Je nutné si uvědomit, že moc spotřebitelů není dokonalá a že fungování demokratických tržních procesů má své meze. V některých výjimečných a řídkých případech, které nemají velkou důležitost, existuje dokonce i na trhu, který není ovlivňován a deformován vládními zásahy, antagonismus mezi zájmy vlastníků výrobních faktorů a zájmy ostatních lidí. Avšak existence takových rozporů vůbec nenarušuje shodu zájmu všech lidí, co se týče zachování tržního hospodářství.
+
+Tržní hospodářství je jediným systémem hospodářské organizace společnosti, který může fungovat a který opravdu funguje. Socialismus nelze uskutečnit kvůli jeho neschopnosti vyvinout metodu ekonomické kalkulace. Intervencionismus musí vést k situaci, která je z pohledu jeho stoupenců méně vhodná než podmínky nenarušovaného tržního hospodářství, jež chce změnit. Navíc se sám zničí, jakmile je doveden za úzké pole použití.
+
+Protože je tomu tak, je jediným společenským řádem, který může zachovat a dále zesílit dělbu práce ve společnosti, tržní hospodářství. Všichni, kdo si nepřejí rozložit spolupráci ve společnosti a vrátit se do podmínek primitivní zaostalosti, mají zájem na zachování tržního hospodářství na věky.
+
+Učení klasických ekonomů týkající se souladu správně pochopených zájmů bylo chybné v tom, že si nevšimli toho, že demokratický proces trhu není dokonalý, protože v některých případech, které nejsou příliš důležité, se monopolní ceny mohou objevit dokonce i v nenarušovaném tržním hospodářství. Ale daleko nápadnější byla jejich neschopnost povšimnout si, že (a proč) žádný socialistický systém nemůže být považován za systém hospodářské organizace společnosti.
+
+Založili teorii souladu zájmů na chybném předpokladu, že neexistuje žádná výjimka z pravidla, že vlastníci výrobních prostředků jsou tržním procesem nuceni využívat svůj majetek podle přání spotřebitelů. Tato teorie dnes musí být založena na znalosti toho, že v socialismu nelze provést žádnou ekonomickou kalkulaci.
+
+Soukromé vlastnictví výrobních prostředků je základní institucí tržního hospodářství. Je to instituce, jejíž výskyt charakterizuje tržní hospodářství jako takové. Kde neexistuje, tam o tržním hospodářství nelze mluvit.
+
+Vlastnictví znamená plnou kontrolu služeb, které ze statku mohou být odvozeny. Tento katalaktický pojem vlastnictví a vlastnických práv nesmí být zaměňován s právní definicí vlastnictví a vlastnických práv, jak je obsažen v právu různých zemí. Definice právního pojetí vlastnictví, aby poskytlo vlastníku plnou ochranu vládním aparátem donucení a nátlaku a zabránilo komukoli rušivě zasahovat do jeho práv, byl nápad zákonodárců a soudů. Jakmile byl tento účel dostatečně uskutečněn, začalo se právní pojetí vlastnických práv shodovat s katalaktickým pojetím.
+
+Dnes však existují tendence ke zrušení instituce soukromého vlastnictví změnou zákonů, které by určovaly rozsah opatření, jež je vlastník oprávněn přijmout vzhledem k věcem, které jsou jeho vlastnictvím. Tyto reformy zachovávají termín soukromé vlastnictví, ale směřují k jeho nahrazení veřejným vlastnictvím. Tento trend je charakteristickým znakem plánů různých škol křesťanského socialismu a nacionalistického socialismu.
+
+Ale jen málo zastánců těchto škol je tak přímých jako nacistický filosof Othmar Spann, který výslovně prohlásil, že uskutečnění jeho plánů by přineslo stav, v němž by byla instituce soukromého vlastnictví zachována pouze ve „formálním smyslu, zatímco fakticky by existovalo pouze veřejné vlastnictví".
+
+Je nutné se o těchto věcech zmínit, abychom se vyhnuli oblíbeným omylům a zmatkům. Když se katalaxie zabývá soukromým vlastnictvím, zajímá se o kontrolu, a ne o právní termíny, pojmy a definice. Soukromé vlastnictví znamená, že vlastníci rozhodují o využití výrobních faktorů, zatímco veřejné vlastnictví znamená, že jejich využití řídí vláda.

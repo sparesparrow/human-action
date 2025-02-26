@@ -1,0 +1,11 @@
+# Core dependencies
+anthropic>=0.15.0
+elevenlabs>=0.2.27
+tqdm>=4.66.1
+
+# For markdown/text processing
+PyPDF2>=3.0.0
+markdown>=3.5.1
+
+# For audio processing
+pydub>=0.25.1

@@ -1,0 +1,7 @@
+I když se Mises zpravidla vyhýbal tomu, aby se pouštěl do polemiky s ostatními kritiky socialismu, zabýval se v článku publikovaném ve francouzském ekonomickém žurnálu v roce 1938 rozdíly mezi svým a Hayekovým postojem. Poté co předkládá argument, že stav rovnováhy popsatelný matematickými rovnicemi je čistě hypotetický, zdánlivý a nerealizovatelný stav budoucnosti, který nemůžeme dnes znát, a „neodpovídá ničemu skutečnému", Mises píše:
+
+I Hayek ukázal, že využití rovnic, jež popisují stav rovnováhy, pro potřeby ekonomické kalkulace předpokládá znalost budoucích hodnocení spotřebitelů. Viděl v tom ale pouze zvýšení obtížnosti praktického využití těchto rovnic, místo aby tento problém pokládal za zásadní a nepřekonatelnou překážku jejich použití v ekonomické kalkulaci.
+
+Je naprosto nedůležité, že chápeme socialistický režim spíše jako diktaturu s centrálním plánováním, kdy jsou významná pouze hodnocení samotného diktátora, než jako společnost organizovanou podle demokratických principů, v níž by to byla hodnocení jednotlivých spotřebitelů nebo skupin spotřebitelů, která by byla vodítkem pro centrální plánování.
+
+Ani diktátor sám nemůže dnes vědět, jak bude hodnotit věci v budoucnu, neboť nastanou jiné podmínky; nemůže to vědět, stejně jako to nemůže vědět samotný spotřebitel.

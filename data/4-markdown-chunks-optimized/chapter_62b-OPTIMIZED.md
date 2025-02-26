@@ -1,0 +1,23 @@
+Člověk vstupuje do řad průkopníků tím, že se spontánně vrhne vpřed, a tím podstoupí zkoušku, které trh podrobuje – bez ohledu na to, o koho se jedná – každého, kdo se chce stát průkopníkem nebo setrvat v tomto významném postavení. Každý má možnost uchopit svou šanci. Nováček nemusí čekat, až ho někdo pozve nebo vyzve. Musí se na vlastní pěst vrhnout vpřed a musí sám vědět, jak si obstarat potřebné prostředky.
+
+Stále dokola se tvrdí, že v podmínkách „pozdního" nebo „rozvinutého" kapitalismu už není možné, aby se lidé bez jediného centu v kapse vyšplhali po žebříku k bohatství a podnikatelskému postavení. Nikdy se nikdo nepokusil toto tvrzení dokázat. Od té doby, kdy bylo poprvé předloženo, se složení skupin podnikatelů a kapitalistů značně proměnilo. Velká skupina bývalých podnikatelů a jejich dědiců byla vyřazena a jiní lidé, nováčci, zaujali jejich místo.
+
+Je samozřejmě pravda, že v posledních letech byly záměrně vytvořeny instituce, které – nebudou-li velmi brzo zrušeny – způsobí, že fungování trhu bude ve všech ohledech nemožné.
+
+Hlediskem, na jehož základě spotřebitelé vybírají kapitány průmyslu a obchodu, je výhradně schopnost přizpůsobit výrobu potřebám spotřebitelů. Nestarají se o jejich vlastnosti a zásluhy. Chtějí, aby výrobce obuvi vyráběl dobré a levné boty. Nemají zájem svěřit řízení obchodu s obuví krásným přátelským chlapcům, lidem s dobrými salonními způsoby, s uměleckým nadáním, s vědeckými sklony nebo s nějakými jinými dobrými vlastnostmi a vlohami. Znalosti, které přispívají k úspěchu člověka v jiných oblastech života, mohou často i velice schopnému obchodníkovi chybět.
+
+Dnes je poměrně běžné kritizovat kapitalisty a podnikatele. Člověk má sklon vysmívat se těm, kteří jsou úspěšnější než on. Tito lidé, tvrdí, jsou bohatší pouze proto, že jsou méně skrupulózní než on. Kdyby nebyl omezován povinnými ohledy na zákony morálky a slušnosti, byl by stejně úspěšný jako oni. Tak se lidé pyšní aureolou sebeuspokojení a farizejské spravedlivosti.
+
+Je pravda, že v podmínkách, které přináší intervencionismus, může mnoho lidí získat bohatství pomocí korupce a podplácení. Intervencionismus v mnoha zemích natolik podkopal nadřazenost trhu, že je pro obchodníka výhodnější spolehnout se na pomoc lidí v politických funkcích než na uspokojování potřeb spotřebitelů. Toto však populární kritici bohatství jiných lidí nemají na mysli. Oni tvrdí, že metody, kterými se získává bohatství, jsou z etického pohledu problematické.
+
+Proti takovým tvrzením je třeba zdůraznit, že dokud není fungování trhu mařeno zásahy vlád a jiných donucovacích složek, je úspěch v podnikání důkazem služeb poskytnutých spotřebitelům. Chudý člověk nemusí být horší než bohatý podnikatel z jiného pohledu; někdy může dosáhnout vynikajících výsledků na poli vědy, literatury a umění nebo jako občanský aktivista. Ale ve společenském systému výroby je druhořadý. Tvořivý génius může mít pravdu, když pohrdá úspěchy v podnikání; může být pravda, že kdyby nedával přednost něčemu jinému, byl by v podnikání úspěšný.
+
+Ale úředníci a pracovníci, kteří se vychloubají mravní nadřazeností, se obelhávají a hledají útěchu a sebeklam. Nepřipustí si, že byli svými spoluobčany-spotřebiteli zkoušeni a v této zkoušce neobstáli.
+
+Často se tvrdí, že neúspěch chudého člověka v soutěži na trhu je důsledkem nedostatku vzdělání. Říká se, že rovnost příležitostí by mohla být zajištěna pouze tím, že vzdělání bude na každé úrovni dostupné všem. Dnes převažuje sklon odbourávat všechny rozdíly mezi různými lidmi ohledně jejich vzdělání a popírat existenci vrozených nerovností v intelektu, v síle vůle a v charakteru. Lidé si obecně neuvědomují, že vzdělání nikdy nemůže být ničím víc než indoktrinací teoriemi a názory, které už byly vymyšleny.
+
+Bez ohledu na to, jaké výhody může přinášet, je vzdělání předáváním tradičních teorií a hodnot; nutně je konzervativní. Plodí imitaci a rutinu, nikoli zlepšení a pokrok. Inovátory a tvůrčí duchy nelze vychovat ve školách. Jsou jimi právě ti lidé, kteří se vzpírají tomu, co je naučila škola.
+
+Aby člověk uspěl v podnikání, nemusí mít titul z ekonomické školy. Tyto školy vychovávají lidi pro rutinní práci v podřízeném postavení. Rozhodně nevychovávají podnikatele. Podnikatele nelze vychovat. Člověk se stává podnikatelem tím, že se chopí příležitosti a vyplní mezeru. Pro takový projev pronikavého úsudku, předvídavosti a energie není třeba žádné zvláštní vzdělání. Měříme-li to školskými normami pedagogů, nejúspěšnějšími podnikateli byli často lidé nevzdělaní. Hodili se však pro společenskou funkci přizpůsobování výroby nejnaléhavějším požadavkům.
+
+Kvůli těmto hodnotám je spotřebitelé vybrali do vedoucího postavení v podnikání.

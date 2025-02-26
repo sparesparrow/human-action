@@ -1,0 +1,21 @@
+Je zjevné, že problémy, na které inflacionistická doktrína poukazuje, nemohou být vyřešeny pomocí učení o historické zkušenosti. Je nade vši pochybnost, že historie cenového vývoje ukazuje více méně neustálý, ačkoli občas na krátké období přerušený, vzestupný trend. Je pochopitelně nemožné prokázat tuto skutečnost jinak než porozuměním dějinám. Katalaktická přesnost nemůže být aplikována na historické otázky. Snahy některých historiků a statistiků vysledovat změny v kupní síle cenných kovů během uplynulých staletí a měřit je jsou zbytečné.
+
+Jak již bylo ukázáno, veškeré snahy měřit velikost ekonomických veličin jsou založeny na zcela chybných předpokladech a ukazují neznalost základních principů jak ekonomie, tak historie. Ovšem historie nám může pomocí svých specifických metod říci dost k tomu, abychom si mohli být jisti tvrzením, že kupní síla peněz po staletí vykazovala klesající tendenci. Na tomto závěru se všichni shodují.
+
+To však není problém, který má být objasněn. Otázkou je, zda pokles kupní síly byl nebo nebyl nezbytným faktorem vývoje, jenž vedl od chudoby dob minulých k uspokojivějšímu stavu moderního západního kapitalismu. Tato otázka musí být zodpovězena bez odkazu na historické zkušenosti, které mohou být a vždy jsou interpretovány různými způsoby a na něž se příznivci nebo odpůrci jakéhokoli vysvětlení nebo teorie odvolávají jako na důkaz jejich vzájemně protimluvných a neslučitelných výroků.
+
+Je zapotřebí objasnit důsledky změn kupní síly na dělbu práce, akumulaci kapitálu a technologický pokrok.
+
+Při řešení této otázky by nemělo postačovat pouze vyvrátit argumenty předkládané zastánci inflacionismu. Absurdita jejich argumentů je tak zřetelná, že jejich odmítnutí a odhalení je opravdu snadné. Od svých počátků ekonomie opakovaně dokazuje, že tvrzení o údajné prospěšnosti přebytečného množství peněz a údajné škodlivosti vzácnosti peněz jsou výsledkem chybných úvah. Snaha apoštolů inflacionismu a expanzionismu odmítat správnost ekonomického učení zcela selhala.
+
+Jediná podstatná otázka zní: Je možné trvale snížit úrokovou míru pomocí úvěrové expanze, nebo ne? Tímto problémem se budeme zabývat podrobněji v kapitole o vzájemném propojení mezi peněžním vztahem a úrokovou mírou. Tam uvidíme, jaké jsou nevyhnutelné následky hospodářského boomu vyvolaného úrokovou expanzí.
+
+V tomto bodě se musíme zeptat sami sebe, zda nejsou nějaké jiné důvody, které by mohly podpořit inflační interpretaci dějin. Není možné, že zastánci inflace zapomněli na nějaký platný argument, který by mohl podpořit jejich stanovisko? Na tuto otázku je nutné podívat se z každého možného úhlu pohledu.
+
+Uvažujme svět, v němž je množství peněz neměnné. V raném období historie vyrobili obyvatelé tohoto světa veškerou zásobu statku, který je používán pro své peněžní služby. Další růst množství peněz není možný. Fiduciární prostředky jsou neznámé. Všechny peněžní substituty – včetně druhotných mincí – jsou peněžními certifikáty.
+
+Za těchto předpokladů by stále intenzivnější dělba práce, vývoj směřující od hospodářsky soběstačných domácností, vesnic, okresů a zemí k celosvětovému tržnímu systému devatenáctého století, stupňující se akumulace kapitálu a zlepšení technologických metod výroby vedly k nepřetržitému poklesu cen. Zastavil by takový růst kupní síly peněžní jednotky rozvoj kapitalismu?
+
+Průměrný obchodník odpoví na tuto otázku kladně. Život a jednání v prostředí pomalého, ale neustálého poklesu kupní síly peněžní jednotky jsou považovány za normální, nezbytné a prospěšné. Jednoduše si nedokáže představit jinou situaci. Spojuje představu rostoucích cen a zisků na jedné straně a klesajících cen a ztrát na straně druhé. Jeho přesvědčením neotřese ani skutečnost, že lze spekulovat i na pokles ceny a že největší zisky byly vydělány právě „medvědy".
+
+Říká, že to jsou pouze spekulativní transakce lidí toužících po zisku z klesajících cen statků, které již byly vyrobeny a jsou k dispozici. Tvůrčí inovace, nové investice a využití nových technologických metod vyžadují motivaci vyvolanou očekáváním rostoucích cen.

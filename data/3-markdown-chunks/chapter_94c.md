@@ -1,0 +1,2 @@
+
+Naopak, strukturacen na trzích cenných papírů je určována reakcí veřejnosti na způsob, jakýminvestoři uspořádali výrobní aktivity. V konečném důsledku je to názor spo-třebitelů, jenž způsobuje růst nebo pokles cen cenných papírů. Ti, kdo nespo-ří a neinvestují, nedosáhnou díky změnám burzovních kotací ani zisku, aniztráty. Obchodování na trhu s cennými papíry rozhoduje pouze o tom, kteříz investorů mají obdržet zisk a kteří utrpět ztrátu.

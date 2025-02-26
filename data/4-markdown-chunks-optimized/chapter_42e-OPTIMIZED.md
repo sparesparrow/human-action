@@ -1,0 +1,21 @@
+Bezprostředním cílem jednání je často získání počitatelné a měřitelné zásoby hmotných věcí. Pak si jednající člověk musí vybrat mezi počitatelnými množstvími; dává například přednost 15 před 7, pokud by si však měl vybrat mezi 15 a 8, mohl by dát přednost 8. Tento stav věcí můžeme vyjádřit tvrzením, že si 15 cení méně než 8, ale více než 7. To je rovnocenné s tvrzením, že dává přednost a před b a před c. Dosadíme-li 8 za a, 15 za b a 7 za c, nezmění se ani smysl tvrzení, ani skutečnost, kterou popisuje. Neumožňuje to však počítat s kardinálními čísly. Neotvírá to pole ekonomické kalkulaci a mentálním operacím na takové kalkulaci založeným.
+
+Barterový konstrukt základní teorie hodnoty a cen
+
+Rozvinutí ekonomické teorie je heuristicky závislé na logických procesech počítání do takové míry, že ekonomové přehlédli základní problém ekonomické kalkulace. Byli náchylní brát ekonomickou kalkulaci jako samozřejmost; neviděli, že to není konečná danost, ale sekundární záležitost, která vyžaduje redukci na jednodušší jevy. Ekonomickou kalkulaci špatně pochopili. Považovali ji za kategorii veškerého lidského jednání a ignorovali skutečnost, že je to pouze kategorie tkvící v jednání za zvláštních podmínek.
+
+Byli si plně vědomi faktu, že meziosobní směna, a v důsledku toho také tržní směna ovlivněná zprostředkováním všeobecným prostředkem směny – penězi, a tedy cenami, je zvláštní vlastností určitého stavu hospodářské organizace společnosti, který neexistoval v primitivních civilizacích a pravděpodobně může zaniknout v dalším průběhu historických změn.
+
+Avšak nepochopili, že jediným nositelem ekonomické kalkulace jsou peněžní ceny. Většina jejich prací má proto jen minimální význam. Dokonce i díla nejvýznamnějších ekonomů jsou do určité míry znehodnocená kvůli omylům, které jsou obsaženy v jejich myšlenkách o ekonomické kalkulaci.
+
+Moderní teorie hodnoty a cen ukazuje, jak volby jednotlivců, to, že dávají přednost některým věcem a jiné věci odsouvají stranou, mají v oblasti meziosobní směny za následek vznik tržních cen. Tato mistrovská pojednání jsou v některých méně důležitých bodech neuspokojivá a zdeformovaná nevyhovujícími výrazy. Jsou však v podstatě nevyvratitelná. Tam, kde musí být doplněna, je třeba tak učinit důsledným rozpracováním základních myšlenek jejich autorů, a nikoli vyvrácením jejich dedukce.
+
+Aby základní teorie hodnoty a cen mohla zdůvodnit tržní jevy obecnou kategorií upřednostňování a před b, musí použít určitého fiktivního konstruktu. Použití fiktivních konstruktů, jimž ve skutečnosti nic neodpovídá, je podstatný nástroj myšlení. Žádná jiná metoda by ničím nepřispěla k interpretaci skutečnosti. Jedním z nejdůležitějších problémů vědy je ale vyhnout se omylům, které může vyvolat neuvážené využití takových konstruktů.
+
+Elementární teorie hodnoty a cen využívá konstrukt trhu, na němž jsou všechny transakce prováděny přímou směnou. Neexistují tam peníze; zboží a služby jsou vyměňovány přímo za jiné zboží a služby. Tento fiktivní konstrukt je nutný. Je třeba pominout zprostředkující roli, kterou hrají peníze, abychom si uvědomili, že to, co se nakonec směňuje, jsou vždy ekonomické statky prvního řádu za jiné takové statky. Peníze nejsou ničím jiným než prostředkem meziosobní směny.
+
+Je však třeba mít se obzvlášť na pozoru před falešnými představami, jaké tento konstrukt trhu s přímou směnou může snadno vyvolat.
+
+Vážným omylem, který měl svůj původ a vytrvalost v chybné interpretaci tohoto fiktivního konstruktu, byl předpoklad, že prostředek směny je pouze neutrálním faktorem. Podle tohoto názoru bylo jediným rozdílem mezi přímou a nepřímou směnou to, že pouze v nepřímé směně byl použit prostředek směny. Tvrdilo se, že vnesení peněz do transakce neovlivnilo hlavní rysy obchodu. Nebyla sice ignorována skutečnost, že se v běhu historie objevily obrovské proměny v kupní síle peněz a že tyto výkyvy často prudce otřásly celým systémem směny.
+
+Věřilo se však, že takové události byly výjimečnými skutečnostmi, jež způsobila nevhodná politika. Jenom „špatné" peníze, říkalo se, mohou způsobit takové zmatky. Lidé navíc chybně vysvětlovali příčiny a důsledky těchto poruch. Mlčky předpokládali, že se změna kupní síly objevuje ve vztahu k veškerému zboží a službám ve stejnou chvíli a ve stejném rozsahu.

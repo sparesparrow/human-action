@@ -1,0 +1,21 @@
+Proto se tendence k růstu cen vycházející z toho, co se nazývá „normální" produkcí zlata, střetává s tendencí k poklesu cen, vyvolanou zvýšenou poptávkou po držbě hotovosti. Navzájem se však plně nevyrovnají. Oba procesy proběhnou a vyústí v narušení stávajících společenských podmínek, někteří lidé díky nim zbohatnou, jiní naopak zchudnou. Oba ovlivní ceny rozličných statků v různou dobu a v různé míře.
+
+Je pravda, že růst cen některých druhů zboží způsobený jedním z uvedených procesů může být nakonec neutralizován druhým procesem. Může se stát, že se nakonec některé nebo mnoho cen vrátí na předchozí úroveň. Konečným důsledkem ale není stejný výsledek, jako kdyby ani jeden z procesů vyvolávajících změny v peněžních vztazích neexistoval.
+
+Je jim spíše společný efekt náhodného současného výskytu obou procesů, z nichž každý vyvolává přizpůsobení tržních dat stejně jako hmotných podmínek různých jednotlivců a jejich skupin. Nová struktura cen se nemusí příliš lišit od té předchozí. Je však výsledkem dvou skupin událostí, které vedly k inherentním společenským změnám.
+
+Skutečnost, že se majitelé zlatých dolů spoléhají na neměnný roční výnos z těžby zlata, nic nemění na dopadu nově vytěženého zlata na ceny. Vlastníci dolů na trhu směnou za zlato získávají statky a služby nutné pro chod svých dolů a pro svoji vlastní spotřebu a investice v jiných výrobních procesech. Kdyby toto množství zlata nebyli vytěžili, ceny by jím nebyly ovlivněny. Majitelé dolů navíc předvídali budoucí výnosy svých dolů, kapitalizovali je a přizpůsobili svoji životní úroveň očekáváním neměnného výnosu z těžební činnosti.
+
+Efekty, které má nově vytěžené zlato na jejich výdaje a na výdaje dalších lidí, do jejichž držení se zlato postupně dostává, začínají v okamžiku, kdy je toto zlato k dispozici v rukách majitelů dolů. Pokud v očekávání budoucích výnosů utratili majitelé dolů peníze v minulosti a jejich očekávání se nenaplnila, půjde o stejný případ, jako kdyby byla jejich spotřeba financována úvěrem založeným na očekáváních, která se později nesplnila.
+
+Změny v rozsahu požadované držby hotovosti různých lidí se vzájemně kompenzují pouze do té míry, do jaké se pravidelně opakují a jsou vzájemně příčinně propojené. Lidé pobírající mzdu nejsou placeni denně, ale v určitý výplatní den za období jednoho nebo více týdnů. Nemají v plánu držet neměnný objem hotovosti po celou dobu mezi výplatními termíny; množství hotovosti v jejich peněženkách klesá s tím, jak se blíží další den výplaty.
+
+Na druhou stranu obchodníci, kteří jim prodávají zboží k uspokojení základních životních potřeb, držbu své hotovosti odpovídajícím způsobem zvyšují. Oba pohyby se vzájemně podmiňují; existuje mezi nimi příčinná souvislost, která je uvádí do souladu v čase i v objemu. Ani obchodník, ani jeho zákazník se nenechají těmito opakovanými výkyvy ovlivnit. Jejich plány týkající se držby hotovosti, stejně jako jejich podnikání, resp. výdajů na spotřebu, berou v úvahu celé období a dívají se na něj jako na celek.
+
+Právě tento jev vedl ekonomy k představě pravidelného oběhu peněz a k opomíjení změn v hotovosti držené jednotlivými lidmi. Tento typ vztahů je ovšem platný jen ve velmi úzce vymezené oblasti. Pouze tehdy, je-li růst objemu držené hotovosti jedné skupiny lidí v časové a kvantitativní souvislosti s poklesem objemu držené hotovosti jiné skupiny, takže se tyto změny vzájemně vyrovnají v průběhu časového období, které členové obou skupin považují za celek ve vztahu k plánování držby hotovosti, můžeme mluvit o jejich vzájemné neutralizaci.
+
+Bez splnění všech uvedených podmínek je tato neutralizace vyloučena.
+
+Je možné představit si takové uspořádání věcí, v němž se změny v kupní síle peněz objeví ve stejný okamžik a ve stejném rozsahu pro všechny druhy statků a služeb a přímo úměrně změně, která ovlivnila poptávku nebo nabídku peněz? Jinými slovy, je možné představit si neutrální peníze v rámci takového hospodářského systému, který neodpovídá imaginárnímu konstruktu rovnoměrně plynoucí ekonomiky? Tuto trefnou otázku můžeme nazvat Humovým a Millovým problémem.
+
+Není sporu o tom, že ani Hume, ani Mill neuspěli při hledání kladné odpovědi.

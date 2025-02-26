@@ -1,0 +1,1 @@
+„Přál bych si," řekl Bentham Philarétu Chaslesovi, „aby mi byla dána výsada prožít ty roky, které mi ještě zbývají, na konci každého ze století po mé smrti; tak bych mohl vidět výsledky svého psaní."

@@ -1,0 +1,5 @@
+Lidé přehlížejí zásadní epistemologické rozdíly mezi přírodními vědami a vědami o lidském jednání a domnívají se, že rozvoji ekonomického poznání by prospělo provádění ekonomického výzkumu pomocí osvědčených postupů institucí provádějících zdravotní, fyzikální či chemický výzkum. Na takzvaný ekonomický výzkum byly vydány značné peněžní částky. Všechny podporované instituty ale ve skutečnosti zkoumají nedávnou ekonomickou historii.
+
+Je určitě chvályhodné podporovat studium hospodářských dějin. Ať již budou závěry takových studií jakkoli poučné, nesmíme je zaměňovat se studiem ekonomie. Jejich výsledkem nejsou fakta v tom smyslu, v jakém je toto slovo používáno, hovoříme-li o laboratorních testech. Nepřinášejí stavební kameny ke stavbě aposteriorních hypotéz a teorémů. Naopak. Nemají smysl, nejsou-li interpretovány ve světle teorií, jež byly vyvinuty bez odkazu na tato fakta. Není třeba v tomto ohledu nic dodávat k tomu, co bylo řečeno v předchozích kapitolách.
+
+Žádný spor ohledně příčin nějaké historické události není možné rozhodnout na základě zkoumání faktů, které nejsou vedeny konkrétními praxeologickými teoriemi.

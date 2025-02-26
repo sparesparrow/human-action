@@ -1,0 +1,15 @@
+Jakmile se ale pustí do zkoumání fungování tržního hospodářství, zapomenou na svá zdravá východiska. Přicházejí s několika metafyzickými principy a předem tržní ekonomiku zavrhují, protože je s těmito principy v rozporu. Zadními vrátky vnášejí do analýzy myšlenku absolutního standardu morálky, kterou zprvu nevpustili hlavním vchodem. Když se snaží bojovat proti chudobě, nerovnosti a nejistotě, postupně přijímají veškeré omyly starších socialistických a intervencionistických škol. Stále více a více zabředávají do rozporů a absurdit.
+
+Nakonec jim nezbývá než se chytit stébla, jehož se pokoušeli chytit všichni dřívější „neortodoxní" reformátoři – tím je vševědoucnost dokonalých vládců. Jejich konečným návodem k řešení je vždy stát, vláda, společnost či jiná důmyslně vytvořená synonyma pro nadlidského diktátora.
+
+Stoupenci školy blahobytu, v čele s německými Kathedersozialisten a americkými institucionalisty, vydali mnoho tisíc svazků obsahujících podrobnou charakteristiku neuspokojivých podmínek. Podle jejich názoru tyto sebrané informace jasně ilustrují selhání kapitalismu. Ve skutečnosti pouze ilustrují skutečnost, že lidské potřeby jsou prakticky neomezené a že existuje obrovský prostor pro jejich další uspokojování. Zcela jistě nijak nepotvrzují žádné z tvrzení zastánců školy blahobytu.
+
+Nemusí nám říkat, že by všichni lidé uvítali hojnější nabídku rozličných komodit. Otázka ale zní, zda existuje jiný způsob, jak této vyšší nabídky dosáhnout, než je zvýšení produktivity lidského úsilí pomocí investic dodatečného kapitálu. Veškeré bláboly propagandistů školy blahobytu mají za cíl pouze jedno: zatemnit tuto skutečnost; skutečnost, na které jako na jediné záleží.
+
+Zatímco akumulace dodatečného kapitálu je nevyhnutelným prostředkem k dalšímu hospodářskému rozvoji, tito lidé hovoří o „nadměrných úsporách" a „nadměrných investicích", o nutnosti větších výdajů a omezení výstupu ekonomiky. Jsou tedy posly hospodářského úpadku, kazateli filozofie rozkladu a společenské dezintegrace. Společnost uspořádaná podle jejich pouček může připadat některým lidem spravedlivá z pohledu arbitrárního standardu sociální spravedlnosti.
+
+S jistotou se ale bude jednat o společnost zvyšující se chudoby všech jejích členů.
+
+Po více než století bylo veřejné mínění západních zemí sváděno myšlenkou, že existuje cosi jako „sociální otázka" či „problém práce". Samotná existence kapitalismu prý poškozuje životně důležité zájmy mas, a to obzvláště příjemců mezd a drobných rolníků. Zachování tohoto zjevně nespravedlivého systému prý nelze tolerovat a je nutné přikročit k nevyhnutelným radikálním reformám.
+
+Ve skutečnosti kapitalismus nejen znásobil počet obyvatel, ale zároveň bezprecedentním způsobem zvýšil jejich životní úroveň. Ani ekonomická teorie, ani historická zkušenost nenaznačují, že by nějaký jiný společenský systém mohl přinášet takový prospěch masám jako kapitalismus. Výsledky mluví samy za sebe. Tržní hospodářství nepotřebuje žádné apologety a propagandisty. Může pro sebe použít slova z epitafu sira Christophera Wrena ve svatém Pavlu: Si monumentum requiris, circumspice.

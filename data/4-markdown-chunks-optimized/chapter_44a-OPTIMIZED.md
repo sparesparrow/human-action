@@ -1,0 +1,23 @@
+Myšlenka obsažená v nevhodném termínu cenová hladina, jako by – za podmínky, že všechno ostatní je stejné – všechny ceny mohly stoupat nebo klesat stejnoměrně, je neudržitelná. Ostatní věci nemohou zůstat stejné, když se mění kupní síla peněz.
+
+V oblasti praxeologie a ekonomie nemůže mít pojem měření žádný smysl. V hypotetickém stavu strnulých podmínek neexistuje žádná změna, která by mohla být měřena. Ve skutečném světě změny neexistují žádné pevné body, rozměry nebo vztahy, které by mohly sloužit jako standard. Kupní síla peněžní jednotky se nikdy nemění stejnoměrně vzhledem ke všem prodejným věcem. Pojmy stability a stabilizace jsou prázdné, pokud se neodvolávají na stav strnulosti a jeho zachování.
+
+Avšak ani tento strnulý stav nemůže být důsledně promyšlen až do nejzazších logických důsledků; ještě méně může být uskutečněn. Kde existuje jednání, tam dochází ke změně. Jednání je motorem změny.
+
+Předstíraná vážnost, kterou statistici a statistické úřady ukazují při počítání indexů kupní síly a životních nákladů, není namístě. Tyto indexy jsou v nejlepším případě spíše hrubými a nepřesnými ilustracemi změn, jež nastaly. V obdobích pomalých změn ve vztahu mezi nabídkou peněz a poptávkou po nich neposkytují vůbec žádné informace. V obdobích inflace, a tedy ostrých změn cen, poskytují hrubý obraz situace, kterou každý jednotlivec zažívá ve svém každodenním životě.
+
+Moudrá hospodyně ví o změnách cen, pokud se týkají její vlastní domácnosti, mnohem víc, než mohou říct statistické průměry. Výpočty k ničemu nepotřebuje bez ohledu na změny v kvalitě i v množství zboží, jež může nebo smí koupit za ceny vstupující do takových výpočtů. Pokud pro své vlastní posouzení „měří" změny tak, že za měřítko vezme pouze ceny dvou nebo tří druhů zboží, není její postup o nic více „nevědecký" ani arbitrárnější, než ten, který používají důmyslní matematici vybírající své metody pro zpracování tržních dat.
+
+V praktickém životě se nikdo nenechá klamat indexy. Nikdo nesouhlasí se smyšlenkou, že mají být považovány za měření. Když se měří množství, všechny další pochybnosti a spory o jeho rozměrech zmizí. Takové otázky jsou vyřešeny. Nikdo si netroufne hádat se s meteorology o jejich měřeních teploty, vlhkosti, tlaku a dalších meteorologických údajů. Na druhé straně však nikdo nesouhlasí s indexem, pokud neočekává osobní výhodu z jeho uznání veřejným míněním. Stanovení indexů neřeší spory; pouze je posouvá do oblasti, v níž je střed protichůdných názorů a zájmů nesmiřitelný.
+
+Lidské jednání vyvolává změnu. Dokud existuje lidské jednání, neexistuje stabilita, ale nekonečné změny. Historický proces je řadou změn. Je nad síly člověka zastavit je a nastolit věk stability, v němž celá historie dojde do mrtvého bodu. Je v povaze člověka usilovat o zlepšení, vyvolávat nové myšlenky a měnit podmínky svého života podle těchto myšlenek.
+
+Tržní ceny jsou historickou skutečností vyjadřující stav věcí, který převažoval v určitém okamžiku nezvratného historického procesu. Ve sféře praxeologie nedává pojem měření smysl. V pomyslném – a samozřejmě neuskutečnitelném – stavu strnulosti a stability neexistují žádné změny, které by se mohly měřit. Ve skutečném světě neustálé změny neexistují žádné pevné body, věci, vlastnosti nebo vztahy, vzhledem k nimž by mohla být změna měřena.
+
+Kořeny myšlenky stabilizace
+
+Ekonomická kalkulace nevyžaduje monetární stabilitu v tom smyslu, v němž je tento pojem používán přívrženci stabilizačního hnutí. Skutečnost, že strnulost kupní síly peněžní jednotky je nemyslitelná a neuskutečnitelná, neoslabuje metody ekonomické kalkulace. Ekonomická kalkulace pouze potřebuje monetární systém, jehož chod není narušován vládními zásahy. Snaha zvýšit množství peněz v oběhu, aby se buď zvýšila schopnost vlády utrácet, nebo aby se dosáhlo dočasného snížení úrokové míry, rozloží všechny peněžní záležitosti a způsobí chyby v ekonomické kalkulaci.
+
+Prvním cílem monetární politiky musí být zabránit vládám, aby se nepustily do inflace a aby nevytvářely podmínky pro povzbuzení úrokové expanze ze strany bank. Ale tento program se velmi liší od zmateného programu stabilizace kupní síly, který odporuje sám sobě.
+
+Vše, co je potřeba pro ekonomickou kalkulaci, je vyhnout se velkým a náhlým změnám zásoby peněz. Zlato a – až do poloviny devatenáctého století – stříbro účelům ekonomické kalkulace sloužily dobře. Změny ve vztahu mezi nabídkou a poptávkou po drahých kovech a z toho plynoucí změny kupní síly probíhaly tak pomalu, že je podnikatel mohl při ekonomické kalkulaci ignorovat, aniž by se příliš vzdálil realitě. Přesnost je v ekonomické kalkulaci nedosažitelná v podstatě nezávisle na chybách, které vznikají z toho, že není věnována dostatečná pozornost monetárním změnám.

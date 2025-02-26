@@ -1,0 +1,23 @@
+Může se stát, že zatímco někteří jednotlivci akumulují dodatečný kapitál, jiní ve stejnou dobu spotřebovávají dříve naakumulovaný kapitál. Pokud jsou oba tyto procesy shodné co do objemu kapitálu, celkové množství dostupných kapitálových fondů v tržním systému se nemění a situace je stejná, jako kdyby k žádné změně v celkovém objemu kapitálových statků nedošlo. Akumulace dodatečného kapitálu ze strany některých lidí pouze odstraňuje nutnost zkrácení doby výroby u některých procesů. Avšak není možné zahájit žádné další procesy s delší dobou výroby.
+
+Pokud se podíváme na věci z tohoto úhlu, můžeme říci, že došlo k přesunu kapitálu. Je ovšem nutné ubránit se zaměňování pojmu kapitálový přesun s převodem vlastnictví mezi jednotlivcem nebo jejich skupinou a někým jiným.
+
+Prodej a nákup kapitálových statků a poskytnutí úvěru podnikům takový kapitálový přesun nepředstavují. Jde o transakce, které jsou nástrojem při převodu konkrétních kapitálových statků do rukou těch podnikatelů, kteří je chtějí použít při provádění určitých projektů. Jsou pouhým pomocným krokem v dlouhé řadě úkonů. Jejich společný výsledek rozhodne o úspěchu nebo selhání celého plánu. Ale ani zisk, ani ztráta přímo nezpůsobují kapitálovou akumulaci nebo kapitálovou spotřebu.
+
+Tím, co mění objem dostupného kapitálu, je uspořádání spotřeby těch, kdo dosáhli zisku nebo ztráty.
+
+Ke kapitálovému přesunu může dojít buď bez nebo s převodem vlastnictví kapitálových statků. V prvním případě jeden člověk kapitál spotřebovává, zatímco druhý ho nezávisle na něm ve stejném objemu akumuluje. Ve druhém případě prodávající kapitálového statku spotřebovává tržby, zatímco kupující platí kupní cenu z nespotřebovaného – uspořeného – přebytku svých čistých tržeb nad spotřebou.
+
+Spotřeba kapitálu a fyzický zánik kapitálových statků jsou dvě různé věci. Veškeré kapitálové statky dříve či později vstoupí do konečných výrobků a přestanou existovat prostřednictvím jejich užití, spotřeby a opotřebení. To, co může být zachováno vhodným uspořádáním spotřeby, je pouze hodnota kapitálového fondu, nikoli konkrétní kapitálové statky. Občas se může stát, že boží čin nebo lidské ničení vedou k takovému úbytku kapitálových statků, že žádné myslitelné omezení spotřeby nemůže v krátkém čase doplnit kapitálové fondy na jejich předchozí úroveň. Avšak to, co způsobuje tento úbytek, je vždy skutečnost, že čisté tržby ze současné výroby věnované na údržbu kapitálu nejsou dostatečně vysoké.
+
+Mobilita investora
+
+Omezená převoditelnost kapitálových statků nesvazuje jejich vlastníka zcela. Investor může změnit způsob investování svých fondů. Pokud je schopen předvídat budoucí tržní podmínky lépe než ostatní, může úspěšně zvolit pouze ty investice, jejichž ceny vzrostou, a vyhnout se investicím, jejichž ceny poklesnou.
+
+Podnikatelský zisk a ztráta plynou z toho, že jsou výrobní faktory použity podle určitého plánu. Spekulace na burze a odpovídající transakce mimo trh s cennými papíry určují, u koho se tyto zisky nebo ztráty vyskytnou. Existuje sklon ostře rozlišovat mezi čistě spekulativními obchody a spolehlivými investicemi. Tento rozdíl je však pouze otázkou míry. Žádná investice se neobejde bez spekulace. V měnícím se hospodářství jednání vždy zahrnuje spekulaci.
+
+Investice mohou být dobré nebo špatné, ale vždy jsou spekulativní. Zásadní změna podmínek může změnit ve špatnou i investici, jež je běžně považována za dokonale bezpečnou.
+
+Burzovní spekulace nemůže napravit minulé jednání a nemůže změnit nic na omezené převoditelnosti stávajících kapitálových statků. Může však zamezit dalším investicím do odvětví a podniků, v nichž, podle názoru spekulantů, nejsou tyto investice namístě. Ukazuje určitou cestu pro tendenci, vyskytující se v tržním hospodářství, k rozšiřování výnosných výrob a omezování výrob nevýnosných. V tomto smyslu se burza stává jednoduše „trhem", ústředním bodem tržního hospodářství, základním způsobem, jak učinit očekávanou poptávku spotřebitelů vládnoucí silou v podnikání.
+
+Mobilita investorů se projevuje v jevu nazvaném zavádějícím způsobem odliv kapitálu. Jednotliví investoři mohou opustit investice, které považují za riskantní, za předpokladu, že jsou ochotni přijmout ztrátu diskontovanou trhem. Mohou se tak bránit proti očekávaným budoucím ztrátám a přesunout je na ty, kdo jsou ve svých odhadech budoucích cen daných statků méně realistické. Odliv kapitálu nestahuje nepřevoditelné kapitálové statky z odvětví, do něhož byly investovány. Představuje pouhou změnu vlastnictví.

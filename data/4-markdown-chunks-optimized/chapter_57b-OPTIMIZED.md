@@ -1,0 +1,23 @@
+Zabývat se jimi je velký úkol dějepisu naší doby. Ekonomická teorie nemá potřebu podrobně se jimi zabývat. Skutečnost, že existují obchodní bariéry, privilegia, kartely, státní monopoly a odborové svazy, je pouhým datem hospodářských dějin. Její interpretace nevyžaduje žádné zvláštní poučky.
+
+6. Svoboda
+
+Filozofové a právníci věnovali mnoho úsilí pokusům definovat pojem volnosti a svobody. Těžko bychom mohli tvrdit, že tyto snahy byly úspěšné.
+
+Pojem svobody má smysl pouze tehdy, když se vztahuje na mezilidské vztahy. Existovali autoři, kteří vyprávěli příběhy o původní – přirozené – svobodě, kterou člověk údajně měl v báječném přírodním stavu předcházejícímu ustanovení společenských vztahů. Nicméně takoví duševně i hospodářsky soběstační jedinci nebo rodiny, kteří se potulovali krajem, byli svobodní pouze tak dlouho, dokud nezkřížili cestu někomu silnějšímu. V nelítostné biologické soutěži měl vždy pravdu silnější a slabšímu nezbyla jiná možnost než se bezpodmínečně podrobit.
+
+Primitivní lidé se určitě nerodili svobodní.
+
+Termín svoboda může dostat smysl teprve v rámci společenského systému. Jako praxeologický termín se svoboda vztahuje na oblast, v níž je jednající jedinec v takovém postavení, že si může vybrat mezi alternativními způsoby jednání. Člověk je svobodný do té míry, nakolik si může vybrat cíle a prostředky, které k dosažení těchto cílů použije. Svoboda každého člověka je velmi přísně omezena zákony přírody i zákony praxeologie. Nemůže dosáhnout cílů, které jsou navzájem neslučitelné.
+
+Pokud si chce hovět v uspokojení, které vyvolává určité účinky ve fungování jeho těla nebo mysli, musí se s těmito důsledky vyrovnat. Bylo by bezúčelné prohlásit, že člověk není svobodný, protože si nemůže užívat potěšení holdovat určitým drogám, aniž by byl zasažen jejich nevyhnutelnými následky, které jsou obecně považovány za velice nežádoucí. Zatímco toto všichni rozumní lidé víceméně přijímají, ve vztahu k uznávání zákonů praxeologie taková shoda neexistuje.
+
+Člověk nemůže mít jak výhody, jež plynou z mírové spolupráce na principu dělby práce ve společnosti, tak souhlas zahájit činnosti, které společnost nutně rozloží. Musí si vybrat mezi dodržováním určitých pravidel, jež umožňují život ve společnosti, a bídou a nejistotou „nebezpečného života" v trvale válečném stavu mezi nezávislými jedinci. Takový zákon určující výsledek veškerého lidského jednání není o nic volnější než fyzikální zákony.
+
+Přesto existuje dalekosáhlý rozdíl mezi důsledky, které vyplývají z nedodržení přírodních zákonů, a důsledky z nedodržení praxeologických zákonů. Obě kategorie zákonů samozřejmě fungují samy o sobě, aniž by vyžadovaly prosazení ze strany člověka. Ale důsledky toho, co si jedinec vybral, se liší. Člověk, který pozře jed, škodí pouze sám sobě, avšak člověk, který se rozhodne uchýlit se k loupení, rozvrací celý společenský řád. Zatímco se on sám těší z krátkodobého zisku, který svým jednáním získal, ničivé dlouhodobé důsledky škodí všem lidem. Jeho skutek je zločinem, protože má škodlivé důsledky pro spoluobčany. Pokud by společnost takovému chování nebránila, stalo by se brzo obecným a udělalo by konec spolupráci ve společnosti i všem výhodám, které všem taková spolupráce přináší.
+
+Aby byla zavedena a udržena spolupráce ve společnosti a civilizace, jsou nutná opatření k zabránění asociálním jedincům v páchání činů, které nutně povedou ke zničení všeho, čeho člověk dosáhl ve svém vývoji od úrovně neandertálce. Aby byl zachován stav věcí, v němž existuje ochrana jednotlivce před neomezenou tyranií silnějších a chytřejších spoluobčanů, je nutná instituce, která všechny protispolečenské živly omezí.
+
+Mír – nepřítomnost neustálého boje každého proti každému – může být dosažen pouze zavedením systému, v němž je síla uchýlit se k násilným činům monopolizována společenským aparátem nátlaku a donucení, a použití této síly je v každém jednotlivém případě usměrňováno řadou pravidel – pravidel stvořených lidmi, která se liší od zákonů přírody i od zákonů praxeologie. Základním nástrojem společenského systému je činnost takového orgánu, který se běžně nazývá vládou.
+
+Pojmy svoboda a otroctví mají smysl pouze tehdy, když se vztahují na to, jak působí vláda. Bylo by naprosto bezúčelné a zavádějící říkat, že člověk není svobodný, protože, chce-li zůstat naživu, jeho schopnost vybrat si mezi sklenicí vody a sklenicí s kyanidem draselným je omezena přírodou. Stejně nevhodné by bylo nazývat člověka nesvobodným, protože zákon trestá jeho touhu zabít jiného člověka a protože policie a trestní soudy tento zákon prosazují.

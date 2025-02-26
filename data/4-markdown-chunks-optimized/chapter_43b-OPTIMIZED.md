@@ -1,0 +1,5 @@
+Žádný z nich nemůže být označen za jediný způsob, jak dostat logicky nevyvratitelnou odpověď. Rozhodnutí pro jednu z těchto výpočetních metod je arbitrární.
+
+Kdyby byly všechny lidské podmínky neměnné, kdyby všichni lidé museli vždy opakovat totéž jednání, protože by jejich nespokojenost a jejich představy o jejím odstranění byly neměnné, nebo kdybychom mohli tvrdit, že změny těchto faktorů, které se objevují u některých jednotlivců nebo skupin, jsou vždy vyváženy opačnými změnami u jiných jednotlivců a skupin, a proto neovlivňují celkovou poptávku a celkovou nabídku, žili bychom ve světě stability. Ale pak si protiřečí myšlenka, že by se v takovém světě mohla měnit kupní síla peněz.
+
+Jak bude ukázáno později, změny kupní síly peněz musí nutně ovlivnit ceny různého zboží a služeb v různém čase a do různé míry; následně musí vyvolat změny v poptávce a nabídce, ve výrobě a spotřebě.

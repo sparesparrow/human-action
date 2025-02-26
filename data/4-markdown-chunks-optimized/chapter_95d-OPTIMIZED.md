@@ -1,0 +1,21 @@
+Čistý úrok je kategorií lidského jednání. Působí při každém ohodnocení vnějších věcí a nemůže nikdy zmizet. Pokud by se někdy měly poměry vrátit do stavu blízkého konci prvního křesťanského tisíciletí, kdy někteří lidé věřili, že se blíží konec světa, lidé by se přestali zaopatřovat pro své budoucí světské potřeby. Výrobní faktory by se v jejich očích staly zbytečnými a bezcennými. Diskont budoucích statků oproti současným statkům by nezmizel. Naopak, vzrostl by nade všechny meze.
+
+Na druhou stranu, zmizení čistého úroku by znamenalo, že se lidé vůbec nezajímají o to, zda budou jejich potřeby uspokojeny v bližších obdobích budoucnosti. Znamenalo by to, že dávají před jedním jablkem dostupným dnes, zítra, za rok nebo za deset let, přednost dvěma jablkům dostupným za tisíc nebo deset tisíc let.
+
+Svět, v němž by čistý úrok nebyl nedílnou součástí každého druhu jednání, si ani neumíme představit. Ať už dochází k dělbě práce a společenské spolupráci, nebo ne, a ať je společnost uspořádána na základě soukromého, nebo veřejného vlastnictví výrobních prostředků, čistý úrok existuje vždy. Jeho role v socialistickém společenství by se nelišila od jeho úlohy v tržním hospodářství.
+
+Böhm-Bawerk jednou provždy odhalil omyly naivního vysvětlení úroku založeného na produktivitě, tj. představu, že úrok je vyjádřením fyzické produktivity výrobních faktorů. Böhm-Bawerk sám nicméně založil na tomto přístupu do jisté míry i svoji vlastní teorii. Když ve svém vysvětlení mluví o technologické nadřazenosti časově náročnějších, oklikových výrobních postupů, vyhýbá se hrubým chybám tohoto přístupu. Ve skutečnosti se k němu vrací, byť v jemnější formě.
+
+Někteří pozdější ekonomové zcela potlačili představu časové preference a zdůraznili výhradně myšlenku produktivity obsaženou v Böhm-Bawerkově teorii. Docházejí k závěru, že čistý úrok musí zmizet, jestliže lidé stojí pouhý den před stavem, v němž již žádné další prodloužení doby výroby nepovede ke zvýšení produktivity. To je však zcela špatně. Čistý úrok nemůže zmizet, dokud existuje vzácnost a tedy i jednání.
+
+Dokud není svět přeměněn ve vysněnou zemi hojnosti, musí se lidé vypořádat se vzácností a musí jednat a šetrně hospodařit; jsou nuceni volit mezi uspokojením v bližších a vzdálenějších obdobích budoucnosti, protože ani jedním způsobem nelze dosáhnout plné spokojenosti. Poté změna využití výrobních faktorů přesunující tyto faktory do užití pro uspokojení potřeb ve vzdálenějším období musí nutně zhoršit uspokojení v bližší budoucnosti a zlepšit ho ve vzdálenější budoucnosti.
+
+Pokud bychom předpokládali, že k ničemu takovému nedojde, zapletli bychom se do neřešitelných rozporů. Nanejvýše bychom si mohli představit takovou situaci, v níž technologické znalosti a dovednosti dosáhly bodu, za kterým již není možný pro smrtelného člověka žádný další pokrok. Nemohou v ní tak být objeveny žádné další postupy zvyšující výstup na jednotku vstupu.
+
+Pokud však předpokládáme vzácnost některých výrobních faktorů, nemůžeme se domnívat, že veškeré nejproduktivnější procesy jsou plně využity, a že k žádnému procesu vytvářejícímu menší výstup na jednotku vstupu se nepřistoupilo jen proto, že produkuje svůj konečný výstup dříve než ostatní, fyzicky produktivnější procesy.
+
+Vzácnost výrobních faktorů znamená, že jsme schopni navrhnout plány na zlepšení našeho blaha, jež však nejsou proveditelné kvůli nedostatečnému množství dostupných prostředků. Právě tato neuskutečnitelnost žádoucích zlepšení vytváří prvek vzácnosti.
+
+Pokud existuje vzácnost, musí existovat i nevyužité technologické možnosti zlepšit blahobyt prodloužením doby výroby v některých průmyslových odvětvích, bez ohledu na to, zda se změnila úroveň technologických znalostí. Pokud jsou prostředky vzácné, pokud stále existuje praxeologický vzájemný vztah mezi cíli a prostředky, vyskytují se logicky nutně i neuspokojené potřeby týkající se bližších i vzdálenějších období budoucnosti.
+
+Vždy jsou nějaké statky, jejichž opatření se musíme vzdát, protože způsob jejich získání je příliš časově náročný a zabránil by nám uspokojit naléhavější potřeby. Skutečnost, že se hojněji nezaopatřujeme pro budoucnost, je výsledkem zvažování uspokojení v bližších obdobích proti uspokojení ve vzdálenějších obdobích budoucnosti. Poměr, který je výsledkem tohoto hodnocení, představuje čistý úrok.

@@ -1,0 +1,5 @@
+I ten touží po omezení množství práce, pokud se tak může stát bez negativního vlivu na očekávané zprostředkované uspokojení a zároveň zažívá radost kategorie 3.
+
+Radost z práce kategorií 1 a 2 a občas i kategorie 3 může být odstraněna ideologickým vlivem a nahrazena omrzelostí. Pracovník začne svoji práci nenávidět, pokud začne být přesvědčen o tom, že tím, co ho nutí podstoupit újmu z práce, není jeho vlastní vyšší ohodnocení smluveného odškodnění, ale pouze nespravedlivý společenský systém. Oklamán slogany socialistických propagandistů není schopen rozeznat, že újma z práce je neměnnou součástí lidských životních podmínek, něco definitivně daného, co nemůže být odstraněno nástroji nebo metodami společenské organizace.
+
+Podléhá marxistickému omylu, že v socialistickém společenství nebude práce vyvolávat útrapy, ale potěšení.

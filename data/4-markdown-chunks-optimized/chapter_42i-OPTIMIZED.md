@@ -1,0 +1,23 @@
+Technologie mu ale neposkytuje nic víc než tvrzení o příčinných vztazích mezi vnějšími věcmi. Říká například, že 7 a + 3 b + ... + xn musí dát 8 P. Ačkoli však zná hodnotu přiřazenou jednajícím člověkem různým statkům prvního řádu, nedokáže rozhodnout, jestli tento nebo jakýkoli jiný vzorec z nekonečného množství podobně sestavených vzorců nejlépe slouží pro dosažení cílů, o něž jednající člověk usiluje. Dovednost v oblasti techniky může stanovit, jak je třeba postavit most, aby překlenul řeku v daném místě a unesl určitou zátěž.
+
+Ale nedokáže odpovědět na otázku, zda by stavba takového mostu odčerpala hmotné faktory výroby a práce z nějakého užití, v němž by mohly uspokojit potřeby, které jsou pociťovány naléhavěji. Nedokáže říct, jestli by ten most měl být vůbec stavěn, či nikoli, kde by měl být postaven, jakou by měl mít nosnost pro dopravu břemen a která z mnoha možností pro jeho stavbu by měla být vybrána.
+
+Technologická kalkulace může poskytnout vztahy mezi různými třídami prostředků pouze do té míry, v jaké se mohou navzájem zastoupit při úsilí dosáhnout konečného cíle. Jednání je ale nuceno odkrýt vztahy mezi všemi prostředky, jakkoli si mohou být nepodobny, bez ohledu na otázku, zda se mohou při plnění stejných služeb navzájem zastoupit, či nikoli.
+
+Technologie a úvahy, které jsou z ní odvozeny, by nebyly pro jednajícího člověka k přílišnému užitku, kdyby do jejich schémat nebylo možné zavést peněžní ceny zboží a služeb. Projekty a návrhy inženýrů by byly čistě akademické, kdyby nedokázaly porovnávat vstupy a výstupy na společné bázi. Pyšný teoretik se v odloučení své laboratoře o takové bezvýznamné věci nestará; to, co zkoumá, jsou příčinné vztahy mezi různými součástmi vesmíru. Praktický člověk, který dychtí zlepšit podmínky lidstva tím, že v co největší míře odstraní nespokojenost, ale musí vědět, zda – za daných podmínek – je to, co plánuje, nejlepší metodou (nebo vůbec nějakou metodou), jak zbavit lidi části nespokojenosti.
+
+Musí vědět, zda to, čeho chce dosáhnout, bude přínosem ve srovnání se současným stavem věcí a s výhodami, které mohou být očekávány z realizace jiných technicky proveditelných projektů, jež nelze realizovat, jestliže zamýšlený projekt pohltí prostředky, které jsou k dispozici. Takové srovnání může být provedeno pouze v peněžních cenách.
+
+Tak se peníze stávají pojivem ekonomické kalkulace. Nejedná se o nějakou zvláštní funkci peněz. Peníze jsou všeobecně používaným prostředkem směny, nic víc. Jenom proto, že peníze jsou všeobecným prostředkem směny, že většina zboží a služeb může být za peníze prodána a koupena na trhu, a pouze do té míry, do níž toto platí, mohou lidé při ekonomické kalkulaci používat peněžní ceny.
+
+Směnné poměry mezi penězi a různým zbožím a službami, jak byly v minulosti ustaveny na trhu a jak se očekává, že budou na trhu v budoucnu ustaveny, jsou nehmotnými nástroji ekonomického plánování. Kde neexistují peněžní ceny, tam neexistuje nic takového jako ekonomické veličiny. Nalézáme tam pouze různé kvantitativní vztahy mezi různými příčinami a důsledky ve vnějším světě.
+
+Člověk tam nemá žádný nástroj, jak zjistit, jaké jednání by nejlépe posloužilo jeho snaze odstranit nespokojenost, nakolik je to jen možné.
+
+Neexistuje žádný důvod, abychom se zaobírali primitivními podmínkami rodinného hospodářství soběstačných zemědělců. Tito lidé vykonávali pouze velmi jednoduché výrobní procesy. Nepotřebovali žádnou kalkulaci, protože mohli vstup a výstup porovnávat přímo. Když chtěli košile, vypěstovali konopí, předli, tkali a šili. Bez jakékoli kalkulace se dokázali rozhodnout, zda výrobek vyváží vloženou dřinu a nesnáze. Ale pro civilizované lidstvo není návrat k takovému životu myslitelný.
+
+Kvantitativní řešení ekonomických problémů nesmí být zaměňováno s kvantitativními metodami, které se používají, když se zabýváme problémy vnějšího světa fyzikálních a chemických jevů. Charakteristickým znakem ekonomické kalkulace je, že není ani založena na ničem, co by mohlo být popsáno jako měření, ani k ničemu takovému nemá vztah.
+
+Proces měření spočívá v ustavení číselného poměru předmětu ve vztahu k jinému předmětu, totiž k jednotce měření. Základním zdrojem měření jsou prostorové rozměry. Pomocí jednotky definované ve vztahu k rozměru se měří energie i vnitřní síla, schopnost věci vyvolat změny v jiných věcech a vztazích, i běh času. Poloha ručičky ukazuje přímo prostorové vztahy a ostatní veličiny pouze nepřímo. Předpoklad, na němž jsou všechna měření založena, je neměnnost jednotky. Jednotka délky je pevným základem, na němž jsou založena všechna měření.
+
+Předpokládá se, že si člověk nedokáže představit, že by nebyla neměnná.

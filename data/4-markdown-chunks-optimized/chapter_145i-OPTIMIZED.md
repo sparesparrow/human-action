@@ -1,0 +1,21 @@
+Veškeré toto vášnivé uctívání dokonalosti vlády je jen mizerným maskováním sebezbožštění každého intervencionisty. Báječný bůh Stát je báječným bohem pouze proto, že se od něj očekává, že bude dělat výlučně to, čeho chce každý jednotlivý obhájce intervencionismu dosáhnout. Opravdovým plánem je jen takový plán, se kterým plánovač zcela souhlasí. Všechny ostatní plány jsou prostě podvrhy. Když říká „plán", má autor knihy o prospěšnosti plánování na mysli samozřejmě pouze svůj vlastní plán. Vůbec nebere do úvahy to, že plán, který uvede v život vláda, se od jeho plánu může lišit. Různí plánovači spolu souhlasí pouze v odmítání laissez faire, tj. individuálního rozhodování a jednání. Vůbec se neshodnou na volbě jednoho plánu, který by měl být přijat. Jsou-li jim ukázány zjevné a nepopiratelné vady intervencionistických politik, reagují zastánci intervencionismu vždy stejně. Tyto vady, říkají, byly výsledkem falešného intervencionismu; my však obhajujeme dobrý intervencionismus, ne takovýto špatný intervencionismus. A samozřejmě dobrým intervencionismem je ten, který propaguje samotný pan profesor.
+
+Laissez faire znamená: Nechme každého člověka volit a jednat; nenuťme jej podvolovat se diktátorovi.
+
+Přímý vládní zásah do spotřeby
+
+Při zkoumání ekonomických problémů intervencionismu se nemusíme zabývat těmi aktivitami vlády, jejichž cílem je okamžitě ovlivnit spotřebitelskou volbu spotřebních statků. Každý vládní zásah do podnikání musí nepřímo spotřebu ovlivnit. Vládní zásah totiž mění tržní data, a tak také musí změnit hodnocení a chování spotřebitelů. Je-li ale cílem vlády pouze přinutit přímo spotřebitele spotřebovávat jiné statky, než pro jaké by se rozhodli bez vládního zásahu, neobjevují se nám žádné speciální problémy, jimiž by se měla ekonomie zabývat.
+
+Je nepochybné, že mocný a nemilosrdný policejní aparát může svou moc využít k vynucení těchto nařízení.
+
+Při studiu rozhodování spotřebitelů se neptáme, co člověka přimělo koupit a, a nikoli b. Zabýváme se pouze důsledky pro určení tržních cen, a tedy dopady, které určité chování spotřebitelů mělo na výrobu. Tyto dopady nezávisejí na okolnostech, které vedly spotřebitele koupit a, a nikoli b. Pro určení cen plynových masek je nedůležité, zda si je lidé kupují ze svého rozhodnutí nebo proto, že vláda každého nutí, aby si plynovou masku pořídil. Rozhodující je pouze velikost poptávky.
+
+Vlády snažící se zachovat navenek zdání svobody, i když svobodu omezují, maskují své přímé zásahy do spotřeby pod pláštík zásahů do podnikání. Cílem americké prohibice bylo zabránit občanům země pít alkoholické nápoje. Zákon ale pokrytecky nezakázal pití jako takové a nepokutoval jej. Pouze zakázal výrobu, prodej a distribuci opojných nápojů, tedy obchodní transakce předcházející aktu konzumace. Za tímto přístupem stála myšlenka, že lidé se oddávají hříchu pití pouze z toho důvodu, že jim alkohol nutí bezzásadoví podnikatelé.
+
+Bylo ale zjevné, že smyslem prohibice bylo omezit svobodu jednotlivce utratit vlastní peníze a užít si života dle vlastního uvážení. Omezení uvalená na podnikání byla pouze podřazena tomuto konečnému cíli.
+
+Problémy přímého vládního zásahu do spotřeby nejsou katalaktické povahy. Daleko překračují hranice katalaktických úvah a vedou do oblasti fundamentálních problémů lidského života a společenské organizace. Je-li pravda, že vláda svou autoritu odvozuje od Boha a je prozřetelností pověřena jednat jako strážce hloupého a nevzdělaného obyvatelstva, pak je samozřejmě jejím úkolem organizovat každou sféru života podřízené populace. Panovník seslaný Bohem na zem ví lépe, co je dobré pro jeho svěřence, než vědí oni sami.
+
+Opatrovník má povinnost chránit je před škodou, kterou by si napáchali, kdyby byli ponecháni bez dozoru.
+
+Lidé, co se sami staví do pozice „realistů", si neuvědomují nesmírný význam dotčených principů. Tvrdí, že se nechtějí pouštět do – jak říkají – filozofických a akademických otázek. Říkají, že jejich přístup je zcela veden praktickými úvahami. Je faktem, tvrdí, že někteří lidé poškozují sebe a své nevinné rodiny konzumací narkotik. Pouze doktrináři mohou být tak dogmatičtí a stavět se proti vládní regulaci obchodu s drogami. Její příznivé dopady nelze zpochybnit.

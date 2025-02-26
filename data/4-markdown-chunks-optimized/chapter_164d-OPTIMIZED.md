@@ -1,0 +1,25 @@
+Je marné vkládat naděje do smluv, konferencí a byrokratických institucí, jako je Společnost národů či Organizace spojených národů. Ministři, úředníci a experti boj proti ideologiím nepovedou. Duch dobývání nemůže být potlačen byrokratickými opatřeními. Nutná je radikální změna ideologií a hospodářských politik.
+
+Válka a tržní ekonomika
+
+Socialisté a intervencionisté tvrdí, že tržní hospodářství je přinejlepším systémem, který je možné tolerovat v dobách míru. Když ale dojde k válce, taková shovívavost již není namístě. Sobecké chování a zisky kapitalistů a podnikatelů by totiž vedly k poškození životně důležitých zájmů národa. Válka, a samozřejmě především moderní totální válka, neodmyslitelně vyžaduje státní regulaci podnikání.
+
+Toto dogma se málokdo odvažuje zpochybňovat. Sloužilo v obou světových válkách jako pohodlná záminka k zavedení nesčíslného množství státních regulací podnikání, které v mnoha zemích krok za krokem vedly k úplnému válečnému socialismu. Když nepřátelství opadlo, objevilo se nové heslo. Doba přechodu od války k míru a období rekonverze vyžadují, jak se lidé domnívali, ještě více vládní regulace než období válečné. Ostatně, proč bychom se měli kdy vracet ke společenskému systému, jenž může fungovat – jestli vůbec – pouze v mezidobí mezi dvěma válkami?
+
+Nejlepší by prý bylo provádět vládní regulace neustále, abychom byli náležitě připraveni na jakékoli další možné krizové situace.
+
+Analýza problémů, kterým čelily Spojené státy během druhé světové války, nám zřetelně osvětlí, jak je taková argumentace zavádějící.
+
+Amerika potřebovala k vítězství ve válce radikální přestavbu svých výrobních činností. Civilní spotřeba, která nebyla nezbytně nutná, měla být zastavena. Továrny a zemědělské statky měly od tohoto okamžiku vyrábět pouze minimum zboží pro nevojenské účely. Zbytek produkce se měl zcela věnovat dodávkám pro ozbrojené síly.
+
+Uskutečnění tohoto programu nevyžadovalo zavedení regulací a priorit. Kdyby vláda získala veškeré zdroje, které potřebovala na vedení války, prostřednictvím daní či výpůjček od obyvatelstva, každý by byl nucen omezit drasticky vlastní spotřebu. Podnikatelé a rolníci by se přeorientovali na výrobu pro vládu, jelikož by prodej zboží pro soukromé účely poklesl. Vláda by se kvůli penězům z daní a půjček stala největším kupujícím na trhu a mohla by si koupit, cokoli by chtěla.
+
+Dokonce ani skutečnost, že se vláda rozhodla financovat značnou část válečných výdajů růstem množství peněz v oběhu a půjčkami od komerčních bank, by tuto situaci nezměnila. Inflace samozřejmě způsobuje zřetelnou tendenci k nárůstu cen všeho zboží a služeb. Vláda by musela platit vyšší nominální ceny. Stále by ale byla nejsolventnějším kupcem na trhu.
+
+Stále by mohla přeplatit občany, kteří na jedné straně nemají právo tisknout peníze, které potřebují, a na druhou stranu by byli velmi omezováni obrovskými daněmi.
+
+Vláda se ale záměrně rozhodla pro politiku, která jí znemožnila spoléhat se na fungování neomezovaného trhu. Rozhodla se pro regulaci cen a postavila mimo zákon zvýšení cen komodit. Mimo to jen velmi pomalu zdaňovala inflací zvyšované příjmy. Podlehla tvrzení odborů, že skutečně vyplacená mzda pracovníků by měla být udržena vysoko, což by jim umožnilo zachovat si i v době války předválečnou životní úroveň. Nejpočetnější třída lidí ve státě, třída, jež v dobách míru spotřebovávala největší část celkového množství zboží, ve skutečnosti měla ve svých kapsách o tolik více peněz, že jejich kupní síla a spotřeba byla vyšší než v dobách míru. Příjemci mezd – a v jisté míře také rolníci a vlastníci továren vyrábějících pro vládu – by zmařili vládní úsilí převést průmyslová odvětví na válečnou výrobu. Přiměli by podnikatele vyrábět více, a nikoli méně, statků, které jsou v dobách války považovány za nadbytečný luxus. Právě tato okolnost přiměla vládu uchýlit se k systému priorit a přídělů.
+
+Nedostatky způsobů financování válečných výdajů vyvolaly nutnost regulace podnikání vládou. Kdyby nedošlo k inflaci a kdyby zdanění snížilo příjmy (po zdanění) všech občanů, a nikoli jen lidí s vyššími příjmy, na zlomek jejich mírové úrovně, tyto regulace by byly nadbytečné. Prosazování teorie tvrdící, že reálný důchod příjemců mezd musí být v dobách války dokonce vyšší než v době míru, však přijetí regulací učinilo nevyhnutelným.
+
+Věci, které umožnily americkým ozbrojeným silám vyhrát válku a poskytly veškeré materiální vybavení nutné ke spolupráci jejím spojencům, nevytvořila vládní nařízení a úředničina velkého počtu lidí uvedených na vládních výplatních páskách, ale úsilí soukromého sektoru. Ekonom z těchto historických skutečností nic nevyvozuje. Je ale vhodné je zmínit, jelikož intervencionisté se nás snaží přesvědčit, že nařízení zakazující využití oceli ke stavbě bytových domů automaticky vyrábí letadla a bitevní lodě.

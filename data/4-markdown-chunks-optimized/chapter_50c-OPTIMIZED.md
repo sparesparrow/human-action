@@ -1,0 +1,23 @@
+Žádná směs těchto dvou systémů není možná ani myslitelná, něco takového jako smíšené hospodářství – systém, který by byl částečně kapitalistický a částečně socialistický – neexistuje. Výroba se řídí buď trhem, nebo výnosy průmyslového cara či výboru „carů".
+
+Jestliže jsou v rámci společnosti, která je založená na soukromém vlastnictví výrobních prostředků, některé z těchto prostředků ve veřejném vlastnictví a užívání – to znamená, že jsou vlastněny a užívány vládou nebo některou z jejích agentur –, nevytváří se tím smíšený systém, v němž by se míchal socialismus a kapitalismus. Skutečnost, že stát nebo města vlastní a provozují některé podniky, nemění charakteristické rysy tržního hospodářství. Veřejně vlastněné a provozované podniky podléhají nadvládě trhu.
+
+Musí se začlenit – jako kupci surovin, zařízení a práce a jako prodejci zboží a služeb – do systému tržního hospodářství. Podléhají zákonům trhu, a proto jsou závislé na spotřebitelích, kteří je mohou, nebo nemusí podporovat. Musí se snažit o zisk nebo se alespoň vyhýbat ztrátám. Vláda může krýt ztráty ze svých podniků a obchodů čerpáním veřejných prostředků. To však ani nevylučuje, ani nezmírňuje nadřazenost trhu.
+
+Pouze ji přenáší do jiného odvětví, protože prostředky na pokrytí ztrát musí být opatřeny výběrem daní. Avšak toto zdanění má vliv na trh a podle tržních zákonů ovlivňuje strukturu hospodářství. Nikoli vláda, která daně vybírá, ale působení trhu rozhoduje o tom, na koho daně dopadnou a jak ovlivní výrobu a spotřebu.
+
+A tak nikoli úřad vlády, nýbrž trh určuje činnost těchto veřejně provozovaných podniků.
+
+Nic, co je jakkoli spojeno s působením trhu, nemůže být v praxeologickém nebo ekonomickém smyslu nazýváno socialismem. Pojem socialismu, jak je chápán a definován všemi socialisty, předpokládá neexistenci trhu pro výrobní faktory a neexistenci cen takových faktorů. „Socializace" jednotlivých podniků, prodejen a zemědělských statků – tj. jejich převod ze soukromého do veřejného vlastnictví – je metoda zavedení socialismu postupnými opatřeními. Je to krok na cestě k socialismu, ale samo o sobě to socialismem není.
+
+(Marx a ortodoxní marxisté rozhodně odmítají možnost takového postupného přibližování se k socialismu. Podle jejich doktríny dosáhne vývoj kapitalismu jednoho dne bodu, v němž bude kapitalismus náhle přeměněn na socialismus.)
+
+Vládou provozované podniky a ruská sovětská ekonomika jsou již kvůli pouhé skutečnosti, že nakupují a prodávají na trzích, spojeny s kapitalistickým systémem. Samy dosvědčují toto spojení tím, že počítají na základě peněz. Tak využívají intelektuální metody kapitalistického systému, který fanaticky zavrhují.
+
+Je tomu tak proto, že peněžní ekonomická kalkulace je intelektuální základnou tržního hospodářství. Úkoly, které jsou v jakémkoli systému dělby práce přiděleny jednání, nemohou být splněny bez ekonomické kalkulace. Tržní hospodářství počítá na základě peněžních cen. To, že je takových kalkulací schopno, posloužilo v jeho vývoji a určuje jeho dnešní chod. Tržní hospodářství je reálné, protože dokáže kalkulovat.
+
+Všechny živé bytosti mají v sobě zabudovaný pud, který je vede ke vstřebávání věcí, jež zachovávají, obnovují a zesilují jejich životní energii. Mimořádnost jednajícího člověka se projevuje tím, že vědomě a záměrně usiluje o zachování a zvýšení své životní síly.
+
+Při sledování tohoto cíle ho důvtip vede ke zhotovení nástrojů, jež mu za prvé pomáhají při zajišťování potravy, později ho vede k tomu, aby vymyslel metody ke zvýšení množství dostupných potravin, a konečně mu umožňuje opatřit si uspokojení té touhy, která je pociťována mezi všemi lidskými tužbami nejnaléhavěji. Takto ji popsal Böhm-Bawerk: člověk vybírá nepřímé výrobní metody, které vyžadují více času, ale toto zdržení vynahradí tím, že produkují více a lepších výrobků.
+
+Na počátku každého kroku vpřed na cestě k ještě bohatšímu životu jsou úspory – zásobení se statky, které umožňují prodloužit průměrnou dobu, jež uplyne od zahájení výrobního procesu do chvíle, kdy je výrobek připraven k použití a spotřebě. Statky, které se k tomuto účelu shromažďují, jsou buď přechodné stavy nějakého technologického procesu, tedy nástroje a polotovary, nebo zboží, které je připraveno ke spotřebě a umožňuje člověku nahradit časově náročnější proces jiným, který vyžaduje kratší čas, aniž by během čekání trpěl nedostatkem. Tyto statky se nazývají kapitálovými statky. Úspory a z toho vyplývající akumulace kapitálových statků jsou na počátku každého pokusu o zlepšení materiálních podmínek člověka; jsou základem lidské civilizace. Bez úspor a akumulace kapitálu by nemohlo existovat žádné úsilí o nehmotné cíle.

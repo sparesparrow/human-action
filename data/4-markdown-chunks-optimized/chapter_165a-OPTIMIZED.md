@@ -1,0 +1,23 @@
+Wehrwirtschaftslehre, německá doktrína ekonomie války, praví, že ani výrobní náklady, ani kvalita nejsou v případě válečného konfliktu rozhodující. Podnikatel usilující o dosažení zisku sleduje velmi úzkostlivě výrobní náklady a kvalitu svých výrobků. Hrdinný duch nadřazené rasy ale nehledí na tyto obavy hrabivých myslí. Jediné, na čem záleží, je připravenost na válku.
+
+Národ, jenž chce vést válku, musí usilovat o autarkii, aby mohl být nezávislý na mezinárodním obchodě. Musí podporovat výrobu substitutů bez ohledu na dosahování zisku. Nemůže se obejít bez úplné vládní regulace výroby, protože sobectví jednotlivců by mohlo zhatit záměry vůdce. I v dobách míru musí být vrchnímu veliteli svěřena úloha ekonomického diktátora.
+
+Obě úvahy doktríny Ersatz jsou mylné.
+
+Zaprvé, není pravda, že kvalita a vhodnost substitutu nehrají důležitou úlohu. Jsou-li vojáci vysláni do bitvy špatně živeni a vybaveni zbraněmi vyrobenými z podřadného materiálu, jejich šance na vítězství klesá. Jejich počínání bude méně úspěšné a utrpí větší ztráty. Vědomí o jejich nedostatečné technické vybavenosti zatíží jejich uvažování. Ersatz sníží jak materiální sílu, tak i morálku armády.
+
+O nic méně mylné není ani druhé tvrzení, že vyšší výrobní náklady substitutů nehrají roli. Vyšší výrobní náklady znamenají, že je třeba vynaložit více práce a více hmotných výrobních faktorů k dosažení stejného efektu, kterého protivník, jenž vyrábí správný výrobek, dosáhne s nižšími náklady. Je to stejná situace, jako kdyby vzácné výrobní faktory, hmotné i lidské, byly zničeny. Takovéto plýtvání má v dobách míru za následek snížení životní úrovně a v dobách války snížení dodávek statků potřebných k vedení válečných operací.
+
+Za současného stavu technologických znalostí budeme jen trochu přehánět, když řekneme, že cokoli je možné vyrobit z čehokoli. Klíčový význam ale má schopnost vybrat z množství možných způsobů ty, jejichž pomocí získáme nejvyšší výstup na jednotku vstupu. Každé odchýlení se od tohoto principu je trestáno. Důsledky jsou v dobách války stejně špatné jako v dobách míru.
+
+V zemi, jako jsou Spojené státy, která závisí pouze v relativně malé míře na dovozech surovin ze zahraničí, je možné zdokonalit stav válečné připravenosti pomocí výroby substitutů, jako je například syntetický kaučuk. Náklady této činnosti by byly malé, vezmeme-li v úvahu její přínosy. Země jako Německo ale dělá velkou chybu, když předpokládá, že by mohla dobýt území za použití syntetického benzinu, syntetického kaučuku, Ersatz textilu a Ersatz tuku. V obou válkách bylo Německo v pozici krejčího bojujícího proti člověku, jenž mu dodává chléb. Brutalita nacistů na této skutečnosti nemohla nic změnit.
+
+Marnost války
+
+Člověka od zvířat odlišuje schopnost rozumět výhodám plynoucím ze vzájemné spolupráce v podmínkách dělby práce. Člověk potlačuje svůj vrozený instinkt agrese, aby mohl s ostatními lidskými bytostmi spolupracovat. Čím více chce zlepšit svůj materiální blahobyt, tím více musí rozšiřovat systém dělby práce. Zároveň tak musí stále více omezovat prostor, ve kterém se uchyluje k vojenskému řešení problémů. Vznik mezinárodní dělby práce vyžaduje úplné odstranění válek. To je podstatou filozofie laissez faire manchesterské školy.
+
+Tato filozofie je samozřejmě neslučitelná s uctíváním státu. V tomto smyslu je státu, společenskému aparátu násilného nátlaku, svěřena úloha ochrany hladkého fungování tržního hospodářství proti útokům protispolečenských jedinců a jejich skupin. Jeho funkce je nepostradatelná a prospěšná, ale je to pouze funkce doplňková. Neexistuje žádný důvod, proč bychom měli zbožšťovat moc policie a přisuzovat jí všemocnost a vševědoucnost. Jsou věci, kterých se jí zcela jistě nepodaří dosáhnout.
+
+Nemůže odčarovat vzácnost výrobních faktorů, nemůže učinit lidi bohatšími, nemůže zvýšit produktivitu práce. Může pouze zabránit zločincům mařit úsilí lidí, kteří se rozhodli zvýšit materiální blahobyt.
+
+Liberální filozofie Benthama a Bastiata doposud nedokonala své dílo a neodstranila překážky obchodu a zásahy vlády do podnikání, když začala působit falešná teologie božského státu. Úsilí zlepšit podmínky příjemcům mezd a drobných rolníků pomocí vládních nařízení způsobovalo oslabení vazeb, které spojovaly domácí ekonomiku každé země s ekonomikami zahraničními. Hospodářský nacionalismus, nutný doplněk domácího intervencionismu, poškozuje zájmy zahraničních národů, a vytváří tak mezinárodní konflikty.

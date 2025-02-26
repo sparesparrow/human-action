@@ -1,0 +1,5 @@
+Protože je tvrzení, že nepřímá směna a peníze byly vytvořeny nařízením nebo smlouvou občanů, považováno za záznam historických událostí, je úkolem historiků odhalit jeho nepravdivost. Protože je předkládáno pouze jako výrok o historii, nemůže žádným způsobem ovlivnit katalaktickou teorii peněz a její vysvětlení vzniku nepřímé směny. Kdyby bylo zamýšleno jako výrok o lidském jednání a společenských událostech, je nepoužitelné, protože neříká nic o jednání.
+
+Výrokem o lidském jednání není tvrzení, že se jednoho dne vládci lidí setkali a byli zasaženi náhlým vnuknutím směňovat nepřímo pomocí běžně užívaného prostředku směny. Jde jen o odsunutí řešení zkoumaného problému.
+
+Je nezbytné pochopit, že k vědeckému chápání lidského jednání a společenských jevů ničím nepřispějeme, když prohlásíme, že byly vyvolány státem, charizmatickým vůdcem nebo vnuknutím, které se na lidi sneslo. Tato tvrzení také nevyvracejí závěry teorie tvrdící, že tyto jevy mohou být označeny za nezamýšlený důsledek, výsledek, jenž nebyl úmyslně plánován ani o něj nebylo výslovně usilováno jednotlivými členy společnosti.

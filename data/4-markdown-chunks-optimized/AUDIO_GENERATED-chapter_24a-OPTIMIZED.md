@@ -1,0 +1,21 @@
+Kapitola třetí: Ekonomie a revolta proti rozumu
+
+
+Revolta proti rozumu
+
+
+Je pravda, že někteří filozofové rádi moc lidského rozumu přeceňovali. Věřili, že člověk dokáže svým myšlením objevit poslední příčiny událostí, inherentní cíle, k nimž směřuje prvotní hybatel stvořením světa a určováním jeho vývoje. Rozepisovali se o absolutnu, jako kdyby bylo jejich kapesními hodinkami. Nebáli se oznamovat věčné absolutní hodnoty a vytvářet mravní kódy platné pro všechny lidi.
+
+Pak zde existovala dlouhá řada utopických autorů. Sepisovali schémata rájů na zemi, v nichž měl vládnout pouze čistý rozum. Neuvědomovali si, že to, co nazývají čistým rozumem a evidentní pravdou, byly jen fantazie jejich vlastní mysli. Lehkovážně si nárokovali neomylnost a často obhajovali netolerance, násilné potlačování všech opozičníků a heretiků. Chtěli dosáhnout diktatury buď pro sebe samé, nebo pro lidi, kteří by jejich plány přesně uvedli v život. Podle jejich názoru neexistovala pro trpící lidstvo žádná jiná spása.
+
+Byl zde Hegel. Hegel byl hlubokým myslitelem a jeho díla jsou pokladem stimulujících myšlenek. Pracoval však ve falešné představě, že Geist, absolutno, se zjevuje skrze jeho slova. Na světě neexistovalo nic, co by Hegelovi zůstalo skryto. Je škoda, že je jeho jazyk tak nejednoznačný, že může být různě interpretován. Pravicoví hegeliáni jej interpretovali jako podporu pruského systému autokratické vlády a dogmat pruské církve. Levicoví hegeliáni z něj vyčetli ateismus, nesmiřitelný revoluční radikalismus a anarchistické doktríny.
+
+Byl zde August Comte. Přesně věděl, co má budoucnost pro lidstvo připraveno. A samozřejmě se považoval za nejvyššího zákonodárce. Tak například považoval některá astronomická studia za zbytečná a chtěl je zakázat. Plánoval nahradit křesťanství novým náboženstvím a zvolil dámu, která byla v této nové církvi určena jako náhrada za Pannu Marii. Comta lze omluvit, neboť byl duševně chorý v plném smyslu slova, který mu přisuzuje patologie. Co však jeho následovníci?
+
+Bylo by možné zmínit se o mnoha dalších podobných faktech. Nepředstavují však žádný argument proti rozumu, racionalismu a racionalitě. Tyto sny nemají vůbec nic společného s otázkou, zda je rozum správným a jediným nástrojem, kterým člověk disponuje ve své snaze dosáhnout co největšího možného poznání. Čestní a svědomití hledači pravdy nikdy nepředstírají, že rozum a vědecký výzkum mohou poskytnout odpovědi na všechny otázky. Jsou si omezení lidské mysli plně vědomi. Nelze je činit zodpovědné za hrubosti Hegelovy filozofie a simplifikace různých materiálních škol.
+
+Sami racionalističtí filozofové se vždy zaměřovali na odhalení hranic apriorní teorie i empirického výzkumu. První zástupce britské politické ekonomie, David Hume, utilitarista, a američtí pragmatisté jistě nejsou vinni tím, že by přeháněli moc člověka dosáhnout pravdy. Spíše by šlo filozofii uplynulých dvou set let obvinit z přílišného agnosticismu a skepticismu než z přehnané důvěry v to, čeho může lidský rozum dosáhnout.
+
+Revolta proti rozumu, charakteristický mentální postoj naší doby, nebyla způsobena nedostatkem skromnosti, opatrnosti a sebezpytování na straně filozofů. Ani není důsledkem evoluce moderní přírodní vědy. Úžasné úspěchy technologie a terapeutiky mluví jazykem, který nikdo nemůže ignorovat. Útočit na moderní vědu, ať již z pozice intuicionismu či mysticismu či z jakéhokoli jiného pohledu, je beznadějné. Revolta proti rozumu směřovala na jiný cíl. Nemířila na přírodní vědy, ale na ekonomii. Útok proti přírodním vědám byl jen logicky nutným výsledkem útoku proti ekonomii. Bylo nemožné sesadit rozum pouze v jedné oblasti a nezpochybnit jej současně i v ostatních odvětvích poznání.
+
+Toto velké povstání se zrodilo v historické situaci, která existovala v polovině devatenáctého století. Ekonomové zcela zničili fantastické přeludy socialistických utopistů. Nedostatky klasického systému jim sice zabránily pochopit, proč nelze žádný socialistický plán uskutečnit. Věděli však dost na to, aby prokázali marnost všech socialistických schémat vytvořených do jejich doby. Komunistické myšlenky byly vyřízené. Socialisté absolutně nedokázali vznést jakékoli námitky vůči devastující kritice svých schémat a nalézt ve svůj prospěch nějaký argument. Zdálo se, že je socialismus navždy mrtev.

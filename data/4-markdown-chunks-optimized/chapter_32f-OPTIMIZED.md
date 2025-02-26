@@ -1,0 +1,9 @@
+Kdyby byl tento svět socialistickým společenstvím, považoval by se nárůst populace za zvýšení počtu nečinných spotřebitelů. Pokud by se jednalo o tržní společnost, nepostačovaly by mzdy k zamezení hladovění. Kdokoli by hledal práci, byl by ochoten pracovat za libovolně nízkou mzdu, i kdyby nepostačovala k zachování života. Rád by alespoň na chvíli oddálil smrt hladem.
+
+Nemá smysl zabývat se paradoxy této hypotézy a diskutovat o problémech takového světa. Náš svět je jiný. Práce je vzácnější než hmotné výrobní faktory. V tuto chvíli se nezabýváme problémem optimální populace. Zabýváme se pouze faktem, že existují hmotné výrobní faktory, které zůstávají ladem, protože je vyžadované práce třeba při uspokojování naléhavějších potřeb. V našem světě není dostatek, nýbrž nedostatek lidské síly, a existují nevyužité hmotné výrobní faktory, tj. půda, nerostné zdroje a dokonce i továrny a zařízení.
+
+Při volné mobilitě práce by bylo plýtváním zlepšovat neúrodnou půdu, pokud obdělaná plocha není natolik úrodná, aby pokryla celkové náklady činnosti.
+
+Tento stav věcí by se mohl změnit takovým nárůstem populace, že by byly plně využity všechny hmotné výrobní faktory potřebné pro výrobu jídla nezbytného v přísném smyslu slova k zachování lidského života. Dokud však tomu tak není, nemůže se to změnit žádným zlepšením technologických metod výroby. Nahrazení technologicky neefektivních metod výroby metodami efektivnějšími neodstraní vzácnost práce, jestliže stále existují dostupné hmotné faktory, jejichž užití může lidský blahobyt zvýšit. Naopak to zvyšuje výstup a tím i množství spotřebních statků.
+
+Stroje šetřící práci zvyšují nabídku, nezpůsobují technologickou nezaměstnanost.

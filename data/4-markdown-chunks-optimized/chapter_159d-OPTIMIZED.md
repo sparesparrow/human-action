@@ -1,0 +1,11 @@
+Je zjevně proti zájmům spotřebitelů bránit nejefektivnějším podnikatelům rozšiřovat sféru jejich činností do velikosti, kterou veřejnost schvaluje tím, že nakupuje jejich výrobky. I zde stojíme před otázkou: kdo má mít poslední slovo – spotřebitelé, nebo vláda? Na neomezeném trhu jsou příjem a bohatství každého člověka v konečném důsledku určovány chováním spotřebitelů a jejich ochotou či neochotou nakupovat. Měli bychom svěřit vládě moc zvrátit vůli spotřebitelů?
+
+Nepoučitelní zastánci státu nesouhlasí. Dle jejich názoru jsou činnosti velkopodnikatele motivovány touhou po moci, a nikoli touhou po bohatství. Takovýto „král mezi obchodníky" by neomezil své činnosti, kdyby musel odevzdat veškerý získaný přebytek výběrčímu daní. Jeho touha po moci nebude oslabena žádnými úvahami spojenými s pouhým vyděláváním peněz. Přijmeme-li na chvíli toto vysvětlení, na čem jiném než na bohatství podnikatele je ale jeho moc založena? Jak by se mohli Rockefeller a Ford dostat k „moci", kdyby jim bylo bráněno získat bohatství?
+
+Koneckonců někteří obhájci státu v této situaci smysluplněji tvrdí, že chtějí zakázat akumulaci bohatství právě proto, že dává člověku ekonomickou moc.
+
+Daně jsou nutné. Ovšem systém diskriminačního zdanění, jenž byl všeobecně zaveden pod zavádějícím jménem progresivní zdanění příjmu a dědická daň, není systémem zdanění. Jde spíše o způsob maskovaného vyvlastňování úspěšných kapitalistů a podnikatelů. Ať již na jeho obhajobu říkají zastánci vlády cokoli, takové zdaňování není slučitelné se zachováním tržního hospodářství.
+
+Přinejlepším se jedná o nástroj k zavedení socialismu. Díváme-li se zpětně na vývoj sazeb daně z příjmu od vzniku federální daně z příjmu v roce 1913 do současnosti, člověku se nechce věřit, že by tato daň brzy nepohltila veškerý příjem přesahující průměrnou výši mezd běžného člověka.
+
+Ekonomie se nezabývá nepodloženými metafyzickými teoriemi předkládanými ve prospěch progresivního zdanění, ale jeho dopadem na fungování tržního hospodářství. Zastánci intervencionismu a politici se na vzniklý problém dívají z pohledu jejich vlastního úsudku ohledně „společenské nutnosti". Domnívají se, že „účelem zdanění nikdy není zajištění peněz", protože vláda „může získat veškeré peníze, které potřebuje, tím, že je natiskne". Skutečný účel zdanění je „ponechat méně v rukách daňových poplatníků".

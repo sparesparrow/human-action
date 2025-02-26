@@ -1,0 +1,5 @@
+Věřit, že by bylo možné kolektivní celky nějak zviditelnit, je iluzorní. Nelze je nikdy vidět, jejich poznání je vždy důsledkem pochopení významu, který jednající svému jednání přisuzují. Můžeme vidět zástup lidí. Zda je však tento zástup pouhým shromážděním nebo davem (ve smyslu, jak jej používá současná psychologie) nebo organizovaným tělesem či nějakým dalším druhem společenské entity, je otázkou, na niž lze odpovědět pouze pochopením významu, který lidé sami přisuzují svému chování. A tento význam je vždy významem jednotlivců.
+
+Společenské entity jsou rozpoznávány nikoli našimi smysly, nýbrž rozuměním, mentálním procesem.
+
+Ti, kdo chtějí začít studium lidského jednání od kolektivních jednotek, narážejí na nepřekonatelnou překážku v podobě faktu, že jeden člověk může ve stejný okamžik patřit – a s výjimkou nejprimitivnějších divochů skutečně patří – k několika odlišným kolektivním entitám. Problémy vyplývající z mnohosti koexistujících společenských jednotek a jejich vzájemných antagonismů je možné vyřešit pouze za pomoci metodologického individualismu.

@@ -1,0 +1,21 @@
+Vše výše uvedené bylo řečeno ve vztahu k dopadům jakéhokoli zvýšení nabídky skutečných peněz, jestliže tato dodatečná nabídka dosáhne úvěrového trhu v rané fázi svého přílivu do tržního systému. Pokud tato dodatečná nabídka zvýší množství peněz nabízených k vypůjčení v okamžiku, kdy ještě nebyly ovlivněny ceny statků a peněžní vztah, její důsledky jsou stejné jako v případě úvěrové expanze. Ve své analýze problému úvěrové expanze završuje katalaxie pojednání o teorii peněz a úroku.
+
+Nepřímo vyvrací letité omyly týkající se úroku a boří nereálné plány na zrušení úroku pomocí peněžní nebo úvěrové reformy.
+
+Odlišnost úvěrové expanze od zvýšení nabídky peněz, objevující se v hospodářství využívajícím pouze komoditní peníze a vůbec žádné fiduciární prostředky, je dána rozdílností objemu zvýšení a časové posloupnosti jejich dopadů na různé části trhu. I prudké zvýšení produkce drahých kovů nemůže nikdy dosáhnout rozsahu, kterého může dosáhnout úvěrová expanze. Zlatý standard byl efektivní překážkou úvěrové expanzi, protože nutil banky nepřekročit určité hranice jejich expanzionistických snah.
+
+Inflační možnosti zlatého standardu byly drženy v rozumných mezích proměnlivosti těžby zlata. Navíc pouze část dodatečného zlata okamžitě zvýšila zásobu nabízenou na úvěrovém trhu. Větší část se promítla nejprve do cen statků a mzdových sazeb a úvěrový trh ovlivnila až v pozdějších fázích inflačního procesu.
+
+Neustálé zvyšování množství komoditních peněz vykonávalo na úvěrový trh stálý expanzionistický tlak. Hrubá tržní úroková míra byla v průběhu posledních století trvale ovlivňována přílivem dodatečných peněz na úvěrový trh. Tento tlak byl pochopitelně v posledních sto padesáti letech v anglosaských zemích a posledních sto let v zemích na evropském kontinentu vysoce převýšen důsledky souběžného vývoje oběžného úvěru poskytovaného bankami vedle jejich – čas od času opakovaných – přímočarých snah o snížení hrubé tržní úrokové míry zesílenou úvěrovou expanzí.
+
+Ve stejném čase tak působily tři tendence ke snížení hrubé tržní úrokové míry a vzájemně se posilovaly. Jedna z nich byla výsledkem stálého zvyšování množství komoditních peněz, druhá výsledkem spontánního vývoje fiduciárních prostředků v bankovních operacích a třetí efektem úmyslných politik zaměřených proti úroku, prosazovaných vládami a schvalovaných veřejným míněním.
+
+Je pochopitelně nemožné kvantitativně zjistit důsledky jejich vzájemného působení a příspěvek každé z nich; odpověď na tuto otázku může být poskytnuta jen rozuměním dějinám.
+
+Katalaktické uvažování nám může ukázat pouze to, že nepatrný, ale neustálý tlak na hrubou tržní úrokovou míru pocházející z nepřetržitého zvyšování množství zlata a také z mírného zvyšování objemu fiduciárních prostředků, který není přehnán a zesílen účelovou politikou snadno dostupných peněz, může být vyrovnán přizpůsobujícími silami přítomnými v tržním hospodářství. Přizpůsobivost podnikání, která není záměrně mařena silami pocházejícími z oblastí mimo trh, je dostatečně silná k vyrovnání důsledků způsobených těmito mírnými poruchami na úvěrovém trhu.
+
+Statistici se pokoušeli svými metodami zkoumat dlouhé vlny hospodářských výkyvů. Tyto snahy jsou zbytečné. Historie moderního kapitalismu představuje plynulý hospodářský pokrok, opakovaně narušovaný horečnatými boomy a jejich následky, depresemi. Je možné statisticky odlišit tyto opakující se oscilace od obecného trendu zvyšování objemu investovaného kapitálu a množství vyrobeného výstupu. Není však možné odhalit jakékoli opakující se kolísání v obecném trendu samotném.
+
+Oblíbenost inflace a úvěrové expanze, rozhodující zdroj opakovaných snah zvýšit prosperitu lidí pomocí úvěrové expanze, a tedy i příčina cyklických výkyvů hospodářství, se jasně projevuje v obvyklé terminologii. Boom je nazýván dobrou událostí, prosperitou a rozmachem. Jeho nevyhnutelné důsledky, přizpůsobení podmínek skutečným tržním datům, jsou nazývány krizí, propadem, špatnou událostí, depresí.
+
+Lidé se bouří proti pochopení toho, že rušivý prvek má být spatřován v mylných investicích a nadměrné spotřebě v době boomu a že je takový uměle vyvolaný boom odsouzen k nezdaru. Hledají kámen mudrců, jenž by umožnil jeho trvání.

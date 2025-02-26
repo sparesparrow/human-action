@@ -1,0 +1,5 @@
+Jádro věci leží právě v působení sobectví. V systému nerovnosti toto sobectví nutí člověka spořit a vždy své úspory investovat způsobem, který nejlépe uspokojí nejnaléhavější potřeby spotřebitelů. V systému rovnosti tento motiv mizí. Omezení spotřeby v bezprostřední budoucnosti je citelným strádáním, ránou sobeckým individuálním cílům. Přírůstek dostupného zboží někdy ve vzdálené budoucnosti, jenž je v důsledku krátkodobého strádání očekáván, není pro průměrného člověka tak dobře viditelný.
+
+Pozitivní efekty jsou navíc v systému veřejné akumulace kapitálu tak rozptýleny, že člověku jen stěží připadnou jako dostatečná kompenzace za problémy, které musí podstoupit dnes. Škola blahobytu lehkovážně předpokládá, že očekávání sklizně plodů dnešních úspor rovnoměrně celou budoucí generací způsobí, že každý začne více spořit.
+
+Podléhají tak obdobě Platónovy iluze, že když zabráníme rodičům vědět, kdo jsou jejich děti, zahoří rodičovskou láskou ke všem mladým lidem. Bylo by užitečné, kdyby si stoupenci školy blahobytu vzali k srdci Aristotelovu poznámku, že výsledkem bude spíše to, že všichni rodiče budou vůči všem dětem stejně lhostejní.

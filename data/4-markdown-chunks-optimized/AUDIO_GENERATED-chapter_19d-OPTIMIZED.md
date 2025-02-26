@@ -1,0 +1,21 @@
+V Bergsonově filozofii se toto rozumění nazývá intuicí, jinými slovy „la sympathie par laquelle on se transporte à l'interieur d'un objet pour coïncider avec ce qu'il a d'unique et par conséquent d'inexprimable". Německá epistemologie tento fakt nazývá das spezifische Verstehen der Geistwissenschaften nebo prostě Verstehen. Je to metoda, kterou všichni historici i všichni ostatní lidé uplatňují, když komentují lidské události v minulosti či předpovídají události budoucí. Objevení a vymezení rozumění bylo jedním z nejdůležitějších příspěvků moderní epistemologie. Nejedná se samozřejmě o projekt nové vědy, která dosud neexistovala a měla by být založena, ani o doporučení nové metody postupu práce pro nějakou z již existujících věd.
+
+Rozumění nelze směšovat se schvalováním, i kdyby jen podmíněným a nepřímým. Historik, etnolog či psycholog někdy zaznamená jednání, kterému je prostě protivné a odporné. Rozumí mu pouze jako jednání, to znamená, že určí cíl, který jej vede, a technologické a praxeologické metody použité k jeho dosažení. Porozumět jednotlivému případu neznamená ospravedlňovat jej či omlouvat.
+
+Rozumění nesmí být rovněž směšováno s aktem estetického prožitku nějakého jevu. Empatie a rozumění jsou dva radikálně odlišné postoje. Porozumět historicky uměleckému dílu, určit jeho místo, jeho smysl a jeho význam v toku událostí na straně jedné a citově jej ocenit jako umělecké dílo na straně druhé jsou odlišné věci. Na katedrálu se lze dívat očima historika. Na stejnou katedrálu se však lze současně dívat i očima zapáleného obdivovatele či nezaujatého turisty. Titíž jednotlivci jsou schopni obou modů reakce, jak estetického ocenění, tak vědeckého uchopení rozuměním.
+
+Rozumění konstatuje fakt, že jednotlivec či skupina jednotlivců provedla konkrétní jednání, které vyvěrá z konkrétních hodnotových soudů a voleb a směřuje ke konkrétním cílům a že k dosažení těchto cílů použila konkrétní prostředky doporučované konkrétními technologickými, terapeutickými a praxeologickými doktrínami. Dále se snaží ohodnotit účinky způsobené jednáním a jejich intenzitu. Snaží se každému jednání přiřadit relevanci, to znamená jeho dopad na běh událostí.
+
+Polem rozumění je mentální uchopení jevů, které nelze zcela osvětlit logikou, matematikou, praxeologií a přírodními vědami, a to v míře, v níž nemohou být všemi těmito vědami zcela vyjasněny. Nikdy s nimi nesmí být v rozporu.
+
+Skutečná tělesná existence ďábla je doložena množstvím historických dokumentů, které jsou v ostatních ohledech poměrně spolehlivé. Mnohé tribunály v řádných soudních procesech prokázaly na základě doznání obžalovaných skutečnost, že ďábel měl pohlavní styk s čarodějnicemi. Žádný odkaz na rozumění však nemůže obhájit pokus historika tvrdit, že ďábel skutečně existoval a zasahoval do lidských událostí jinak než ve vizích rozrušeného lidského mozku.
+
+Zatímco v případě přírodních věd se toto všeobecně připouští, k ekonomické teorii zaujímají někteří historici jiný postoj. Snaží se ekonomickým teorémům oponovat na základě odkazů na dokumenty, které údajně dokazují věci, jež jsou s danými teorémy v rozporu. Neuvědomují si, že komplexní jevy nikdy nemohou ani potvrdit, ani vyvrátit jakýkoli teorém, a nemohou proto svědčit proti výrokům teorie. Ekonomická historie je možná pouze díky ekonomické teorii, která dokáže ekonomické jednání osvětlit.
+
+Kdyby ekonomická teorie neexistovala, zprávy týkající se ekonomických faktů by nebyly ničím jiným než sbírkou nesouvisejících dat, otevřených jakékoli arbitrární interpretaci.
+
+Úkolem věd o lidském jednání je porozumění jeho významu a relevanci. Za tímto účelem používají lidé dva odlišné epistemologické postupy: pojmové myšlení a rozumění. Pojmové myšlení je mentálním nástrojem praxeologie, rozumění je specifickým mentálním nástrojem historie.
+
+Poznání praxeologie je poznáním pojmovým. Odkazuje na to, co je v lidském jednání nutné. Je to poznání univerzálií a kategorií.
+
+Poznání historie se vztahuje k tomu, co je na každé události či třídě událostí unikátní a individuální. Nejprve každý předmět svého studia zkoumá pomocí mentálních nástrojů, jež jí poskytují všechny ostatní vědy. Po této předběžné práci pak musí čelit svému vlastnímu specifickému problému: osvětlení unikátních a individuálních vlastností daného případu za pomoci rozumění.

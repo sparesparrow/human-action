@@ -1,0 +1,25 @@
+Ovšem takový člověk bez prodlení uloží do své banky nejen šeky, ale i bankovky banky, jejímž klientem není. Jeho banka v dalším kroku vyrovná své účty s touto druhou bankou. Tím je uveden do pohybu výše popsaný proces.
+
+O podivné zálibě veřejnosti v bankovkách vydaných pochybnými bankami byla napsána řada nesmyslů. Pravda je, že kromě malé skupiny obchodníků, kteří byli schopni rozlišovat mezi dobrými a špatnými bankami, bylo na bankovky vždy pohlíženo s nedůvěrou. Ta pomalu vymizela, až když vlády zaručily privilegovaným bankám zvláštní výhody. Často zdůrazňovaný argument, že malé bankovky se dostaly do rukou chudých a neinformovaných lidí, kteří nemohli rozeznat dobré a špatné bankovky, nemůže být brán vážně.
+
+Čím chudší je příjemce bankovky a čím méně je obeznámen s bankovními záležitostmi, tím rychleji ji utratí a tím rychleji se bankovka vrátí, prostřednictvím maloobchodu nebo velkoobchodu, bance, jež ji vydala, nebo k lidem, kteří jsou se situací v bankovnictví dobře obeznámeni.
+
+Pro banku je velmi snadné zvýšit počet lidí ochotných přijmout úvěry pocházející z úvěrové expanze a vyplacené v podobě peněžních substitutů. Je pro ni ale velmi obtížné zvýšit počet svých klientů, tedy počet lidí, kteří jsou ochotni považovat tyto nároky za peněžní substituty a jako takové je držet.
+
+Rozšiřování klientely je nesnadný a zdlouhavý proces, stejně jako získávání dobré pověsti a důvěry. Na druhou stranu je banka může velmi rychle ztratit. Pokud si chce své klienty udržet, nesmí nikdy připustit sebemenší pochyby o své schopnosti a ochotě splatit veškeré své závazky v souladu s podmínkami uzavřených smluv. Musí udržovat dostatečně velké rezervy na směnu všech bankovek, které jí mohou jejich držitelé ke směně předložit.
+
+Žádná banka se tak nemůže spokojit pouze s vydáváním fiduciárních prostředků; musí držet rezervy kryjící celý objem vydaných peněžních substitutů, a tedy kombinovat emisi fiduciárních prostředků a peněžních certifikátů.
+
+Je vážným omylem domnívat se, že úkolem rezerv je poskytovat prostředky pro směnu těch bankovek, jejichž držitelé ztratili v banku důvěru. Není možné oddělit důvěru, jíž se těší banka a jí vydané peněžní substituty. Buď ji sdílejí všichni její klienti, nebo je zcela pryč. Pokud ji ztratí někteří klienti, ostatní ji ztrácí také.
+
+Žádná banka emitující fiduciární prostředky a poskytující oběžný úvěr nemůže dostát svým závazkům, které na sebe vzala vydáním peněžních substitutů, pokud všichni její klienti ztrácí důvěru a chtějí směnit své bankovky a získat zpět své vklady. To je základní vlastností či slabinou podnikání, při kterém dochází k vydávání fiduciárních prostředků a poskytování oběžného úvěru. Žádný systém rezervní politiky ani žádné rezervní požadavky stanovené zákony ji nemohou napravit.
+
+Rezervy mohou pouze umožnit bance stáhnout z trhu přebytečný objem vydaných fiduciárních prostředků. Pokud banka vydala více bankovek, než mohou její klienti použít při obchodování s jinými klienty, musí tento přebytek proměnit zpět v peníze.
+
+Zákony nutící banky udržovat rezervy v určitém poměru k celkovému objemu vkladů a vydaných bankovek byly účinné, pokud omezovaly zvýšení objemu fiduciárních prostředků a oběžného úvěru. Byly však zbytečné, jakmile se snažily o ochranu před okamžitou směnou bankovek a výběry vkladů, došlo-li ke ztrátě důvěry.
+
+Bankovní škola se v pojednáních o těchto problémech zcela mýlila. Byla zmatena falešnou představou, podle níž požadavky podnikání tvrdě omezují maximální objem směnitelných bankovek, které může banka vydat. Její členové si nepovšimli, že poptávka veřejnosti po úvěru je co do velikosti závislá na ochotě banky půjčovat a že banky, které si nedělají starosti o svou vlastní solventnost, mohou zvyšovat oběžný úvěr snížením úroku pod tržní míru. Není pravda, že maximální objem, který banka může půjčit, pokud omezí své půjčování na eskontování krátkodobých směnek pocházejících z prodeje a nákupu surovin a polotovarů, je množství jednoznačně určené podmínkami v podnikání a nezávislé na přístupu banky.
+
+Tento objem se totiž zvyšuje nebo klesá se snižováním nebo zvyšováním diskontní míry. Snížení úrokové míry je rovnocenné zvýšení množství toho, co je chybně považováno za správné a normální požadavky podnikání.
+
+Měnová škola podala vcelku správné vysvětlení opakujících se krizí, které narušovaly podmínky anglického podnikání ve třicátých a čtyřicátých letech devatenáctého století. Tehdy prováděli Bank of England a ostatní britské banky a bankéři úvěrovou expanzi, zatímco v zemích, s nimiž Velká Británie obchodovala, se nic takového – nebo alespoň ne v takovém rozsahu – neodehrávalo. Nezbytným důsledkem tohoto stavu byl odliv měnového kovu do zahraničí. Vše, co prosazovala bankovní škola, aby popřela tuto teorii, bylo zbytečné. Měnová škola bohužel ve dvou ohledech chybovala.

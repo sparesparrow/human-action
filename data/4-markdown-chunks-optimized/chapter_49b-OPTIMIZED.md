@@ -1,0 +1,23 @@
+V imaginárním konstruktu rovnoměrně plynoucí ekonomiky není nikdo podnikatelem ani spekulantem. V jakémkoli skutečném a živém hospodářství je každý, kdo jedná, vždy podnikatelem i spekulantem; lidé, o něž se tyto jednající osoby starají – členové malých rodin v tržní společnosti i masy v socialistické společnosti –, jsou, i když sami nejednají, a proto nespekulují, vždy ovlivněni výsledky spekulování těch, kteří jednají.
+
+Když ekonomie mluví o podnikatelích, nemá na mysli lidi, ale určitou funkci. Tato funkce není zvláštním rysem konkrétní skupiny nebo třídy lidí. Je spojená s každým jednáním a každého, kdo jedná, zatěžuje. Když tuto funkci personifikujeme ve fiktivní postavě, uchylujeme se k metodické pomůcce. Pojem podnikatel, jak ho používá katalaktická teorie, znamená: jednající člověk, na něhož se díváme výhradně z pohledu nejistoty obsažené v každém jednání.
+
+Při používání tohoto termínu nesmíme nikdy zapomenout, že každé jednání je zakotveno v toku času, a proto obsahuje spekulaci. Kapitalisté, majitelé půdy i ti, kdo pracují, nutně spekulují. Spekuluje i spotřebitel, když uspokojuje očekávané budoucí potřeby. Neříkej hop, dokud jsi nepřeskočil.
+
+Pokusme se promyslet imaginární konstrukt čistého podnikatele až do nejzazších logických důsledků. Tento podnikatel nevlastní kapitál. Kapitál, který potřebuje ke své podnikatelské činnosti, mu půjčují kapitalisté ve formě peněžních půjček. Je pravda, že podle zákona je vlastníkem různých výrobních prostředků pořízených z poskytnutých půjček. Přesto zůstává nemajetným, protože objem jeho aktiv je vyvážen jeho závazky. Pokud uspěje, je čistý zisk jeho. Jestliže neuspěje, musí ztrátu nést kapitalisté, kteří mu půjčili finanční prostředky.
+
+Takový podnikatel by byl ve skutečnosti kapitalistovým zaměstnancem, jenž spekuluje na vlastní účet a má stoprocentní podíl na čistém zisku, aniž by se zajímal o ztráty. Ale i když je podnikatel v situaci, že část potřebného kapitálu poskytuje sám a půjčuje si pouze zbylou část, v podstatě se nejedná o nic jiného. Protože vzniklé ztráty nemohou být pokryty z vlastních finančních prostředků podnikatele, jdou na účet kapitalisty, který půjčil peníze, ať již jsou podmínky smlouvy jakékoli.
+
+Kapitalista je tedy vždy virtuálním podnikatelem a spekulantem. Vždy existuje nebezpečí, že o své prostředky přijde. Nic takového jako dokonale bezpečná investice neexistuje.
+
+Soběstačný majitel půdy, který obdělává svou půdu pouze pro potřeby vlastní domácnosti, je ovlivněn všemi riziky, která mají vliv na úrodnost jeho statku nebo na jeho osobní potřeby. V tržním hospodářství jsou výsledky činnosti zemědělce ovlivněny všemi náhodami, které se dotýkají důležitosti jeho pozemku pro zásobování trhu. Je zřejmé, že zemědělec je – dokonce i z pohledu běžné terminologie – podnikatel. Žádný vlastník výrobních prostředků, ať už jsou ve formě hmotných statků nebo peněz, nezůstává nedotčen nejistotou budoucnosti.
+
+Využití jakýchkoli hmotných statků nebo peněz pro výrobu, tedy pro zaopatření na budoucí dny, je samo o sobě podnikatelskou činností.
+
+Vše je v podstatě stejné pro člověka, který pracuje. Narodil se jako vlastník určitých schopností; jeho vrozené vlohy jsou výrobním prostředkem, který je pro určité druhy práce uzpůsoben lépe, pro jiné druhy práce hůře a pro zbývající se nehodí vůbec.
+
+Pokud nabyl dovednosti, které jsou třeba k výkonu určitých druhů práce, je vzhledem k času a materiálním výdajům, jež tato průprava pohltila, investorem. Učinil vklad v očekávání, že se mu vrátí v přiměřeném výstupu. Pracovník je podnikatelem natolik, nakolik je jeho mzda určována cenou, kterou umožní trh pro ten druh práce, jenž může vykonávat. Tato cena se mění se změnou podmínek, stejně jako se mění cena jakéhokoli jiného výrobního faktoru.
+
+V kontextu ekonomické teorie je význam příslušných termínů následující: podnikatel znamená jednajícího člověka vztaženého ke změnám, které se objevují v tržních datech. Kapitalista a majitel půdy představují jednajícího člověka vztaženého ke změnám hodnoty a ceny, které jsou způsobeny pouhým ubíháním času jako důsledek různého ocenění současných a budoucích statků, dokonce i když všechna ostatní tržní data zůstanou stejná. Pracovník představuje člověka vztaženého k výrobnímu faktoru lidské práce.
+
+Tak je každá funkce překrásně celistvá: podnikatel vydělá zisk a utrpí ztrátu; majitel výrobních prostředků (kapitálových statků nebo půdy) vydělá čistý úrok; pracovníci si vydělají mzdu. V tomto smyslu rozpracováváme imaginární konstrukt funkčního rozdělování na základě rozdílů od skutečného historického rozdělování.

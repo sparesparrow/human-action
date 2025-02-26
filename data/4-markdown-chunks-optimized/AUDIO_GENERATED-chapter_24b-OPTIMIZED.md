@@ -1,0 +1,23 @@
+Jen jedna cesta mohla socialisty z této slepé uličky vyvést. Mohli zaútočit na logiku a rozum a nahradit usuzování mystickou intuicí. Navrhnout toto řešení bylo historickou úlohou Karla Marxe. Na základě Hegelova dialektického mysticismu si lehkovážně přisoudil schopnost předpovídat budoucnost.
+
+Hegel předstíral, že ví, že Geist při vytvoření světa chtěl dát vzniknout monarchii Bedřicha Viléma třetího. Marx byl však o jeho plánech informován lépe. Věděl, že konečným cílem historického vývoje bylo ustanovení socialistického milénia. Socialismus musí přijít s nevyhnutelností přírodního zákona.
+
+A jelikož je podle Hegela každé další stadium historie vyšším a lepším stadiem, nelze pochybovat o tom, že socialismus, konečné a nejvyšší stadium vývoje lidstva, bude ve všech ohledech dokonalý. V důsledku toho je zbytečné diskutovat o detailech fungování socialistického společenství. Historie v pravý čas vše nejlépe uspořádá. Nepotřebuje k tomu rady smrtelných lidí.
+
+Stále ještě zůstávala nepřekonaná hlavní překážka: devastující kritika ze strany ekonomů. Marx měl po ruce řešení. Tvrdil, že je lidský rozum ze své podstaty k hledání pravdy nevhodný. Logická struktura mysli se mezi různými společenskými třídami liší. Neexistuje nic jako univerzálně platná logika.
+
+Mysl neprodukuje nic jiného než ideologii, ta je v Marxově terminologii soubor myšlenek maskující sobecké zájmy myslitelovy vlastní společenské třídy. Proto buržoazní mysl ekonomů nedokáže vytvořit více než jen apologií kapitalismu. Učení buržoazní vědy, výplodu buržoazní logiky, je zbytečností pro proletáře, povstávající třídu určenou k odstranění všech tříd a převedení země do rajské zahrady.
+
+Logika proletářů však samozřejmě není jen třídní logikou. Myšlenky proletářské logiky nejsou stranickými myšlenkami, nýbrž emanací čisté a prosté logiky. Díky zvláštnímu privilegiu není navíc ani logika některých vyvolených buržoů znečištěna prvotním hříchem náležitosti k buržoazii. Karel Marx, syn úspěšného právníka, zeť pruského šlechtice, a jeho spolupracovník Bedřich Engels, bohatý textilní továrník, nikdy nepochybovali o tom, že oni sami jsou nad zákonem a nehledě na svůj buržoazní původ jsou nadáni mocí odhalovat absolutní pravdu.
+
+Je úkolem historie popsat historické podmínky, které tyto primitivní doktríny zpopularizovaly. Ekonomie má jiný úkol. Musí analyzovat Marxův polylogismus i další polylogismy vzniklé podle jeho vzoru a ukázat jejich omyly a rozpory.
+
+Marxistický polylogismus tvrdí, že se logická struktura mysli liší mezi příslušníky různých společenských tříd. Rasový polylogismus se od marxistického odlišuje pouze v tom, že zvláštní logickou strukturu přisuzuje každé rase a tvrdí, že všichni členové dané rasy jsou nadáni stejnou logickou strukturou bez ohledu na příslušnost ke společenské třídě.
+
+Na tomto místě není třeba přistoupit ke kritice pojmů společenská třída a rasa, v nichž je tyto doktríny používají. Nemusíme se ptát marxistů, kdy a jak proletář, který se úspěšně zařadí mezi buržoazii, změní svou proletářskou mysl na buržoazní. Je zcela zbytečné žádat rasisty, aby vysvětlili, jaký typ logiky přísluší lidem, kteří nejsou rasově čistí. Jsou zde mnohem závažnější výtky.
+
+Ani marxisté, ani rasisté, ani zastánci žádného jiného typu polylogismu nikdy nedošli dále než k tvrzení, že se logická struktura mysli liší mezi třídami, rasami a národy. Nikdy se nepokusili přesně prokázat, v čem se logika proletářů odlišuje od logiky buržoů nebo v čem se logika árijců liší od logiky neárijců či logika Němců od logiky Francouzů, případně Britů. V očích marxistů je Ricardova teorie komparativních nákladů chybná, protože Ricardo byl buržoa. Německý rasista stejnou teorii zatratí proto, že Ricardo byl Žid, a německý nacionalista proto, že byl Angličan.
+
+Někteří němečtí profesoři vznesli proti platnosti Ricardovy teorie všechny tři argumenty najednou. Odmítnout celou teorii na základě odhalení původu jejího autora však nestačí. Nejdříve je třeba vyložit systém logiky, který se liší od toho, jenž používá kritizovaný autor.
+
+Pak by bylo třeba prozkoumat dotčenou teorii bod po bodu a ukázat, kde jsou provedeny myšlenkové závěry, které, ačkoli platí z pohledu autorovy logiky, neplatí z pohledu logiky proletářské, árijské nebo německé. A konečně by se mělo vysvětlit, k jakým typům závěrů musí vést nahrazením autorových chybných dedukcí správnými dedukcemi kritikovy vlastní logiky. Jak všichni vědí, o toto se nikdo nepokusil a pokusit nemůže.
