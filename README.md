@@ -6,6 +6,12 @@ Tento projekt zpracovává český překlad knihy "Human Action" (Lidské Jedná
 
 This project processes the Czech translation of the book "Human Action" (Lidské Jednání) from PDF format into optimized audio files through a series of processing steps. The codebase includes several modules that handle different aspects of the processing pipeline.
 
+## STAV
+- Textová data připravena: [4-markdown-chunks-optimized](./data/4-markdown-chunks-optimized)
+- TODO: dokončit generování všech kapitol
+  - `python audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md`
+- Regularly publishing to [youtube](https://youtube.com/playlist?list=PLaWOvDBjg6WiUcQm-yEP1RskMfPeWMKTL)
+
 ## Setup / Nastavení
 
 ### Requirements / Požadavky
@@ -49,22 +55,6 @@ graph TD
     C -->|text_optimizer.py| D[Optimized Markdown Chunks]
     D -->|audio_chunk_generator.py| E[Audio Chunks]
     E -->|audio_concatenator.py| F[Audio Chapters]
-```
-
-### Running the Pipeline / Spuštění zpracování
-
-Use the main script to run the entire pipeline or specific stages:
-
-```bash
-# Run the entire pipeline / Spuštění celého zpracování
-python main.py --stage all
-
-# Run specific stages / Spuštění konkrétních fází
-python main.py --stage pdf-extract  # Extract text from PDFs
-python main.py --stage chunk        # Split markdown into chunks
-python main.py --stage optimize     # Optimize text for TTS
-python main.py --stage audio-gen    # Generate audio for chunks
-python main.py --stage concat       # Concatenate audio files
 ```
 
 ## Directory Structure / Adresářová struktura
@@ -157,17 +147,3 @@ ffmpeg -i input.mp3 -filter:a loudnorm output.mp3
 ffmpeg -i input.mp3 -af "apad=pad_dur=2" output.mp3
 ```
 
-## Contributing / Přispívání
-
-Contributions to improve the project are welcome. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
-6. Open a Pull Request
-
-## License / Licence
-
-This project is licensed under the MIT License - see the LICENSE file for details.
