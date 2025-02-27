@@ -12,6 +12,9 @@ This project processes the Czech translation of the book "Human Action" (Lidské
   - `python audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md`
 - Regularly publishing to [youtube](https://youtube.com/playlist?list=PLaWOvDBjg6WiUcQm-yEP1RskMfPeWMKTL)
 
+## Automatizace celé pipeline (od PDF k publikaci audioknihy) na jedno tlačítko
+- tohle je cíl, ale protože většina kroků pipeline už proběhla neautomatizovaně, bude to předmětem optimalizace kódu před zpracováním následujícího titulu
+
 ## Setup / Nastavení
 
 ### Requirements / Požadavky
