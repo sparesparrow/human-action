@@ -190,6 +190,21 @@ class MarkdownChunker:
             result[chapter_num] = chunk_files
         
         return result
+        
+    def process(self) -> List[Path]:
+        """
+        Process method that will be called from the Pipeline.
+        Processes all markdown files and returns a flat list of all chunk files.
+        
+        Returns:
+            List of all chunk file paths
+        """
+        result = self.process_all()
+        # Flatten the dictionary of results into a single list
+        all_files = []
+        for chapter_files in result.values():
+            all_files.extend(chapter_files)
+        return all_files
 
 
 def main():

@@ -31,6 +31,120 @@ OUTPUT_DIR = Path("data/7-paragraphs")
 AUDIO_OUTPUT_DIR = OUTPUT_DIR / "audio"
 TEXT_OUTPUT_DIR = OUTPUT_DIR / "text"
 
+class ParagraphSeparator:
+    """Class for separating markdown files into individual paragraph files"""
+    
+    def __init__(self, input_dir=None, output_dir=None):
+        """
+        Initialize the paragraph separator.
+        
+        Args:
+            input_dir: Directory containing markdown files to separate
+            output_dir: Directory to save separated paragraph files
+        """
+        self.input_dir = Path(input_dir) if input_dir else INPUT_DIR
+        self.output_dir = Path(output_dir) if output_dir else TEXT_OUTPUT_DIR
+        
+        # Ensure output directory exists
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+    
+    def split_into_paragraphs(self, text):
+        """
+        Split text into paragraphs, handling various newline formats.
+        
+        Args:
+            text: Text content to split
+            
+        Returns:
+            List of paragraph strings
+        """
+        # Split on double newlines or more
+        paragraphs = re.split(r'\n\s*\n', text)
+        # Filter out empty paragraphs and strip whitespace
+        return [p.strip() for p in paragraphs if p.strip()]
+    
+    def clean_filename(self, text):
+        """
+        Create a safe filename from text.
+        
+        Args:
+            text: Text to convert to a filename
+            
+        Returns:
+            Safe filename string
+        """
+        # Take first 50 characters of text, replace unsafe chars
+        safe_text = re.sub(r'[^a-zA-Z0-9\s-]', '', text[:50]).strip()
+        safe_text = re.sub(r'\s+', '-', safe_text)
+        return safe_text
+    
+    def process(self, file_path=None):
+        """
+        Process markdown files, splitting them into paragraphs.
+        
+        Args:
+            file_path: Optional specific file to process. If None, process all files in input_dir
+            
+        Returns:
+            List of paths to the output paragraph files
+        """
+        output_files = []
+        
+        if file_path:
+            # Process a single file
+            output_files.extend(self._process_file(file_path))
+        else:
+            # Process all markdown files in the input directory
+            markdown_files = sorted(list(self.input_dir.glob('*.md')))
+            for file_path in markdown_files:
+                output_files.extend(self._process_file(file_path))
+        
+        return output_files
+    
+    def _process_file(self, file_path):
+        """
+        Process a single markdown file, splitting it into paragraphs.
+        
+        Args:
+            file_path: Path to the markdown file
+            
+        Returns:
+            List of paths to the output paragraph files
+        """
+        output_files = []
+        
+        try:
+            # Read the file
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Get chapter number for organization
+            chapter_match = re.search(r'chapter_(\d+)', Path(file_path).stem)
+            chapter_num = chapter_match.group(1) if chapter_match else "unknown"
+            file_prefix = f"chapter_{chapter_num}"
+            
+            # Split into paragraphs
+            paragraphs = self.split_into_paragraphs(content)
+            
+            # Process each paragraph
+            for i, paragraph in enumerate(paragraphs, 1):
+                # Create a base name for the files
+                base_name = f"{file_prefix}_para_{i:03d}"
+                
+                # Save text file directly in output_dir (not in subdirectory)
+                text_file = self.output_dir / f"{base_name}.md"
+                with open(text_file, 'w', encoding='utf-8') as f:
+                    f.write(paragraph)
+                
+                output_files.append(text_file)
+                logger.info(f"Created paragraph file: {text_file}")
+            
+            return output_files
+            
+        except Exception as e:
+            logger.error(f"Error processing file {file_path}: {e}")
+            return []
+
 def clean_filename(text):
     """Create a safe filename from text."""
     # Take first 50 characters of text, replace unsafe chars

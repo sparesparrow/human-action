@@ -14,8 +14,7 @@ from pathlib import Path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Import the function from audio_chunk_generator.py
-from audio_chunk_generator import process_markdown_file, set_api_key
-from elevenlabs.api import VoiceSettings
+from audio_chunk_generator import process_markdown_file
 
 # Setup logging
 logging.basicConfig(
@@ -46,16 +45,8 @@ def main():
         logger.error("ElevenLabs API key not provided. Set ELEVENLABS_API_KEY environment variable.")
         sys.exit(1)
     
-    # Set the API key
-    set_api_key(api_key)
-    
-    # Voice settings
-    voice_settings = VoiceSettings(
-        stability=0.5,
-        similarity_boost=0.75,
-        style=0.0,
-        use_speaker_boost=True
-    )
+    # Set the API key as environment variable
+    os.environ["ELEVENLABS_API_KEY"] = api_key
     
     logger.info(f"Testing audio generation with file: {test_file}")
     
@@ -65,7 +56,9 @@ def main():
         output_dir,
         voice_id,
         model_id,
-        voice_settings
+        stability=0.5,
+        similarity_boost=0.75,
+        style=0.0
     )
     
     if success:

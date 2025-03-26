@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  human-action:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./data:/app/data
+      - ./config.yaml:/app/config.yaml
+    environment:
+      - USE_ESPEAK=1  # Use espeak instead of ElevenLabs
+      - SKIP_TEXT_OPTIMIZATION=1  # Skip Anthropic API calls
+      # Uncomment and set these if you want to use the APIs
+      # - ELEVENLABS_API_KEY=your_key_here
+      # - ANTHROPIC_API_KEY=your_key_here
+    # Default command to show help
+    command: pipeline --help
+    # Example commands (uncomment to use):
+    # command: pipeline process data/1-pdf/your-file.pdf --steps pdf_extraction chunk_splitting audio_generation audio_concatenation
+    # command: run_tests.py --unit 

@@ -1,0 +1,71 @@
+{
+  "stages": {
+    "pdf_extraction": {
+      "completed": false,
+      "files_processed": []
+    },
+    "chunking": {
+      "completed": false,
+      "files_processed": []
+    },
+    "optimization": {
+      "completed": false,
+      "files_processed": []
+    },
+    "audio_generation": {
+      "completed": false,
+      "files_processed": []
+    },
+    "audio_concatenation": {
+      "completed": false,
+      "files_processed": []
+    },
+    "paragraph_separation": {
+      "completed": false,
+      "files_processed": []
+    }
+  },
+  "last_run": "2025-03-26T17:32:58.121373",
+  "stats": {},
+  "completed_steps": {
+    "pdf_extraction": {
+      "output_files": [
+        "/tmp/tmp67zkuh84/markdown_chapters/chapter_01.md",
+        "/tmp/tmp67zkuh84/markdown_chapters/chapter_02.md"
+      ]
+    },
+    "chunk_splitting": {
+      "output_files": [
+        "/tmp/tmp67zkuh84/markdown_chunks/chapter_01a.md",
+        "/tmp/tmp67zkuh84/markdown_chunks/chapter_01b.md",
+        "/tmp/tmp67zkuh84/markdown_chunks/chapter_02a.md",
+        "/tmp/tmp67zkuh84/markdown_chunks/chapter_02b.md"
+      ]
+    },
+    "paragraph_separation": {
+      "output_files": [
+        "/tmp/tmp67zkuh84/paragraphs/para_0_0.md",
+        "/tmp/tmp67zkuh84/paragraphs/para_0_1.md",
+        "/tmp/tmp67zkuh84/paragraphs/para_1_0.md",
+        "/tmp/tmp67zkuh84/paragraphs/para_1_1.md",
+        "/tmp/tmp67zkuh84/paragraphs/para_2_0.md",
+        "/tmp/tmp67zkuh84/paragraphs/para_2_1.md",
+        "/tmp/tmp67zkuh84/paragraphs/para_3_0.md",
+        "/tmp/tmp67zkuh84/paragraphs/para_3_1.md"
+      ]
+    },
+    "audio_generation": {
+      "output_files": [
+        "/tmp/tmp67zkuh84/audio_chunks/chapter_01a.mp3",
+        "/tmp/tmp67zkuh84/audio_chunks/chapter_01b.mp3",
+        "/tmp/tmp67zkuh84/audio_chunks/chapter_02a.mp3",
+        "/tmp/tmp67zkuh84/audio_chunks/chapter_02b.mp3"
+      ]
+    },
+    "audio_concatenation": {
+      "output_files": [
+        "/tmp/tmp67zkuh84/audio_book/audiobook.mp3"
+      ]
+    }
+  }
+}

@@ -56,6 +56,65 @@ def group_files_by_chapter(files: List[Path]) -> Dict[str, List[Path]]:
     
     return chapters
 
+class AudioConcatenator:
+    """
+    Class that handles concatenation of audio files.
+    Provides a convenient interface for the existing functions.
+    """
+    
+    def __init__(self, input_dir: str, output_dir: str):
+        """
+        Initialize the audio concatenator.
+        
+        Args:
+            input_dir: Directory containing audio chunks
+            output_dir: Directory to save concatenated audio files
+        """
+        self.input_dir = Path(input_dir)
+        self.output_dir = Path(output_dir)
+        
+        # Ensure output directory exists
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+    
+    def concatenate_audio_files(self, audio_files: List[Path], output_file: Path) -> Path:
+        """
+        Concatenate multiple audio files using ffmpeg.
+        
+        Args:
+            audio_files: List of audio files to concatenate
+            output_file: Path to save the concatenated file
+            
+        Returns:
+            Path to the concatenated file
+        """
+        # Call the module function
+        success = concatenate_audio_files(audio_files, output_file)
+        
+        if not success:
+            raise RuntimeError("Failed to concatenate audio files")
+            
+        return output_file
+    
+    def process(self, output_filename: str = "audiobook.mp3") -> Path:
+        """
+        Process all audio chunks in the input directory.
+        
+        Args:
+            output_filename: Name of the output audiobook file
+            
+        Returns:
+            Path to the concatenated audiobook
+        """
+        # Get all MP3 files in input directory
+        mp3_files = sorted(self.input_dir.glob("*.mp3"), key=lambda p: natural_sort_key(p.name))
+        
+        if not mp3_files:
+            raise FileNotFoundError(f"No MP3 files found in {self.input_dir}")
+        
+        # Concatenate all audio files into a single file
+        output_file = self.output_dir / output_filename
+        return self.concatenate_audio_files(mp3_files, output_file)
+
 def concatenate_audio_files(input_files: List[Path], output_file: Path) -> bool:
     """
     Concatenate multiple audio files using ffmpeg.

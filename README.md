@@ -118,6 +118,55 @@ Concatenates multiple audio chunks into complete chapter audio files.
 - **Input:** Audio chunks from `data/5-audio-chunks` or `data/5-audio-chunks-espeak`
 - **Output:** Complete chapter audio files in `data/6-audio-chapters`
 
+## Testing / Testování
+
+The project includes a comprehensive test suite to validate the functionality of all pipeline components.
+
+### Running Tests
+
+You can run tests using the provided script:
+
+```bash
+# Run all tests
+./run_tests.py
+
+# Run only unit tests
+./run_tests.py --unit
+
+# Run only integration tests
+./run_tests.py --integration
+
+# Run with verbose output
+./run_tests.py -v
+```
+
+Or directly using pytest:
+
+```bash
+# Install pytest if not already installed
+pip install pytest
+
+# Run all tests
+pytest tests/
+
+# Run a specific test file
+pytest tests/unit/test_pdf_extractor.py
+```
+
+### Test Structure
+
+- **Unit Tests:** Individual component tests in `tests/unit/`
+- **Integration Tests:** End-to-end pipeline tests in `tests/integration/`
+- **Test Fixtures:** Sample data for testing in `tests/fixtures/`
+
+### Cost-Saving Measures
+
+The tests avoid using APIs that incur costs:
+- Uses `espeak` instead of ElevenLabs for audio synthesis
+- Skips testing the text optimization that would use Anthropic API
+
+See `tests/README.md` for more details on the testing strategy.
+
 ## Batch Processing / Hromadné zpracování
 
 To process all remaining files using espeak-ng, run:
@@ -194,5 +243,72 @@ ffmpeg -i input.mp3 -filter:a loudnorm output.mp3
 
 # Add silence
 ffmpeg -i input.mp3 -af "apad=pad_dur=2" output.mp3
+```
+
+## Docker Support
+
+This project can be run as a Docker container, which provides all the necessary dependencies pre-installed.
+
+### Building the Docker Image
+
+```bash
+# Build the image
+docker build -t human-action .
+
+# Run the container with help output
+docker run --rm human-action pipeline --help
+```
+
+### Using Docker Compose
+
+A docker-compose.yml file is provided for easier management:
+
+```bash
+# Start the container
+docker-compose up -d
+
+# Run a command
+docker-compose exec human-action pipeline --help
+
+# Process a PDF file
+docker-compose exec human-action pipeline process data/1-pdf/your-file.pdf
+```
+
+### Local Container Testing
+
+You can test the container locally with the provided script:
+
+```bash
+# Make the script executable
+chmod +x scripts/test-container.sh
+
+# Run the test
+./scripts/test-container.sh
+```
+
+## CI/CD with GitHub Actions
+
+This project uses GitHub Actions for continuous integration and delivery:
+
+1. **Run Tests**: Runs the test suite on every push and pull request
+2. **Docker Build and Push**: Builds, tests, and publishes the Docker image to GitHub Container Registry
+3. **Security Scan**: Checks the Docker image for vulnerabilities using Trivy
+
+### Available Workflows
+
+- `.github/workflows/test.yml`: Runs the unit and integration tests
+- `.github/workflows/docker-build.yml`: Builds and pushes the Docker image
+- `.github/workflows/security-scan.yml`: Scans the Docker image for vulnerabilities
+
+### Using the Published Image
+
+Once the workflows have run, you can use the published image from GitHub Container Registry:
+
+```bash
+# Pull the image
+docker pull ghcr.io/YOUR_USERNAME/human-action:latest
+
+# Run the container
+docker run --rm ghcr.io/YOUR_USERNAME/human-action:latest pipeline --help
 ```
 

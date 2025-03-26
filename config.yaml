@@ -1,0 +1,19 @@
+base_dir: .
+chunking:
+  max_chunk_size: 5000
+directories:
+  audio_chapters: data/6-audio-chapters-espeak
+  audio_chunks: data/5-audio-chunks-espeak
+  markdown_chapters: data/2-markdown-chapters
+  markdown_chunks: data/3-markdown-chunks
+  optimized_chunks: data/4-markdown-chunks-optimized
+  paragraphs: data/7-paragraphs
+  pdf: data/1-pdf
+processing:
+  parallel_jobs: 4
+tts:
+  engine: espeak-ng
+  pitch: 50
+  rate: 175
+  voice: cs
+  volume: 100

@@ -18,3 +18,6 @@ PyYAML>=6.0
 pyttsx3>=2.90
 numpy>=1.22.0
 matplotlib>=3.5.1
+
+# Testing
+pytest>=7.4.0
