@@ -7,6 +7,7 @@ from pathlib import Path
 import logging
 import time
 from tqdm import tqdm
+from typing import Dict, Any, List
 
 # Configure logging
 logging.basicConfig(
@@ -50,7 +51,7 @@ Follow these instructions to modify the text:
         except Exception as e:
             logging.error(f"Error writing to {optimized_path}: {e}")
 
-    def prepare_batch_requests(self, files_to_process: list[str]) -> list[Request]:
+    def prepare_batch_requests(self, files_to_process: List[str]) -> list[Request]:
         """Prepares batch requests for processing."""
         requests = []
         # Store filename mapping for later use
@@ -88,7 +89,7 @@ Follow these instructions to modify the text:
         
         return requests
 
-    async def process_batch_results(self, batch_id: str, files_to_process: list[str]) -> None:
+    async def process_batch_results(self, batch_id: str, files_to_process: List[str]) -> None:
         """Processes batch results and writes optimized content."""
         try:
             pbar = tqdm(total=len(files_to_process), desc="Processing files")
@@ -154,7 +155,7 @@ Follow these instructions to modify the text:
             raise
 
 
-    async def process_files(self, files_to_process: list[str]) -> None:
+    async def process_files(self, files_to_process: List[str]) -> None:
         """Processes files using the Message Batches API."""
         try:
             # Prepare batch requests
@@ -180,6 +181,61 @@ Follow these instructions to modify the text:
         except Exception as e:
             logging.error(f"Error in batch processing: {e}")
 
+    def process(self) -> Dict[str, Any]:
+        """
+        Process method compatible with the processor interface.
+        
+        Returns:
+            Dictionary with processing results
+        """
+        try:
+            # Get list of files to process (markdown chunks)
+            input_dir = Path("data/3-markdown-chunks")
+            output_dir = Path("data/4-markdown-chunks-optimized")
+            
+            # Create output directory if it doesn't exist
+            output_dir.mkdir(parents=True, exist_ok=True)
+            
+            # Find all markdown files
+            files_to_process = [str(f.relative_to(self.base_dir)) for f in (self.base_dir / input_dir).glob("*.md")]
+            
+            if not files_to_process:
+                logging.warning("No files found to process")
+                return {
+                    "success": True,
+                    "processed_files": [],
+                    "stats": {
+                        "input_count": 0,
+                        "output_count": 0
+                    }
+                }
+            
+            # Run the async process
+            asyncio.run(self.process_files(files_to_process))
+            
+            # Count output files
+            output_files = list((self.base_dir / output_dir).glob("*-OPTIMIZED.md"))
+            
+            return {
+                "success": True,
+                "processed_files": files_to_process,
+                "stats": {
+                    "input_count": len(files_to_process),
+                    "output_count": len(output_files)
+                }
+            }
+        except Exception as e:
+            logging.error(f"Error in process method: {e}")
+            return {
+                "success": False,
+                "error": str(e),
+                "processed_files": [],
+                "stats": {
+                    "input_count": 0, 
+                    "output_count": 0
+                }
+            }
+        
 async def main():
     # Initialize the processor
     processor = BatchProcessor(
@@ -189,7 +245,7 @@ async def main():
     
     # Specific files to process
     files_to_process = [
-        'chapter_30a.md', 'chapter_30b.md', 'chapter_30c.md', 'chapter_30d.md', 'chapter_30e.md', 'chapter_30f.md', 'chapter_31a.md', 'chapter_31b.md', 'chapter_32a.md', 'chapter_32b.md', 'chapter_32c.md', 'chapter_32d.md', 'chapter_32e.md', 'chapter_32f.md', 'chapter_33a.md', 'chapter_34a.md', 'chapter_35a.md', 'chapter_35b.md', 'chapter_35c.md', 'chapter_35d.md', 'chapter_35e.md', 'chapter_35f.md', 'chapter_35g.md', 'chapter_35h.md', 'chapter_35i.md', 'chapter_35j.md', 'chapter_36a.md', 'chapter_36b.md', 'chapter_36c.md', 'chapter_36d.md', 'chapter_37a.md', 'chapter_37b.md', 'chapter_37c.md', 'chapter_37d.md', 'chapter_37e.md', 'chapter_37f.md', 'chapter_37g.md', 'chapter_38a.md', 'chapter_38b.md', 'chapter_38c.md', 'chapter_38d.md', 'chapter_38e.md', 'chapter_38f.md', 'chapter_38g.md', 'chapter_38h.md', 'chapter_38i.md', 'chapter_39a.md', 'chapter_39b.md', 'chapter_40a.md', 'chapter_41a.md', 'chapter_41b.md', 'chapter_42a.md', 'chapter_42b.md', 'chapter_42c.md', 'chapter_42d.md', 'chapter_42e.md', 'chapter_42f.md', 'chapter_42g.md', 'chapter_42h.md', 'chapter_42i.md', 'chapter_42j.md', 'chapter_42k.md', 'chapter_42l.md', 'chapter_42m.md', 'chapter_42n.md', 'chapter_43a.md', 'chapter_43b.md', 'chapter_44a.md', 'chapter_44b.md', 'chapter_44c.md', 'chapter_45a.md', 'chapter_46a.md', 'chapter_47a.md', 'chapter_47b.md', 'chapter_47c.md', 'chapter_47d.md', 'chapter_47e.md', 'chapter_47f.md', 'chapter_48a.md', 'chapter_48b.md', 'chapter_48c.md', 'chapter_48d.md', 'chapter_48e.md', 'chapter_48f.md', 'chapter_49a.md', 'chapter_49b.md', 'chapter_50a.md', 'chapter_50b.md', 'chapter_50c.md', 'chapter_51a.md', 'chapter_52a.md', 'chapter_53a.md', 'chapter_54a.md', 'chapter_54b.md', 'chapter_55a.md', 'chapter_55b.md', 'chapter_55c.md', 'chapter_56a.md', 'chapter_56b.md', 'chapter_56c.md', 'chapter_57a.md', 'chapter_57b.md', 'chapter_57c.md', 'chapter_57d.md', 'chapter_57e.md', 'chapter_58a.md', 'chapter_58b.md', 'chapter_58c.md', 'chapter_59a.md', 'chapter_59b.md', 'chapter_60a.md', 'chapter_60b.md', 'chapter_60c.md', 'chapter_60d.md', 'chapter_60e.md', 'chapter_60f.md', 'chapter_60g.md', 'chapter_60h.md', 'chapter_61a.md', 'chapter_61b.md', 'chapter_62a.md', 'chapter_62b.md', 'chapter_62c.md', 'chapter_62d.md', 'chapter_62e.md', 'chapter_62f.md', 'chapter_62g.md', 'chapter_62h.md', 'chapter_62i.md', 'chapter_62j.md', 'chapter_62k.md', 'chapter_62l.md', 'chapter_62m.md', 'chapter_62n.md', 'chapter_62o.md', 'chapter_62p.md', 'chapter_62q.md', 'chapter_62r.md', 'chapter_63a.md', 'chapter_63b.md', 'chapter_63c.md', 'chapter_63d.md', 'chapter_63e.md', 'chapter_63f.md', 'chapter_63g.md', 'chapter_64a.md', 'chapter_65a.md', 'chapter_65b.md', 'chapter_66a.md', 'chapter_67a.md', 'chapter_67b.md', 'chapter_67c.md', 'chapter_67d.md', 'chapter_67e.md', 'chapter_67f.md', 'chapter_68a.md', 'chapter_69a.md', 'chapter_69b.md', 'chapter_69c.md', 'chapter_69d.md', 'chapter_69e.md', 'chapter_69f.md', 'chapter_70a.md', 'chapter_71a.md', 'chapter_72a.md', 'chapter_72b.md', 'chapter_72c.md', 'chapter_72d.md', 'chapter_72e.md', 'chapter_73a.md', 'chapter_74a.md', 'chapter_74b.md', 'chapter_75a.md', 'chapter_75b.md', 'chapter_76a.md', 'chapter_76b.md', 'chapter_77a.md', 'chapter_78a.md', 'chapter_78b.md', 'chapter_78c.md', 'chapter_78d.md', 'chapter_78e.md', 'chapter_79a.md', 'chapter_79b.md', 'chapter_79c.md', 'chapter_79d.md', 'chapter_79e.md', 'chapter_79f.md', 'chapter_79g.md', 'chapter_79h.md', 'chapter_80a.md', 'chapter_80b.md', 'chapter_81a.md', 'chapter_81b.md', 'chapter_81c.md', 'chapter_81d.md', 'chapter_82a.md', 'chapter_82b.md', 'chapter_82c.md', 'chapter_82d.md', 'chapter_83a.md', 'chapter_83b.md', 'chapter_83c.md', 'chapter_83d.md', 'chapter_83e.md', 'chapter_83f.md', 'chapter_83g.md', 'chapter_84a.md', 'chapter_84b.md', 'chapter_85a.md', 'chapter_85b.md', 'chapter_86a.md', 'chapter_86b.md', 'chapter_86c.md', 'chapter_86d.md', 'chapter_86e.md', 'chapter_86f.md', 'chapter_87a.md', 'chapter_87b.md', 'chapter_87c.md', 'chapter_87d.md', 'chapter_87e.md', 'chapter_87f.md', 'chapter_88a.md', 'chapter_89a.md', 'chapter_89b.md', 'chapter_90a.md', 'chapter_90b.md', 'chapter_90c.md', 'chapter_90d.md', 'chapter_91a.md', 'chapter_92a.md', 'chapter_92b.md', 'chapter_93a.md', 'chapter_93b.md', 'chapter_93c.md', 'chapter_93d.md', 'chapter_93e.md', 'chapter_93f.md', 'chapter_93g.md', 'chapter_93h.md', 'chapter_94a.md', 'chapter_94b.md', 'chapter_94c.md', 'chapter_95a.md', 'chapter_95b.md', 'chapter_95c.md', 'chapter_95d.md', 'chapter_95e.md', 'chapter_95f.md', 'chapter_95g.md', 'chapter_95h.md', 'chapter_96a.md', 'chapter_96b.md', 'chapter_96c.md', 'chapter_97a.md', 'chapter_98a.md', 'chapter_99a.md', 'chapter_99b.md', 'chapter_99c.md', 'chapter_100a.md', 'chapter_100b.md', 'chapter_100c.md', 'chapter_100d.md', 'chapter_100e.md', 'chapter_100f.md', 'chapter_100g.md', 'chapter_101a.md', 'chapter_102a.md', 'chapter_102b.md', 'chapter_102c.md', 'chapter_103a.md', 'chapter_103b.md', 'chapter_103c.md', 'chapter_103d.md', 'chapter_103e.md', 'chapter_103f.md', 'chapter_103g.md', 'chapter_103h.md', 'chapter_104a.md', 'chapter_104b.md', 'chapter_104c.md', 'chapter_105a.md', 'chapter_105b.md', 'chapter_105c.md', 'chapter_106a.md', 'chapter_106b.md', 'chapter_107a.md', 'chapter_107b.md', 'chapter_108a.md', 'chapter_108b.md', 'chapter_108c.md', 'chapter_108d.md', 'chapter_108e.md', 'chapter_108f.md', 'chapter_108g.md', 'chapter_108h.md', 'chapter_109a.md', 'chapter_110a.md', 'chapter_111a.md', 'chapter_111b.md', 'chapter_111c.md', 'chapter_111d.md', 'chapter_112a.md', 'chapter_112b.md', 'chapter_112c.md', 'chapter_112d.md', 'chapter_113a.md', 'chapter_113b.md', 'chapter_113c.md', 'chapter_113d.md', 'chapter_113e.md', 'chapter_114a.md', 'chapter_114b.md', 'chapter_115a.md', 'chapter_115b.md', 'chapter_116a.md', 'chapter_116b.md', 'chapter_117a.md', 'chapter_118a.md', 'chapter_119a.md', 'chapter_119b.md', 'chapter_120a.md', 'chapter_121a.md', 'chapter_121b.md', 'chapter_122a.md', 'chapter_122b.md', 'chapter_123a.md', 'chapter_124a.md', 'chapter_125a.md', 'chapter_125b.md', 'chapter_125c.md', 'chapter_126a.md', 'chapter_126b.md', 'chapter_126c.md', 'chapter_127a.md', 'chapter_128a.md', 'chapter_128b.md', 'chapter_129a.md', 'chapter_129b.md', 'chapter_130a.md', 'chapter_131a.md', 'chapter_131b.md', 'chapter_131c.md', 'chapter_132a.md', 'chapter_133a.md', 'chapter_133b.md', 'chapter_133c.md', 'chapter_133d.md', 'chapter_134a.md', 'chapter_135a.md', 'chapter_136a.md', 'chapter_137a.md', 'chapter_137b.md', 'chapter_137c.md', 'chapter_137d.md', 'chapter_137e.md', 'chapter_138a.md', 'chapter_139a.md', 'chapter_139b.md', 'chapter_140a.md', 'chapter_140b.md', 'chapter_140c.md', 'chapter_140d.md', 'chapter_140e.md', 'chapter_140f.md', 'chapter_141a.md', 'chapter_141b.md', 'chapter_142a.md', 'chapter_142b.md', 'chapter_143a.md', 'chapter_143b.md', 'chapter_143c.md', 'chapter_144a.md', 'chapter_145a.md', 'chapter_145b.md', 'chapter_145c.md', 'chapter_145d.md', 'chapter_145e.md', 'chapter_145f.md', 'chapter_145g.md', 'chapter_145h.md', 'chapter_145i.md', 'chapter_145j.md', 'chapter_145k.md', 'chapter_146a.md', 'chapter_146b.md', 'chapter_147a.md', 'chapter_147b.md', 'chapter_147c.md', 'chapter_147d.md', 'chapter_147e.md', 'chapter_147f.md', 'chapter_148a.md', 'chapter_148b.md', 'chapter_149a.md', 'chapter_149b.md', 'chapter_150a.md', 'chapter_151a.md', 'chapter_151b.md', 'chapter_151c.md', 'chapter_152a.md', 'chapter_152b.md', 'chapter_152c.md', 'chapter_152d.md', 'chapter_153a.md', 'chapter_153b.md', 'chapter_153c.md', 'chapter_154a.md', 'chapter_154b.md', 'chapter_155a.md', 'chapter_155b.md', 'chapter_155c.md', 'chapter_155d.md', 'chapter_155e.md', 'chapter_155f.md', 'chapter_156a.md', 'chapter_156b.md', 'chapter_156c.md', 'chapter_156d.md', 'chapter_157a.md', 'chapter_158a.md', 'chapter_158b.md', 'chapter_159a.md', 'chapter_159b.md', 'chapter_159c.md', 'chapter_159d.md', 'chapter_160a.md', 'chapter_160b.md', 'chapter_161a.md', 'chapter_162a.md', 'chapter_162b.md', 'chapter_162c.md', 'chapter_163a.md', 'chapter_163b.md', 'chapter_164a.md', 'chapter_164b.md', 'chapter_164c.md', 'chapter_164d.md', 'chapter_164e.md', 'chapter_164f.md', 'chapter_165a.md', 'chapter_165b.md', 'chapter_165c.md', 'chapter_165d.md', 'chapter_165e.md', 'chapter_165f.md', 'chapter_165g.md', 'chapter_165h.md', 'chapter_165i.md', 'chapter_165j.md', 'chapter_165k.md', 'chapter_166a.md', 'chapter_166b.md', 'chapter_166c.md', 'chapter_167a.md', 'chapter_167b.md', 'chapter_167c.md', 'chapter_168a.md', 'chapter_168b.md', 'chapter_168c.md', 'chapter_168d.md', 'chapter_169a.md', 'chapter_169b.md', 'chapter_169c.md', 'chapter_169d.md', 'chapter_169e.md', 'chapter_169f.md', 'chapter_169g.md', 'chapter_169h.md', 'chapter_169i.md', 'chapter_169j.md', 'chapter_170a.md', 'chapter_171a.md', 'chapter_172a.md', 'chapter_172b.md', 'chapter_173a.md', 'chapter_174a.md', 'chapter_174b.md', 'chapter_174c.md', 'chapter_175a.md', 'chapter_175b.md', 'chapter_176a.md', 'chapter_176b.md', 'chapter_177a.md', 'chapter_177b.md', 'chapter_178a.md', 'chapter_178b.md', 'chapter_179a.md', 'chapter_180a.md', 'chapter_181a.md', 'chapter_182a.md', 'chapter_182b.md', 'chapter_183a.md', 'chapter_183b.md', 'chapter_184a.md', 'chapter_184b.md', 'chapter_184c.md', 'chapter_185a.md', 'chapter_185b.md', 'chapter_186a.md', 'chapter_186b.md'
+        'chapter_30a.md', 'chapter_30b.md', 
     ]
     
     # Process the files

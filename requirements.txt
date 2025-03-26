@@ -1,7 +1,7 @@
 # Core dependencies
 anthropic>=0.15.0
 elevenlabs>=0.2.27
-tqdm>=4.66.1
+tqdm>=4.64.0
 espeakng>=1.0.0
 
 
@@ -12,3 +12,9 @@ pyaml>=1.0.0
 
 # For audio processing
 pydub>=0.25.1
+
+# Added from the code block
+PyYAML>=6.0
+pyttsx3>=2.90
+numpy>=1.22.0
+matplotlib>=3.5.1
