@@ -190,14 +190,14 @@ def main():
     parser.add_argument(
         '-i', '--input-dir',
         type=str,
-        default="/home/sparrow/projects/LidskeJednani/data/5-audio-chunks",
+        default="./data/5-audio-chunks-espeak",
         help='Input directory containing audio chunks'
     )
     
     parser.add_argument(
         '-o', '--output-dir',
         type=str,
-        default="/home/sparrow/projects/LidskeJednani/data/6-audio-chapters",
+        default="./data/6-audio-chapters",
         help='Output directory for concatenated chapters'
     )
     

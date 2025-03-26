@@ -9,7 +9,9 @@ This project processes the Czech translation of the book "Human Action" (Lidské
 ## STAV
 - Textová data připravena: [4-markdown-chunks-optimized](./data/4-markdown-chunks-optimized)
 - TODO: dokončit generování všech kapitol
-  - `python audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md`
+  - `python audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md` (ElevenLabs)
+  - nebo `python espeak_audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md` (espeak-ng)
+  - nebo hromadně `./generate_espeak_audio.sh` (zpracuje všechny zbývající soubory pomocí espeak-ng)
 - Regularly publishing to [youtube](https://youtube.com/playlist?list=PLaWOvDBjg6WiUcQm-yEP1RskMfPeWMKTL)
 
 ## Automatizace celé pipeline (od PDF k publikaci audioknihy) na jedno tlačítko
@@ -21,6 +23,7 @@ This project processes the Czech translation of the book "Human Action" (Lidské
 
 - Python 3.8+
 - ffmpeg (for audio manipulation)
+- espeak-ng (for open-source TTS alternative)
 - API keys for:
   - Anthropic Claude API (text optimization)
   - ElevenLabs API (text-to-speech)
@@ -38,6 +41,12 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install dependencies / Instalace závislostí
 pip install -r requirements.txt
+
+# Install system dependencies (Ubuntu/Debian)
+sudo apt-get install ffmpeg espeak-ng
+
+# Or on macOS
+brew install ffmpeg espeak-ng
 ```
 
 ### Environment Setup / Nastavení prostředí
@@ -57,7 +66,9 @@ graph TD
     B -->|chunker_splitter.py| C[Markdown Chunks]
     C -->|text_optimizer.py| D[Optimized Markdown Chunks]
     D -->|audio_chunk_generator.py| E[Audio Chunks]
+    D -->|espeak_audio_chunk_generator.py| E2[Espeak Audio Chunks]
     E -->|audio_concatenator.py| F[Audio Chapters]
+    E2 -->|audio_concatenator.py| F
 ```
 
 ## Directory Structure / Adresářová struktura
@@ -66,7 +77,8 @@ graph TD
 - [2-markdown-chapters](./data/2-markdown-chapters): Extracted markdown chapters / Extrahované markdown kapitoly
 - [3-markdown-chunks](./data/3-markdown-chunks): Split markdown files / Rozdělené markdown soubory
 - [4-markdown-chunks-optimized](./data/4-markdown-chunks-optimized): Optimized markdown segments / Optimalizované markdown segmenty
-- [5-audio-chunks](./data/5-audio-chunks): Audio files generated for individual optimized segments / Zvukové soubory vygenerované pro jednotlivé optimalizované segmenty
+- [5-audio-chunks](./data/5-audio-chunks): Audio files generated using ElevenLabs / Zvukové soubory vygenerované pomocí ElevenLabs
+- [5-audio-chunks-espeak](./data/5-audio-chunks-espeak): Audio files generated using espeak-ng / Zvukové soubory vygenerované pomocí espeak-ng
 - [6-audio-chapters](./data/6-audio-chapters): Concatenated audio files into complete chapters / Spojené zvukové soubory do ucelených kapitol
 
 ## Modules / Moduly
@@ -88,16 +100,50 @@ Optimizes markdown chunks for speech synthesis using the Anthropic API.
 - **Output:** Optimized markdown chunks in `data/4-markdown-chunks-optimized`
 - **Optimization:** Removes references, footnotes, page numbers; joins hyphenated words at line breaks; fixes formatting
 
-### 4. Audio Chunk Generator (`audio_chunk_generator.py`)
+### 4a. Audio Chunk Generator (`audio_chunk_generator.py`)
 Converts text files to audio using the ElevenLabs API.
 - **Input:** Optimized markdown files from `data/4-markdown-chunks-optimized`
 - **Output:** Audio files in `data/5-audio-chunks`
 - **Postprocessing:** After processing, input files are marked with the prefix "AUDIO_GENERATED-" to indicate they have been converted to audio
 
+### 4b. Espeak Audio Chunk Generator (`espeak_audio_chunk_generator.py`)
+Alternative converter using the open-source espeak-ng TTS engine.
+- **Input:** Optimized markdown files from `data/4-markdown-chunks-optimized`
+- **Output:** Audio files in `data/5-audio-chunks-espeak`
+- **Features:** Free and open-source, works offline, supports Czech language
+- **Note:** Lower audio quality than ElevenLabs but useful for prototyping and development
+
 ### 5. Audio Concatenator (`audio_concatenator.py`)
 Concatenates multiple audio chunks into complete chapter audio files.
-- **Input:** Audio chunks from `data/5-audio-chunks`
+- **Input:** Audio chunks from `data/5-audio-chunks` or `data/5-audio-chunks-espeak`
 - **Output:** Complete chapter audio files in `data/6-audio-chapters`
+
+## Batch Processing / Hromadné zpracování
+
+To process all remaining files using espeak-ng, run:
+
+```bash
+./generate_espeak_audio.sh
+```
+
+This will:
+1. Process all remaining markdown files that haven't been converted to audio yet
+2. Save the generated audio files to `data/5-audio-chunks-espeak`
+3. Track progress in `espeak_progress.json`
+4. Log detailed information to `espeak_generation.log`
+
+You can customize the processing with these parameters:
+
+```bash
+# Process with different voice and rate
+./generate_espeak_audio.sh -v cs -r 160 -p 55
+
+# Process only a limited number of files
+./generate_espeak_audio.sh --max-files 5
+
+# See all available options
+./generate_espeak_audio.sh --help
+```
 
 ## Text-to-Speech Formatting / Formátování textu pro syntézu řeči
 
