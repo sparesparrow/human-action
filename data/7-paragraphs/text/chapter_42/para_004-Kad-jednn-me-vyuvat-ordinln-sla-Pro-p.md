@@ -1,0 +1,4 @@
+
+Každé jednání může využívat ordinální čísla. Pro použití kardinálních čísel a pro aritmetické výpočty, které jsou na nich založeny, jsou však třeba zvláštní podmínky. Tyto podmínky se objevily během historického vývoje smluvní společnosti. Tím byla otevřena cesta k počítání a kalkulaci při plánování budoucího jednání a při zjišťování výsledků dosažených minulým jednáním. Kardinální čísla a jejich použití v aritmetických operacích jsou také věčnými a neměnnými kategoriemi lidské mysli. Ale možnost jejich použití pro přípravné úvahy o jednání a pro jeho zaznamenávání závisí na jistých podmínkách, jež neexistovaly v raném stadiu lidských věcí, objevily se teprve později a pravděpodobně by mohly opět vymizet.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_42/para_004-Kad-jednn-me-vyuvat-ordinln-sla-Pro-p.mp3)

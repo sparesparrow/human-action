@@ -1,0 +1,4 @@
+
+Inženýr na druhou stranu ví vše potřebné o technologicky uspokojivém řešení svého problému – zkonstruování stroje. Existují-li nějaké zbytky nejistoty, které nedokáže kontrolovat, pokouší se je odstranit vytvořením bezpečnostních rezerv. Inženýr zná pouze problémy řešitelné a problémy, které nelze vyřešit za současného stavu poznání. Z negativní zkušenosti může někdy zjistit, že jeho znalost byla méně úplná, než předpokládal, a že nerozpoznal neurčenost některých věcí, o nichž se domníval, že je má pod kontrolou. Pak se pokusí své poznání zkompletovat. Samozřejmě že nikdy nemůže prvek hazardní hry, přítomný v lidském životě, odstranit zcela. Jeho principem však je operovat pouze v rámci jistoty. Usiluje o plnou kontrolu nad prvky svého jednání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_30/para_002-Inenr-na-druhou-stranu-v-ve-potebn-o-technol.mp3)

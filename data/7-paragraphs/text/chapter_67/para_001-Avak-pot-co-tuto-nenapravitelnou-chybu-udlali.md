@@ -1,0 +1,4 @@
+
+Avšak poté, co tuto nenapravitelnou chybu udělali, je tomu tak, že veřejnost chce dostat víc a je připravena platit za něj tolik, kolik teď činí teoretická konkurenční tržní cena. V současné situaci neschvaluje jednání podniku, které stahuje určité množství variabilního kapitálu z využití pro výrobu. Tato částka jistě nezůstane nevyužita. Odchází do jiných oborů podnikání a vyrábí zde něco jiného, konkrétně jiný výrobek. Avšak v současných podmínkách by spotřebitelé před zvýšením dostupného množství výrobků dali přednost zvýšení dostupného množství původního produktu. Důkazem je, že v nepřítomnosti monopolistického omezení výrobní kapacity by výnosnost výroby byla tak vysoká, že by se vyplatila víc než zvýšení množství vyráběného jiného výrobku.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_67/para_001-Avak-pot-co-tuto-nenapravitelnou-chybu-udlali.mp3)

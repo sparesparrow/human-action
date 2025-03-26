@@ -1,0 +1,4 @@
+
+V tomto ostrém sporu se obě strany uchylují k nepodloženým důkazům. Antimonopolní strana se mýlí, když každému monopolu přisuzuje moc zhoršit situaci kupujících omezením nabídky a zavedením monopolních cen. Stejně se mýlí, když předpokládá, že v tržním hospodářství, které není omezováno a mařeno vládními zásahy, převažuje obecný sklon k vytváření monopolů. Mluvit místo monopolistického intervencionismu o monopolistickém kapitalismu a místo o vládou vytvářených kartelech o soukromých kartelech je tragikomickým překroucením skutečného stavu věcí. Monopolní ceny by byly omezeny na některé nerosty, které lze dobývat pouze na několika málo místech, a na oblast místních, prostorově omezených monopolů, kdyby se vlády nerozhodly monopoly pěstovat.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_70/para_005-V-tomto-ostrm-sporu-se-ob-strany-uchyluj-k-nepo.mp3)

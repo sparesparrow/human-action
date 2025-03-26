@@ -1,0 +1,4 @@
+
+Je zřejmé, že volba mezi příčinně-realistickým přístupem a mechanickým přístupem všeobecné rovnováhy byla pro Robbinse nyní pouhou věcí gusta. Robbinsův sylabus pro rok 1938-39 jasně svědčí o jeho dalším vývoji směrem od mengerovské tradice. Ze sekcí o všeobecné teorii zmizela velká rakousko-americká pojednání Clarka, Fettera a Davenporta, zatímco Paretovo zůstalo a Hicksův a Allenův článek A Reconsideration of the Theory of Value, Edgeworthova Mathematical Psychics a Chamberlainova Theory of Monopolistic Competition byly přidány. Ba co více, Wicksteedovo pojednání nebylo probíráno a bylo označeno za předpokládanou vstupní znalost, zatímco Knightovo Risk, Uncertainty, and Profit bylo nyní označeno jako základní text kurzu.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_182/para_003-Je-zejm-e-volba-mezi-pinn-realistickm-p.mp3)

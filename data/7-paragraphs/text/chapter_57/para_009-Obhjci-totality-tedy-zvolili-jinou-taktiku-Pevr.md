@@ -1,0 +1,4 @@
+
+Obhájci totality tedy zvolili jinou taktiku. Převrátili smysl slov. Nazvali pravou nebo ryzí svobodou podmínky jednotlivců v systému, v němž nemají žádná jiná práva než poslouchat rozkazy. Ve Spojených státech se nazývají pravými liberály, protože usilují o takový společenský řád. Ruské metody diktátorské vlády nazývají demokracií. Násilné a donucovací metody odborových svazů nazývají „průmyslovou demokracií". Svobodou tisku nazývají stav věcí, v němž smí svobodně vydávat knihy a noviny pouze vláda. Definují svobodu jako možnost dělat „správné" věci a samozřejmě si osobují právo rozhodovat, co je správné a co ne. V jejich očích všemohoucnost vlády znamená úplnou svobodu. Pravým smyslem jejich boje za svobodu je zbavit policejní síly všech omezení.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_57/para_009-Obhjci-totality-tedy-zvolili-jinou-taktiku-Pevr.mp3)

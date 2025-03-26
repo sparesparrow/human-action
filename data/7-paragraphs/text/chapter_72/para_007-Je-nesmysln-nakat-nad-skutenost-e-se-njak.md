@@ -1,0 +1,4 @@
+
+Je nesmyslné naříkat nad skutečností, že se nějaká kapacita nevyužívá. Nevyužitá kapacita zařízení, které zastaralo kvůli technickému zdokonalení, je mezníkem materiálního pokroku. Bylo by požehnáním, kdyby dosažení trvalého míru způsobilo, že by zůstaly nevyužity zbrojní podniky, nebo kdyby objev efektivní metody prevence a léčení tuberkulózy způsobil, že by se rušila sanatoria pro léčení lidí, které toto zlo postihlo. V minulosti by bývalo rozumné odsoudit nezbytnost opatření, která vedla ke špatnému investování kapitálových statků. Lidé však nejsou neomylní. Určité množství špatných investic je nevyhnutelné. Je však třeba vyhýbat se politikám, které – jako úvěrová expanze – uměle podporují špatné investice.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_72/para_007-Je-nesmysln-nakat-nad-skutenost-e-se-njak.mp3)

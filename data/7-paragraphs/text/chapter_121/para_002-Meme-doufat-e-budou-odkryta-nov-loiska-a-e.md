@@ -1,0 +1,4 @@
+
+Můžeme doufat, že budou odkryta nová ložiska a že budou vyvinuty technologické postupy, které umožní využít ložiska, která dnes nemohou být vůbec využita nebo mohou být využita pouze za nerozumnou cenu. Můžeme také předpokládat, že další pokrok technických znalostí umožní příštím generacím využívat látky, které dnes využívat nelze. Ale všechny tyto věci nejsou důležité pro dnešní provádění důlní činnosti a ropných vrtů. Zásoby nerostných surovin a jejich těžba necharakterizují žádné vlastnosti, jež by nějak zvláštně odlišovaly lidské jednání, které se jimi zabývá. Pro katalaxii je rozdíl mezi půdou používanou v zemědělství a půdou používanou pro dolování pouhým rozdílem v datech.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_121/para_002-Meme-doufat-e-budou-odkryta-nov-loiska-a-e.mp3)

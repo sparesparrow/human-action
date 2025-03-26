@@ -1,0 +1,4 @@
+
+Porozumění tomu, že směnný poměr mezi penězi na jedné straně a prodejnými statky a službami na straně druhé je určován stejným způsobem jako vzájemné směnné poměry mezi různými prodejnými statky, tedy poptávkou a nabídkou, bylo podstatou kvantitativní teorie peněz. Ta je v podstatě aplikací všeobecné teorie nabídky a poptávky na speciální případ peněz. Její podstatou byla snaha vysvětlit určení kupní síly peněz za použití stejné úvahy jako v případě vysvětlení všech ostatních směnných poměrů. Jejím nedostatkem ale bylo použití holistického vysvětlení. Dívala se na celkovou nabídku peněz, nikoli na jednání jednotlivců a firem. Důsledkem tohoto chybného pohledu byla představa, že mezi změnami celkového množství peněz a peněžními cenami existuje proporční vztah.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_75/para_007-Porozumn-tomu-e-smnn-pomr-mezi-penzi-na-je.mp3)

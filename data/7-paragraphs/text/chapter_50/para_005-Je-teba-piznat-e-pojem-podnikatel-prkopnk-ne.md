@@ -1,0 +1,4 @@
+
+Je třeba přiznat, že pojem podnikatel-průkopník nemůže být definován s praxeologickou přesností. (V tom je to s ním podobné jako s pojmem peníze, který také vzdoruje – na rozdíl od pojmu prostředek směny – přesné praxeologické definici.) Ekonomie se však neobejde bez pojmu průkopník, neboť označuje skutečnost, která je obecnou charakteristikou lidské povahy, jež je obsažena ve všech tržních transakcích a hluboce je poznamenává. To je fakt, že různí jednotlivci nereagují na změnu dat stejně rychle a stejným způsobem. Také různost lidí, způsobená jednak rozdíly v jejich vrozených vlastnostech, jednak jejich životními osudy, se projevuje tímto způsobem. Na trhu jsou lidé, kteří udávají krok, a jiní, již pouze napodobují postupy svých bystřejších spoluobčanů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_50/para_005-Je-teba-piznat-e-pojem-podnikatel-prkopnk-ne.mp3)

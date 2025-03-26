@@ -1,0 +1,4 @@
+
+Ti, kdo vidí v této skutečnosti něco matoucího nebo protimluvného, byli uvedeni v omyl špatným pochopením peněžní kalkulace a kapitálového účetnictví. Snaží se kapitálovému účetnictví přiřadit úkoly, kterých nemůže nikdy dosáhnout. Kapitálové účetnictví je duševním nástrojem kalkulování a počítání, vhodným pro jednotlivce a skupiny jednotlivců jednající v tržním hospodářství. Kapitál je možné spočítat pouze v rámci kapitálového účetnictví. Jediným úkolem, který může kapitálové účetnictví vykonat, je ukázat různým jednotlivcům jednajícím v tržním hospodářství, zda se peněžní vyjádření jejich fondů určených na získání kapitálu změnilo a do jaké míry. Pro ostatní účely je kapitálové účetnictví zcela nepoužitelné.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_95/para_003-Ti-kdo-vid-v-tto-skutenosti-nco-matoucho-neb.mp3)

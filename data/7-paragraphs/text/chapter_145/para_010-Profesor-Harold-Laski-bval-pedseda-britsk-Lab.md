@@ -1,0 +1,4 @@
+
+Profesor Harold Laski, bývalý předseda britské Labor Party, by například určil za cíl plánování investic, „aby využívání úspor investorů směřovalo ke stavbě domů, a nikoli kin". Nejde vůbec o to, zda člověk souhlasí s profesorovým názorem, že je důležitější mít lepší domy než lepší kina. Je ale skutečností, že spotřebitelé učinili jinou volbu tím, že utratili část svých peněz za vstupenky do kina. Kdyby masy Britů, stejných lidí, jejichž hlasy dosadily Labor Party k moci, přestaly nakupovat vstupenky do kina a začaly utrácet více za komfortní domy a byty, podnikatelé usilující o dosažení zisku by byli nuceni investovat více do stavby domů a bytovek a méně do výroby nákladných filmů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_145/para_010-Profesor-Harold-Laski-bval-pedseda-britsk-Lab.mp3)

@@ -1,0 +1,4 @@
+
+V hypotetickém světě, v němž jsou všechny výrobní faktory naprosto specifické, by lidské jednání působilo na mnoha různých polích uspokojování potřeb navzájem nezávisle. To, co v našem skutečném světě spojuje různé oblasti uspokojování potřeb, je existence obrovského množství nespecifických faktorů, které se hodí pro využití k dosažení různých cílů a které se mohou do určité míry zastupovat. Skutečnost, že onen jeden faktor, práce, je na jedné straně nutný pro každý druh výroby a na druhé straně je v rámci definovaných hranic nespecifický, přináší obecnou spojitost všech lidských činností. Spojuje proces tvorby cen do jednoho celku, v němž na sebe všechna soukolí navzájem působí. Proto je trh zřetězením vzájemně nezávislých jevů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_72/para_002-V-hypotetickm-svt-v-nm-jsou-vechny-vrobn.mp3)

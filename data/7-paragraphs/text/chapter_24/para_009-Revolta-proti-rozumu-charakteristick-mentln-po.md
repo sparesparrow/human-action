@@ -1,0 +1,4 @@
+
+Revolta proti rozumu, charakteristický mentální postoj naší doby, nebyla způsobena nedostatkem skromnosti, opatrnosti a sebezpytování na straně filozofů. Ani není důsledkem evoluce moderní přírodní vědy. Úžasné úspěchy technologie a terapeutiky mluví jazykem, který nikdo nemůže ignorovat. Útočit na moderní vědu, ať již z pozice intuicionismu či mysticismu či z jakéhokoli jiného pohledu, je beznadějné. Revolta proti rozumu směřovala na jiný cíl. Nemířila na přírodní vědy, ale na ekonomii. Útok proti přírodním vědám byl jen logicky nutným výsledkem útoku proti ekonomii. Bylo nemožné sesadit rozum pouze v jedné oblasti a nezpochybnit jej současně i v ostatních odvětvích poznání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_24/para_009-Revolta-proti-rozumu-charakteristick-mentln-po.mp3)

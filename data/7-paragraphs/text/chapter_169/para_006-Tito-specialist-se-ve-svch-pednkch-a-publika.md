@@ -1,0 +1,4 @@
+
+Tito specialisté se ve svých přednáškách a publikacích nezabývají ekonomií, ale doktrínami různých zájmových skupin. Jestliže ignorují ekonomii, nemohou se pak divit, že podléhají ideologiím zájmových skupin usilujících o získání výhod a privilegií. Dokonce i ti specialisté, kteří otevřeně nestraní konkrétní zájmové skupině a tvrdí, že si zachovávají nezávislost, nevědomky uznávají základní přesvědčení intervencionistické doktríny. Při analýze nespočetných způsobů vládních zásahů do podnikání nechtějí být, jak říkají, pouze negativní. Kritizují-li tedy nějaké přijaté opatření, činí tak pouze proto, aby mohli doporučit jejich vlastní podobu intervencionismu, namísto intervencionismu navrhovaného ostatními.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_006-Tito-specialist-se-ve-svch-pednkch-a-publika.mp3)

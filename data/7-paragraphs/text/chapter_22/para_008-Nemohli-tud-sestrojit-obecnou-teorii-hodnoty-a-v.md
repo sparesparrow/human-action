@@ -1,0 +1,4 @@
+
+Nemohli tudíž sestrojit obecnou teorii hodnoty a vystopovat jevy tržní směny a produkce k jejich konečným zdrojům – chování spotřebitelů. Tento nedostatek je nutil opustit ambiciózní plány na rozvinutí obecné teorie lidského jednání. Museli se spokojit s teorií, která vysvětlovala pouze činnost obchodníků, aniž by šli k volbám všech lidí coby konečným determinantám. Zabývali se pouze jednáním obchodníků, kteří se snaží koupit na nejlevnějším trhu a prodat na nejdražším. Spotřebitel z jejich teoretizování vypadl. Epigoni klasické ekonomie později vysvětlovali a ospravedlňovali tento nedostatek jako úmyslný a metodologicky nutný postup práce. Tvrdili, že omezit zkoumání pouze na jeden aspekt lidského chování, konkrétně na aspekt ekonomický, byl promyšlený plán ekonomů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_22/para_008-Nemohli-tud-sestrojit-obecnou-teorii-hodnoty-a-v.mp3)

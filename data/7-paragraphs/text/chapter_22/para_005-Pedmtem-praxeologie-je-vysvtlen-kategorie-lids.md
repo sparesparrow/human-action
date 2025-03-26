@@ -1,0 +1,4 @@
+
+Předmětem praxeologie je vysvětlení kategorie lidského jednání. Jediné potřebné pro vyvození veškerých praxeologických jevů je znalost podstaty lidského jednání. Tato znalost je nám vlastní, protože jsme lidé, nechybí žádné bytosti lidského pokolení, kterou patologické podmínky nesnížily na pouhou vegetativní existenci. K pochopení těchto teorémů není třeba žádné zvláštní zkušenosti a žádná zkušenost, jakkoli bohatá, je nikdy nemůže odhalit bytosti, která a priori nevěděla, co lidské jednání je. Jedinou cestou k poznání těchto teorémů je logická analýza naší inherentní znalosti kategorie jednání. Musíme se rozpomenout a provést reflexi struktury své mysli. Stejně jako logika a matematika je i praxeologická znalost v nás, nepřichází zvnějšku.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_22/para_005-Pedmtem-praxeologie-je-vysvtlen-kategorie-lids.mp3)

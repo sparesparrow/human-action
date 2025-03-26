@@ -1,0 +1,4 @@
+
+Tvrdí se, že člověk je šelma, kterou jí vrozené přirozené instinkty nutí bojovat, zabíjet a ničit. Civilizace se pokusila tato nutkání a chutě potlačit vytvořením nepřirozené lidumilné laxnosti, která člověka odtrhla od jeho zvířecího původu. Tím civilizovaného člověka změnila v dekadentního slabocha, který se stydí za svou animálnost a svou zpustlost hrdě nazývá pravou humánností. Aby se zabránilo další degeneraci lidského druhu, je nevyhnutelné osvobodit ho od zhoubných důsledků civilizace. Neboť civilizace je pouze vychytralý vynález podprůměrných lidí. Tato nedochůdčata jsou příliš slabá, aby byla partnery silným hrdinům, jsou příliš zbabělá, aby snášela zasloužený trest úplného zániku, a jsou příliš líná a příliš domýšlivá, aby sloužila pánům jako otroci.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_37/para_006-Tvrd-se-e-lovk-je-elma-kterou-j-vrozen-p.mp3)

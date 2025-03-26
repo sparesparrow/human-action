@@ -1,0 +1,4 @@
+
+Můžeme přiznat, že není „spravedlivé", že válka zvyšuje zisky podnikatelů, kteří nejlépe přispívají k vybavení bojových sil. Bylo by ale pošetilé popírat, že systém založený na zisku vyrábí nejlepší zbraně. Nebylo to socialistické Rusko, které pomohlo kapitalistické Americe smlouvou o půjčce a pronájmu; Rusové byli žalostně poraženi, než začaly bomby vyrobené v Americe dopadat na Německo a než dostali zbraně vyrobené velkými americkými firmami. Nejdůležitější věcí ve válce není zabránit vytvoření velkých zisků, ale dodat nejlepší vybavení vojákům a námořníkům vlastní země. Největšími nepřáteli národa jsou zákeřní demagogové, kteří by upřednostnili svoji závist před životně důležitými záležitostmi vlastní země.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_164/para_004-Meme-piznat-e-nen-spravedliv-e-vlka-zv.mp3)

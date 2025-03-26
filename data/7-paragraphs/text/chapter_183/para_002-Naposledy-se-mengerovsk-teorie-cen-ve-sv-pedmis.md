@@ -1,0 +1,4 @@
+
+Naposledy se mengerovská teorie cen ve své předmisesovské verzi objevila ve Spojených státech v polovině 30. let. Vernon A. Mund, Fetterův student z Princetonu, vydal monografii Monopoly: A History and Theory (1933), která byla nesrovnatelně lepší než marshallovské práce na toto téma, publikované ve stejné době Joan Robinsonovou a Edwardem Chamberlinem. Mund vystavěl svou vlastní analýzu monopolu výlučně na Mengerově „nové a jednotné analýze monopolu a konkurence", jež, jak prohlásil, „učinila Mengerovo dílo znamenitým příspěvkem k ekonomické teorii". Dva roky nato se již posmrtně objevil Davenportův monumentální, avšak stylisticky neprůhledný kritický rozbor celého systému marshallovské ekonomie z pohledu příčinně-realistické teorie cen.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_183/para_002-Naposledy-se-mengerovsk-teorie-cen-ve-sv-pedmis.mp3)

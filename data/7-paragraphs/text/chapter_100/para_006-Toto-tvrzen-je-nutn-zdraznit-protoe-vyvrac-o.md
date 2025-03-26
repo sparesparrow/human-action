@@ -1,0 +1,4 @@
+
+Toto tvrzení je nutné zdůraznit, protože vyvrací obvyklé postupy, podle nichž lidé rozlišují mezi tím, co považují za nízké a vysoké úrokové míry. Obvykle se zohledňuje pouze aritmetická výše měr nebo trend objevující se v jejich pohybu. Veřejné mínění má určitou představu o „normální" míře, někde mezi 3 a 5 procenty. Když tržní míra vzroste nad tuto úroveň nebo když tržní míry rostou nad svoji předchozí úroveň, lidé věří, že mají pravdu, mluví-li o vysokých nebo rostoucích úrokových mírách. Proti těmto omylům je nutné zdůraznit, že v podmínkách všeobecného růstu cen může být hrubá tržní úroková míra považována za nezměněnou, pouze pokud obsahuje odpovídající kladnou cenovou prémii.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_100/para_006-Toto-tvrzen-je-nutn-zdraznit-protoe-vyvrac-o.mp3)

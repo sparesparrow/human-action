@@ -1,0 +1,4 @@
+
+Z tohoto pohledu se musíme zabývat často vznášenou otázkou, zda branná povinnost a výběr daní představují omezení svobody. Kdyby byly zásady tržního hospodářství přijaty všemi lidmi na celém světě, nebyl by žádný důvod vést válku a jednotlivé státy by žily v nerušeném míru. Ale v podmínkách naší doby je svobodný národ stále ohrožován útočnými plány totalitních autokracií. Chce-li si svoji svobodu uchovat, musí být připraven bránit svou nezávislost. Jestliže vláda svobodné země nutí každého občana, aby plně spolupracoval na jejích plánech zahnat agresory, a každého tělesně schopného muže, aby vstoupil do armády, neukládá tím jedinci povinnost, která by překračovala úkoly přikazované praxeologickým zákonem.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_57/para_005-Z-tohoto-pohledu-se-musme-zabvat-asto-vznenou.mp3)

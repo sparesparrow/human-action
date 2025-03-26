@@ -1,0 +1,4 @@
+
+Mezi ekonomickou historií a ekonomií neexistuje konflikt. Každá sféra poznání má svůj význam a hodí se k určitému účelu. Ekonomové se nikdy nepokoušeli znevažovat či popírat význam hospodářských dějin. Stejně tak se ani skuteční historici nebrání studiu ekonomie. Nepřátelství mezi těmito dvěma skupinami bylo záměrně vyvoláno socialisty a intervencionisty, kteří nemohli vyvrátit výhrady vznesené proti jejich teoriím ekonomy. Historická škola a institucionalisté se pokoušeli odstranit ekonomii a nahradit ji „empirickými" studiemi právě z toho důvodu, že chtěli ekonomy umlčet. Hospodářské dějiny, tak jak si je představovali, byly prostředkem k poškození dobrého jména ekonomie a propagaci intervencionismu.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_004-Mezi-ekonomickou-histori-a-ekonomi-neexistuje-ko.mp3)

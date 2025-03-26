@@ -1,0 +1,25 @@
+# Chapter 172
+
+## Audio Narration
+
+- [chapter_172a.mp3](../5-audio-chunks-espeak/chapter_172a.mp3)
+- [chapter_172b.mp3](../5-audio-chunks-espeak/chapter_172b.mp3)
+
+## Content
+
+<!-- Source: ESPEAK_AUDIO-chapter_172a-OPTIMIZED.md -->
+
+Druhou příčinou byl prudký nárůst počtu ekonomů marshallovské tradice v anglofonních zemích, což vedlo k jejich takřka úplné nadvládě na poli čisté teorie na počátku dvacátých let. Třetím faktorem, jenž přispěl k podkopání mengerovského přístupu k teorii cen, byl silný podnět, jenž byl dán výzkumu v tradici kontinentální analýzy všeobecné rovnováhy na London School of Economics příchodem Friedricha A. Hayeka v roce 1931. A konečně samotný mengerovský přístup, dokonce i v těch nejpropracovanějších dílech Wicksteeda, Fettera a Davenporta, obsahoval vážné nedostatky, které jen nahávaly široce rozšířenému názoru, že tento přístup není ničím jiným než jen méně precizní verbální verzí analýzy všeobecné rovnováhy. Každá z příčin bude rozebrána v následujících čtyřech částech.
+
+Úpadek Böhm-Bawerkův a vzestup Schumpeterův
+
+Publikováním své monografie Grundzüge der Theorie des wirtschaftlichen Güterwerthes v roce 1886, v níž znovu zformuloval a rozšířil principy mengerovské teorie hodnoty a cen, si Böhm-Bawerk získal mezinárodní renomé. Následné vydání druhého dílu jeho úctyhodného pojednání o kapitálu a úrocích roku 1889 a dlouhotrvající polemiky, jež text skoro okamžitě vyvolal, vyneslo Böhm-Bawerkka do pozice vůdčí osobnosti rakouské školy. V této roli vystřídal Mengera, který s výjimkou dvou vynikajících článků o kapitálu a penězích, publikovaných v letech 1888 a 1892, od počátku 80. let nijak výrazně k ekonomické teorii nepřispěl. Jeho Zásady navíc byly již dávno rozebrány a nesmírně obtížně k sehnání.
+
+Dlouho předtím, než Böhm-Bawerk ve svých třiašedesáti letech v roce 1914 zemřel, začaly události v Rakousku nabírat pro mengerovský přístup nepříznivý směr. Roku 1889 vstoupil Böhm-Bawerk do státních služeb, kde působil dalších patnáct let. Přestože během těchto let stále pozorně sledoval rychle rostoucí množství ekonomické literatury a pokračoval v publikaci vlastních děl, jeho povinnosti plynoucí z funkce vysoce postaveného státního úředníka mu ponechávaly jen málo času na vědecké aktivity.
+
+V době, kdy Böhm-Bawerk převzal speciálně zřízený stolec na Vídeňské univerzitě a začal se v roce 1905 opět naplno věnovat akademické činnosti, dosáhl statutu veřejně známé uznávané osobnosti a nemohl tak zcela uniknout nárokům pokračujících neakademických aktivit na jeho čas a síly. Navíc se přirozeně dostal k politickým funkcím uvnitř ekonomické profese – mnoho let sloužil v radě Rakouské ekonomické společnosti a byl také zvolen viceprezidentem a pak prezidentem.
+
+<!-- Source: ESPEAK_AUDIO-chapter_172b-OPTIMIZED.md -->
+
+Článek o penězích byl přeložen do angličtiny. Byl prezidentem Rakouské akademie věd v letech 1907 a 1911. Kromě toho byla jeho schopnost rázně obnovit vědecký výzkum narušena enormním množstvím práce, jež měl v uplynulých patnácti letech a které se těžce podepsalo na jeho zdraví. Po svém návratu k akademickému životu ve věku čtyřiapadesáti let tak vypadal starší, než by jeho věk napovídal. O dva roky později sám sebe popsal jako starého muže.
+

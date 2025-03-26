@@ -1,0 +1,4 @@
+
+Rozsah, v němž jsou či nejsou brány v úvahu některé doprovodné rysy a nahodilé souvislosti cenových dat, které nás zajímají, závisí na teoretickém uvažování stejného druhu. Nikdo není tak smělý, aby tvrdil, že nárůst nabídky kterékoli komodity o jedno procento musí vždy – v každé zemi a v každé době – vést k poklesu její ceny o určité procento. Ale protože se žádný kvantitativní ekonom nikdy neodvážil na základě statistické zkušenosti přesně definovat zvláštní podmínky, které vyvolávají určitou odchylku, je marnost jeho počínání očividná. Peníze navíc nejsou pro měření cen standardem; je to prostředek, jehož směnné poměry se mění stejně jako směnné poměry prodejného zboží a služeb, i když zpravidla ne stejnou rychlostí a ve stejné míře.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_63/para_003-Rozsah-v-nm-jsou-i-nejsou-brny-v-vahu-nkter.mp3)

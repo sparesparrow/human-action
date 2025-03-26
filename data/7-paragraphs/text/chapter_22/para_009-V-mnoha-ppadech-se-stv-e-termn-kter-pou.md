@@ -1,0 +1,4 @@
+
+V mnoha případech se stává, že termín, který používá praxeologie k označení praxeologického pojmu, slouží historikovi k označení ideálního typu. Pak historik používá jedno slovo k označení dvou rozdílných věcí. Někdy ten termín používá k označení jeho praxeologických konotací, častěji však k označení ideálního typu. V druhém případě slovu přiřazuje význam odlišný od významu praxeologického. Transformuje ho tím, že jej přesouvá do jiné oblasti studia. Ekonomický pojem „podnikatel" patří do jiné vrstvy než ideální typ „podnikatel", který používá historie a deskriptivní ekonomie. Ve třetí vrstvě leží právní pojem „podnikatel". Ekonomický termín „podnikatel" je pojmem přesně definovaným, který v rámci teorie tržní ekonomiky označuje jasně integrovanou funkci.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_22/para_009-V-mnoha-ppadech-se-stv-e-termn-kter-pou.mp3)

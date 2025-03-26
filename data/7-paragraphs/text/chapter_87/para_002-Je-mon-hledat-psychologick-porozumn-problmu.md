@@ -1,0 +1,4 @@
+
+Je možné hledat psychologické porozumění problému časové preference. Netrpělivost a vypětí způsobené čekáním jsou bezpochyby psychologické jevy. Můžeme přistoupit k jejich vysvětlení odkazem na časovou omezenost lidského života, zrození jednotlivce, jeho růst a dospívání a jeho neodvratné stárnutí a skon. V průběhu lidského života je pro veškeré věci správný okamžik, stejně jako příliš brzy a příliš pozdě. Praxeologický problém se však těchto psychologických otázek nijak netýká. Musíme ho zformulovat, ne pouze mu rozumět. Musíme ukázat, že člověk, který nedává přednost uspokojení v blízkém období budoucnosti před uspokojením ve vzdálenějším období, by vůbec nikdy nespotřebovával a neměl ze své spotřeby požitek.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_87/para_002-Je-mon-hledat-psychologick-porozumn-problmu.mp3)

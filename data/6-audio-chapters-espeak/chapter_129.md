@@ -1,0 +1,39 @@
+# Chapter 129
+
+## Audio Narration
+
+- [chapter_129a.mp3](../5-audio-chunks-espeak/chapter_129a.mp3)
+- [chapter_129b.mp3](../5-audio-chunks-espeak/chapter_129b.mp3)
+
+## Content
+
+<!-- Source: ESPEAK_AUDIO-chapter_129a-OPTIMIZED.md -->
+
+Tito nadšenci jsou omámeni ještě víc, když vládní zásahy umožní submarginálním výrobcům pokračovat ve výrobě a ustát konkurenci efektivnějších podniků, dílen nebo zemědělských statků. Tady je zřejmé, říkají, že se celková výroba zvýšila a k bohatství je přidáno něco, co by bez pomoci úřadů nebylo vyrobeno. Ve skutečnosti dochází přesně k opaku; celková výroba a celkové bohatství se zmenšují. Provozovnám, které vyrábějí s vyššími náklady, je umožněna existence, zatímco jiné provozovny, které mají nižší výrobní náklady, jsou donuceny omezit nebo ukončit výrobu.
+
+Spotřebitelé nedostanou víc, ale méně.
+
+Velice populární je například myšlenka, že je dobré, aby vláda podporovala zemědělský rozvoj těch oblastí země, které příroda málo obdařila. V těchto okresech jsou vyšší výrobní náklady než v jiných oblastech; právě tato skutečnost způsobuje, že velká část jejich půdy je submarginální. Kdyby zemědělci, kteří obhospodařují tuto submarginální půdu, nedostávali pomoc z veřejných fondů, nemohli by konkurovat statkům s úrodnější půdou. Zemědělství by ustoupilo nebo by se přestalo rozvíjet a celá oblast by se stala zaostalou částí země. Při plném vědomí tohoto stavu věcí by ziskový sektor neinvestoval do stavby železnic spojujících takové nešťastné oblasti s centry spotřeby. Špatná situace zemědělců není způsobena tím, že jim chybějí přepravní zařízení. Kauzalita je opačná; protože si soukromé podnikání uvědomuje, že šance těchto zemědělců nejsou příznivé, nebude investovat do železnic, které pravděpodobně nebudou ziskové kvůli nedostatku zboží, jež by přepravovaly.
+
+Jestliže se vláda poddá požadavkům zainteresovaných zájmových skupin, postaví železnici a provozuje ji se ztrátou, samozřejmě tím prospěje majitelům zemědělské půdy v těchto chudých okresech země. Protože část nákladů, které vyžaduje doprava jejich produkce, nese státní rozpočet, je pro ně snazší konkurovat těm, kteří obdělávají úrodnější půdu a jimž je taková pomoc odepřena.
+
+Ale za dobrodiní pro tyto zvýhodněné zemědělce platí daňoví poplatníci, kteří musí dodat finanční prostředky potřebné k pokrytí ztráty. Neovlivní to ani tržní cenu, ani celkovou nabídku zemědělských výrobků. Pouze to způsobí, že je provoz zemědělských statků, které byly dosud submarginální, výnosný a jiné statky, jejichž provoz byl dosud výnosný, se stanou submarginálními. Posouvá to výrobu z půdy, kde si vyžaduje nižší náklady, na půdu, kde si vyžaduje vyšší náklady.
+
+Nezvyšuje to celkovou nabídku a bohatství, ale naopak je snižuje, protože dodatečné množství kapitálu a práce, které jsou třeba pro zúrodnění vysokonákladových polí místo nízkonákladových polí, je odčerpáno z užití, v němž by bývalo umožnilo výrobu nějakého jiného spotřebního zboží. Vláda dosáhne svého cíle zvýhodnit některé části země, což by se jí jinak nepodařilo, ale při tom někde jinde vytvoří náklady, které převyšují zisk zvýhodněných skupin.
+
+Pozitivní externality v intelektuální tvorbě
+
+Extrémní případ pozitivních externalit najdeme ve „výrobě" intelektuálních základů výroby a staveb všeho druhu. Charakteristickým znakem vzorců, tj. myšlenkových nástrojů, které řídí technologické postupy, je nevyčerpatelnost služeb, jež poskytují. Tyto služby proto nejsou omezené a neexistuje žádný důvod, proč s jejich využitím šetřit. Úvahy, které vedly ke vzniku instituce soukromého vlastnictví ekonomických statků, se na ně nevztahovaly.
+
+Zůstaly mimo oblast soukromého vlastnictví nikoli proto, že jsou nehmotné, nemateriální a nehmatatelné, ale protože jejich schopnost poskytovat služby je nevyčerpatelná.
+
+Teprve později si lidé začali uvědomovat, že tento stav věcí má také své nevýhody. Staví výrobce takových vzorců – zejména vynálezce technologických postupů, spisovatele a skladatele – do podivného postavení. Jsou zatíženi výrobními náklady, zatímco služeb výrobku, který vytvořili, si může každý užívat zdarma. To, co vytvořili, je pro ně zcela nebo téměř zcela pozitivní externalitou.
+
+Když neexistují autorská práva ani patenty, jsou vynálezci a spisovatelé v situaci podnikatele. Mají proti ostatním lidem dočasnou výhodu. Protože sami začnou používat svůj vynález nebo svůj rukopis dříve nebo je dříve zpřístupní pro použití jinými lidmi (výrobci nebo nakladatelé), mohou v časovém intervalu, než je může stejně užívat každý, vydělat zisk. Jakmile jsou vynález nebo obsah knihy veřejně známé, stávají se „volným statkem" a vynálezce nebo spisovatel mají pouze slávu.
+
+Problém, který je za tím, nemá nic společného s činností tvůrčího génia.
+
+<!-- Source: ESPEAK_AUDIO-chapter_129b-OPTIMIZED.md -->
+
+Tito pionýři a tvůrci dosud neslýchaných věcí nevyrábějí a nepracují v tom smyslu, v němž tyto termíny používáme, když se zabýváme jednáním jiných lidí. Nenechají se ovlivnit odezvou, s níž se jejich práce setkává ze strany jejich současníků. Nečekají na povzbuzení.
+

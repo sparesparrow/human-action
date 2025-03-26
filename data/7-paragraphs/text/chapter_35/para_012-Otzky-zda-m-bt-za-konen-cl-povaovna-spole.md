@@ -1,0 +1,4 @@
+
+Otázky, zda má být za konečný cíl považována společnost nebo jedinec a zda by měly být zájmy společnosti podřízeny zájmům jednotlivců nebo zájmy jednotlivců podřízeny zájmům společnosti, jsou neplodné. Jednání je vždy jednáním jednotlivých lidí. Sociální nebo societální prvek je určitou orientací jednání jednotlivých lidí. Kategorie cíl má smysl, pouze pokud se aplikuje na jednání. Teologie a metafyzika dějin mohou diskutovat o cílech společnosti a o plánech, které Bůh zamýšlí se společností uskutečnit, stejně jako diskutují o účelu všech ostatních částí stvořeného světa. Pro vědu, jež je neoddělitelná od rozumu, pro nástroj, který se zjevně nehodí pro řešení takových problémů, by bylo beznadějné, kdyby se pustila do spekulací o těchto věcech.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_35/para_012-Otzky-zda-m-bt-za-konen-cl-povaovna-spole.mp3)

@@ -1,0 +1,4 @@
+
+Problémy, které byly vyvolány plány socialistů a intervencionistů, se budeme zabývat v dalších částech této knihy. Zde musíme pouze odpovědět na otázku, zda kterákoli z podstatných vlastností Volkswirtschaft je či není slučitelná s tržním hospodářstvím. Zastánci myšlenky Volkswirtschaft totiž nepovažují svůj plán pouze za model pro ustavení budoucího společenského pořádku. Vidí problém tak, že to, co odlišuje jeden Volkswirtschaft od všech ostatních, nejsou, jak by se nás snažili přesvědčit ekonomové, pouze politické instituce. Rozlišování mezi domácím obchodem a zahraničním obchodem nevytvářejí obchodní a migrační bariéry zavedené vládními zásahy do podnikání, ani legislativní rozdíly a rozdíly v ochraně, kterou jednotlivcům poskytují soudy a tribunály.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_002-Problmy-kter-byly-vyvolny-plny-socialist-a-i.mp3)

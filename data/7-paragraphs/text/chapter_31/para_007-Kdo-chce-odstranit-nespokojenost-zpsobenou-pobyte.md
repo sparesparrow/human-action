@@ -1,0 +1,4 @@
+
+Kdo chce odstranit nespokojenost způsobenou pobytem v místnosti s teplotou 1 stupně, pokusí se místnost vytopit na teplotu 18 až 20 stupňů. To, že neusiluje o dosažení teploty 80 či 150 stupňů, nemá nic společného ani s Weberovým-Fechnerovým zákonem, ani s psychologií. Jediné, co může psychologie pro vysvětlení tohoto faktu udělat, je prokázat, že člověk v principu preferuje zachování života a zdraví před smrtí a nemocí. Praxeologii zajímá pouze to, že jednající člověk volí mezi alternativami. Skutečnost, že člověk stojí na křižovatkách a že se musí rozhodovat a rozhoduje, vyplývá z kvantitativní podstaty světa. Člověk nežije ve světě bez kvantity, a ani si takový svět nedokáže představit.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_31/para_007-Kdo-chce-odstranit-nespokojenost-zpsobenou-pobyte.mp3)

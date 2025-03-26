@@ -1,0 +1,4 @@
+
+Porovnáváme podmínky dvou izolovaných tržních systémů A a B. Jsou shodné, pokud jde o počet obyvatel, stav technologických znalostí a přírodní zdroje. Liší se nabídkou kapitálových statků, která je větší v A než v B. V důsledku toho je v A používána celá řada výrobních procesů, u nichž je výstup na jednotku vstupu vyšší než u procesů používaných v B. V B nelze o jejich využití uvažovat kvůli relativní vzácnosti kapitálových statků. Jejich využití by vyžadovalo omezení spotřeby. V B jsou mnohé postupy vykonávány ručně, zatímco v A pomocí strojů šetřících lidskou práci. V A jsou vyráběny statky s delší trvanlivostí; v B se musí bez jejich výroby obejít, ačkoli je prodloužení trvanlivosti dosaženo méně než proporcionálním zvýšením vstupů. V A je produktivita práce a v důsledku toho i mzdy a životní úroveň těch, kdo je vydělávají, vyšší než v B.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_91/para_008-Porovnvme-podmnky-dvou-izolovanch-trnch-syst.mp3)

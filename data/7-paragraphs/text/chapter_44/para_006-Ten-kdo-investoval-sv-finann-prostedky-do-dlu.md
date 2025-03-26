@@ -1,0 +1,4 @@
+
+Ten, kdo investoval své finanční prostředky do dluhopisů vydaných vládou a jejími podřízenými složkami, přestal podléhat nevyhnutelnému právu trhu a svrchovanosti spotřebitelů. Už nebyl nucen investovat své prostředky tak, aby co nejlépe sloužily požadavkům a potřebám spotřebitelů. Byl zajištěn, byl chráněn proti nebezpečí konkurenčního trhu, na němž je neefektivita trestána ztrátou; věčný stát ho vzal pod svá křídla a zajistil mu nerušené užívání jeho finančních prostředků. Od této chvíle již jeho příjem nepocházel z procesu uspokojování přání spotřebitelů tím nejlepším možným způsobem, ale z daní uvalených donucovacím aparátem státu. Nadále už nebyl sluhou svých spoluobčanů, jenž je podřízen jejich svrchovanosti; byl partnerem vlády, která vládla lidem a vynucovala si od nich dávky.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_44/para_006-Ten-kdo-investoval-sv-finann-prostedky-do-dlu.mp3)

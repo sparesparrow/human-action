@@ -1,0 +1,4 @@
+
+V antikapitalistické terminologii se slova sobecký a nesobecký používají k rozdělení lidí z pohledu doktríny, jež považuje rovnost bohatství a příjmů za jediný přirozený a spravedlivý stav společenských podmínek, jež označuje lidi, kteří vlastní či vydělávají více, než je průměr, za vykořisťovatele, a která odsuzuje podnikatelskou činnost, jelikož prý škodí společnému blahu. Podnikat, záviset přímo na schválení či neschválení vlastního jednání spotřebiteli, usilovat o přízeň nakupujících a dosáhnout zisku, když se člověku podaří uspokojit spotřebitele lépe, než se podařilo konkurentům, je – z pohledu oficiální ideologie – sobecké a zavrženíhodné. Pouze lidé, kteří získávají svůj mzdy od vlády, se kvalifikují jako nesobečtí a ctnostní.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_145/para_013-V-antikapitalistick-terminologii-se-slova-sobeck.mp3)

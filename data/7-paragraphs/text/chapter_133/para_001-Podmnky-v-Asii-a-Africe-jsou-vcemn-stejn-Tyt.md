@@ -1,0 +1,4 @@
+
+Podmínky v Asii a Africe jsou víceméně stejné. Tyto zaostalé národy dostávají vymoženosti pro boj s nemocemi a na jejich prevenci hotové ze Západu. Je pravda, že v některých z těchto zemí směřuje dovezený cizí kapitál a současně i osvojení cizích technologických postupů poměrně malým domácím kapitálem ke zvýšení pracovního výkonu na hlavu, a tak ke vzniku tendence ke zlepšování průměrné životní úrovně. To však dostatečně nevyvažuje opačný trend, který plyne z poklesu úmrtnosti, jenž není provázen odpovídajícím poklesem porodnosti. Kontakt se Západem ještě nepřinesl těmto lidem prospěch, protože dosud neovlivnil jejich myšlení. Ještě je neosvobodil od letitých pověr, předsudků a nedorozumění; pouze změnil jejich technické a terapeutické znalosti.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_133/para_001-Podmnky-v-Asii-a-Africe-jsou-vcemn-stejn-Tyt.mp3)

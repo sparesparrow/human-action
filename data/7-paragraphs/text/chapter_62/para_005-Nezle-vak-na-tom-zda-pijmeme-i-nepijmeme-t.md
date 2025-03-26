@@ -1,0 +1,4 @@
+
+Nezáleží však na tom, zda přijmeme či nepřijmeme tento způsob popisu skutečnosti, že hospodářská teorie, která vede k těmto politikám, je chybná. Nezabýváme se patologickými zdroji, z nichž může chyba vyrůstat, ale chybou jako takovou a jejími logickými kořeny. Odhalení chyby pomocí logického uvažování je prvořadou skutečností. Kdyby nebylo zjištěno, že tvrzení je logicky nesprávné, psychopatologie by nebyla schopna označit stav mysli, z něhož tvrzení vyrůstá, jako patologický. Jestliže si člověk představuje, že je perským králem, první věcí, kterou musí psychiatr zjistit, je, jestli ve skutečnosti je či není tím, čím si myslí, že je. Pouze pokud je tato otázka odpovězena záporně, může být ten člověk považován za duševně chorého.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_005-Nezle-vak-na-tom-zda-pijmeme-i-nepijmeme-t.mp3)

@@ -1,0 +1,4 @@
+
+V každém případě ztratí manažer práci. Pokud uspěje a dosáhne zisku, jeho příjem bude zvýšen nebo alespoň nebude v nebezpečí, že o něj přijde. Zda manažer má či nemá nárok podílet se na zisku, který je připisován jeho sekci, není vzhledem k osobnímu zájmu, který má na výsledcích činnosti své sekce, důležité. Jeho úkol není jako úkol technika vykonat určitý díl práce podle určitého předpisu. Jeho úkolem je přizpůsobovat – v rámci omezeného pole působnosti, v němž je mu ponechána volnost jednání – činnost své sekce stavu trhu. Je samozřejmé, že stejně jako podnikatel, který může ve své osobě kombinovat funkci podnikatele a technika, se může takové spojení různých funkcí objevit i u manažera.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_60/para_007-V-kadm-ppad-ztrat-manaer-prci-Pokud-uspj.mp3)

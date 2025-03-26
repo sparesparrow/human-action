@@ -1,0 +1,4 @@
+
+Hlavním omylem historické školy Wirtschaftliche Staatswissenschaften v Německu i amerického institucionalismu byla snaha interpretovat ekonomii jako charakteristiku chování ideálního typu homo oeconomicus. Podle této doktríny tradiční či ortodoxní ekonomie nepojednává o chování člověka, jaký ve skutečnosti je a jak jedná, ale o fiktivním a hypotetickém obraze. Znázorňuje bytost řízenou výlučně ekonomickými motivy, tj. čistě záměrem získat co největší hmotný a peněžní zisk. Taková bytost, zdůrazňují tito kritici, nemá a nikdy neměla reálný protějšek. Je fantomem falešné spekulativní filozofie. Žádný člověk není motivován výlučně přáním stát se co nejbohatším. Mnohé lidi tato touha vůbec neovlivňuje.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_22/para_004-Hlavnm-omylem-historick-koly-Wirtschaftliche-St.mp3)

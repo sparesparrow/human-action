@@ -1,0 +1,4 @@
+
+Nacionalisté zdůrazňují to, že mezi zájmy různých národů existuje nesmiřitelný konflikt, ale že na druhé straně správně pochopené zájmy obyvatel uvnitř národa jsou v souladu. Národ může prospívat pouze na úkor jiných národů; jednotlivý občan se může mít dobře pouze tehdy, když jeho národ vzkvétá. Liberálové mají odlišný názor. Věří, že zájmy různých národů jsou v souladu přinejmenším stejně jako zájmy různých skupin, tříd a vrstev jednotlivců uvnitř jednoho národa. Věří, že mírová mezinárodní spolupráce je pro dosažení cíle, k němuž směřují jak oni, tak nacionalisté, tedy pro dosažení blahobytu jejich vlastního národa, vhodnějším nástrojem než konflikt. Neobhajují mír a svobodný obchod proto, aby zradili zájmy vlastního národa ve prospěch cizinců, jak je obviňují nacionalisté.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_38/para_010-Nacionalist-zdrazuj-to-e-mezi-zjmy-rznch.mp3)

@@ -1,0 +1,4 @@
+
+Na velikosti projektu, který člověk v daný okamžik zamýšlí, závisí, zda vystoupí do popředí širší jednání nebo pouze jednání částečné, zaměřené na dosažení bezprostřednějšího cíle. Praxeologie si nemusí pokládat otázky, které si pokládá Gestaltpsychologie. Cesta k provádění velkých věcí vždy musí vést přes provádění dílčích úkolů. Katedrála není jen hromada kamenů spojených dohromady, avšak jediným možným postupem práce při stavbě katedrály je právě skládání jednoho kamene na druhý. Pro architekta je hlavní celkový projekt. Pro zedníka je to jednotlivá zeď, pro přidavače jednotlivé kameny. Pro praxeologii je důležité, že jedinou metodou, jak docílit větších úkolů, je stavět od základů krok za krokem.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_19/para_013-Na-velikosti-projektu-kter-lovk-v-dan-okamik.mp3)

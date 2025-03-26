@@ -1,0 +1,4 @@
+
+Růst počtu obyvatel nezmenšuje průměrné podíly jedinců, ale spíše je zvětšuje. Kdyby měli lidé usilovat pouze o jídlo a sexuální uspokojení, počet obyvatel by měl tendenci růst nad optimální velikost až k hranici určované množstvím dostupné obživy. Lidé však chtějí víc než jen jíst a souložit; chtějí žít jako lidé. Je pravda, že zlepšení podmínek obvykle vede ke zvýšení počtu obyvatel; tento nárůst však zaostává za nárůstem při pouhém holém přežití. Kdyby tomu bylo jinak, lidem by se nikdy nepodařilo založit společenské svazky a vytvořit civilizaci. Stejně jako u krys, myší a mikrobů by každé zvýšení množství potravy vedlo ke zvýšení počtu obyvatel až k hranici holého přežití; na usilování o jiné cíle by nic nezbylo.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_132/para_005-Rst-potu-obyvatel-nezmenuje-prmrn-podly-jed.mp3)

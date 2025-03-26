@@ -1,0 +1,4 @@
+
+Nazývat jakoukoli dobu dobou přechodu nám nijak nepomůže. V živoucím světě dochází neustále ke změnám. Každá doba je dobou přechodu. Je možné rozlišovat mezi trvalými společenskými systémy a systémy, jež jsou nevyhnutelně přechodné, protože samy sebe ničí. Vysvětlili jsme si, v jakém smyslu intervencionismus sám sebe zahubí a vede k socialismu německého typu. Některé evropské země této fáze již dosáhly a nikdo nedokáže říci, zda Spojené státy jsou další na řadě. Dokud ale Spojené státy zachovají tržní hospodářství a nepřijmou systém úplné vládní kontroly podnikání, socialistické ekonomiky západní Evropy budou stále moci provádět ekonomickou kalkulaci. Jejich způsob podnikání ještě nezískal hlavní rys socialismu; je stále založen na ekonomické kalkulaci.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_168/para_002-Nazvat-jakoukoli-dobu-dobou-pechodu-nm-nijak-ne.mp3)

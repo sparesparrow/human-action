@@ -1,0 +1,4 @@
+
+Pokud spotřebitel věří, že je výhodné nebo správné platit vyšší cenu za domácí obilí než za obilí dovezené ze zahraničí, nebo za výrobky z podniků, které provozují malé firmy nebo které zaměstnávají pracovníky sdružené v odborech, než za výrobky jiného původu, má naprostou svobodu to udělat. Bude se muset pouze ubezpečit o tom, že komodita nabízená k prodeji splňuje podmínky, které si dal jako předpoklad svého souhlasu s vyšší cenou. Zákony, které zakazují padělání etiket původu a obchodních značek, by uspěly v dosažení cílů, k nimž směřují cla, pracovní zákonodárství a výhody poskytované malým podnikům. Není ale vůbec pochyb o tom, že spotřebitelé nejsou připraveni chovat se tímto způsobem.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_009-Pokud-spotebitel-v-e-je-vhodn-nebo-sprvn.mp3)

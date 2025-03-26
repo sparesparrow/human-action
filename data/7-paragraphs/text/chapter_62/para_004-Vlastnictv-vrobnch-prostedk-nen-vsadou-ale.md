@@ -1,0 +1,4 @@
+
+Vlastnictví výrobních prostředků není výsadou, ale závazkem ke společnosti. Kapitalisté a majitelé pozemků jsou nuceni využívat svůj majetek k co nejlepšímu uspokojování spotřebitelů. Pokud jsou při vykonávání svých povinností pomalí a neobratní, jsou penalizováni ztrátou. Jestliže si z toho nevezmou poučení a řízení svých záležitostí nezlepší, o své bohatství přijdou. Žádná investice není navždy bezpečná. Ten, kdo nepoužívá svůj majetek, aby tím nejefektivnějším způsobem sloužil spotřebitelům, je odsouzen ke krachu. Pro lidi, kteří by si své bohatství chtěli užívat v nečinnosti a bezstarostnosti, není ponechán žádný prostor. Vlastník se musí snažit investovat své prostředky takovým způsobem, aby se jistina a výnos přinejmenším nezmenšovaly.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_004-Vlastnictv-vrobnch-prostedk-nen-vsadou-ale.mp3)

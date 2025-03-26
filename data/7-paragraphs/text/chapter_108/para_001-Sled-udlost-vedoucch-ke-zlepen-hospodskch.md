@@ -1,0 +1,4 @@
+
+Sled událostí vedoucích ke zlepšení hospodářských podmínek zahajuje akumulace nového kapitálu prostřednictvím spoření. Tyto dodatečné zdroje umožní provedení projektů, které by z důvodu nedostatku kapitálových statků nemohly být provedeny dříve. Zahájením těchto nových projektů podnikatelé na trhu soutěží o výrobní faktory, jež jsou již používány v dříve zahájených projektech. Ve své snaze zajistit nutné množství surovin a pracovních sil tlačí vzhůru ceny surovin a mzdové sazby. Proto příjemci mezd již na počátku tohoto procesu získají podíl na přínosech způsobených tím, že se spořící lidé vzdali své spotřeby. V dalším průběhu tohoto procesu jsou znovu zvýhodněni, nyní jako spotřebitelé, poklesem cen, k němuž vede zvýšení produktivity.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_108/para_001-Sled-udlost-vedoucch-ke-zlepen-hospodskch.mp3)

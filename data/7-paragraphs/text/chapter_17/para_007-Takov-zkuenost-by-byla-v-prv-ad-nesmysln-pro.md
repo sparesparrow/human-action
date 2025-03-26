@@ -1,0 +1,4 @@
+
+Taková zkušenost by byla v prvé řadě nesmyslná proto, že veškerá zkušenost je podmíněna praxeologickými kategoriemi a umožněna pouze jejich použitím. Kdyby naše mysl neměla schémata poskytovaná praxeologickým myšlením, nebyli bychom nikdy s to rozpoznat a uchopit žádné jednání. Vnímali bychom pohyby, ale nikoli kupování nebo prodávání, ani ceny, mzdové sazby, úrokové míry atd. Získání možnosti zkušenosti týkající se aktu kupování a prodávání je možné pouze skrze užití praxeologického schématu, avšak zcela nezávisle na faktu, zda lidské smysly současně s tím vnímají jakékoli pohyby lidí či nelidských součástí vnějšího světa. Bez pomoci praxeologického poznání bychom se nedozvěděli nic o prostředku směny.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_17/para_007-Takov-zkuenost-by-byla-v-prv-ad-nesmysln-pro.mp3)

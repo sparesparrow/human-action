@@ -1,0 +1,4 @@
+
+Přemýšlí vždy jednotlivec. Společnost nepřemýšlí o nic víc, než nakolik ji jednotlivci ovlivňují. Vývoj lidského myšlení od naivního uvažování primitivního člověka k jemnějšímu přemýšlení moderní vědy se uskutečnil v rámci společnosti. Samotné myšlení je však vždy činem jednotlivce. Existuje společné jednání, ale ne společné myšlení. Existuje pouze tradice, která uchovává myšlenky a předává je ostatním jako podnět k jejich přemýšlení. Člověk však nemá jiný prostředek k tomu, aby si přivlastnil myšlenky svých předchůdců, než je znovu promyslet. Pak je samozřejmě v situaci, kdy musí pokračovat v otcových šlépějích na základě myšlenek jeho předchůdců. Hlavním nástrojem tradice je slovo. Myšlení je spojeno s jazykem a naopak. Představy se vyjadřují v termínech. Jazyk je nástrojem myšlení, stejně jako je nástrojem společenského jednání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_38/para_013-Peml-vdy-jednotlivec-Spolenost-nepeml-o.mp3)

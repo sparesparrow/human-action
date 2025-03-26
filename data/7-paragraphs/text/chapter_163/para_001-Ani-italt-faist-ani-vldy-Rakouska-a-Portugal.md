@@ -1,0 +1,4 @@
+
+Ani italští fašisté, ani vlády Rakouska a Portugalska se však nikdy vážně nepokusily nastolit korporativistickou utopii. Italové označili rozličné instituce nálepkou korporativistická a změnili profesorské stolce politické ekonomie na economia politica e corporativa. Nikdy ale nepřišel okamžik, kdy by byl uveden do praxe tak často zmiňovaný základní prvek korporativismu – samospráva různých odvětví obchodu a průmyslu. Fašistická vláda lpěla prvotně na stejných principech hospodářské politiky, které přijaly všechny dnešní vlády s výjimkou čistě socialistických vlád – intervencionismu. Později postupně fašistická vláda přešla k německému systému socialismu, tj. úplné kontrole hospodářských činností státem.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_163/para_001-Ani-italt-faist-ani-vldy-Rakouska-a-Portugal.mp3)

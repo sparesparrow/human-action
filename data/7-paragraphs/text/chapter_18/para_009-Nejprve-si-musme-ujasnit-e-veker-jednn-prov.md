@@ -1,0 +1,4 @@
+
+Nejprve si musíme ujasnit, že veškeré jednání provádějí jednotlivci. Kolektiv funguje vždy prostřednictvím jednoho či několika jednotlivců, jejichž jednání se vztahuje ke kolektivu jako druhotnému zdroji. Charakter jednání je určen významem, který mu jednající jednotlivci a lidé jednáním dotčení přisuzují. Právě význam označuje akt za akt jednotlivce a jiný akt za akt státu či obce. Kat, nikoli stát, popravuje zločince. Až význam, který mu přisuzují dotčení lidé, v jednání kata odhaluje jednání státu. Skupina ozbrojenců obsadí nějaké místo. Teprve mínění těch, jichž se to týká, přisuzuje tuto okupaci nikoli přítomným důstojníkům a vojákům, nýbrž jejich národu. Když prozkoumáme význam různého jednání jednotlivců, musíme se nutně dozvědět vše o jednání celků. Společenský kolektiv totiž neexistuje vně jednání jeho jednotlivých členů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_18/para_009-Nejprve-si-musme-ujasnit-e-veker-jednn-prov.mp3)

@@ -1,0 +1,32 @@
+# Chapter 98
+
+## Audio Narration
+
+- [chapter_98a.mp3](../5-audio-chunks-espeak/chapter_98a.mp3)
+
+## Content
+
+<!-- Source: ESPEAK_AUDIO-chapter_98a-OPTIMIZED.md -->
+
+3. Cenová prémie jako složka hrubé tržní úrokové míry
+
+Peníze jsou neutrální, pokud hotovostí vyvolané změny kupní síly peněžní jednotky ovlivňují ve stejném čase a do stejné míry ceny všech statků a služeb. V souvislosti s neutrálními penězi by bylo možné představit si neutrální úrokovou míru za předpokladu, že neexistují žádné odložené platby. Pokud takové platby existují a pokud odhlédneme od postavení podnikatele jako dlužníka a vyplývající podnikatelské složky hrubé úrokové míry, musíme dále předpokládat, že možnost budoucí změny kupní síly je při domlouvání smlouvy vzata v úvahu.
+
+Jistina má být pravidelně násobena indexními čísly a tak zvyšována nebo snižována podle toho, k jakým změnám kupní síly došlo. Ze změnou jistiny se mění i částka, z níž je počítána úroková míra. Proto je tato míra neutrální úrokovou mírou.
+
+V podmínkách neutrálních peněz lze neutralizace úrokové míry dosáhnout i jiným ujednáním za předpokladu, že smluvní strany jsou schopny správně předvídat budoucí vývoj kupní síly. Mohou se domluvit na hrubé úrokové míře, obsahující příplatek nebo srážku zohledňující tyto změny, která zvyšuje nebo snižuje čistou úrokovou míru. Tento příplatek či srážku můžeme nazývat – kladnou nebo zápornou – cenovou prémií.
+
+V případě rychle postupující deflace by záporná cenová prémie nejen vyrovnala celou míru čistého úroku, ale dokonce by zvrátila hrubou míru do záporných hodnot, do podoby částky stržené z účtu věřitele. Pokud je cenová prémie spočítána správně, ani věřitelova, ani dlužníkova pozice není proběhlými změnami kupní síly ovlivněna. Úroková míra je neutrální.
+
+Všechny tyto předpoklady jsou však pouze pomyslné, nelze si je bez rozporů představit ani hypoteticky. V měnícím se hospodářství nemůže být úroková míra nikdy neutrální. V měnící se ekonomice neexistuje jednotná míra čistého úroku; existuje pouze tendence k jejímu dosažení. Předtím, než je tohoto konečného stavu dosaženo, dojde k novým změnám v datech, které opět odkloní pohyb úrokových měr k novému konečnému stavu. Tam, kde se vše neustále mění, nemůže být ustavena žádná neutrální úroková míra.
+
+Ve skutečném světě se všechny ceny mění a jednající lidé jsou nuceni vzít tyto změny plně na vědomí. Podnikatelé se pouští do podnikání a kapitalisté mění své investice pouze proto, že očekávají tyto změny a chtějí na nich vydělat. Tržní hospodářství je ve své podstatě společenským systémem, v němž převládá neustálá snaha o zlepšení.
+
+Nejprozíravější a nejpodnikavější jednotlivci jsou poháněni k vydělání zisku tím, že znovu a znovu přizpůsobují výrobní činnosti, aby nejlepším možným způsobem naplnili potřeby spotřebitelů, a to jak potřeby, kterých jsou si spotřebitelé již sami vědomi, tak i ty skryté potřeby, na jejichž uspokojení zatím sami nepomysleli. Spekulativní akce podnikatelů vyvolávají každý den novou revoluci v cenové struktuře, a tedy i ve výši hrubé tržní úrokové míry.
+
+Ten, kdo očekává nárůst určitých cen, vstupuje na úvěrový trh jako dlužník a je ochoten přijmout vyšší růst hrubé úrokové míry, než by byl ochoten přijmout, kdyby očekával menší nebo žádný růst. Oproti tomu věřitel, pokud sám očekává růst cen, je ochoten půjčit peníze pouze tehdy, je-li hrubá míra vyšší, než by byla při očekávání menšího nebo žádného zvýšení cen. Dlužník se nedá vyšší mírou odstrašit, pokud má jeho projekt velkou naději na pokrytí i zvýšených nákladů.
+
+Věřitel by nepůjčoval a sám by vstoupil na trh jako podnikatel a poptávající statků a služeb, pokud by ho hrubá úroková míra neodškodnila za zisky, které by mohl tímto způsobem získat. Očekávání růstu cen tak vyvolá sklon hrubé úrokové míry růst, zatímco očekávání klesajících cen vede k jejímu poklesu.
+
+Pokud se očekávané změny cenové struktury týkají pouze omezené skupiny zboží a služeb a jsou vyváženy očekáváním opačné změny cen ostatních statků, což je případ, kdy se nemění peněžní vztah, oba trendy se většinou vyrovnají. Pokud je peněžní vztah citelně změněn a je očekáván všeobecný růst nebo pokles cen všech statků a služeb, jedna tendence převládne. Ve všech dohodách o odložených platbách se objeví kladná nebo záporná cenová prémie.
+

@@ -1,0 +1,4 @@
+
+Pokud vláda používá půjčené částky k investování do těch oblastí, v nichž nejlépe slouží požadavkům zákazníků, a pokud v těchto podnikatelských aktivitách uspěje ve svobodné a rovné soutěži se všemi soukromými podnikateli, je ve stejném postavení jako každý jiný podnikatel; může platit úroky, protože má zisky. Pokud ale vláda investuje prostředky neúspěšně, a nemá proto žádný zisk, nebo pokud peníze utratí za provozní výdaje, půjčený kapitál se zmenší nebo úplně zmizí a neexistuje žádný zdroj, z něhož by mohly být placeny úroky a splácena jistina. Pak je zdanění lidí jedinou metodou, která je pro splnění ustanovení úvěrové smlouvy k dispozici. Když stát vyžaduje daně na takové platby, činí občany odpovědnými za peníze utracené v minulosti.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_44/para_002-Pokud-vlda-pouv-pjen-stky-k-investovn-d.mp3)

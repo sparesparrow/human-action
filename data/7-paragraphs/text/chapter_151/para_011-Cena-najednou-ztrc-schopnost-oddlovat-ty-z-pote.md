@@ -1,0 +1,4 @@
+
+Cena najednou ztrácí schopnost oddělovat ty z potenciálních kupujících a prodávajících, kteří mohou nakoupit či prodat, od těch, co nemohou. Zcela nutně pak musí nastoupit jiný princip alokace daného zboží a služeb a výběru lidí, kteří získají dostupné nabízené zboží. Třeba to budou pouze ti z nakupujících, kteří přijdou první, nebo pouze ti, kterým daná okolnost přiřkne privilegované postavení, nebo pouze ti nejbezohlednější, kteří zaženou své konkurenty pomocí vyhrožování či násilí. Nechce-li vláda, aby o alokaci dostupné nabídky rozhodovala náhoda či násilí a aby zavládl chaos, musí sama regulovat množství, které si bude moci každý jedinec koupit. Musí se uchýlit k přídělům.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_151/para_011-Cena-najednou-ztrc-schopnost-oddlovat-ty-z-pote.mp3)

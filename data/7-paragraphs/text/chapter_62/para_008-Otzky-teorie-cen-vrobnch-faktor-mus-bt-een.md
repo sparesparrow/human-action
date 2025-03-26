@@ -1,0 +1,4 @@
+
+Otázky teorie cen výrobních faktorů musí být řešeny stejnými metodami, které se používají pro studium cen spotřebního zboží. Fungování trhu spotřebního zboží si představujeme dvojím způsobem. Na jedné straně uvažujeme o stavu věcí, jenž vede k uskutečnění směny; situace je taková, že nespokojenost odlišných jednotlivců může být do určité míry odstraněna, protože odlišní lidé si cení různých statků různě. Na druhé straně uvažujeme o situaci, v níž nemůže docházet k uskutečnění žádných dalších směn, protože žádný aktér neočekává další zlepšení svého uspokojení pomocí uskutečnění další směny. Stejným způsobem postupujeme při chápání tvorby cen výrobních faktorů. Činnost tohoto trhu je uváděna do chodu a udržována v pohybu úsilím podnikajících podnikatelů, kteří chtějí dosáhnout zisku z různých tržních cen výrobních faktorů a očekávaných cen výrobků.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_008-Otzky-teorie-cen-vrobnch-faktor-mus-bt-een.mp3)

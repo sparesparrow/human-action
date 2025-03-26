@@ -1,0 +1,4 @@
+
+Argumenty vznesené ve prospěch devalvace nelze brát vážně. Jsou zcela nesmyslné a vzájemně si odporují. Devalvace ale nepředstavovala politiku, jež by vznikla jako výsledek uvážlivého posuzování jejích kladů a záporů. Byla kapitulací vlád před předáky odborů, kteří nechtěli ztratit tvář a přiznat, že jejich mzdová politika je omyl, jenž vyvolal institucionální nezaměstnanost bezprecedentních rozměrů. Devalvace byla zoufalým aktem slabých a neschopných státníků, kteří se chtěli udržet ve svých úřadech. Rozpory při zdůvodňování jejich politiky tyto demagogy nijak netrápily. Slíbili zpracovatelským odvětvím i zemědělcům, že jim devalvace zvýší ceny, ale zároveň slíbili spotřebitelům, že přísná regulace cen zabrání jakémukoli nárůstu životních nákladů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_156/para_008-Argumenty-vznesen-ve-prospch-devalvace-nelze-br.mp3)

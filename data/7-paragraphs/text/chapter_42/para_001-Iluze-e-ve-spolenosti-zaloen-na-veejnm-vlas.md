@@ -1,0 +1,4 @@
+
+Iluze, že ve společnosti založené na veřejném vlastnictví výrobních prostředků je možné racionální uspořádání řízení hospodářství, vděčí za svůj původ teorii hodnoty klasických ekonomů a za svou vytrvalost selhání mnoha moderních ekonomů, že důkladně, až do nejzazších důsledků nepromysleli základní zásadu subjektivistické teorie. A tak byly socialistické utopie vytvářeny a udržovány chybami myšlenkových škol, které marxisté odmítali jako „ideologické převlečení sobeckých třídních zájmů vykořisťující buržoazie". Ve skutečnosti umožnila rozkvět socialistických myšlenek právě pochybení těchto škol. Tato skutečnost jasně ukazuje prázdnotu marxistického učení o „ideologiích" i jeho moderní odnože, sociologie poznání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_42/para_001-Iluze-e-ve-spolenosti-zaloen-na-veejnm-vlas.mp3)

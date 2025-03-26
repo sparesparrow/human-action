@@ -1,0 +1,4 @@
+
+Během období boomu, jež skončilo v roce 1929, se odborům téměř ve všech zemích podařilo vynutit vyšší mzdové sazby, než by byly ustaveny na trhu, jenž by byl omezován pouze existujícími překážkami migrace. Tyto mzdy již v mnoha zemích vyvolaly institucionální nezaměstnanost značného rozsahu, přičemž stále docházelo ke zrychlující se úvěrové expanzi. Když konečně přišla nevyhnutelná deprese a ceny komodit začaly klesat, odbory silně podporované vládami (a to i těmi považovanými za nepřátelské zájmům pracovníků) tvrdošíjně trvaly na politice vysokých mezd. Buď přímo odmítly souhlasit s jakýmkoli poklesem nominálních mezd, nebo přistoupily pouze na nedostatečné snížení. Výsledkem byl ohromný nárůst institucionální nezaměstnanosti.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_156/para_003-Bhem-obdob-boomu-je-skonilo-v-roce-1929-se-o.mp3)

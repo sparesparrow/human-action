@@ -1,0 +1,4 @@
+
+Tito britští liberálové a jejich souputníci na kontinentu si uvědomili, že trvalý mír nemůže zajistit pouhá vláda lidu, ale vláda lidu v podmínkách neomezovaného laissez faire. Podle jejich názoru byl nutnou podmínkou zachování míru svobodný obchod, a to jak v domácích záležitostech, tak na mezinárodní scéně. V takovém světě, kde neexistují překážky obchodu a migrace, neexistují ani motivace k vedení válek a dobývání cizích území. Byli tak přesvědčeni o nevyvratitelnosti a přesvědčivosti liberálních myšlenek, že opustili koncept poslední války, jež by s válkami navěky skoncovala. Všechny národy podle nich samy rozpoznají požehnání svobodného obchodu a míru a bez pomoci zvenčí udrží na uzdě domácí despoty.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_164/para_001-Tito-britt-liberlov-a-jejich-souputnci-na-kon.mp3)

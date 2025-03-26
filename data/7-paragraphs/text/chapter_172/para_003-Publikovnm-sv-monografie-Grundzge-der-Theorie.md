@@ -1,0 +1,4 @@
+
+Publikováním své monografie Grundzüge der Theorie des wirtschaftlichen Güterwerthes v roce 1886, v níž znovu zformuloval a rozšířil principy mengerovské teorie hodnoty a cen, si Böhm-Bawerk získal mezinárodní renomé. Následné vydání druhého dílu jeho úctyhodného pojednání o kapitálu a úrocích roku 1889 a dlouhotrvající polemiky, jež text skoro okamžitě vyvolal, vyneslo Böhm-Bawerkka do pozice vůdčí osobnosti rakouské školy. V této roli vystřídal Mengera, který s výjimkou dvou vynikajících článků o kapitálu a penězích, publikovaných v letech 1888 a 1892, od počátku 80. let nijak výrazně k ekonomické teorii nepřispěl. Jeho Zásady navíc byly již dávno rozebrány a nesmírně obtížně k sehnání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_172/para_003-Publikovnm-sv-monografie-Grundzge-der-Theorie.mp3)

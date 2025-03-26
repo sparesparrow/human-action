@@ -1,0 +1,4 @@
+
+1. Ekonomie nepředpokládá či nepostuluje, že lidé usilují pouze či hlavně o to, čemu se říká materiální blahobyt. Ekonomie, jako součást obecnější teorie o lidském jednání, se zabývá veškerým lidským jednáním, tj. lidskou účelovou snahou o dosažení zvolených cílů, ať je již těmito cíli cokoli. Je nesmyslné používat koncept racionality či iracionality k posuzování zvolených cílů. Iracionálními můžeme nazvat konečné danosti, totiž takové věci, které naše myšlení nemůže ani zkoumat, ani redukovat na jiné v konečném důsledku dané věci. Pak je každý konečný cíl zvolený jakýmkoli člověkem iracionální. Není ani více, ani méně racionální usilovat o bohatství jako Krésus než usilovat o chudobu, jako to dělá buddhistický mnich.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_013-1-Ekonomie-nepedpokld-i-nepostuluje-e-lid.mp3)

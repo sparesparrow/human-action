@@ -1,0 +1,4 @@
+
+Základní opodstatnění moderního protekcionismu a snahy o hospodářskou soběstačnost každé země je třeba hledat ve falešné víře, že se jedná o nejlepší prostředky k obohacení každého občana, nebo alespoň její naprosté většiny. Termín obohatit v této souvislosti znamená nárůst reálného příjmu jedince a zlepšení jeho životní úrovně. Je pravda, že politika národní hospodářské izolace je nutným důsledkem snah o vměšování se do domácího podnikání a že je to stejně výsledek válečných tendencí jako jeden z faktorů, které tyto tendence vyvolávají. Zůstává však skutečností, že by nikdy nebylo možné prodat myšlenku ochranářství voličům, kdyby je nebylo možné přesvědčit, že ochranářství nejen nesníží jejich životní úroveň, ale že ji podstatně zvýší.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_004-Zkladn-opodstatnn-modernho-protekcionismu-a-s.mp3)

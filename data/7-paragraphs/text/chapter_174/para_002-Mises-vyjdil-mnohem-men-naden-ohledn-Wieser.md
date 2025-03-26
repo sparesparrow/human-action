@@ -1,0 +1,4 @@
+
+Mises vyjádřil mnohem menší nadšení ohledně Wieserových intelektuálních schopností a úspěchů než Schumpeter, ale souhlasil, že Wieser, s výjimkou počáteční inspirace Mengerem, nikomu příliš nedlužil. Ačkoliv Mises připustil, že Wieser „ihned" rozpoznal důležitost Mengerova díla a „v jistých směrech obohatil jeho myšlenky", popřel, že by Wieser byl „tvůrčím myslitelem", a věřil, že vesměs „více uškodil, než pomohl". Wieser podle něj nikdy zcela nepochopil jádro myšlenky subjektivismu v rakouské škole, což mělo za následek mnoho nešťastných chyb z jeho strany... Jeho názory na hodnotovou kalkulaci opravňují k tvrzení, že ho nelze označit za člena rakouské školy, ale že byl spíše členem školy lausannské.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_174/para_002-Mises-vyjdil-mnohem-men-naden-ohledn-Wieser.mp3)

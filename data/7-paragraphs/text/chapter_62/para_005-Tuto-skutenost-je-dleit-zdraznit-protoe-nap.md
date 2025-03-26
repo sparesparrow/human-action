@@ -1,0 +1,4 @@
+
+Tuto skutečnost je důležité zdůraznit, protože naprosto vyvrací mýtus šířený mnoha populárními knihami. Podle těchto mýtů současný člověk již není motivován touhou zlepšit svůj materiální blahobyt a zvýšit svoji životní úroveň. Opačná tvrzení ekonomů jsou prý chybná. Moderní člověk dává přednost „neekonomickým" a „iracionálním" věcem a je ochoten vzdát se materiálního zlepšení, kdykoli jeho dosažení stojí v cestě těmto „ideálním" zájmům. Je vážným omylem, který je běžný zejména mezi ekonomy a podnikateli, interpretovat události naší doby z „ekonomického" pohledu a kritizovat současné ideologie kvůli údajným ekonomickým omylům, které obsahují. Lidé více touží po jiných věcech než po dobrém životě.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_005-Tuto-skutenost-je-dleit-zdraznit-protoe-nap.mp3)

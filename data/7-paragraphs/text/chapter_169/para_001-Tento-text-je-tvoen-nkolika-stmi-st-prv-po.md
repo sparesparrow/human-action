@@ -1,0 +1,4 @@
+
+Tento text je tvořen několika částmi. Část prvá popisuje vývoj mengerovského přístupu k teorii cen až do první světové války, kdy dosáhla svého vrcholu z pohledu mezinárodního vlivu. Druhá část zachycuje prudký úpadek toho přístupu a nabízí jeho čtyři možná vysvětlení, včetně dvou základních teoretických nedostatků, jež nebyly dvěma prvními generacemi mengerovců vyřešeny. Misesův osamocený boj za oživení mengerovského přístupu, započatý v polovině 30. let a vrcholící s vydáním Lidského jednání v roce 1949, je obsahem třetí části. V této části je také předložen alternativní pohled na tvrzení, že rakouská ekonomie byla na vrcholu v polovině 30. let, kdy byla náhle a tragicky pohřbena keynesovskou lavinou.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_001-Tento-text-je-tvoen-nkolika-stmi-st-prv-po.mp3)

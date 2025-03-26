@@ -1,0 +1,4 @@
+
+Ceny statků vyšších řádů jsou ve skutečnosti určovány cenami statků prvního nebo nižšího řádu, tedy spotřebních statků. V důsledku této závislosti jsou ve skutečnosti určovány subjektivními hodnoceními všemi členy tržní společnosti. Je však důležité uvědomit si, že jsme konfrontováni s propojením cen, nikoli s propojením hodnocení. Ceny komplementárních výrobních faktorů jsou podmíněny cenami spotřebního zboží. Odhady výrobních faktorů se provádějí s ohledem na ceny výrobků a jejich ceny se odvíjejí z těchto odhadů. Ze statků prvního řádu se na statky vyšších řádů nepřenášejí hodnocení, ale odhady. Ceny spotřebního zboží vyvolávají jednání, které vede k určení cen výrobních faktorů. Tyto ceny jsou primárně svázány pouze s cenami spotřebních statků.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_006-Ceny-statk-vych-d-jsou-ve-skutenosti-urov.mp3)

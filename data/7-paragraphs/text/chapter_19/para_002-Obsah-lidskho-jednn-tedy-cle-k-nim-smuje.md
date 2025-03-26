@@ -1,0 +1,4 @@
+
+Obsah lidského jednání, tedy cíle, k nimž směřuje, a prostředky, které k dosažení těchto cílů užívá, je určen osobními vlastnostmi každého jednajícího člověka. Každý jednotlivec je produktem dlouhé zoologické evoluce, která vytvářela jeho fyziologické dědictví. Narodil se jako potomek a dědic svých předků. Sraženiny a usazeniny všeho, co jeho předci zažili, vytváří jeho vlastní biologický odkaz. Člověk se nerodí do světa obecně, ale do konkrétního prostředí. Vrozené a zděděné biologické vlastnosti a vše, čím se na člověku podepsal život, určují, jakým člověkem v každém okamžiku své pouti je. Jsou jeho osudem a údělem. Jeho mysl není „svobodná" v metafyzickém smyslu slova. Je determinována jeho původem a všemi vlivy, jimž byl on sám i jeho předci vystaveni.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_19/para_002-Obsah-lidskho-jednn-tedy-cle-k-nim-smuje.mp3)

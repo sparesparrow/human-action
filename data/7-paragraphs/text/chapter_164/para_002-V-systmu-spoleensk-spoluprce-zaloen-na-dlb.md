@@ -1,0 +1,4 @@
+
+V systému společenské spolupráce založené na dělbě práce ale neexistuje nic, co by se týkalo pouze lidí v jedné továrně, jednom podniku či jednom odvětví a nemělo by vliv na ostatní. Neexistují vnitřní záležitosti cechu, jejichž uspořádání by nemělo vliv na celou zem. Průmyslové odvětví neslouží pouze těm, kteří jsou v něm zaměstnáni; slouží všem. Dochází-li v jakémkoli odvětví k neefektivnosti, k mrhání vzácnými výrobními faktory, jsou poškozovány materiální zájmy všech lidí. Není možné ponechat rozhodování o volbě technologických postupů, množství a kvalitě výrobků, délce pracovní doby a tisíci dalších věcí na členech cechu, protože tyto věci se netýkají lidí vně cechu o nic méně než jeho členů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_164/para_002-V-systmu-spoleensk-spoluprce-zaloen-na-dlb.mp3)

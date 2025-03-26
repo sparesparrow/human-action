@@ -1,0 +1,4 @@
+
+Tento názor je neobhajitelný. Ve světě rostoucí kupní síly peněžní jednotky by se způsob myšlení každého jednotlivce přizpůsobil této situaci, stejně jako si každý v našem současném světě zvykl na klesající kupní sílu peněžní jednotky. Dnes je každý ochoten považovat růst svého nominálního nebo peněžního důchodu za zlepšení své hmotné situace. Pozornost lidí se soustředí spíše na růst nominálních mzdových sazeb a peněžního vyjádření bohatství než na zvýšení nabídky statků. Ve světě rostoucí kupní síly peněžní jednotky by se zajímali spíše o pokles životních nákladů. To by zvýraznilo fakt, že hospodářský pokrok spočívá především ve stále větší dostupnosti věcí, které činí život příjemnějším.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_86/para_001-Tento-nzor-je-neobhajiteln-Ve-svt-rostouc-ku.mp3)

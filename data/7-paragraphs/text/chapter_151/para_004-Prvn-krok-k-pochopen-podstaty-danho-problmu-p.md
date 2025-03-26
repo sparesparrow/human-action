@@ -1,0 +1,4 @@
+
+První krok k pochopení podstaty daného problému přišel v podobě porozumění jedné dílčí otázce. Různé vlády se po dlouhou dobu uchylovaly k zlehčování měny. Zlato a stříbro, ze kterých byly mince původně vyráběny, nahrazovaly podřadnými a méně vzácnými kovy nebo snižovaly váhu či zmenšovaly velikost mincí. Takto zlehčeným mincím ale zachovaly stejná jména a vyhlásily, že tyto nové mince musejí být přijímány a vydávány za jejich nominální hodnotu. Později se vlády pokoušely přikázat lidem dodržovat obdobné nařízení v případě směnného poměru mezi zlatem a stříbrem či poměru kovových peněz a úvěrových či neplnohodnotných peněz. Při hledání příčin neúspěchu všech těchto nařízení objevili předchůdci ekonomického myšlení již v posledním století středověku zákonitost, která byla později nazvána Greshamův zákon.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_151/para_004-Prvn-krok-k-pochopen-podstaty-danho-problmu-p.mp3)

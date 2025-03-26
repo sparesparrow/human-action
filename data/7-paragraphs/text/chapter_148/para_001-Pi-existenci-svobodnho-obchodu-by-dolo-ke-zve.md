@@ -1,0 +1,4 @@
+
+Při existenci svobodného obchodu by došlo ke zvýšení tržeb švýcarských výrobců hodinek na americkém trhu a tržby amerických konkurentů by poklesly. To je však jen část důsledků svobodného obchodu. Švýcaři by díky vyšším tržbám a větší výrobě více vydělali a více nakupovali. Nezáleží na tom, zda oni sami nakoupí více amerických průmyslových výrobků nebo zda zvýší své domácí nákupy a učiní tak lidé v jiných zemích, například ve Francii. Ať již se stane cokoli, ekvivalent dodatečně utržených dolarů musí v konečném důsledku skončit ve Spojených státech a zvýšit tržby některých amerických odvětví. Nebudou-li Švýcaři rozdávat své výrobky ve formě darů, musí za ně utratit dolary, které vydělají.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_148/para_001-Pi-existenci-svobodnho-obchodu-by-dolo-ke-zve.mp3)

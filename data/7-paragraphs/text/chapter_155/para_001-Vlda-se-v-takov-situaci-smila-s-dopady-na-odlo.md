@@ -1,0 +1,4 @@
+
+Vláda se v takové situaci smířila s dopady na odložené platby buď z toho důvodu, že považovala daná opatření za nevyhnutelná, nebo proto, že předpokládala, že věřitelé a dlužníci při sjednávání smluvních podmínek již tyto okolnosti předvídali a náležitě je do smluv zapracovali. Nejlepší příklad nám poskytnou události v Británii po napoleonských válkách nebo znovu po první světové válce. V obou případech se Británie po konci válek pomocí deflačních politik vrátila k předválečné zlaté paritě libry šterlinků. Byla odmítnuta myšlenka opustit zlatý standard a přejít k systému úvěrových peněz, jenž byl přijat za války, a smířit se se změnou tržního směnného poměru mezi librou a zlatem, ke které již došlo, a přijmout tento poměr jako novou zákonnou paritu.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_155/para_001-Vlda-se-v-takov-situaci-smila-s-dopady-na-odlo.mp3)

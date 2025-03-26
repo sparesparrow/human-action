@@ -1,0 +1,26 @@
+# Chapter 46
+
+## Audio Narration
+
+- [chapter_46a.mp3](../5-audio-chunks-espeak/chapter_46a.mp3)
+
+## Content
+
+<!-- Source: ESPEAK_AUDIO-chapter_46a-OPTIMIZED.md -->
+
+Všechny výsledky těchto výpočtů se vztahují pouze na jednání jednotlivců. Když statistici tyto výsledky sumarizují, výsledek ukazuje součet autonomního jednání velkého množství samostatných jednotlivců, ale neukazuje výsledek jednání kolektivního orgánu, souboru nebo celku. Ve sdruženích a společnostech jednají vždy jednotlivci, i když nikoli pouze jeden jednotlivec. Peněžní kalkulace je naprosto nepoužitelná a bezúčelná pro jakékoli úvahy, které se na věci nedívají z pohledu jednotlivců. Týká se počítání zisku jednotlivců, nikoli imaginárních „společenských" hodnot a „společenského" blahobytu.
+
+Peněžní kalkulace je hlavním motorem plánování a jednání ve společenském uspořádání společnosti svobodného podnikání, která je usměrňována a řízena trhem a jeho cenami. Vyvinula se v tomto rámci a byla postupně zdokonalována spolu se zlepšováním tržního mechanismu a s rozšiřováním oblasti věcí, které se prodávají na trzích za peníze. Právě ekonomická kalkulace dala měření, číslům a počítání roli, kterou hrají v naší kvantitativní a počítací civilizaci. Fyzikální a chemická měření mají smysl pro praktické jednání pouze proto, že existuje ekonomická kalkulace.
+
+To, co udělalo z aritmetiky nástroj v boji za lepší život, byla peněžní kalkulace. Poskytuje techniku pro používání výsledků dosažených v laboratorních pokusech k nejúčinnějšímu odstraňování nespokojenosti.
+
+Peněžní kalkulace dosahuje naprosté dokonalosti v kapitalistickém účetnictví. Stanovuje ceny dostupných prostředků v penězích a srovnává tento součet se změnami, které způsobilo jednání a působení jiných faktorů. Toto srovnání ukazuje, jaké změny se objevily ve stavu věcí jednajících lidí a velikost takových změn; díky němu lze zjistit úspěch a neúspěch, zisk a ztrátu. Systém svobodného podnikání byl nazván kapitalismem, aby tak byl odsouzen a pošpiněn.
+
+Tento termín však může být považován za velice přiléhavý. Odkazuje k nejcharakterističtějšímu znaku tohoto systému, k jeho největší chloubě, tedy k roli, jakou v jeho chování hraje pojem kapitálu.
+
+Existují lidé, pro něž je peněžní kalkulace odpudivá. Nechtějí být buzeni ze svého snění s otevřenýma očima hlasem kritického rozumu. Skutečnost u nich vyvolává odpor, touží po říši neomezených možností. Jsou znechuceni sprostotou společenského řádu, v němž je všechno hezky spočteno v dolarech a centech. Své reptání nazývají ušlechtilým chováním hodným přátel ducha, krásy a ctnosti – na rozdíl od sprosté nízkosti a ničemnosti maloměšťáctví. Avšak racionalita počítající a kalkulující mysli v ničem nebrání kultu krásy a ctnosti, moudrosti a hledání pravdy.
+
+Jenom romantickému snění se nemůže dařit v prostředí střízlivé kritiky. Počtář s chladnou hlavou je tím, kdo nelítostně trestá nadšené vizionáře.
+
+Naše civilizace je neoddělitelně spjata s našimi metodami ekonomické kalkulace. Zahynula by, kdybychom museli tento nejvzácnější intelektuální nástroj jednání opustit. Goethe měl pravdu, když nazýval podvojné účetnictví „jedním z nejlepších vynálezů lidské mysli".
+

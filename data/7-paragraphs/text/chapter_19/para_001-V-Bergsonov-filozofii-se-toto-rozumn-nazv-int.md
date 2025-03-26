@@ -1,0 +1,4 @@
+
+V Bergsonově filozofii se toto rozumění nazývá intuicí, jinými slovy „la sympathie par laquelle on se transporte à l'interieur d'un objet pour coïncider avec ce qu'il a d'unique et par conséquent d'inexprimable". Německá epistemologie tento fakt nazývá das spezifische Verstehen der Geistwissenschaften nebo prostě Verstehen. Je to metoda, kterou všichni historici i všichni ostatní lidé uplatňují, když komentují lidské události v minulosti či předpovídají události budoucí. Objevení a vymezení rozumění bylo jedním z nejdůležitějších příspěvků moderní epistemologie. Nejedná se samozřejmě o projekt nové vědy, která dosud neexistovala a měla by být založena, ani o doporučení nové metody postupu práce pro nějakou z již existujících věd.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_19/para_001-V-Bergsonov-filozofii-se-toto-rozumn-nazv-int.mp3)

@@ -1,0 +1,4 @@
+
+Ve shodě s tímto názorem ekonomové chybně nekladli správný důraz na problémy nepřímé směny. Jejich pojetí monetárních problémů bylo povrchní; mělo pouze volnou vazbu na hlavní část jejich zkoumání tržního procesu. Zhruba na počátku dvacátého století byly problémy nepřímé směny celkem vzato vykázány na podřadné místo. Existovala katalaktická pojednání, která se monetárními záležitostmi zabývala pouze náhodně a povrchně, a existovaly knihy o měně a bankovnictví, které se dokonce ani nepokoušely zahrnout svůj předmět do struktury katalaktického systému. Na anglosaských univerzitách byly katedry ekonomie odděleny od kateder zabývajících se měnou a bankovnictvím a na většině německých univerzit byly monetární problémy téměř zcela ignorovány.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_42/para_003-Ve-shod-s-tmto-nzorem-ekonomov-chybn-nekladli.mp3)

@@ -1,0 +1,4 @@
+
+Svoboda, již Řím udělil obchodu a podnikání, byla vždy omezená. Obchod s obilím a jinými důležitými životními potřebami byl omezen ještě více než ostatní obchod. Požadovat za obilí, olej a víno – hlavní plodiny tehdejší doby – vyšší než běžné ceny bylo považováno za nespravedlivé a nemorální a úřady vždy rychle zakročily, když takové chování objevily. Nemohlo tak dojít ke vzniku efektivního velkoobchodu těmito komoditami. Politika annona, která vlastně představovala zestátnění či vyvlastnění obchodu s obilím městy, měla za úkol zaplnit tuto mezeru. Její dopady ale nebyly uspokojivé. Obilí bylo v městských aglomeracích vzácné a zemědělci si stěžovali na neziskovost jeho pěstování.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_152/para_005-Svoboda-ji-m-udlil-obchodu-a-podnikn-byla.mp3)

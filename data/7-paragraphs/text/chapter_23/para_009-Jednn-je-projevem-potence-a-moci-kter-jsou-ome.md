@@ -1,0 +1,4 @@
+
+Jednání je projevem potence a moci, které jsou omezené. Je manifestací člověka, který je limitován ohraničenými schopnostmi své mysli, fyziologickou podstatou svého těla, nestálostí svého prostředí a vzácností vnějších faktorů, na nichž závisí jeho blahobyt. Je marné odkazovat se na nedokonalosti a slabosti lidského života, když je cílem zobrazit něco absolutně dokonalého. Samotná myšlenka absolutní dokonalosti je v každém směru rozporná. Stav absolutní dokonalosti musí být pojímán jako úplný, konečný a nepodléhající změně. Změna může jen snížit jeho dokonalost a transformovat jej do stavu méně dokonalého. Pouhá pravděpodobnost, že může dojít ke změně, je v rozporu s pojmem absolutní dokonalosti.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_23/para_009-Jednn-je-projevem-potence-a-moci-kter-jsou-ome.mp3)

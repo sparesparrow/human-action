@@ -1,0 +1,4 @@
+
+Je-li A efektivnější než B natolik, že potřebuje pro výrobu 1 jednotky komodity p 3 hodiny, zatímco B k tomu potřebuje 5 hodin, a pro výrobu komodity q potřebuje 2 hodiny, zatímco B potřebuje 4, pak oba vydělají, jestliže se A omezí na výrobu q a výrobu p přenechá B. Jestliže každý z nich věnuje 60 hodin výrobě p a 60 hodin výrobě q, výsledek práce A bude 20 p + 30 q; výsledek práce B bude 12 p + 15 q; oba dohromady tedy vyrobí 32 p + 45 q. Jestliže se však A omezí pouze na výrobu q, pak za 120 hodin vyrobí 60 q, zatímco B, omezí-li se na výrobu p, vyrobí za stejný čas 24 p. Výsledek jejich činnosti tedy bude 24 p + 60 q. Neboť p má pro A substituční poměr 3/2 q a pro B substituční poměr 5/4 q, tento výsledek znamená větší výkon než 32 p + 45 q.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_36/para_009-Je-li-A-efektivnj-ne-B-natolik-e-potebuje-p.mp3)

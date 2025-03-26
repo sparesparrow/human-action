@@ -1,0 +1,4 @@
+
+Lidé od nepaměti vedli hloupé řeči o slastných podmínkách, kterých si jejich předkové spokojeně užívali v původním „přirozeném stavu". Představa tohoto primitivního štěstí přešla ze starých mýtů, bájí a básní do mnoha oblíbených filozofií sedmnáctého a osmnáctého století. V jejich řeči označoval termín přírodní, přirozený to, co bylo v lidských záležitostech dobré a blahodárné, zatímco termín civilizace měl hanlivý význam. V odklonu od primitivních podmínek doby, kdy mezi člověkem a ostatními tvory byl jen malý rozdíl, viděli pád člověka. V té době neexistovaly mezi lidmi žádné konflikty, tvrdili tito romantičtí velebitelé minulosti. V rajské zahradě panoval nerušený mír.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_133/para_005-Lid-od-nepamti-vedli-hloup-ei-o-slastnch-pod.mp3)

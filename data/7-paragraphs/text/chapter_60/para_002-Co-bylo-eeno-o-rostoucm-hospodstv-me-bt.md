@@ -1,0 +1,4 @@
+
+Co bylo řečeno o rostoucím hospodářství, může být mutatis mutandis použito i na podmínky upadajícího hospodářství, tedy hospodářství, v němž podíl investovaného kapitálu vztažený na jednoho obyvatele klesá. V takovém hospodářství je přebytek podnikatelských ztrát nad podnikatelskými zisky. Lidé, kteří se nedokážou osvobodit od falešného uvažování v pojmech kolektivů a celých skupin, mohou položit otázku, jak v takovém upadajícím hospodářství vůbec může nějaká podnikatelská činnost existovat. Proč by se někdo pouštěl do podnikání, když předem ví, že matematicky jsou jeho šance na dosažení zisku menší než možnost, že utrpí ztrátu? Avšak tento způsob stavění tohoto problému je falešný. Stejně jako každý jiný nejednají podnikatelé jako příslušníci třídy, ale jako jednotlivci. Žádný podnikatel se ani za mák nestará o osud podnikatelů jako celku.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_60/para_002-Co-bylo-eeno-o-rostoucm-hospodstv-me-bt.mp3)

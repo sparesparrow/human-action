@@ -1,0 +1,4 @@
+
+Böhm-Bawerk skutečně sepsal hořkou šedesátistránkovou kritiku Schumpeterovy teorie úroku a po čtyřicetistránkové Schumpeterově reakci obnovil svůj útok ve dvacetistránkové odpovědi. V dopise napsaném v dubnu 1913 se Böhm-Bawerk zmiňuje o „chytrých, ale neskutečných Schumpeterových výmyslech". V korespondenci o pár měsíců později, v září 1913, ale Böhm-Bawerk opět opěvuje Schumpeterův talent, zatímco jeho práci odmítá jako ledabylou: „S našimi mladými ekonomy také nesouhlasím. Myslím si, že Schumpeter je mezi nimi nejnadanější, a pokud by dokázal nalézt cestu od své současné povrchnosti k vážnému a pečlivému výzkumu, pak by mohl, díky svým schopnostem, výrazně přispět k současné vědě".
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_175/para_003-Bhm-Bawerk-skuten-sepsal-hokou-edestistrnko.mp3)

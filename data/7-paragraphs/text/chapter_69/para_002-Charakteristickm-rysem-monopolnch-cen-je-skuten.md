@@ -1,0 +1,4 @@
+
+Charakteristickým rysem monopolních cen je skutečnost, že prodej pouhé části celkových dostupných zásob přináší vyšší výnos než prodej celku. Monopolista dosahuje monopolního výnosu stažením části zásob z trhu. Situaci, v níž existuje monopolní cena, jako takovou necharakterizuje výše výnosu, ale záměrné jednání monopolisty, který ji vyvolává. Monopolista má zájem využít všechny zásoby, které má k dispozici. Zajímá ho každý zlomek těchto zásob. Pokud část zásob zůstane nevyužita, je to jeho ztráta. Přesto se rozhodne ponechat část nevyužitu, protože za existujícího stavu poptávky je pro něj výhodnější chovat se tímto způsobem. Jeho rozhodnutí je motivováno zvláštním stavem trhu.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_69/para_002-Charakteristickm-rysem-monopolnch-cen-je-skuten.mp3)

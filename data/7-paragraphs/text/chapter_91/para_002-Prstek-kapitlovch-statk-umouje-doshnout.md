@@ -1,0 +1,4 @@
+
+Přírůstek kapitálových statků umožňuje dosáhnout časově vzdálenějších cílů bez nutnosti omezit spotřebu. Jejich snížení naopak představuje nutnost buď vzdát se usilování o určité cíle, o něž by se člověk dříve snažil, nebo omezit spotřebu. Vlastnictví kapitálových statků představuje, za jinak stejných okolností, získání času. Na rozdíl od těch, kdo mají nedostatek kapitálových statků, je kapitalista, za daných technologických znalostí, schopen dosáhnout konečného cíle dříve bez omezení spotřeby a bez zvýšení vstupů práce a přírodou daných hmotných výrobních faktorů. Má výhodu dřívějšího startu. Soupeř, vybavený menším množstvím kapitálových statků, ho může dohnat pouze tehdy, omezí-li svoji spotřebu.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_91/para_002-Prstek-kapitlovch-statk-umouje-doshnout.mp3)

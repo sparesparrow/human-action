@@ -1,0 +1,4 @@
+
+Tvorbu cen vždy v první řadě určují subjektivní hodnotové soudy jednotlivců. Katalaxie se při představě procesu tvorby cen nutně vrací k základní kategorii jednání, upřednostňování. Vzhledem k oblíbeným chybám je vhodné zdůraznit, že se katalaxie zabývá reálnými cenami, které jsou placeny při konkrétních obchodech, a ne imaginárními cenami. Představa konečných cen je pouze myšlenkovým nástrojem pro pochopení konkrétního problému – vzniku podnikatelského zisku a ztráty. Představa „spravedlivých" cen postrádá jakýkoli vědecký význam; jsou to maskovaná přání, usilování o stav věcí, který se liší od reality. Tržní ceny jsou plně určovány hodnotovými soudy lidí, kteří skutečně jednají.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_001-Tvorbu-cen-vdy-v-prvn-ad-uruj-subjektivn-ho.mp3)

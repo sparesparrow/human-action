@@ -1,0 +1,4 @@
+
+Znalost dopadů vládního zasahování do tržních cen nám umožňuje pochopit ekonomické příčiny významné historické události, úpadku antické civilizace. Není nutné najít odpověď na otázku, zda je správné nazývat ekonomickou organizaci Římské říše kapitalismem. V každém případě je však jisté, že Římská říše v druhém století, době Antoninů, „dobrých" císařů, dosáhla vysokého stupně společenské dělby práce a meziregionálního obchodu. Mnohá metropolitní centra, značný počet měst střední velikosti a mnoho malých měst byly sídly kultivované civilizace. Obyvatelé těchto městských aglomerací byli zásobováni potravinami a surovinami nejen ze sousedních venkovských oblastí, ale také ze vzdálených provincií.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_152/para_002-Znalost-dopad-vldnho-zasahovn-do-trnch-cen.mp3)

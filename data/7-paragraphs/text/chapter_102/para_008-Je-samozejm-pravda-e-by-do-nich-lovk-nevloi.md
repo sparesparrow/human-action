@@ -1,0 +1,4 @@
+
+Je samozřejmě pravda, že by do nich člověk nevložil kapitálové statky, pokud by správně kalkuloval. Nepřevoditelné z těchto investic jsou zcela jistě promarněny. Avšak protože jsou nepřevoditelné, fait accompli, představují nutnost vypořádat se jednáním s novým problémem. Pokud očekávané tržby, které slibuje prodej jejich výstupů, převýší náklady běžného provozu, je ziskové v něm pokračovat. Ačkoli ceny, které je ochotna za tyto výstupy utratit kupující veřejnost, nejsou dostatečně vysoké na to, aby byla celá nepřevoditelná investice zisková, jsou dostatečně vysoké na to, aby byla zisková alespoň část této investice, jakkoli malá. Zbytek investice musí být považován za výdaj bez náhrady, za vyplýtvaný a ztracený kapitál.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_102/para_008-Je-samozejm-pravda-e-by-do-nich-lovk-nevloi.mp3)

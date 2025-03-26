@@ -1,0 +1,4 @@
+
+Složité problémy jsou čistě intelektuálního rázu a musí se s nimi tak zacházet. Je zhoubné přesouvat je do morální oblasti a zbavovat se stoupenců protichůdných ideologií tím, že je nazýváme darebáky. Je marné tvrdit, že to, k čemu směřujeme, je dobré a to, co chtějí naši protivníci, je špatné. Otázka, kterou je třeba řešit, je právě, co má být považováno za dobré a co za zlé. Tento dogmatismus charakteristický pro náboženské skupiny a pro marxismus vede pouze k nesmiřitelným konfliktům. Předem zavrhuje všechny, kdo s ním nesouhlasí, jako zločince, zpochybňuje jejich dobré úmysly a nutí je, aby se bezpodmínečně vzdali. Ve společnosti, kde převažuje takové stanovisko, není žádná spolupráce možná.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_38/para_001-Sloit-problmy-jsou-ist-intelektulnho-rzu-a.mp3)

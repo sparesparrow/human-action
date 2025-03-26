@@ -1,0 +1,4 @@
+
+Stav věcí, který umožňuje vznik monopolních cen, je zpravidla navozen vládními politikami, např. celními bariérami. Pokud vlastníci nevyužijí nabízenou příležitost spojit se za účelem dosažení monopolních cen, vezmou vlády často na sebe organizaci toho, co americké zákony nazývají „konkurenční doložkou". Policejní síly donutí majitele statků – většinou majitele půdy a dolů či rybářských zařízení –, aby omezili výrobu. Nejvýznamnějšími příklady této metody je v národním měřítku americká zemědělská politika a na mezinárodní úrovni smlouvy, které se eufemisticky nazývají mezivládní dohody o kontrole komodit. Při popisu této oblasti vládních zásahů do obchodování dostávají slova nové významy.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_65/para_001-Stav-vc-kter-umouje-vznik-monopolnch-cen-j.mp3)

@@ -1,0 +1,4 @@
+
+Termínový trh může průkopníka zbavit části jeho podnikatelské funkce. Jakmile se podnikatel pomocí vhodných termínových obchodů zabezpečil proti ztrátám, které by mohl utrpět, přestává být podnikatelem a podnikatelská funkce přechází na druhou smluvní stranu. Přadlák bavlny, který ve chvíli, kdy pro svou přádelnu kupuje surovou bavlnu, prodá dopředu stejné množství, se vzdává části své podnikatelské funkce. Nebude mít ze změn ceny bavlny, které se objeví v daném období, ani zisk, ani ztrátu. Samozřejmě nepřestane podnikatelskou funkci plnit úplně. Změny ceny veškeré příze nebo změny ceny určitých vyráběných množství a druhů, které nejsou způsobeny změnou ceny surové bavlny, na něj přesto vliv mají.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_50/para_009-Termnov-trh-me-prkopnka-zbavit-sti-jeho-po.mp3)

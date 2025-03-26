@@ -1,0 +1,4 @@
+
+Ekonomové mohou mít pravdu, když tvrdí, že při současném stavu bankovnictví jsou vládní zásahy vhodné. Tento stav ovšem není výsledkem fungování nenarušovaného tržního hospodářství. Je plodem rozličných vládních pokusů dosáhnout podmínek nutných pro úvěrovou expanzi velkého rozsahu. Pokud by vláda nikdy nezasahovala, užití bankovek a vkladů by bylo omezeno pouze na ty vrstvy společnosti, které jsou velmi dobře schopny rozlišit mezi solventními a nesolventními bankami. Žádná rozsáhlá úvěrová expanze by nebyla možná. Vlády samy jsou odpovědné za rozšíření posvátné úcty, s níž prostý člověk pohlíží na každý kousek papíru, na který ministerstvo financí nebo jím ovládaná instituce vytisklo kouzelná slova zákonné platidlo.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_83/para_007-Ekonomov-mohou-mt-pravdu-kdy-tvrd-e-pi-sou.mp3)

@@ -1,0 +1,4 @@
+
+Kritici se snaží dokázat své výhrady tvrzením, že v meziválečném období nebyl růst diskontní míry schopen zastavit odliv peněz do zahraničí, tj. odliv měnového kovu a převod vkladů do zahraničních zemí. Tento jev však byl způsoben vládními proinflačními politikami mířícími proti zlatu. Pokud člověk očekává, že při blížícím se znehodnocení měny ztratí 40 procent svých zůstatků, bude se snažit převést své vklady do jiné měny a nezmění svůj názor ani tehdy, když bankovní úrokové míry v jeho zemi vzrostou o 1 nebo 2 procenta. Takový růst diskontní míry zjevně není dostatečným odškodněním ztráty dvacetkrát nebo až čtyřicetkrát vyšší. Zlatý standard pochopitelně nemůže fungovat, pokud se ho vlády snaží zničit.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_85/para_003-Kritici-se-sna-dokzat-sv-vhrady-tvrzenm-e.mp3)

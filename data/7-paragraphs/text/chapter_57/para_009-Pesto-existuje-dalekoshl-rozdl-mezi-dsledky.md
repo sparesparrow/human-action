@@ -1,0 +1,4 @@
+
+Přesto existuje dalekosáhlý rozdíl mezi důsledky, které vyplývají z nedodržení přírodních zákonů, a důsledky z nedodržení praxeologických zákonů. Obě kategorie zákonů samozřejmě fungují samy o sobě, aniž by vyžadovaly prosazení ze strany člověka. Ale důsledky toho, co si jedinec vybral, se liší. Člověk, který pozře jed, škodí pouze sám sobě, avšak člověk, který se rozhodne uchýlit se k loupení, rozvrací celý společenský řád. Zatímco se on sám těší z krátkodobého zisku, který svým jednáním získal, ničivé dlouhodobé důsledky škodí všem lidem. Jeho skutek je zločinem, protože má škodlivé důsledky pro spoluobčany. Pokud by společnost takovému chování nebránila, stalo by se brzo obecným a udělalo by konec spolupráci ve společnosti i všem výhodám, které všem taková spolupráce přináší.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_57/para_009-Pesto-existuje-dalekoshl-rozdl-mezi-dsledky.mp3)

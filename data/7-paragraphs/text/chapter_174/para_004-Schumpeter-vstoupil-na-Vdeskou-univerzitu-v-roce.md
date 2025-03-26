@@ -1,0 +1,4 @@
+
+Schumpeter vstoupil na Vídeňskou univerzitu v roce 1901 a v roce 1903 začal studovat ekonomii pod Wieserem, jenž v té době získal Mengerův bývalý post. Osudové setkání těchto dvou v rolích učitele a studenta označilo počátek úpadku mengerovského přístupu k teorii cen i v samotném Rakousku. Schumpeter byl „hluboce ovlivněn" Wieserem a „jejich názory na mnohá témata ekonomické teorie si byly velmi blízké". A zatímco je jistě pravdou, že se Schumpeter účastnil Böhm-Bawerkových slavných seminářů v letech 1905 a 1906 a později ho vášnivě vychvaloval jako svého velkého učitele a mistra, Schumpeter sám označil Walrase a Wiesera ve své první knize za „dva autory, k nimž cítí největší blízkost".
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_174/para_004-Schumpeter-vstoupil-na-Vdeskou-univerzitu-v-roce.mp3)

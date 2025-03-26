@@ -1,0 +1,4 @@
+
+Když Marx dodává, že nicméně „pro danou zemi v daném čase je průměrné množství nezbytných životních potřeb danou skutečností", odporuje sám sobě a uvádí čtenáře v omyl. To, co má na mysli, již není „nezbytnou životní potřebou", ale věcí považovanou za nezbytnou z tradičního pohledu, již jde o prostředky nutné k zachování životního standardu odpovídajícího pozici pracovníka v tradiční společenské hierarchii. Uchýlení se k takovému vysvětlení prakticky znamená vzdání se jakéhokoli ekonomického nebo katalaktického vysvětlení určení mzdových sazeb. Mzdové sazby jsou vysvětleny jako historická data. Již nejsou považovány za tržní jev, ale za faktor vznikající vně vzájemného působení tržních sil.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_108/para_002-Kdy-Marx-dodv-e-nicmn-pro-danou-zemi-v-dan.mp3)

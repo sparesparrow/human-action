@@ -1,0 +1,4 @@
+
+Ve světě organizovaném na základě dělby práce musí každá změna nějakým způsobem ovlivnit krátkodobé zájmy mnoha skupin. Proto je vždy snadné odhalit každou doktrínu podporující změnu existujících podmínek jako „ideologické" maskování sobeckých zájmů různých skupin lidí. Hlavní náplní práce mnoha současných autorů je právě toto odhalování. Marx tento postup nevymyslel. Byl znám již dlouho před ním. Jeho nejzajímavějším projevem byly pokusy některých autorů osmnáctého století vysvětlit náboženské přesvědčení jako falešný podvod ze strany duchovních snažících se získat moc pro sebe a pro své spojence vykořisťovatele. Marx tento názor přijal a označil náboženství za „opium lidstva".
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_25/para_005-Ve-svt-organizovanm-na-zklad-dlby-prce-mus.mp3)

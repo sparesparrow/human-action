@@ -1,0 +1,4 @@
+
+Nepřátelský útok byla praxe běžná pro nelidské předchůdce člověka. Vědomá a účelná spolupráce je výsledkem dlouhého vývojového procesu. Etnologie a historie nám poskytly zajímavé informace o počátku a primitivních formách meziosobní směny. Někteří považují zvyk vzájemného dávání a dostávání darů a domlouvání se dopředu na určitém recipročním daru za předstupeň meziosobní směny. Jiní považují němý barter za primitivní formu obchodu. Nicméně dávat dary v očekávání, že budu odměněn recipročním darem od obdarovaného, nebo abych získal přízeň člověka, jehož nepřátelství může být zhoubné, je již rovnocenné meziosobní směně. Totéž se týká němého barteru, který se liší od jiných forem barterů a obchodování pouze absencí ústního jednání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_42/para_013-Neptelsk-tok-byla-praxe-bn-pro-nelidsk-pe.mp3)

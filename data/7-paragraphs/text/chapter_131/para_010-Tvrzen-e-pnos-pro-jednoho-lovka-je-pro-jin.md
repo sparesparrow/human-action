@@ -1,0 +1,4 @@
+
+Tvrzení, že přínos pro jednoho člověka je pro jiného člověka ztrátou, platí, co se týče krádeží, válek a loupeží. Kořist lupiče je pro oloupenou oběť škodou. Avšak válka a obchod jsou dvě zcela rozdílné věci. Voltaire se mýlil, když – v roce 1764 – v článku „Patrie" napsal do svého Dictionnaire philosophique: „Být dobrým patriotem znamená přát si, aby se vlastní obec obohatila obchodem a zesílila v boji; je zřejmé, že země nemůže dosáhnout zisku jinak než na úkor jiné země a že nemůže dobýt území, aniž by ublížila jiným lidem." Voltaire, jako mnoho spisovatelů před ním i po něm, považoval za zbytečné seznámit se s ekonomickým myšlením. Kdyby si byl přečetl eseje svého současníka Davida Huma, byl by se dozvěděl, jak je chybné ztotožňovat válku a zahraniční obchod.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_131/para_010-Tvrzen-e-pnos-pro-jednoho-lovka-je-pro-jin.mp3)

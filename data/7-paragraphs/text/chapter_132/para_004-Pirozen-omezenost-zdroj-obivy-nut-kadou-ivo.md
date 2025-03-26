@@ -1,0 +1,4 @@
+
+Přirozená omezenost zdrojů obživy nutí každou živou bytost, aby se dívala na všechny ostatní živé bytosti jako na nepřátele na život a na smrt v boji o přežití, a vytváří tak nelítostnou biologickou konkurenci. Ale u lidí tento nesmiřitelný konflikt mizí, když (a do té míry, v níž) je hospodářská soběstačnost jedinců, rodin, kmenů a národů nahrazena dělbou práce. Dokud není dosaženo optimálního počtu obyvatel, neexistuje ve společenském systému konflikt zájmů. Dokud zaměstnávání dalších rukou vede k více než proporcionálnímu nárůstu výnosů, je konflikt nahrazen souladem. Lidé už nejsou soupeři v boji o rozdělení částí z přísně omezených zásob. Stávají se spolupracovníky při usilování o cíle, které mají všichni společné.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_132/para_004-Pirozen-omezenost-zdroj-obivy-nut-kadou-ivo.mp3)

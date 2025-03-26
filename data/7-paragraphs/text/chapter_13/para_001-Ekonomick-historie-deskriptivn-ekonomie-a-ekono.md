@@ -1,0 +1,4 @@
+
+Ekonomická historie, deskriptivní ekonomie a ekonomická statistika jsou samozřejmě historií. Termín sociologie se užívá ve dvou odlišných významech. Deskriptivní sociologie se zabývá historickými jevy lidského jednání, jimž se nevěnuje deskriptivní ekonomie. Do určité míry přesahuje do oblastí, jež si nárokují etnologie a antropologie. Naproti tomu obecná sociologie přistupuje k historické zkušenosti z univerzálnějšího hlediska než ostatní obory historie. Vlastní historie například pojednává o lidech a jistých zeměpisných územích. Max Weber se ve svém hlavním díle zabývá městem obecně, tzn. celou dějinnou zkušeností týkající se měst bez omezení na nějaké historické periody, zeměpisné oblasti či jednotlivé národy, rasy nebo civilizace.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_13/para_001-Ekonomick-historie-deskriptivn-ekonomie-a-ekono.mp3)

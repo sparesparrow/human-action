@@ -1,0 +1,35 @@
+# Chapter 116
+
+## Audio Narration
+
+- [chapter_116a.mp3](../5-audio-chunks-espeak/chapter_116a.mp3)
+- [chapter_116b.mp3](../5-audio-chunks-espeak/chapter_116b.mp3)
+
+## Content
+
+<!-- Source: ESPEAK_AUDIO-chapter_116a-OPTIMIZED.md -->
+
+Skutečnost, že půda o různé kvalitě a úrodnosti, tj. přinášející z jednotky vstupu různé výnosy, je hodnocena různě, nepředstavuje pro moderní ekonomii žádný zvláštní problém. Pokud se Ricardova teorie odvolává na odstupňování hodnocení a ocenění pozemku, je to plně obsaženo v moderní teorii cen výrobních faktorů. Problematický není obsah teorie renty, ale výjimečné postavení, které je jí v celém ekonomickém systému přisuzováno. Diferenční renta je obecným jevem, který není omezen na určování ceny půdy. Důmyslný rozdíl mezi rentami a kvazirentami je falešný.
+
+S půdou a službami, jež půda poskytuje, se zachází stejně jako s ostatními výrobními faktory a jejich službami. Využívání lepšího nástroje přináší rentu ve srovnání s výnosy méně vhodných nástrojů, které musí být využívány kvůli nedostatečné nabídce lepších. Schopnější a horlivější dělník vydělává rentu ve srovnání se mzdou, kterou si vydělají jeho méně zruční a méně pracovití konkurenti.
+
+Problémy, které měl vyřešit pojem renty, byly z větší části vyvolány používáním nevhodných termínů. Obecné pojmy, které se používají v každodenní řeči a běžném uvažování, nebyly stvořeny s ohledem na potřeby praxeologického a ekonomického výzkumu. Raní ekonomové udělali chybu, když je bez zábran a bez váhání přejali. Pouze když se člověk naivně přidržuje obecných termínů, jako je půda a práce, je zmaten otázkou, proč se půda a práce hodnotí a oceňují různě. Ten, kdo se nenechá oklamat pouhými slovy, ale hledí na vhodnost faktoru pro uspokojení lidských potřeb, považuje za samozřejmé, že různé služby jsou hodnoceny a oceňovány různě.
+
+Moderní teorie hodnoty a cen není založena na klasifikaci výrobních faktorů do tříd, jako je půda, kapitál a práce. Hlavní je pro ni rozlišování mezi statky vyšších a nižších řádů, mezi výrobními statky a spotřebním zbožím. Když ve třídě výrobních faktorů rozlišuje původní faktory od vyrobených výrobních faktorů a dále ve třídě původních faktorů nelidské faktory od lidských faktorů, neporušuje tím jednotu své argumentace týkající se určování cen výrobních faktorů.
+
+Zákon, který řídí určování cen výrobních faktorů, je stejný pro všechny třídy a exempláře těchto faktorů. Skutečnost, že různé služby poskytované takovými faktory jsou různě hodnoceny a oceňovány a že se s nimi také různě zachází, může udivit pouze lidi, kteří si nevšimli těchto rozdílů ve schopnosti poskytovat služby. Tomu, kdo nevidí kvalitu obrazů, může připadat divné, že by sběratelé zaplatili za Velásquezovy obrazy víc než za malby méně nadaných umělců; pro znalce je to samozřejmé.
+
+Zemědělce nepřekvapuje, že kupci platí za úrodnější půdu vyšší cenu a nájemci vyšší nájemné než za méně úrodnou. Jediným důvodem, proč staří ekonomové byli touto skutečností zmateni, je, že používali obecný termín půda, který nebere rozdíly ve výnosnosti v úvahu.
+
+Největší zásluhou Ricardovy teorie renty je, že si povšimla toho, že mezní půda rentu vůbec nepřináší. Od tohoto poznatku je pouze krok k objevení principu hodnotícího subjektivismu. Avšak klasičtí ekonomové ani jejich následovníci, zaslepeni pojmem reálných nákladů, tento krok neudělali.
+
+Zatímco myšlenka diferenční renty může být víceméně přejata teorií subjektivní hodnoty, druhý pojem renty odvozený z ricardiánské ekonomie, totiž koncepce zbytkové renty, musí být zcela odmítnut. Tato myšlenka nároku na zbytek je založena na pojmu reálných nebo fyzických nákladů, který nemá v rámci moderního výkladu cen výrobních faktorů smysl. Důvodem, proč je burgundské dražší než chianti, není vyšší cena vinic v Burgundsku než v Toskánsku. Kauzalita je opačná. Protože jsou lidé ochotni zaplatit za burgundské vyšší ceny než za chianti, jsou vinaři ochotni platit vyšší ceny za vinice v Burgundsku než za vinice v Toskánsku.
+
+Účetní se dívá na zisky jako na podíl, který zůstane, když jsou všechny výrobní náklady zaplaceny. V rovnoměrně plynoucí ekonomice by se takový přebytek cen výrobků nad náklady nemohl nikdy objevit. V měnící se ekonomice se rozdíly mezi cenami výrobků a součtem cen, které podnikatel vynaložil na pořízení komplementárních výrobních faktorů, plus úrok z investovaného kapitálu mohou objevit v obou směrech, tj. jako zisk i jako ztráta. Tyto rozdíly jsou způsobeny změnami, které se během časového intervalu objevují v cenách výrobků.
+
+Ten, komu se podaří tyto změny v čase předpovědět lépe než jiným a zachová se podle toho, sklízí zisk. Ten, kdo při přizpůsobování svých podnikatelských aktivit budoucímu stavu trhu neuspěje, je pokutován ztrátou.
+
+<!-- Source: ESPEAK_AUDIO-chapter_116b-OPTIMIZED.md -->
+
+Hlavní vadou ricardiánské ekonomie bylo, že šlo o teorii rozdělování celkového produktu spojeného úsilí celého národa. Stejně jako ostatní zastánci klasické ekonomie se Ricardo nedokázal osvobodit od merkantilistické podoby konceptu Volkswirtschaft. V jeho úvahách byla otázka určování cen podřízena otázce rozdělování bohatství. Obvyklá charakterizace ekonomické filozofie jako „filozofie ve výrobě působících středních tříd současné Anglie"
+

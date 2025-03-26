@@ -1,0 +1,4 @@
+
+Pokud je při prodeji zásob a výrobků celý rozdíl mezi cenou vynaloženou na jejich získání a cenou získanou jejich prodejem zapsán do účetních knih jako zisk, jde o stejnou chybu. Pokud je nárůst ceny cenných papírů a nemovitostí považován za zisk, iluze není o nic méně zjevná. Právě tyto iluzorní zisky vyvolávají v lidech pocit, že inflace vede k všeobecné prosperitě. Lidé cítí, že mají štěstí, a jsou velkorysejší při svém utrácení a užívání si života. Zdobí své domovy, budují nové domy a podporují zábavní průmysl. Tím, že utrácejí zdánlivé zisky, ten nereálný výsledek falešných výpočtů, spotřebovávají kapitál. Nezáleží na tom, kdo utrácí. Může jít o podnikatele nebo o obchodníka s cennými papíry.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_100/para_003-Pokud-je-pi-prodeji-zsob-a-vrobk-cel-rozdl-m.mp3)

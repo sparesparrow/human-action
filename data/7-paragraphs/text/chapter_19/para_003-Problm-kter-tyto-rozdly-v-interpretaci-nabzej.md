@@ -1,0 +1,4 @@
+
+Problém, který tyto rozdíly v interpretaci nabízejí, se však nesmí směšovat s úmyslným překrucováním faktů ze strany propagandistů a apologetů, kteří se za historiky vydávají. Fakta, která mohou být nesporně stanovena na základě dostupných zdrojů, musí být stanovena v rámci předběžné práce historika. To není polem pro rozumění. Tento úkol musí být zpracován pomocí nástrojů, které poskytují všechny nehistorické vědy. Jevy jsou shromažďovány na základě pečlivého kritického zkoumání dostupných záznamů. Jsou-li teorie nehistorických věd, na nichž historik zakládá kritické zkoumání zdrojů, dostatečně spolehlivé a jisté, neexistuje pro arbitrární nesouhlas ohledně ustanovení samotných jevů žádný prostor.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_19/para_003-Problm-kter-tyto-rozdly-v-interpretaci-nabzej.mp3)

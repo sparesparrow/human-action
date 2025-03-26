@@ -1,0 +1,4 @@
+
+Druhá verze (můžeme ji nazývat cestou hindenburskou či německou) nominálně zachovává soukromé vlastnictví výrobních prostředků a ponechává zdání běžných trhů, cen, mezd a úrokových měr. Už ale neexistují podnikatelé, ale pouze správci podniků. Tito správci podniků se zdánlivě podílejí na řízení podniků, jež jsou jim svěřeny. Nakupují a prodávají, najímají a propouštějí zaměstnance a odměňují jejich služby, sjednávají půjčky a platí úroky a odpisy. Při všech svých činnostech ale musí bezpodmínečně poslouchat příkazy vydávané nejvyšším vládním úřadem pro správu výroby. Tento úřad říká správcům podniků, co a jak mají vyrábět, za jaké ceny a od koho kupovat, za jaké ceny a komu prodávat. Určuje každému pracovníkovi jeho zaměstnání a pevně stanovuje jeho mzdu. Nařizuje, komu a za jakých podmínek musí kapitalisté svěřit své finanční prostředky.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_145/para_006-Druh-verze-meme-ji-nazvat-cestou-hindenbursko.mp3)

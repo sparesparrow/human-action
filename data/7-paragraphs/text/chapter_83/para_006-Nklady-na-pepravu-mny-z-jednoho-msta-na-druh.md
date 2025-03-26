@@ -1,0 +1,4 @@
+
+Náklady na přepravu měny z jednoho místa na druhé jsou neseny buď státní pokladnou, nebo centrální bankou dané země, nebo jinou vládní bankou, například v různých evropských zemích poštovními spořitelnami. Proto již neexistuje žádný trh pro měny různých oblastí jedné země. Lidem není účtováno více za objednávku z jiného regionu než za objednávku místní, a pokud ano, nemá odlišná sazba žádný vztah k výkyvům v pohybech peněz mezi různými oblastmi v rámci jedné země. Vládní zásahy vyostřily rozdíl mezi domácími platbami a platbami do zahraničí. Domácí platby jsou uskutečňovány za paritní cenu, zatímco u zahraničních plateb se objevují výkyvy v rámci mezí stanovených body dovozu a vývozu zlata.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_83/para_006-Nklady-na-pepravu-mny-z-jednoho-msta-na-druh.mp3)

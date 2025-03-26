@@ -1,0 +1,4 @@
+
+Žádný historický problém nelze uchopit bez pomoci ideálních typů. Dokonce i když se historik zabývá jednotlivou osobou nebo událostí, nemůže se odkazům k ideálním typům vyhnout. Když mluví o Napoleonovi, musí se odkazovat na ideální typy jako velitel, diktátor, revoluční vůdce. Když pojednává o Velké francouzské revoluci, jsou to ideální typy jako revoluce, dezintegrace zavedeného režimu, anarchie. Může se stát, že odkaz na ideální typ bude spočívat pouze v odmítnutí jeho uplatnitelnosti na daný konkrétní případ. Všechny historické události jsou nicméně popisovány a interpretovány za pomoci ideálních typů. I laik musí vždy, když se zabývá minulými či budoucími událostmi, používat ideální typy a nevědomky tak i činí.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_22/para_005-dn-historick-problm-nelze-uchopit-bez-pomoci.mp3)

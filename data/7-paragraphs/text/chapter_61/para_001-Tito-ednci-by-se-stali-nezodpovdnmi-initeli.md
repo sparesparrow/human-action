@@ -1,0 +1,4 @@
+
+Tito úředníci by se stali nezodpovědnými činiteli a jejich moc by nahradila moc lidu nebo despoty. Dělali by to, co by je těšilo, a nikoli to, co by po nich chtěli jejich nadřízení. Aby se zabránilo takovým koncům a oni byli donuceni sloužit vůli svých nadřízených, je nutné dát jim podrobné pokyny, které budou v každém směru usměrňovat jejich jednání. Pak bude jejich povinností vypořádat se se všemi záležitostmi v přísném souladu s těmito pravidly a nařízeními. Jejich svoboda přizpůsobit své jednání tomu, co jim připadá jako nejvhodnější řešení konkrétního problému, je omezena těmito normami. Jsou byrokraté, tj. lidé, kteří se v každém případě musí řídit řadou neměnných nařízení.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_61/para_001-Tito-ednci-by-se-stali-nezodpovdnmi-initeli.mp3)

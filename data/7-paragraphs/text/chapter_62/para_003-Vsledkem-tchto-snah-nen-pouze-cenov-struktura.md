@@ -1,0 +1,4 @@
+
+Výsledkem těchto snah není pouze cenová struktura, ale také společenská struktura, přiřazení konkrétních úkolů různým jednotlivcům. Trh dělá z lidí boháče nebo chudáky, určuje, kdo bude provozovat velké podniky a kdo bude drhnout podlahu, stanovuje, kolik lidí bude pracovat v měděných dolech a kolik v symfonických orchestrech. Žádné z těchto rozhodnutí není přijato jednou provždy; mohou být změněna každý den. Proces výběru se nikdy nezastavuje. Stále pokračuje a přizpůsobuje společenský aparát výroby změnám v nabídce a poptávce. Stále znovu přezkoumává svá předchozí rozhodnutí a nutí každého podrobit se v jeho případě novým zkouškám. Neexistuje žádná jistota a nic takového jako právo na udržení postavení získaného v minulosti. Nikdo není vyňat z tohoto zákonu trhu, nadvlády spotřebitelů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_003-Vsledkem-tchto-snah-nen-pouze-cenov-struktura.mp3)

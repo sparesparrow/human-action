@@ -1,0 +1,4 @@
+
+Celý tento proces byl vykládán zcela mylně. Lidé mluví o významné a životně důležité roli, kterou má jménem národa vykonávat centrální banka dané země. Říkají, že svatou povinností centrální banky je zachovat stabilitu směnných kurzů a chránit národní zlaté rezervy před útoky ze strany části zahraničních spekulantů a jejich domácích přisluhovačů. Pravda je, že vše co dělá centrální banka ze strachu, že její zlaté rezervy zmizí, je činěno v zájmu zachování její vlastní platební schopnosti. Zahájením úvěrové expanze ohrozila svoje finanční postavení a nyní musí odčinit své předchozí jednání, aby se vyhnula ničivým důsledkům. Její expanzivní politika se setkala s překážkou omezující emisi fiduciárních prostředků.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_84/para_004-Cel-tento-proces-byl-vykldn-zcela-myln-Lid-m.mp3)

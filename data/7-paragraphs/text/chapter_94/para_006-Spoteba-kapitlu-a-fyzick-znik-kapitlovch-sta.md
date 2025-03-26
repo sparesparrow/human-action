@@ -1,0 +1,4 @@
+
+Spotřeba kapitálu a fyzický zánik kapitálových statků jsou dvě různé věci. Veškeré kapitálové statky dříve či později vstoupí do konečných výrobků a přestanou existovat prostřednictvím jejich užití, spotřeby a opotřebení. To, co může být zachováno vhodným uspořádáním spotřeby, je pouze hodnota kapitálového fondu, nikoli konkrétní kapitálové statky. Občas se může stát, že boží čin nebo lidské ničení vedou k takovému úbytku kapitálových statků, že žádné myslitelné omezení spotřeby nemůže v krátkém čase doplnit kapitálové fondy na jejich předchozí úroveň. Avšak to, co způsobuje tento úbytek, je vždy skutečnost, že čisté tržby ze současné výroby věnované na údržbu kapitálu nejsou dostatečně vysoké.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_94/para_006-Spoteba-kapitlu-a-fyzick-znik-kapitlovch-sta.mp3)

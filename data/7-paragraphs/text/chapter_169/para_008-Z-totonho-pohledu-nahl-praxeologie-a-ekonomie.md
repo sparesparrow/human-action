@@ -1,0 +1,4 @@
+
+Z totožného pohledu nahlíží praxeologie a ekonomie na základní princip lidské existence a společenské evoluce, totiž že spolupráce v systému společenské dělby práce je efektivnějším způsobem jednání než snaha jedinců o soběstačnost a izolaci. Praxeologie a ekonomie neříkají, že by lidé měli mírově spolupracovat v rámci sociálních vazeb; říkají pouze, že lidé musí jednat tímto způsobem, jestliže chtějí, aby jejich jednání byla úspěšnější, a nikoli méně úspěšná. Jednání v souladu s morálními pravidly, která vytvoření, zachování a posílení společenské kooperace vyžaduje, není považováno za oběť nějaké mytické bytosti, ale za uchýlení se k nejefektivnějším způsobům jednání, za cenu vynaloženou k dosažení hodnotnějších výsledků.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_008-Z-totonho-pohledu-nahl-praxeologie-a-ekonomie.mp3)

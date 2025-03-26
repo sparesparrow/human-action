@@ -1,0 +1,4 @@
+
+Mnoho současných univerzit se nestalo semeništi socialismu kvůli situaci vládnoucí na katedrách ekonomie, ale kvůli poznatkům předávaným studentům na ostatních katedrách. Na katedrách ekonomie lze stále najít alespoň nějaké ekonomy a i ostatním učitelům mohou být známy některé výhrady vznášené proti uskutečnitelnosti socialismu. Situace je odlišná v případě mnoha učitelů filozofie, historie, literatury, sociologie a politických věd. Tito lidé interpretují historii na základě vulgarizované verze dialektického materialismu. Dokonce i ti, kdo vášnivě útočí na marxismus kvůli jeho materialismu a ateismu, jsou pod vlivem myšlenek obsažených v Komunistickém manifestu a programu Komunistické internacionály.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_001-Mnoho-souasnch-univerzit-se-nestalo-semeniti-so.mp3)

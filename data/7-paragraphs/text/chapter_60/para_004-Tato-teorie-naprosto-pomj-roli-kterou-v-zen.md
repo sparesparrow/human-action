@@ -1,0 +1,4 @@
+
+Tato teorie naprosto pomíjí roli, kterou v řízení obchodní činnosti podniku hraje kapitál, peněžní trh a burza, jež přiléhavá fráze jednoduše nazývá „trhem". Obchody na tomto trhu jsou rozšířenou protikapitalistickou předpojatostí ocejchovány jako pouhá hazardní hra. Ve skutečnosti kapitalisté používají změny cen kmenových i prioritních akcií a podnikových dluhopisů k nejvyšší kontrole kapitálových toků. Cenová struktura určovaná spekulací na kapitálových a peněžních trzích a na velkých komoditních burzách neudává, jenom kolik kapitálu je k dispozici pro provádění obchodní činnosti každé akciové společnosti; vytváří stav věcí, jemuž musí manažeři dopodrobna přizpůsobit svou činnost.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_60/para_004-Tato-teorie-naprosto-pomj-roli-kterou-v-zen.mp3)

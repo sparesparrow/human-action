@@ -1,0 +1,4 @@
+
+Ricardo však vychází z předpokladu, že mobilita práce a kapitálu existuje pouze uvnitř každé země, a nikoli mezi různými zeměmi. Pokládá otázku, jaké za takových podmínek musí být důsledky svobodného pohybu výrobků. (Pokud neexistuje ani pohyb výrobků, potom je každá země hospodářsky izolovaná a soběstačná a neexistuje vůbec žádný mezinárodní obchod.) Teorie komparativní výhody na tuto otázku odpovídá. A dále, Ricardovy předpoklady víceméně platily pro jeho dobu. Později, během devatenáctého století, se podmínky změnily. Imobilita práce a kapitálu vzaly za své; mezinárodní přesun kapitálu a práce se stával stále běžnějším. Pak přišla reakce. Dnes jsou kapitál a práce ve své mobilitě opět omezeny.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_37/para_007-Ricardo-vak-vychz-z-pedpokladu-e-mobilita-pr.mp3)

@@ -1,0 +1,4 @@
+
+Bankovní škola se v pojednáních o těchto problémech zcela mýlila. Byla zmatena falešnou představou, podle níž požadavky podnikání tvrdě omezují maximální objem směnitelných bankovek, které může banka vydat. Její členové si nepovšimli, že poptávka veřejnosti po úvěru je co do velikosti závislá na ochotě banky půjčovat a že banky, které si nedělají starosti o svou vlastní solventnost, mohou zvyšovat oběžný úvěr snížením úroku pod tržní míru. Není pravda, že maximální objem, který banka může půjčit, pokud omezí své půjčování na eskontování krátkodobých směnek pocházejících z prodeje a nákupu surovin a polotovarů, je množství jednoznačně určené podmínkami v podnikání a nezávislé na přístupu banky.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_81/para_011-Bankovn-kola-se-v-pojednnch-o-tchto-problmec.mp3)

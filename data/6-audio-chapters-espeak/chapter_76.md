@@ -1,0 +1,41 @@
+# Chapter 76
+
+## Audio Narration
+
+- [chapter_76a.mp3](../5-audio-chunks-espeak/chapter_76a.mp3)
+- [chapter_76b.mp3](../5-audio-chunks-espeak/chapter_76b.mp3)
+
+## Content
+
+<!-- Source: ESPEAK_AUDIO-chapter_76a-OPTIMIZED.md -->
+
+Někteří autoři se pokoušeli vysvětlit původ peněz pomocí panovnického výnosu nebo smlouvy. Nepřímou směnu prý zavedla účelově a úmyslně určitá autorita, stát, nebo smlouva mezi občany. Hlavní nedostatek této doktríny lze spatřovat v předpokladu, že by lidé v době, kdy neexistují peníze ani nepřímá směna, mohli navrhnout nový hospodářský řád, zcela odlišný od podmínek panujících v jejich vlastní době, a byli by schopni rozumět jeho významu. Je však zřejmé, že historie neposkytuje žádný důkaz na podporu tohoto tvrzení.
+
+Podstatnější důvody naopak mluví pro jeho zamítnutí.
+
+Pokud předpokládáme, že podmínky zúčastněných stran se zlepšují každým krokem, který vede od přímé k nepřímé směně, a v důsledku toho tyto strany upřednostňují jako prostředek směny určitý statek vynikající svojí zvláště vysokou směnitelností, je obtížné pochopit, proč by se měl člověk, zabývající se původem nepřímé směny, uchylovat ještě navíc k autoritářským nařízením nebo explicitní smlouvě mezi občany.
+
+Člověk, který považuje za obtížné získat v podmínkách barteru to, co získat chce, zlepší svoji šanci na pozdější získání této věci ve směně tím, že si obstará lépe směnitelný statek. Za těchto podmínek neexistovala žádná potřeba vládních zásahů nebo potřeba smlouvy mezi občany. Zdařilá myšlenka postupovat tímto způsobem mohla napadnout ty nejbystřejší jedince a ti méně nápadití mohli její postup napodobit.
+
+Je jistě mnohem věrohodnější tvrdit, že bezprostřední výhody plynoucí z nepřímé směny byly rozpoznány jednajícími stranami, než předpokládat, že celá představa společnosti obchodující prostřednictvím peněz byla vymyšlena jedním géniem, a přijmeme-li doktrínu vzájemné smlouvy, zbytek lidí byl k jejímu přijetí přemluven.
+
+I kdybychom předpokládali, že si lidé neuvědomili výhody nepřímé směny oproti čekání na příležitost k přímé směně, a pro potřeby naší diskuse připustíme, že autority nebo smlouva peníze opravdu zavedly, vyvolává to další otázky. Musíme se zeptat, jaké prostředky přiměly lidi ke zvolení postupu, jehož užitečnost nechápali a jenž byl technicky složitější než přímá směna. Mohli bychom mít za to, že těmito prostředky bylo donucení. Poté se ale musíme dále ptát, kdy a jakým způsobem přestaly být později nepřímá směna a užití peněz pro zapojené jednotlivce nepříjemné nebo jim byly přinejmenším lhostejné a začaly jim přinášet výhody.
+
+Praxeologická metoda sleduje všechny jevy zpět k jednání jednotlivců. Pokud jsou podmínky meziosobní směny takové, že ji může nepřímá směna usnadnit, a pokud si lidé tyto výhody uvědomují, vznikne nepřímá směna a peníze. Historická zkušenost ukazuje, že právě takové podmínky nastaly a platí i v současnosti. Nelze vysvětlit, jakým způsobem mohlo dojít ke vzniku nepřímé směny a peněz a jejich udržení bez existence těchto podmínek.
+
+Historická otázka původu nepřímé směny a peněz přesto není předmětem praxeologie. Jedinou podstatnou věcí je, že nepřímá směna a peníze existují, protože nastaly a trvají podmínky pro jejich existenci. Pokud tomu tak je, praxeologie nemusí sahat k hypotézám, podle nichž tyto způsoby směny vznikly díky autoritářským nařízením nebo smlouvám. Pokud chtějí, mohou etatisté dál připisovat „vynalezení" peněz státu, jakkoli je to nepravděpodobné.
+
+Podstatné je, že člověk získává statek nikoli proto, aby ho spotřeboval nebo užil ve výrobě, ale proto, aby se ho vzdal v budoucích aktech směny. Takové chování části lidí vytváří dobrý prostředek směny a – pokud se ve vztahu k určitému statku stane běžným – učiní z něj peníze. Všechny teorémy katalaktické teorie prostředků směny se odvolávají na služby, které statek poskytuje svojí schopností sloužit jako prostředek směny. I kdyby byla pravda, že podnět pro vznik nepřímé směny a peněz byl dán autoritami nebo smlouvou mezi členy společnosti, tvrzení, že pouze chování směňujících lidí může vytvořit nepřímou směnu a peníze, zůstává neotřeseno.
+
+Historie nám může povědět, kde a kdy byly poprvé prostředky směny použity a jak byla následně škála takto používaných statků zužována. Vzhledem k tomu, že hranice mezi širším pojetím prostředku směny a užším pojetím peněz není ostrá, ale pozvolná, nemůže být dosaženo shody o historickém přechodu od prostého prostředku směny k penězům. Odpověď na tuto otázku je záležitostí historického rozumění.
+
+Jak již bylo ale řečeno, odlišnost mezi přímou a nepřímou směnou je jasná a vše, co katalaxie tvrdí o prostředcích směny, se rozhodně vztahuje na všechny statky, které jsou jako tyto prostředky poptávány a získávány.
+
+<!-- Source: ESPEAK_AUDIO-chapter_76b-OPTIMIZED.md -->
+
+Protože je tvrzení, že nepřímá směna a peníze byly vytvořeny nařízením nebo smlouvou občanů, považováno za záznam historických událostí, je úkolem historiků odhalit jeho nepravdivost. Protože je předkládáno pouze jako výrok o historii, nemůže žádným způsobem ovlivnit katalaktickou teorii peněz a její vysvětlení vzniku nepřímé směny. Kdyby bylo zamýšleno jako výrok o lidském jednání a společenských událostech, je nepoužitelné, protože neříká nic o jednání.
+
+Výrokem o lidském jednání není tvrzení, že se jednoho dne vládci lidí setkali a byli zasaženi náhlým vnuknutím směňovat nepřímo pomocí běžně užívaného prostředku směny. Jde jen o odsunutí řešení zkoumaného problému.
+
+Je nezbytné pochopit, že k vědeckému chápání lidského jednání a společenských jevů ničím nepřispějeme, když prohlásíme, že byly vyvolány státem, charizmatickým vůdcem nebo vnuknutím, které se na lidi sneslo. Tato tvrzení také nevyvracejí závěry teorie tvrdící, že tyto jevy mohou být označeny za nezamýšlený důsledek, výsledek, jenž nebyl úmyslně plánován ani o něj nebylo výslovně usilováno jednotlivými členy společnosti.
+

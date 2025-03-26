@@ -1,0 +1,4 @@
+
+Pokud nabídka práce, kterou jsou lidé ochotni vykonat, vzroste, vzroste i výroba. Práce nemůže zůstat nevyužita na základě toho, že by byla neužitečná pro další zlepšování uspokojení potřeb. Izolovaný soběstačný člověk má vždy příležitost vylepšit své podmínky vykonáním dodatečné práce. Na pracovním trhu tržní společnosti existují kupci pro každou nabízenou práci. Nadbytek a přebytečnost můžou existovat pouze na segmentech pracovního trhu. Mají za následek přesun práce do ostatních segmentů a rozšiřování produkce v jiných oblastech ekonomického systému. Na druhou stranu může nárůst množství dostupné půdy za jinak stejných okolností vést ke zvýšení produkce, pouze pokud je dodatečná půda úrodnější než mezní půda obdělávaná předtím.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_32/para_005-Pokud-nabdka-prce-kterou-jsou-lid-ochotni-vyko.mp3)

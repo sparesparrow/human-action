@@ -1,0 +1,4 @@
+
+S marxistickými a pruskými teoriemi je to zcela jiné. Z pohledu těchto doktrín je současná výše mzdových sazeb objevující se na trhu historickým datem. Hodnocení spotřebitelů, kteří jsou nepřímo kupujícími práce, a příjemců mezd, prodávajících práci, nejsou k ničemu. Mzdové sazby jsou pevně dány historickými událostmi v minulosti. Nemohou se ani zvýšit nad tuto úroveň, ani se pod ni snížit. Skutečnost, že mzdové sazby jsou vyšší ve Švýcarsku než v Indii, může být vysvětlena pouze historií, stejně jako pouze historie může vysvětlit, proč se Napoleon I. stal Francouzem, a nikoli Italem, císařem, a nikoli korsickým právníkem. Při vysvětlování rozdílu ve mzdových sazbách pastevců nebo zedníků v těchto dvou zemích není možné využít činitelů působících bez výjimky na každém trhu. Vysvětlení mohou poskytnout pouze dějiny těchto dvou národů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_110/para_002-S-marxistickmi-a-pruskmi-teoriemi-je-to-zcela-ji.mp3)

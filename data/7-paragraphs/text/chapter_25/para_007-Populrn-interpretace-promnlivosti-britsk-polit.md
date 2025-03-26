@@ -1,0 +1,4 @@
+
+Populární interpretace proměnlivosti britské politiky zahraničního obchodu, založená na pracích Sismondiho, Friedricha Lista, Marxe a německé historické školy, probíhá následovně: V druhé polovině osmnáctého století a ve větší části devatenáctého století vyžadovaly třídní zájmy britské buržoazie politiku svobodného obchodu. Proto britská politická ekonomie vypracovala doktríny svobodného obchodu a britští výrobci zorganizovali lidové hnutí, které nakonec dosáhlo zrušení protekcionistických cel. Pak se podmínky změnily. Britská buržoazie již nemohla snášet konkurenci zahraničních výrobců a naléhavě potřebovala ochranná cla. V důsledku toho ekonomové nahradili zastaralou ideologii svobodného obchodu teorií ochrany a Británie se vrátila k protekcionismu.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_25/para_007-Populrn-interpretace-promnlivosti-britsk-polit.mp3)

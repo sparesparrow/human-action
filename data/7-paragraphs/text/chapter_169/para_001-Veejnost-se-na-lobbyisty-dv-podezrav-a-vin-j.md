@@ -1,0 +1,4 @@
+
+Veřejnost se na lobbyisty dívá podezíravě a viní je z bezútěšných dopadů intervencionistické legislativy. Kořen zla však spočívá hlouběji. Filozofie nejrůznějších zájmových skupin pronikla do legislativních sborů. Dnes v parlamentech najdeme zástupce pěstitelů obilí, chovatelů dobytka, zemědělských družstev, těžařů stříbra, zástupce nejrůznějších odborových centrál, odvětví, která nemohou obstát v zahraniční konkurenci bez existence cel, a mnoha dalších zájmových skupin. Najdeme i pár takových, pro které zájmy země stojí nad zájmy jejich zájmových skupin. Totéž platí i pro jednotlivá ministerstva. Ministr zemědělství se považuje za zastánce zájmů zemědělství; jeho hlavním cílem je zajistit nárůst cen potravin.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_001-Veejnost-se-na-lobbyisty-dv-podezrav-a-vin-j.mp3)

@@ -1,0 +1,4 @@
+
+Základním znakem socialismu je, že jedná jen jedna vůle. Není důležité, čí vůle to je. Ředitelem socialistické společnosti může být pomazaný král nebo diktátor, který vládne na základě svého charizmatu, může to být Führer nebo rada Führerů dosazená lidovou volbou. Hlavní věcí je, aby využití všech výrobních faktorů bylo řízeno pouze jedním úřadem. Jedna vůle sama vybírá, rozhoduje, řídí, jedná, vydává příkazy. Všichni ostatní jednoduše poslouchají příkazy a pokyny. „Anarchie" výroby a různé iniciativy lidí jsou nahrazeny organizací a plánovitým pořádkem. Společenská spolupráce v rámci dělby práce je zajištěna systémem hegemonistických vazeb, jimiž ředitel kategoricky volá všechny své svěřence k poslušnosti.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_140/para_009-Zkladnm-znakem-socialismu-je-e-jedn-jen-jedna.mp3)

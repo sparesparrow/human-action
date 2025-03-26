@@ -1,0 +1,4 @@
+
+Je pravda, že ve vztahu k penězům je úkol katalaxie širší než ve vztahu k prodejným statkům. Není úkolem katalaxie, ale psychologie a fyziologie, aby vysvětlila, proč si lidé obstarávají služby, které mohou poskytnout různé prodejné statky. Avšak je jejím úkolem zabývat se těmito otázkami ve vztahu k penězům. Sama katalaxie nám může říci, jaké výhody člověk od držby peněz očekává. Ovšem nejsou to tyto očekávané výhody, které určují kupní sílu peněz. Dychtivost zajistit si výhody z držby peněz je pouze jednou z okolností, jež vyvolává poptávku po penězích. A právě poptávka, subjektivní prvek, jehož síla je zcela dána hodnotovými soudy a nikoli nějakým objektivním faktem, nějakou mocí vyvolat určitý důsledek, hraje roli při utváření tržních směnných poměrů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_74/para_008-Je-pravda-e-ve-vztahu-k-penzm-je-kol-katalaxi.mp3)

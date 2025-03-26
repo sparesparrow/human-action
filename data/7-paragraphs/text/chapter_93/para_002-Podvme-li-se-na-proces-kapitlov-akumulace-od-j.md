@@ -1,0 +1,4 @@
+
+Podíváme-li se na proces kapitálové akumulace od jejího úplného počátku, je snadné rozpoznat, že nemůže existovat nic jako volný kapitál. Kapitál musí být ztělesňován statky s více či méně specifickou povahou. Když se potřeby nebo názory na metody jejich uspokojení změní, hodnota kapitálových statků se tak odpovídajícím způsobem změní. Dodatečné kapitálové statky mohou vzniknout pouze tím, že spotřeba zůstane pozadu za současnou výrobou. Dodatečný kapitál je již v samém okamžiku svého vzniku ztělesňován konkrétními kapitálovými statky. Tyto statky musely být vyrobeny předtím, než se mohly – jako přebytek výroby nad spotřebou – stát kapitálovými statky. Rolí, kterou hraje vložení peněz do tohoto sledu událostí, se budeme zabývat později.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_93/para_002-Podvme-li-se-na-proces-kapitlov-akumulace-od-j.mp3)

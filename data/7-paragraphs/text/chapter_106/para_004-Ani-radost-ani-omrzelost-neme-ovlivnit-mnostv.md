@@ -1,0 +1,4 @@
+
+Ani radost, ani omrzelost nemůže ovlivnit množství práce nabízené na trhu. To je zřejmé, pokud jsou tyto pocity spojeny ve stejné intenzitě se všemi druhy práce. Totéž však platí i tehdy, jsou-li radost a omrzelost podmíněny určitými rysy dané práce nebo specifickými vlastnostmi pracovníka. Podívejme se například na čtvrtou kategorii. Dychtivost určitých lidí získat zaměstnání, které nabízí možnost využít tohoto specifického uspokojení, má sklon snižovat mzdové sazby v tomto oboru. Avšak právě tento dopad způsobí, že ostatní lidé – méně citliví na tyto pochybné požitky – dají přednost ostatním odvětvím, v nichž si mohou vydělat více. Tak se objeví opačná tendence, která vyrovná tu první.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_106/para_004-Ani-radost-ani-omrzelost-neme-ovlivnit-mnostv.mp3)

@@ -1,0 +1,4 @@
+
+Technologie a úvahy, které jsou z ní odvozeny, by nebyly pro jednajícího člověka k přílišnému užitku, kdyby do jejich schémat nebylo možné zavést peněžní ceny zboží a služeb. Projekty a návrhy inženýrů by byly čistě akademické, kdyby nedokázaly porovnávat vstupy a výstupy na společné bázi. Pyšný teoretik se v odloučení své laboratoře o takové bezvýznamné věci nestará; to, co zkoumá, jsou příčinné vztahy mezi různými součástmi vesmíru. Praktický člověk, který dychtí zlepšit podmínky lidstva tím, že v co největší míře odstraní nespokojenost, ale musí vědět, zda – za daných podmínek – je to, co plánuje, nejlepší metodou (nebo vůbec nějakou metodou), jak zbavit lidi části nespokojenosti.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_42/para_004-Technologie-a-vahy-kter-jsou-z-n-odvozeny-by.mp3)

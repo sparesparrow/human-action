@@ -1,0 +1,4 @@
+
+Množství položek, kterých se rozhodnutí ředitele musí týkat, je mnohem větší, než jak by ukazoval pouhý technický popis dostupného spotřebního zboží pomocí fyziky a chemie. Musí být bráno v úvahu umístění každé z nich i schopnost sloužit u kapitálových investic, které byly učiněny v minulosti pro jejich využití. Ředitel jednoduše nemůže uvažovat o uhlí jako takovém, ale o tisícovkách šachet, které už jsou na různých místech v provozu, a o možnosti otevřít nové šachty s různými důlními metodami v každé z nich, o různých metodách využití uhlí pro výrobu tepla, elektřiny a velkého množství druhotných sloučenin. Můžeme říct, že současný stav technologických znalostí umožňuje vyrobit téměř všechno z téměř čehokoli.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_140/para_008-Mnostv-poloek-kterch-se-rozhodnut-editele-m.mp3)

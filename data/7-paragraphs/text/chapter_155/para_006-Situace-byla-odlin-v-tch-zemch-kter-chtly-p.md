@@ -1,0 +1,4 @@
+
+Situace byla odlišná v těch zemích, které chtěly přijmout zlatý standard a opustit – de facto nebo de jure – stříbrné či papírové měny. Když chtěla například Německá říše v 70. letech devatenáctého století zavést zlatý standard, bylo v zemi používáno stříbro. Při přijímání zlata nebylo možné jednoduše převzít procedury využité v zemích, kde zavedení zlatého standardu mělo povahu pouhého uzákonění existujícího stavu. Musela nahradit užívané stříbrné mince v rukou veřejnosti mincemi zlatými. Šlo o časově náročnou a složitou finanční operaci zahrnující rozsáhlé vládní nákupy zlata a prodeje stříbra. Obdobně musely postupovat země, které přecházely ke zlatu od papírových či úvěrových peněz.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_155/para_006-Situace-byla-odlin-v-tch-zemch-kter-chtly-p.mp3)

@@ -1,0 +1,4 @@
+
+Učení utilitaristické filozofie a klasické ekonomie ale nemají s doktrínou přirozených práv nic společného. Podle nich je jedinou věcí, která má význam, společenský užitek. Nedoporučují vládu lidu, soukromé vlastnictví, toleranci a svobodu kvůli tomu, že jsou přirozené a spravedlivé, ale protože jsou výhodné. Jádrem Ricardovy filozofie je důkaz, že spolupráce ve společnosti a dělba práce mezi lidmi, kteří jsou v každém ohledu lepší a výkonnější, a lidmi, kteří jsou v každém ohledu horší a méně výkonní, je výhodná pro obě skupiny. Radikál Bentham vykřikoval: „Přirozená práva je hloupý nesmysl: přirozená a nezadatelná práva, to je rétorický nesmysl." Podle něj by „jediným cílem vlády mělo být největší štěstí co největší části společnosti".
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_38/para_009-Uen-utilitaristick-filozofie-a-klasick-ekonomi.mp3)

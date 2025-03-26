@@ -1,0 +1,4 @@
+
+Jakmile se objeví nějaká změna v datech, jednotlivci znovu čelí nutnosti vybrat si mezi různými způsoby uspokojení potřeby ve stejném období a mezi uspokojením potřeby v různých obdobích. Přírůstek může být použit buď pro okamžitou spotřebu, nebo investován do budoucí výroby. Ať už ho jednající lidé použijí jakkoli, jejich volba musí být výsledkem zvažování výhod očekávaných z uspokojení potřeby v různých obdobích budoucnosti. Ve skutečném světě, v živoucím a měnícím se prostoru, je každý jednotlivec nucen vybrat si ve všech svých volbách mezi uspokojením v různých obdobích času. Někteří lidé spotřebovávají vše, co si v daném dni vydělají, jiní spotřebovávají část svého kapitálu, jiní část svého důchodu uspoří.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_87/para_008-Jakmile-se-objev-njak-zmna-v-datech-jednotliv.mp3)

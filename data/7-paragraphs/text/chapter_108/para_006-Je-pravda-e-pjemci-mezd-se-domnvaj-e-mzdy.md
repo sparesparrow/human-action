@@ -1,0 +1,4 @@
+
+Je pravda, že příjemci mezd se domnívají, že mzdy musí být přinejmenším tak vysoké, aby jim umožnily životní úroveň odpovídající jejich pozici ve společenské hierarchii. Každý jednotlivý pracovník má svůj vlastní názor na nároky, které je oprávněn vznášet s ohledem na svůj „status", „postavení", „tradici" a „zvyklosti", stejně jako má svůj vlastní názor na svoji výkonnost a své vlastní úspěchy. Tyto domýšlivé a ješitné domněnky ale nemají k určení mzdových sazeb žádný vztah. Neomezují ani jejich vzestup, ani jejich pokles. Příjemce mezd se tak musí někdy spokojit s mnohem menší mzdou, než podle jeho názoru odpovídá jeho postavení a výkonnosti. Pokud je mu nabídnuto více, než očekával, přijme tento přebytek bez váhání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_108/para_006-Je-pravda-e-pjemci-mezd-se-domnvaj-e-mzdy.mp3)

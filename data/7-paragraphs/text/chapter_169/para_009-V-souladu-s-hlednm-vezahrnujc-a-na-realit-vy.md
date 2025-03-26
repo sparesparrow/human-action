@@ -1,0 +1,4 @@
+
+V souladu s hledáním všezahrnující a na realitě vystavěné teorie cen usiloval Menger o vysvětlení skutečně směněných množství zboží. Své vysvětlení tak zaměřil na přechodné směnné rovnováhy, neboli na stavy klidu, jak je sám nazývá, jež časově odpovídaly vzniku historických tržních cen. Ačkoliv se tedy Menger vyvaroval využití mechanické analýzy všeobecné rovnováhy, neboť ta nemohla vést k vysvětlení příčiny tvorby skutečných cen, podařilo se mu i přesto podat systematické vysvětlení cenového procesu. Své pojednání tak uvádí zjištěním, že vše je předmětem zákona příčiny a účinku. A skutečnou a základní příčinou všech hodnotových a cenových jevů je pro Mengera nesporná existence všeobecné snahy lidských jedinců o uspokojení potřeb.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_169/para_009-V-souladu-s-hlednm-vezahrnujc-a-na-realit-vy.mp3)

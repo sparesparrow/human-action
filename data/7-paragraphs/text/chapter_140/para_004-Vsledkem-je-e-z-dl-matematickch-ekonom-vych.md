@@ -1,0 +1,4 @@
+
+Výsledkem je, že z děl matematických ekonomů vychází imaginární konstrukt socialistického společenství jako uskutečnitelný systém spolupráce na základě dělby práce, jako plnohodnotná alternativa k hospodářskému systému založenému na soukromé kontrole výrobních prostředků. Ředitel socialistického společenství bude moci alokovat různé výrobní faktory racionálně, tj. na základě kalkulace. Lidé mohou mít oboje, jak socialistickou spolupráci na základě dělby práce, tak racionální využití výrobních faktorů. Nic jim nebrání, aby přijali socialismus, aniž by se vzdali hospodárnosti při volbě prostředků. Socialismus nenutí vzdát se při využití výrobních faktorů racionality. Je to varianta racionálního společenského jednání.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_140/para_004-Vsledkem-je-e-z-dl-matematickch-ekonom-vych.mp3)

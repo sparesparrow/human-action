@@ -1,0 +1,4 @@
+
+Termíny monopolista nebo nedokonalá konkurence se dnes používají na případy, v nichž existují určité rozdíly mezi výrobky různých výrobců a prodejců. To znamená, že téměř všechno spotřební zboží je zahrnuto ve třídě monopolizovaného zboží. Avšak jedinou důležitou otázkou při studiu určování cen je, jestli prodejce může tyto rozdíly použít pro plán záměrného omezení nabídky za účelem zvýšení svého čistého výnosu. Pouze je-li to možné a úspěšně provedené, mohou se objevit monopolní ceny, které se liší od cen konkurenčních. Může být pravda, že každý prodejce má klientelu, která dává přednost jeho značce před značkami konkurentů a nepřestala by ji kupovat, ani kdyby cena byla vyšší.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_65/para_001-Termny-monopolista-nebo-nedokonal-konkurence-se.mp3)

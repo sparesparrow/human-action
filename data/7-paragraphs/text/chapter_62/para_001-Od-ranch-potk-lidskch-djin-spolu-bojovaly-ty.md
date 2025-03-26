@@ -1,0 +1,4 @@
+
+Od raných počátků lidských dějin spolu bojovaly tyto dva protikladné principy tržního hospodářství a Volkswirtschaft. Vláda, tj. společenský aparát nátlaku a donucení, je nutnou podmínkou mírové spolupráce. Tržní hospodářství se neobejde bez policejní síly, která chrání jeho hladký chod hrozbou násilí nebo jeho použitím proti těm, kteří porušují mír. Avšak nepostradatelní správci a jejich ozbrojení nohsledi jsou vždy v pokušení použít své zbraně k ustavení vlastní totalitní vlády. Pro ambiciózní krále a generalissimy je výzvou již pouhá existence nějaké oblasti života jednotlivců, která není podřízena státní kontrole. Vládci, místodržící a generálové nikdy nejsou liberální sami od sebe. Stávají se liberálními pouze tehdy, když jsou k tomu donuceni občany.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_62/para_001-Od-ranch-potk-lidskch-djin-spolu-bojovaly-ty.mp3)

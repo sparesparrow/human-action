@@ -1,0 +1,24 @@
+# Chapter 110
+
+## Audio Narration
+
+- [chapter_110a.mp3](../5-audio-chunks-espeak/chapter_110a.mp3)
+
+## Content
+
+<!-- Source: ESPEAK_AUDIO-chapter_110a-OPTIMIZED.md -->
+
+Regresní teorém dokazuje, že žádný statek nemůže být použit jako prostředek směny, pokud již na samém začátku svého užití za tímto účelem neměl směnnou hodnotu kvůli svým jiným užitím. Tato skutečnost nemá významný vliv na každodenní určení kupní síly peněz vzniklé střetem nabídky peněz a poptávky po penězích ze strany lidí usilujících o držbu hotovosti. Regresní teorém netvrdí, že každý aktuální směnný poměr mezi penězi na jedné straně a statky a službami na straně druhé je historickým datem nezávislým na dnešní tržní situaci. Pouze vysvětluje, jak přichází do užívání nový prostředek směny a jak v tomto užívání zůstává. V tomto smyslu říká, že existuje historická složka kupní síly peněz.
+
+S marxistickými a pruskými teoriemi je to zcela jiné. Z pohledu těchto doktrín je současná výše mzdových sazeb objevující se na trhu historickým datem. Hodnocení spotřebitelů, kteří jsou nepřímo kupujícími práce, a příjemců mezd, prodávajících práci, nejsou k ničemu. Mzdové sazby jsou pevně dány historickými událostmi v minulosti. Nemohou se ani zvýšit nad tuto úroveň, ani se pod ni snížit. Skutečnost, že mzdové sazby jsou vyšší ve Švýcarsku než v Indii, může být vysvětlena pouze historií, stejně jako pouze historie může vysvětlit, proč se Napoleon I. stal Francouzem, a nikoli Italem, císařem, a nikoli korsickým právníkem. Při vysvětlování rozdílu ve mzdových sazbách pastevců nebo zedníků v těchto dvou zemích není možné využít činitelů působících bez výjimky na každém trhu. Vysvětlení mohou poskytnout pouze dějiny těchto dvou národů.
+
+Vliv újmy z práce na nabídku práce
+
+Základními skutečnostmi ovlivňujícími nabídku práce jsou:
+
+1. Každý jednotlivec může vynaložit pouze omezené množství práce.
+2. Toto určité množství nemůže být vykonáno v jakémkoli požadovaném čase. Je nutné prokládat ho obdobími odpočinku a zotavení.
+3. Ne každý jednotlivec je schopen vykonávat jakýkoli druh práce. Existují vrozené stejně jako získané rozdíly ve schopnostech vykonávat určité typy práce. Vrozené schopnosti pro výkon určitých druhů práce není možné získat výcvikem či vzděláváním.
+4. Se schopností pracovat se musí nakládat náležitým způsobem, aby se nezhoršovala či zcela nezmizela. K zachování schopností člověka – jak vrozených, tak získaných – do doby, než dojde k nevyhnutelnému slábnutí jeho životních sil, je nutná zvláštní péče.
+5. S blížícím se bodem vyčerpání celkového objemu práce, jenž může člověk za určité období vykonat, a nutnosti přerušit práci odpočinkem, narušuje omrzelost množství a kvalitu jeho výkonu.
+

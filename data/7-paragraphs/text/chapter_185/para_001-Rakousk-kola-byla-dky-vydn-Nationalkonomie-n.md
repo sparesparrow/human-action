@@ -1,0 +1,4 @@
+
+Rakouská škola byla díky vydání Nationalökonomie na počátku roku 1940 připravena na rázný návrat, avšak přišla pohroma. Odříznut od německy mluvícího trhu válkou v Evropě zkrachoval její švýcarský vydavatel a prodej a distribuce Misesova díla ustaly. V době, kdy Yale University Press v roce 1949 vydal jeho anglickou verzi, bylo už pozdě na bezprostřední obnovu vlivu mengerovské teorie cen uvnitř ekonomické teorie hlavního proudu. Vůdcovství v čisté teorii se po válce přesunulo z Evropy do Spojených států, a to z důvodu odchodu mnoha ekonomů ze střední Evropy do Ameriky, spolu se značným rozvojem vyššího vzdělávání ve Spojených státech vyvolaným příspěvky na pokrytí školného, které zavedl G. I. Bill.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_185/para_001-Rakousk-kola-byla-dky-vydn-Nationalkonomie-n.mp3)

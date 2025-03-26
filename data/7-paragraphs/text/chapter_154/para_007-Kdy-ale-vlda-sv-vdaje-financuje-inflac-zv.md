@@ -1,0 +1,4 @@
+
+Když ale vláda své výdaje financuje inflací – zvýšením množství peněz a úvěrovou expanzí – vyvolává všeobecný penězi způsobený nárůst cen všech komodit a služeb. Bude-li během této inflace nárůst mzdových sazeb dostatečně zaostávat za růstem cen komodit, může dojít k poklesu či úplnému omezení institucionální nezaměstnanosti. Za tento pokles či úplné vymizení je ale odpovědná skutečnost, že zaostávání růstu mezd představuje pokles reálných mzdových sazeb. Lord Keynes považoval úvěrovou expanzi za účinný způsob odstranění nezaměstnanosti. Domníval se, že se odbory nebudou bránit „postupnému a automatickému snižování reálných mzdových sazeb v důsledku rostoucích cen" tak intenzivně jako jakémukoli pokusu o snížení peněžních mezd.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_154/para_007-Kdy-ale-vlda-sv-vdaje-financuje-inflac-zv.mp3)

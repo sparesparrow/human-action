@@ -1,0 +1,4 @@
+
+Ekonomie neříká, že izolovaný vládní zásah do cen pouze jediné komodity nebo několika málo komodit je nespravedlivý, špatný nebo neproveditelný. Pouze tvrdí, že takovýto zásah vyvolává důsledky, jež jsou v rozporu s původním záměrem; že situaci nevylepšuje, nýbrž zhoršuje z pohledu vlády a těch, kteří její zásah podporují. Než vláda zasáhla, byly dané statky z pohledu vlády příliš drahé. Výsledkem stanovení maximálních cen se však jejich nabídka zmenšila či zcela zmizela. Vláda zasáhla, jelikož se domnívala, že dotčené komodity jsou velmi nepostradatelné, nutné a nezbytné. Její zásah ovšem jejich dostupné množství snížil. Z pohledu samotné vlády je proto tento zásah absurdní a nesmyslný.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_152/para_007-Ekonomie-nek-e-izolovan-vldn-zsah-do-cen.mp3)

@@ -1,0 +1,4 @@
+
+Předpokládejme, že mezinárodní instituce zvýší objem emise o určitou sumu, která jde celá do jedné země, Ruritánie. Konečným výsledkem tohoto inflačního jednání bude růst cen statků a služeb na celém světě. Situace lidí v různých zemích však může být v průběhu inflačního procesu ovlivněna různým způsobem. Obyvatelé Ruritánie jsou první skupinou obdarovanou dodatečnou manou z nebes. Mají ve svých kapsách více peněz, zatímco zbytek světa svůj podíl nových peněz ještě nedostal. Mohou si dovolit kupovat za vyšší ceny, ostatní nikoli. Obyvatelé Ruritánie proto odeberou ze světového trhu více statků než předtím. Ostatní jsou nuceni omezit svoji spotřebu, protože nemohou konkurovat vyšším cenám, jež jsou ochotni zaplatit obyvatelé Ruritánie.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_87/para_006-Pedpokldejme-e-mezinrodn-instituce-zv-obj.mp3)

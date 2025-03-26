@@ -1,0 +1,4 @@
+
+Na rozdíl od svých věhlasných současníků neměl Böhm-Bawerk pro Das Wesen dobrého slova, neboť správně chápal, jak hluboce antimengerovská je použitá teoretická metoda. Přesto také evidentně považoval Schumpetera za špičkového ekonomického teoretika. V typicky pronikavé poznámce pod čarou předložil Böhm-Bawerk zdrcující kritiku Schumpeterova pokusu odstranit v Das Wesen koncepty „příčiny" a „vysvětlení" z ekonomické teorie a nahradit je koncepty „funkce" a „popisu". Böhm-Bawerk však zakončil svou kritiku žertovnou narážkou na „věhlasného ekonomického teoretika", jenž „se nechal pomýlit používáním matematického konceptu funkce, důsledkem čehož si přestal uvědomovat nebezpečí bludného kruhu".
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_174/para_001-Na-rozdl-od-svch-vhlasnch-souasnk-neml-Bh.mp3)

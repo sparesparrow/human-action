@@ -1,0 +1,4 @@
+
+William James nazývá náboženství „citem, jednáním a zkušeností jednotlivých lidí v jejich osamělosti, pokud chápou sami sebe jako jsoucí ve vztahu k čemukoli, co mohou považovat za božské". Vyjmenovává následující přesvědčení a víru v ně považuje za charakteristiku náboženského života: že viditelný svět je částí duchovnějšího vesmíru, z něhož odvozuje svůj hlavní význam; že naším skutečným cílem je spojení se nebo harmonický vztah s tímto vyšším vesmírem; že modlitba nebo vnitřní komunikace s duchem tohoto vesmíru – ať už je to „Bůh" nebo „zákon" – je proces, při němž je skutečně vykonávána práce a přitéká duchovní energie, která vyvolává účinky – psychologické nebo materiální – ve světě jevů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_35/para_009-William-James-nazv-nboenstv-citem-jednnm.mp3)

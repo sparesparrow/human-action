@@ -1,0 +1,4 @@
+
+Kvaziteologický charakter všech kolektivistických doktrín se zračí v jejich vzájemných konfliktech. Kolektivistická doktrína neprohlašuje nadřazenost kolektivního celku v abstraktním smyslu; vždy provolává slávu určitému kolektivistickému idolu, a buď rovnou popírá existenci jiných podobných idolů, nebo je vzhledem ke svému idolu vykazuje do podřízeného a služebného postavení. Uctívači státu provolávají slávu určitému státu, tj. jejich vlastnímu; nacionalisté provolávají slávu svému vlastnímu národu. Jestliže odpadlíci napadnou jejich konkrétní program zvěstováním nadřazenosti jiného kolektivistického idolu, neuchýlí se k žádným jiným námitkám než ke stálému opakování: My máme pravdu, protože nám vnitřní hlas říká, že máme pravdu, a vy se mýlíte.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_35/para_001-Kvaziteologick-charakter-vech-kolektivistickch.mp3)

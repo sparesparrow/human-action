@@ -1,0 +1,4 @@
+
+Používat měřítko logiky na kritiku metaforického jazyka nemá smysl. Analogie a metafory vždy kulhají a jsou logicky neuspokojivé. Je obvyklé hledat nějaké základní tertium comparationis. Ale ani to není v případě naší metafory možné. Toto srovnání je totiž založeno na pojetí, které je samo o sobě chybné ve vlastním rámci pravděpodobnostního počtu, konkrétně na omylu hazardního hráče. Tvrdit, že Roosveltovy šance na vítězství jsou 9:1, zde znamená, že je Roosvelt vzhledem k nastávajícím volbám ve stejné pozici, jako je člověk, který vlastní 90 procent všech loterijních losů ve vztahu k hlavní ceně. Má se za to, že nám poměr 9:1 říká něco podstatného o výsledku jedinečného případu, který nás zajímá.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_30/para_001-Pouvat-mtko-logiky-na-kritiku-metaforickho-j.mp3)

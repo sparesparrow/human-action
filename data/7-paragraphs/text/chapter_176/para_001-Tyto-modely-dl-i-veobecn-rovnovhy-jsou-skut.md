@@ -1,0 +1,4 @@
+
+Tyto modely dílčí či všeobecné rovnováhy jsou skutečně arbitrárními konstrukcemi, které logicky předcházejí skutečná fakta. Nejsou ale pouhými „apriorními spekulacemi", protože jsou „vytvořeny s ohledem na tato fakta". Z Machlupova pohledu je „rozhodující znak" Schumpeterova metodologického postoje shrnut v následujícím Schumpeterově tvrzení: „Na jednu stranu je naše teorie ve své podstatě arbitrární, a na tom je vystavěn její systém, její hloubka a její preciznost; na druhou stranu odpovídá jevům a je jimi podmíněna, což jí samo o sobě dává obsah a význam". Netřeba připomínat, že Machlupův metodologický přístup, který vyobrazuje formulaci arbitrárních modelů jako ústřední zájem teoretického výzkumu, znamená značný odklon od příčinně-realistického Mengerova paradigmatu.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_176/para_001-Tyto-modely-dl-i-veobecn-rovnovhy-jsou-skut.mp3)

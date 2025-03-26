@@ -1,0 +1,4 @@
+
+Poté je přípustné dívat se na zákony omezující pracovní dobu jako na obdobu výnosů, kterými evropské vlády sedmnáctého, osmnáctého a počátku devatenáctého století krok za krokem snižovaly a nakonec zcela potlačily neplacenou nařízenou práci (robotu), kterou byli znevolnění rolníci povinni odvádět svým pánům, nebo jako na nařízení ulehčující práci vykonávanou vězni. Potom je zkrácení denní pracovní doby způsobené vývojem kapitalistického industrialismu považováno za vítězství vykořisťovaných placených otroků nad drsným sobectvím jejich trýznitelů. Veškeré zákony uvalující na zaměstnavatele povinnost vynaložit určité výdaje ve prospěch zaměstnanců jsou popisovány jako „sociální výhody", tj. jako velkorysost, kvůli které nemusí zaměstnanci nic obětovat.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_111/para_009-Pot-je-ppustn-dvat-se-na-zkony-omezujc-pra.mp3)

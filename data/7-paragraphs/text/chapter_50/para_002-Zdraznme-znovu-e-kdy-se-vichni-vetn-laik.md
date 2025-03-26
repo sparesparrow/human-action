@@ -1,0 +1,4 @@
+
+Zdůrazněme znovu, že když se všichni – včetně laiků – zabývají problémy určení příjmů, vždy se opírají o tento imaginární konstrukt. Nevynalezli ho ekonomové; ti ho pouze očistili od nedostatků, které jsou vlastní běžnému pohledu. Epistemologické zpracování funkčního rozdělování najdete v knihách John Bates Clark, The Distribution of Wealth (New York, 1908), str. 5, a Eugen von Böhm-Bawerk, Gesammelte Schriften, ed. F. X. Weiss (Vídeň, 1924), str. 299. Termín „rozdělování" nesmí nikoho oklamat; jeho využití v tomto kontextu je třeba vysvětlit rolí, kterou hrál v dějinách ekonomického myšlení u imaginárního konstruktu socialistického státu (viz výše na str. 120). V působení tržního hospodářství není nic, co by se dalo správně nazvat rozdělováním.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_50/para_002-Zdraznme-znovu-e-kdy-se-vichni-vetn-laik.mp3)

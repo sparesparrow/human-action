@@ -1,0 +1,4 @@
+
+Preferování a vzdávání se a volby a rozhodnutí, do nichž ústí, nejsou akty měření. Jednání neměří užitek či hodnotu; volí mezi alternativami. Neexistuje žádný abstraktní problém celkového užitku či celkové hodnoty. Neexistuje žádná myšlenková operace, která by mohla vést od hodnocení konkrétního množství či počtu věcí k určení hodnoty většího či menšího množství či počtu. Není způsob, jak kalkulovat celkovou hodnotu zásoby, pokud známe pouze hodnoty jejích částí. Neexistuje žádný způsob, jak určit hodnotu části zásoby, jestliže jediná známá hodnota je hodnota celku. Ve sféře hodnot a hodnocení neexistují žádné aritmetické operace. Neexistuje nic jako kalkulace hodnot. Hodnocení celkové zásoby dvou věcí se může lišit od hodnocení částí těchto zásob.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_30/para_001-Preferovn-a-vzdvn-se-a-volby-a-rozhodnut-do.mp3)

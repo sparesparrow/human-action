@@ -1,0 +1,4 @@
+
+Regresní teorém dokazuje, že žádný statek nemůže být použit jako prostředek směny, pokud již na samém začátku svého užití za tímto účelem neměl směnnou hodnotu kvůli svým jiným užitím. Tato skutečnost nemá významný vliv na každodenní určení kupní síly peněz vzniklé střetem nabídky peněz a poptávky po penězích ze strany lidí usilujících o držbu hotovosti. Regresní teorém netvrdí, že každý aktuální směnný poměr mezi penězi na jedné straně a statky a službami na straně druhé je historickým datem nezávislým na dnešní tržní situaci. Pouze vysvětluje, jak přichází do užívání nový prostředek směny a jak v tomto užívání zůstává. V tomto smyslu říká, že existuje historická složka kupní síly peněz.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_110/para_001-Regresn-teorm-dokazuje-e-dn-statek-neme-b.mp3)

@@ -1,0 +1,4 @@
+
+V takovém světě dokonalých technologických znalostí průkopník sestavuje plán A, podle něhož má být v malebné, ale obtížně dostupné horské oblasti postaven hotel a k němu vedoucí cesty. Při přezkoumání proveditelnosti tohoto plánu zjistí, že dostupné prostředky nejsou k jeho uskutečnění dostatečné. Když spočítá výhled ziskovosti dané investice, dojde k závěru, že očekávané tržby nejsou dost veliké na pokrytí nákladů na použitý materiál a práci a pokrytí úroku z investovaného kapitálu. Vzdá se provedení projektu A a pustí se namísto toho do jiného plánu, B. Podle něj má být hotel postaven ve snadněji dostupné oblasti, jež sice nenabízí výhody malebné krajiny z plánu A, avšak může být vybudován s nižšími náklady nebo dokončen v kratším čase.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_95/para_001-V-takovm-svt-dokonalch-technologickch-znalost.mp3)

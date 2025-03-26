@@ -1,0 +1,4 @@
+
+Takové dosažené ztráty a zisky mohou firmu motivovat, aby jednala jinak, než jak by jednala, kdyby jimi ovlivněna nebyla. Ztráty z minulosti mohou způsobit, že finanční situace společnosti bude nejistá, zejména pokud s sebou nesou zadluženost a zatěžují firmu platbami úroků a splátek jistiny. Není však správné řadit takové platby k fixním nákladům. Nemají vůbec žádný vztah k současné činnosti. Nejsou vyvolány výrobním procesem, ale metodou, kterou podnikatel v minulosti použil k zajištění kapitálu a potřebných kapitálových statků. Ve vztahu k tomu, co právě probíhá, jsou vedlejší. Mohou však příslušnou firmu donutit k takovému vedení obchodů, k jakému by se nikdy neuchýlila, kdyby byla finančně silnější.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_63/para_010-Takov-dosaen-ztrty-a-zisky-mohou-firmu-motivov.mp3)

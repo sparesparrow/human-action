@@ -14,8 +14,35 @@ This project processes the Czech translation of the book "Human Action" (Lidské
   - nebo hromadně `./generate_espeak_audio.sh` (zpracuje všechny zbývající soubory pomocí espeak-ng)
 - Regularly publishing to [youtube](https://youtube.com/playlist?list=PLaWOvDBjg6WiUcQm-yEP1RskMfPeWMKTL)
 
-## Automatizace celé pipeline (od PDF k publikaci audioknihy) na jedno tlačítko
-- tohle je cíl, ale protože většina kroků pipeline už proběhla neautomatizovaně, bude to předmětem optimalizace kódu před zpracováním následujícího titulu
+## New Architecture / Nová architektura
+
+The project now features a unified pipeline architecture with:
+
+- **Centralized configuration** using `config.py` and `config.yaml`
+- **Integrated command-line interface** for running the entire pipeline
+- **State tracking** to monitor progress and resume interrupted processing
+- **Processor adapters** for consistent interfacing between modules
+- **Parallel processing** capabilities for performance optimization
+
+### Command-line Interface / Příkazový řádek
+
+```bash
+# Run the complete pipeline
+python cli.py run
+
+# Run only a specific part of the pipeline
+python cli.py run --start chunking --end audio_generation
+
+# Force reprocessing of already completed stages
+python cli.py run --force
+
+# Check pipeline status
+python cli.py status
+
+# Reset pipeline state
+python cli.py reset
+python cli.py reset --stages pdf_extraction chunking
+```
 
 ## Setup / Nastavení
 
@@ -58,6 +85,32 @@ ANTHROPIC_API_KEY=your_anthropic_api_key
 ELEVENLABS_API_KEY=your_elevenlabs_api_key
 ```
 
+### Configuration / Konfigurace
+
+The project uses a YAML configuration file (`config.yaml`) that is automatically created if not present. You can customize:
+
+```yaml
+base_dir: "."
+directories:
+  pdf: "data/1-pdf"
+  markdown_chapters: "data/2-markdown-chapters"
+  markdown_chunks: "data/3-markdown-chunks"
+  optimized_chunks: "data/4-markdown-chunks-optimized"
+  audio_chunks: "data/5-audio-chunks-espeak"
+  audio_chapters: "data/6-audio-chapters-espeak"
+  paragraphs: "data/7-paragraphs"
+tts:
+  engine: "espeak-ng"
+  voice: "cs"
+  rate: 175
+  pitch: 50
+  volume: 100
+chunking:
+  max_chunk_size: 5000
+processing:
+  parallel_jobs: 4
+```
+
 ## Processing Pipeline / Postup zpracování
 
 ```mermaid
@@ -69,6 +122,7 @@ graph TD
     D -->|espeak_audio_chunk_generator.py| E2[Espeak Audio Chunks]
     E -->|audio_concatenator.py| F[Audio Chapters]
     E2 -->|audio_concatenator.py| F
+    F -->|paragraph_separator.py| G[Text Paragraphs]
 ```
 
 ## Directory Structure / Adresářová struktura
@@ -80,6 +134,7 @@ graph TD
 - [5-audio-chunks](./data/5-audio-chunks): Audio files generated using ElevenLabs / Zvukové soubory vygenerované pomocí ElevenLabs
 - [5-audio-chunks-espeak](./data/5-audio-chunks-espeak): Audio files generated using espeak-ng / Zvukové soubory vygenerované pomocí espeak-ng
 - [6-audio-chapters](./data/6-audio-chapters): Concatenated audio files into complete chapters / Spojené zvukové soubory do ucelených kapitol
+- [7-paragraphs](./data/7-paragraphs): Separate paragraphs for fine-grained navigation / Samostatné odstavce pro jemnější navigaci
 
 ## Modules / Moduly
 
@@ -118,9 +173,28 @@ Concatenates multiple audio chunks into complete chapter audio files.
 - **Input:** Audio chunks from `data/5-audio-chunks` or `data/5-audio-chunks-espeak`
 - **Output:** Complete chapter audio files in `data/6-audio-chapters`
 
-## Batch Processing / Hromadné zpracování
+### 6. Paragraph Separator (`separate_paragraphs.py`)
+Separates text into individual paragraphs for fine-grained navigation.
+- **Input:** Optimized markdown chunks from `data/4-markdown-chunks-optimized`
+- **Output:** Individual paragraph files in `data/7-paragraphs/text`
 
-To process all remaining files using espeak-ng, run:
+## Pipeline Components / Součásti pipeline
+
+### Configuration (`config.py`)
+Central configuration system that loads settings from YAML and creates directory structure.
+
+### Processors (`processors.py`)
+Adapter classes that provide a consistent interface between pipeline stages.
+
+### Pipeline (`pipeline.py`)
+Orchestration system that manages state, tracks progress, and executes processors in sequence.
+
+### CLI (`cli.py`)
+Command-line interface for running the pipeline with various options.
+
+## Legacy Batch Processing / Původní hromadné zpracování
+
+To process all remaining files using espeak-ng with the legacy script, run:
 
 ```bash
 ./generate_espeak_audio.sh

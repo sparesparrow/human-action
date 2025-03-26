@@ -1,0 +1,4 @@
+
+Jejich úspěšnost a prostředky jsou neustále ohrožovány nově příchozími podnikateli. Každý vynalézavý člověk se může vždy pustit do nového podnikání. Možná bude chudý, jeho zdroje omezené a jejich většina vypůjčená. Když ale uspokojí přání spotřebitelů nejlépe a nejlevněji, uspěje a utrží „nadměrný" zisk. Větší část svých zisků investuje zpět do svého podnikání, čímž umožní rychlý růst svého podniku. A právě činnosti takovýchto podnikavých zbohatlíků dávají tržnímu hospodářství jeho „dynamiku". Tito nouveaux riches jsou posly ekonomického zdokonalení. Hrozba jejich konkurence nutí staré firmy a velké korporace buď přizpůsobit své podnikání, aby sloužilo nejlepším možným způsobem veřejnosti, nebo způsobí jejich úpadek.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_160/para_007-Jejich-spnost-a-prostedky-jsou-neustle-ohroo.mp3)

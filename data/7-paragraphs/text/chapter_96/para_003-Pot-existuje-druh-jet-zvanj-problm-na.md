@@ -1,0 +1,4 @@
+
+Poté existuje druhý, ještě závažnější problém, na který však může být pohlíženo jako na jinou stránku téhož problému. Změny v peněžním vztahu mohou za určitých podmínek nejprve ovlivnit míru úroku z úvěrů na úvěrovém trhu, kterou můžeme nazvat hrubou peněžní (nebo tržní) úrokovou mírou. Mohou tyto změny v hrubé peněžní míře způsobit trvalou odchylku v ní obsažené očištěné úrokové míry od výše, jež odpovídá míře čistého úroku, tj. rozdílu mezi ohodnocením současných a budoucích statků? Mohou události na úvěrovém trhu částečně nebo zcela odstranit čistý úrok? Žádný ekonom se nebude rozpakovat odpovědět na tuto otázku záporně. Poté však vzniká další problém: Jak působení tržních sil přizpůsobuje hrubou peněžní míru ve vztahu k míře čistého úroku?
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_96/para_003-Pot-existuje-druh-jet-zvanj-problm-na.mp3)

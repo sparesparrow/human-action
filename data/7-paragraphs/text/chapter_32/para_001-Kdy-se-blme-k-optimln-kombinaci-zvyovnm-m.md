@@ -1,0 +1,4 @@
+
+Když se blížíme k optimální kombinaci zvyšováním množství jediného faktoru při konstantním množství faktorů ostatních, pak mohou jednotkové výnosy variabilního faktoru růst buď proporcionálně, nebo dokonce rychleji. Stroj může, je-li obsluhován 2 pracovníky, produkovat p, při obsluze 3 pracovníky 3p, 4 pracovníky 6p, 5 pracovníky 7p, 6 pracovníky rovněž 7p. V takovém případě je optimální výstup na pracovníka 6/4 dosahován při obsluze stroje 4 pracovníky, zatímco ostatní kombinace přinášejí 1/2p, p, 7/5p a 7/6p. Pokud například místo 2 zaměstnáme 3 nebo 4 pracovníky, vzrostou výnosy rychleji, než odpovídá nárůstu pracovníků. Nerostou v poměru 2:3:4, nýbrž v poměru 1:3:6. Sledujeme rostoucí výnosy na pracovníka. Nejedná se však o nic jiného než o převrácený zákon klesajících výnosů.
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_32/para_001-Kdy-se-blme-k-optimln-kombinaci-zvyovnm-m.mp3)
