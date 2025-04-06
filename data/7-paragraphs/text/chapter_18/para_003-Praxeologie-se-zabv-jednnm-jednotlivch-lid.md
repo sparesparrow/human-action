@@ -1,4 +1,1 @@
-
-Praxeologie se zabývá jednáním jednotlivých lidí. Teprve až v průběhu svého zkoumání dochází k poznání o mezilidské spolupráci a pojednává o společenském jednání jako o zvláštním případu univerzálnější kategorie lidského jednání jako takového.
-
-[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_18/para_003-Praxeologie-se-zabv-jednnm-jednotlivch-lid.mp3)
+Praxeologie se zabývá jednáním jednotlivých lidí.<break time="0.4s" /> Teprve až v průběhu svého zkoumání<break time="0.2s" /> dochází k poznání o mezilidské spolupráci<break time="0.2s" /> a pojednává o společenském jednání<break time="0.2s" /> jako o zvláštním případu univerzálnější kategorie lidského jednání jako takového.
