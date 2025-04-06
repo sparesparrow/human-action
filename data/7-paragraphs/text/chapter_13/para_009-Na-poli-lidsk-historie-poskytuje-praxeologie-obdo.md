@@ -1,4 +1,1 @@
-
 Na poli lidské historie poskytuje praxeologie obdobné omezení, jež experimentálně testované teorie uvalují na pokusy interpretovat a osvětlit jednotlivé fyzikální, chemické a fyziologické události. Praxeologie je teoretickou a systematickou, nikoli historickou vědou. Jejím předmětem je lidské jednání jako takové, bez ohledu na jednotlivé náhodné okolnosti konkrétních aktů. Její poznání je čistě formální a obecné, bez vztahu k věcnému obsahu a jednotlivým charakteristikám konkrétního případu. Jejím cílem je poznání platné pro všechny případy, v nichž podmínky přesně odpovídají předpokladům a z nich vyvozeným závěrům. Její tvrzení a výroky nejsou odvozeny ze zkušenosti. Mají stejně jako výroky matematiky a logiky apriorní povahu.
-
-[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_13/para_009-Na-poli-lidsk-historie-poskytuje-praxeologie-obdo.mp3)
