@@ -99,33 +99,63 @@ class MarkdownChunker:
         Returns:
             List of chunks
         """
-        # TODO: Implement intelligent text splitting
-        # This is a placeholder for the actual implementation
-
-        # For now, simply split by max_chunk_size, preserving paragraphs
-        paragraphs = content.split("\n\n")
+        # Split content more intelligently, trying to break at sentence boundaries
+        # near the max_chunk_size.
+        logger.info(f"Splitting content for chapter {chapter_num} (size: {len(content)}) into chunks of max size {self.max_chunk_size}")
         chunks = []
-        current_chunk = ""
+        current_pos = 0
+        # Regex for sentence endings (punctuation followed by whitespace)
+        sentence_ends = re.compile(r'[.?!]\s+')
 
-        for paragraph in paragraphs:
-            # If adding this paragraph would exceed the max size and we already
-            # have content, start a new chunk
-            if (
-                len(current_chunk) + len(paragraph) > self.max_chunk_size
-                and current_chunk
-            ):
-                chunks.append(current_chunk)
-                current_chunk = paragraph + "\n\n"
+        while current_pos < len(content):
+            end_pos = min(current_pos + self.max_chunk_size, len(content))
+            chunk_content = content[current_pos:end_pos]
+
+            # If this is the last part of the content, just add it
+            if end_pos == len(content):
+                chunks.append(chunk_content.strip())
+                break
+
+            # Try to find the last sentence ending before the proposed end_pos
+            best_split = -1
+            # Search backwards from end_pos for a sentence end
+            # Use rfind for efficiency, searching in the last ~200 chars
+            search_start = max(0, end_pos - 200)
+            relevant_text = content[search_start:end_pos]
+            matches = list(sentence_ends.finditer(relevant_text))
+
+            if matches:
+                # Find the last match end position relative to the original content
+                last_match_end = search_start + matches[-1].end()
+                best_split = last_match_end
+                # logger.debug(f"Found sentence split point at {best_split}")
             else:
-                current_chunk += paragraph + "\n\n"
+                # If no sentence end found nearby, look for the last double newline (paragraph end)
+                # Search backwards from end_pos for \n\n
+                para_split = content.rfind('\n\n', current_pos, end_pos)
+                if para_split != -1:
+                    best_split = para_split + 2 # Include the double newline in previous chunk
+                    # logger.debug(f"Found paragraph split point at {best_split}")
+                else:
+                    # If no good split point, just split at max_chunk_size
+                    best_split = end_pos
+                    logger.warning(f"Chapter {chapter_num}: Could not find ideal split point near char {end_pos}. Splitting at max size.")
 
-        # Add the last chunk if it's not empty
-        if current_chunk:
-            chunks.append(current_chunk)
+            # If best_split is too close to current_pos (e.g. < 100 chars), force split at end_pos to avoid tiny chunks
+            if best_split <= current_pos + 100 and end_pos != len(content):
+                 logger.warning(f"Chapter {chapter_num}: Split point {best_split} too close to start {current_pos}. Forcing split at {end_pos}.")
+                 best_split = end_pos
+
+            final_chunk = content[current_pos:best_split].strip()
+            if final_chunk:
+                 chunks.append(final_chunk)
+            # else:
+            #      logger.debug(f"Skipping empty chunk creation at pos {current_pos} to {best_split}")
+            current_pos = best_split
 
         # Store chunks for this chapter
         self.chunks[chapter_num] = chunks
-        logger.info(f"Split chapter {chapter_num} into {len(chunks)} chunks")
+        logger.info(f"Split chapter {chapter_num} into {len(chunks)} chunks using intelligent splitting.")
 
         return chunks
 

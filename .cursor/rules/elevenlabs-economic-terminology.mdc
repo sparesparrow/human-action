@@ -1,0 +1,131 @@
+---
+description: "Creates standardized pronunciation guidelines for Austrian economics terminology in Lidské Jednání (Human Action), using XML-based lexeme definitions with IPA phonetics and aliases to ensure consistent and accurate pronunciation of specialized terms, economist names, and theoretical concepts throughout the narration."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+alwaysApply: false
+---
+
+# Economic Terminology Pronunciation Rule
+
+This rule focuses on specialized handling of economic terminology in Lidské Jednání (Human Action) to ensure proper pronunciation by ElevenLabs TTS engine. Economics terms often pose particular challenges due to their specialized nature, foreign origins, and technical specificity.
+
+## Terminology Categories
+
+### 1. Austrian Economics Terms
+
+Economic concepts specific to the Austrian School require consistent pronunciation:
+
+```xml
+<lexeme>
+  <grapheme>laissez-faire</grapheme>
+  <alias>lesé fér</alias>
+</lexeme>
+
+<lexeme>
+  <grapheme>praxeologie</grapheme>
+  <phoneme alphabet="ipa">praksɛologijɛ</phoneme>
+</lexeme>
+
+<lexeme>
+  <grapheme>a priori</grapheme>
+  <alias>a priori</alias>
+</lexeme>
+```
+
+### 2. Economic Principles and Theories
+
+For key economic concepts, provide specific pronunciation guidance:
+
+```xml
+<lexeme>
+  <grapheme>subjektivní teorie hodnoty</grapheme>
+  <alias>subjektivní teorie hodnoty</alias>
+</lexeme>
+
+<lexeme>
+  <grapheme>marginální užitek</grapheme>
+  <alias>marginální užitek</alias>
+</lexeme>
+
+<lexeme>
+  <grapheme>Grenznutzen</grapheme>
+  <alias>grencnucen</alias>
+</lexeme>
+```
+
+### 3. Economist Names
+
+Proper pronunciation of economists and authors cited in the text:
+
+```xml
+<lexeme>
+  <grapheme>Ludwig von Mises</grapheme>
+  <alias>ludvig fon mízes</alias>
+</lexeme>
+
+<lexeme>
+  <grapheme>Friedrich A. Hayek</grapheme>
+  <alias>frýdrich hajek</alias>
+</lexeme>
+
+<lexeme>
+  <grapheme>Eugen von Böhm-Bawerk</grapheme>
+  <alias>ojgen fon bém baverk</alias>
+</lexeme>
+```
+
+## Implementation
+
+When processing economic texts for ElevenLabs:
+
+1. **Dictionary Creation**: Generate a specialized PLS file containing all economic terminology specific to Human Action.
+2. **Terminology Mapping**: Map all economic terms to appropriate Czech pronunciation.
+3. **Consistency Check**: Ensure terms maintain consistent pronunciation throughout the text.
+4. **Context Integration**: Add appropriate pauses around complex terminology for better comprehension.
+
+## Economic Term Pronunciation Dictionary Template
+
+Create a pronunciation dictionary following this structure:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0" 
+  xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+  http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+  alphabet="ipa" xml:lang="cs-CZ">
+  
+  <!-- Austrian Economics Terms -->
+  <lexeme>
+    <grapheme>praxeologie</grapheme>
+    <phoneme>praksɛologijɛ</phoneme>
+  </lexeme>
+  
+  <!-- Economic Principles -->
+  <lexeme>
+    <grapheme>ekonomická kalkulace</grapheme>
+    <alias>ekonomická kalkulace</alias>
+  </lexeme>
+  
+  <!-- Economists -->
+  <lexeme>
+    <grapheme>Mises</grapheme>
+    <alias>mízes</alias>
+  </lexeme>
+  
+  <!-- Add all relevant terms -->
+</lexicon>
+```
+
+## Implementation for AI Agent
+
+The AI agent should:
+
+1. Identify economic terms in each chapter of Human Action
+2. Create or update the `economic_terms.pls` file with all identified terms
+3. Apply correct pronunciation notation for each term
+4. Add appropriate break tags around complex economic terms
+5. Document all terms added to the pronunciation dictionary
+
+Following this specialized rule will ensure consistent and correct pronunciation of economic terminology in the narration, enhancing the comprehension and professionalism of the final audio product. 

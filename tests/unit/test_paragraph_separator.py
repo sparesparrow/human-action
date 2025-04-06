@@ -6,9 +6,7 @@ from pathlib import Path
 
 import pytest
 
-# We need to add the scripts directory to the path
-sys.path.append(str(Path(__file__).parent.parent.parent / "scripts"))
-from separate_paragraphs import ParagraphSeparator
+from scripts.separate_paragraphs import ParagraphSeparator
 
 
 class TestParagraphSeparator:
@@ -17,7 +15,8 @@ class TestParagraphSeparator:
         """Test separating paragraphs in markdown content"""
         # Create a test file with paragraphs
         input_dir = test_config.markdown_chapters_dir
-        output_dir = test_config.markdown_paragraphs_dir
+        output_dir = test_config.paragraphs_dir
+        output_dir.mkdir(exist_ok=True)
 
         test_file = input_dir / "test_chapter.md"
         with open(test_file, "w", encoding="utf-8") as f:
@@ -62,7 +61,8 @@ class TestParagraphSeparator:
         """Test processing all markdown files in a directory"""
         # Create test files
         input_dir = test_config.markdown_chapters_dir
-        output_dir = test_config.markdown_paragraphs_dir
+        output_dir = test_config.paragraphs_dir
+        output_dir.mkdir(exist_ok=True)
 
         # Create two test chapters
         for i in range(2):

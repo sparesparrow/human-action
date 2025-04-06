@@ -1,0 +1,158 @@
+---
+description: "Implements a data-driven scoring system for content complexity analysis (terminology density, sentence structure, content significance, foreign elements) with weighted decision matrices that strategically allocate premium synthesis resources to high-impact content sections while maintaining overall quality and maximizing cost efficiency."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+alwaysApply: false
+---
+
+# ElevenLabs Cost Optimization Analysis Rule
+
+This rule establishes a systematic approach for analyzing content to determine the optimal allocation of ElevenLabs API usage based on content complexity, importance, and potential quality impact.
+
+## Content Complexity Analysis
+
+The AI agent should assess paragraphs based on these complexity factors:
+
+### 1. Terminology Density
+
+Score content based on specialized terminology frequency:
+
+| Density Level | Description | Score |
+|---------------|-------------|-------|
+| High | >5 specialized terms per 100 words | 5 |
+| Medium | 2-5 specialized terms per 100 words | 3 |
+| Low | <2 specialized terms per 100 words | 1 |
+
+### 2. Sentence Complexity
+
+Analyze sentence structure complexity:
+
+| Complexity Level | Description | Score |
+|------------------|-------------|-------|
+| High | Long sentences (>30 words), multiple clauses, complex arguments | 5 |
+| Medium | Mixed sentence lengths, some complex structures | 3 |
+| Low | Mostly short, straightforward sentences | 1 |
+
+### 3. Content Significance
+
+Assess the conceptual importance of the content:
+
+| Significance Level | Description | Score |
+|-------------------|-------------|-------|
+| High | Key arguments, chapter introductions/conclusions, critical definitions | 5 |
+| Medium | Supporting evidence, explanations of established concepts | 3 |
+| Low | Background information, tangential examples | 1 |
+
+### 4. Foreign Language Elements
+
+Evaluate presence of non-Czech words or phrases:
+
+| Level | Description | Score |
+|-------|-------------|-------|
+| High | Multiple foreign terms or phrases requiring specific pronunciation | 5 |
+| Medium | Some foreign terms but in common usage | 3 |
+| Low | Few or no foreign terms | 1 |
+
+## Decision Matrix for API Usage
+
+Create a weighted scoring model to determine which paragraphs should use ElevenLabs API:
+
+```
+Total Score = (Terminology × 1.0) + (Sentence Complexity × 0.8) + (Significance × 1.2) + (Foreign Elements × 0.7)
+```
+
+Decision thresholds:
+- **High Priority (ElevenLabs)**: Score ≥ 12
+- **Medium Priority (Case-by-case)**: Score 8-11
+- **Low Priority (Espeak)**: Score < 8
+
+## Implementation Process
+
+The AI agent should follow this process for each chapter:
+
+### 1. Content Analysis
+
+For each paragraph:
+- Calculate scores for each complexity factor
+- Compute weighted total score
+- Assign preliminary priority level
+
+Example scoring for a paragraph:
+```
+Paragraph: chapter_42/para_013-Neptelsk-tok-byla-praxe-bn-pro-nelidsk-pe.md
+- Terminology Density: 2 terms/100 words = Medium (3)
+- Sentence Complexity: Multiple long sentences = High (5)
+- Content Significance: Key historical context = Medium (3)
+- Foreign Elements: No foreign terms = Low (1)
+- Weighted Score: (3×1.0) + (5×0.8) + (3×1.2) + (1×0.7) = 11.5
+- Preliminary Priority: Medium (nearly High)
+```
+
+### 2. Chapter-Level Optimization
+
+After scoring all paragraphs in a chapter:
+
+1. **Budget Allocation**:
+   - Determine target percentage of paragraphs for ElevenLabs (e.g., 30%)
+   - Select top-scoring paragraphs to meet that target
+   - Adjust thresholds as needed based on chapter characteristics
+
+2. **Context Consideration**:
+   - Identify paragraph sequences where consistent quality is important
+   - Consider upgrading medium-priority paragraphs that are between high-priority ones
+   - Ensure chapter introductions and conclusions receive appropriate priority
+
+3. **API Usage Estimation**:
+   - Calculate character count for high-priority paragraphs
+   - Estimate API costs based on current pricing
+   - Document potential savings compared to full ElevenLabs usage
+
+### 3. Documentation and Implementation
+
+Create a structured allocation file for each chapter:
+
+```json
+{
+  "chapter_id": "42",
+  "title": "Chapter Title",
+  "total_paragraphs": 65,
+  "elevenlabs_paragraphs": 20,
+  "espeak_paragraphs": 45,
+  "estimated_character_count": 25000,
+  "estimated_cost_savings": "X%",
+  "allocations": {
+    "para_001-Jednajc-jednotlivec-bu-odhaduje-zmny-kter-na.md": {
+      "engine": "elevenlabs",
+      "score": 14.2,
+      "rationale": "Chapter introduction with key concepts"
+    },
+    "para_002-...": {
+      "engine": "espeak",
+      "score": 6.8,
+      "rationale": "Standard narrative content"
+    }
+    // Additional paragraphs...
+  }
+}
+```
+
+## Continuous Optimization
+
+For ongoing cost optimization:
+
+1. **Feedback Integration**:
+   - Gather user feedback on audio quality
+   - Identify areas where quality differences are most noticeable
+   - Adjust scoring weights based on feedback
+
+2. **Batch Processing Strategy**:
+   - Group high-priority paragraphs for efficient API processing
+   - Process in parallel where possible to reduce overhead
+   - Monitor usage patterns to identify additional optimization opportunities
+
+3. **Quality-Cost Analysis**:
+   - Document quality impact of selective ElevenLabs usage
+   - Calculate actual cost savings achieved
+   - Refine strategy based on real-world results
+
+By implementing this structured analysis approach, the AI agent will maximize the impact of ElevenLabs API usage while controlling costs, ensuring that complex, significant content receives the highest quality narration while more straightforward content uses cost-effective alternatives. 

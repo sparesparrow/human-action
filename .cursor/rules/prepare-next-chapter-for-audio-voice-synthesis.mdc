@@ -1,0 +1,30 @@
+---
+description: "Creates detailed planning documentation for upcoming audio synthesis by analyzing available text chapters, comparing with existing audio assets, and generating structured chapter plans with specific paragraph selections, processing requirements, and implementation instructions for the next production cycle."
+globs:
+  - "data/7-paragraphs/text/**/*.md"  # Targets relevant markdown files containing chapter content
+alwaysApply: false
+---
+
+# Chapter Audio Synthesis Planning Rule
+
+The objective of this rule is to prepare for future audio voice synthesis by creating a comprehensive plan. It should:
+
+1. Scan available markdown files in `data/7-paragraphs/text/` to identify chapters pending audio processing.
+2. Compare with existing audio chapters in `data/6-audio-chapters/` to avoid redundant work.
+3. Draft a plan that specifies which sections will be included in the next release.
+4. Save this plan in a dedicated markdown file (e.g., "next-chapter-audio-plan.md") with clear metadata and instructions.
+5. Ensure the documentation facilitates smooth integration with the ElevenLabs API.
+
+## Instructions for AI Agent
+
+When applying this rule:
+
+1. Generate a list of chapter directories in `data/7-paragraphs/text/` that don't have corresponding audio files in `data/6-audio-chapters/`.
+2. Create or update the `next-chapter-audio-plan.md` file with:
+   - Current date timestamp
+   - Clear objective statement
+   - Numbered list of chapters for processing
+   - Detailed processing instructions
+3. For each chapter, verify that paragraph files within the chapter directory are properly formatted and ready for processing.
+4. Include a "Processing Instructions" section with specific steps for audio generation and verification.
+5. Commit the updated plan to the repository before proceeding with audio generation.

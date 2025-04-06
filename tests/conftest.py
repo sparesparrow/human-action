@@ -26,20 +26,20 @@ def test_config(temp_dir):
     # Create a class with the same attributes expected by tests
     class TestConfig:
         def __init__(self, base_dir):
-            self.base_dir = Path(base_dir)
-            self.pdf_dir = self.base_dir / "pdf"
-            self.markdown_chapters_dir = self.base_dir / "markdown_chapters"
-            self.markdown_chunks_dir = self.base_dir / "markdown_chunks"
-            self.markdown_paragraphs_dir = self.base_dir / "paragraphs"
-            self.audio_chunks_dir = self.base_dir / "audio_chunks"
-            self.audio_book_dir = self.base_dir / "audio_book"
+            self.base_dir: Path = Path(base_dir)
+            self.pdf_dir: Path = self.base_dir / "pdf"
+            self.markdown_chapters_dir: Path = self.base_dir / "markdown_chapters"
+            self.markdown_chunks_dir: Path = self.base_dir / "markdown_chunks"
+            self.paragraphs_dir: Path = self.base_dir / "paragraphs"
+            self.audio_chunks_dir: Path = self.base_dir / "audio_chunks"
+            self.audio_book_dir: Path = self.base_dir / "audio_book"
 
             # Create all directories
             for directory in [
                 self.pdf_dir,
                 self.markdown_chapters_dir,
                 self.markdown_chunks_dir,
-                self.markdown_paragraphs_dir,
+                self.paragraphs_dir,
                 self.audio_chunks_dir,
                 self.audio_book_dir,
             ]:

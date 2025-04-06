@@ -32,6 +32,7 @@ mypy = "^1.10.1"
 types-PyYAML = "^6.0.12.12" # Type hints for PyYAML
 types-markdown = "^3.6.0.20240703" # Type hints for Markdown
 # Add type hints for other libraries if mypy reports missing stubs
+pyright = "^1.1.398"
 
 [tool.black]
 line-length = 88

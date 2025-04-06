@@ -1,0 +1,76 @@
+---
+description: "Specifies critical text preparation techniques for ElevenLabs API input including pause insertion strategies, pronunciation guidance mechanisms, emotion and tone enhancement methods, and specialized formatting patterns to maximize audio quality on first generation while reducing API costs."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+  - "data/4-markdown-chunks-optimized/*.md"
+alwaysApply: false
+---
+
+# ElevenLabs Audio Optimization Rule
+
+This rule ensures optimal text preparation for the ElevenLabs API to produce high-quality narration on the first attempt, reducing the need for regeneration and optimizing costs.
+
+## Text Formatting Guidelines
+
+When preparing text for ElevenLabs narration:
+
+### 1. Pause Control
+
+Use standard break tags for natural pauses and pacing:
+```
+<break time="0.5s" />  <!-- Short pause -->
+<break time="1s" />    <!-- Medium pause -->
+<break time="2s" />    <!-- Long pause -->
+```
+
+- Use sparingly (excessive breaks can cause instability)
+- Place between sentences or paragraphs where natural pauses would occur
+- Never exceed 3 seconds for a single break
+
+### 2. Pronunciation Control
+
+For difficult words, proper nouns, or technical terms:
+
+```
+<!-- Using alias tags for replacement -->
+<alias name="specialized-term">replacement pronunciation</alias>
+```
+
+For Czech-specific pronunciation challenges, consider approximating with phonetically similar text.
+
+### 3. Emotion and Tone
+
+The model infers emotion from context. Enhance emotion by:
+
+- Including narrative context: "she said excitedly" or "he whispered sadly"
+- Using appropriate punctuation (!, ?, ...)
+- Using dialogue tags to indicate tone
+
+Note: Any emotional guidance text will be spoken by the model and must be manually removed in post-production if undesired.
+
+### 4. Pacing and Flow
+
+- Write in a natural, narrative style
+- Use ellipses (...) for hesitation
+- Use dashes (—) for interruptions
+- Group related sentences in cohesive paragraphs
+
+### 5. Audio Quality Optimization
+
+- Avoid very long paragraphs (split if >1000 characters)
+- Ensure proper capitalization and punctuation
+- Remove footnotes, page numbers, and irrelevant metadata
+- Join hyphenated words at line breaks
+
+## Implementation for AI Agent
+
+When processing text for ElevenLabs narration:
+
+1. Review each paragraph for pronunciation challenges
+2. Add appropriate break tags between sentences and paragraphs
+3. Insert pronunciation guidance for difficult terms
+4. Ensure natural narrative flow with appropriate pauses
+5. Verify formatting meets ElevenLabs standards before API submission
+6. Test a small sample before processing large batches
+
+By following these guidelines, the generated audio will have significantly higher quality on first generation, reducing the need for costly regeneration. 

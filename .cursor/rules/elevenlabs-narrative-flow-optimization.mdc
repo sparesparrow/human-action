@@ -1,0 +1,133 @@
+---
+description: "Optimizes narrative delivery through strategic SSML tag placement for natural audio flow, including techniques for breaking long sentences, implementing hierarchical emphasis, adjusting content-specific pacing, enhancing rhetorical patterns, and creating natural transitions to significantly improve listener comprehension and engagement."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+alwaysApply: false
+---
+
+# Narrative Flow Optimization Rule
+
+This rule focuses on optimizing text structure for more natural and engaging audio narration using ElevenLabs API. Proper pacing, pauses, and sentence flow significantly impact the listener's comprehension and engagement with complex philosophical and economic content.
+
+## Sentence Structure Optimization
+
+### 1. Long Sentence Handling
+
+For sentences longer than 30 words:
+
+- Break into logical segments using `<break>` tags at natural clause boundaries
+- Insert breaks after commas in complex clauses
+- Consider restructuring extremely long sentences into multiple sentences
+
+Example:
+```
+Ekonomická kalkulace je tak efektivní<break time="0.2s" />, jak jen může být v rámci peněžní ekonomiky<break time="0.5s" />, přičemž samotná efektivita peněžní ekonomiky závisí na stabilitě kupní síly peněz.
+```
+
+### 2. Hierarchical Emphasis
+
+For hierarchical content (e.g., main points with supporting details):
+
+- Add slight emphasis to main points
+- Create breathing room between points with appropriate pauses
+- Use pacing variation to indicate hierarchy
+
+Example:
+```
+<emphasis level="moderate">Existují dva různé druhy spolupráce ve společnosti</emphasis><break time="0.5s" />: první je založen na smluvním vztahu<break time="0.3s" />, druhý na hegemonickém vztahu.
+```
+
+## Pacing Controls
+
+### 1. Content-Appropriate Pacing
+
+Adjust pacing based on content type:
+
+- **Complex arguments**: Slower pace with more breaks
+- **Descriptive passages**: Moderate, flowing pace
+- **Key conclusions**: Deliberate pace with emphasis
+
+Example for complex content:
+```
+<prosody rate="95%">Avšak informace poskytovaná technologií by dostačovala rozhodujícímu jednotlivci<break time="0.3s" /> pouze pokud by splnění lidských potřeb nebylo ohroženo vzácností faktorů produkce.</prosody>
+```
+
+### 2. Transitional Passages
+
+For transitions between concepts or sections:
+
+- Add longer pauses (0.5s to 1s) between distinct sections
+- Use prosody to adjust pace during topic transitions
+- Signal new topics with slight changes in tone
+
+Example:
+```
+<break time="0.8s" /><prosody rate="90%">Nyní se zaměříme na ekonomickou kalkulaci.</prosody><break time="0.5s" />
+```
+
+## Rhetorical Enhancement
+
+### 1. Question and Answer Patterns
+
+For rhetorical questions and their answers:
+
+- Add appropriate pauses after questions
+- Slightly adjust tone for questions
+- Use emphasis for important answers
+
+Example:
+```
+Co je příčinou tržních cen?<break time="0.7s" /> <emphasis level="moderate">Jsou jí individuální hodnocení spotřebních statků.</emphasis>
+```
+
+### 2. Contrast and Comparison
+
+For passages comparing contrasting ideas:
+
+- Use pacing and pause patterns to highlight comparison
+- Add slight emphasis on contrasting elements
+- Create rhythm to emphasize parallelism
+
+Example:
+```
+V předkapitalistických dobách<break time="0.3s" /> byla mnohem větší část produkce spotřebována výrobci samotnými<break time="0.4s" />; v moderní tržní ekonomice<break time="0.3s" /> je většina produkce vyráběna pro uspokojení potřeb jiných lidí.
+```
+
+## Implementation Instructions
+
+When optimizing text for narrative flow, the AI agent should:
+
+1. **Analyze Sentence Structure**:
+   - Identify long or complex sentences
+   - Find natural break points in complex content
+   - Mark hierarchical relationships between ideas
+
+2. **Apply Pacing Controls**:
+   - Add `<prosody>` tags to adjust speed for different content types
+   - Insert appropriate `<break>` tags between sections and sentences
+   - Use emphasis tags for important concepts
+
+3. **Enhance Rhetorical Patterns**:
+   - Identify questions, comparisons, and contrasts
+   - Add appropriate pauses and emphasis
+   - Ensure natural flow through transitions
+
+4. **Test Sample Passages**:
+   - Generate test audio for representative passages
+   - Verify natural-sounding results
+   - Refine approach based on results
+
+By following these guidelines, the AI agent will create narration that flows naturally, emphasizes key points appropriately, and maintains listener engagement throughout complex philosophical and economic content.
+
+## Optimization Checklist
+
+Before submitting to ElevenLabs API, verify:
+
+- [ ] Long sentences have appropriate breaks
+- [ ] Section transitions have longer pauses
+- [ ] Important concepts receive appropriate emphasis
+- [ ] Pacing variations match content complexity
+- [ ] Questions and contrasts have natural rhythm
+- [ ] Overall flow sounds conversational rather than mechanical
+
+Implementation of these narrative flow optimizations will significantly enhance the listening experience for complex content, improving comprehension and reducing listener fatigue. 

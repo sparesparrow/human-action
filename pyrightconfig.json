@@ -1,0 +1,13 @@
+{
+  "include": ["*.py"],
+  "exclude": [
+    "./.venv/",
+    "data", 
+    "tests", 
+    "scripts", 
+    "**/__pycache__"
+  ],
+  "pythonVersion": "3.10",
+  "typeCheckingMode": "basic",
+  "useLibraryCodeForTypes": true
+} 

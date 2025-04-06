@@ -1,0 +1,91 @@
+---
+description: "Establishes a two-phase audio production strategy that prioritizes complete content coverage with Espeak initially, followed by targeted quality upgrades using ElevenLabs for high-priority sections based on engagement data, allowing for incremental quality improvements while managing costs and optimizing resource allocation over time."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+  - "data/6-audio-chapters/*.mp3"
+alwaysApply: false
+---
+
+# Progressive Enhancement Strategy Rule
+
+This rule establishes a phased approach to audio generation that balances rapid content availability with strategic quality improvements over time.
+
+## Strategy Overview
+
+The progressive enhancement approach has two phases:
+1. **Phase 1:** Generate all content using Espeak for immediate availability
+2. **Phase 2:** Selectively upgrade high-priority content to ElevenLabs quality based on defined criteria
+
+## Phase 1: Complete Coverage with Espeak
+
+### Instructions for AI Agent
+
+For initial audio generation:
+
+1. Process all pending chapters from `next-chapter-audio-plan.md` using Espeak
+2. Apply basic optimizations compatible with Espeak:
+   - Correct pronunciation of difficult terms where possible
+   - Remove irrelevant formatting and metadata
+   - Ensure proper sentence boundaries
+3. Generate audio files for all paragraphs in `data/5-audio-chunks-espeak/`
+4. Concatenate into complete chapter files in `data/6-audio-chapters/`
+5. Document completion in `espeak_progress.json`
+6. Create a separate tracking file `upgrade_candidates.json` with potential candidates for ElevenLabs upgrade
+
+## Phase 2: Strategic ElevenLabs Upgrades
+
+### Upgrade Selection Criteria
+
+Prioritize content for ElevenLabs upgrade when it:
+- Receives high user engagement or specific feedback
+- Contains critical conceptual explanations
+- Includes complex terminology or pronunciation challenges
+- Functions as chapter introduction or conclusion
+- Contains dialogue or quotations requiring natural intonation
+
+### Implementation Instructions
+
+When upgrading selected content:
+
+1. **Selection**:
+   - Create an upgrade plan listing specific paragraphs for enhancement
+   - Document upgrade selections in `upgrade_plan.json` with rationale for each
+   ```json
+   {
+     "chapter_42": {
+       "paragraph_001.md": {
+         "reason": "Chapter introduction with key concepts",
+         "priority": "high",
+         "status": "pending"
+       }
+     }
+   }
+   ```
+
+2. **Optimization**:
+   - Apply all ElevenLabs optimizations from `elevenlabs-audio-optimization.mdc` to selected paragraphs
+   - Prepare text with appropriate break tags, pronunciation guidance, and emotional context
+
+3. **Processing**:
+   - Generate ElevenLabs audio only for selected paragraphs
+   - Store in `data/5-audio-chunks/` with clear naming convention
+   - Update `upgrade_plan.json` with completion status
+
+4. **Replacement**:
+   - Re-concatenate chapter audio, replacing Espeak versions of upgraded paragraphs with ElevenLabs versions
+   - Ensure smooth transitions between different audio sources
+   - Normalize volume across the entire chapter
+
+5. **Verification**:
+   - Verify quality improvements in upgraded sections
+   - Document effectiveness of upgrades for future selection refinement
+
+## Cost Management
+
+This strategy optimizes ElevenLabs API usage by:
+- Providing complete content coverage without initial API costs
+- Targeting API usage only to highest-value content
+- Spreading API costs over time based on priorities
+- Allowing for data-driven upgrade decisions based on user engagement
+
+The AI agent should track and document all upgrades, associated costs, and quality improvements to refine the strategy over time. 

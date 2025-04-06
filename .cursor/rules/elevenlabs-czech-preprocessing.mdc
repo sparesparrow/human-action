@@ -1,0 +1,97 @@
+---
+description: "Addresses Czech language-specific challenges in ElevenLabs synthesis through diacritical verification, phonetic guidance for proper nouns, specialized economic terminology handling, and language-appropriate sentence rhythm optimization to ensure accurate pronunciation and natural-sounding output in Czech narration."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+alwaysApply: false
+---
+
+# ElevenLabs Czech Text Preprocessing Rule
+
+This rule focuses on specific optimizations for Czech language narration using the ElevenLabs API to ensure high-quality results on first generation without requiring costly regeneration.
+
+## Czech-Specific Preprocessing Guidelines
+
+### 1. Diacritical Marks Verification
+
+- Ensure all Czech-specific characters (á, č, ď, é, ě, í, ň, ó, ř, š, ť, ú, ů, ý, ž) are properly encoded
+- Verify that no diacritical marks are missing, especially in technical terms
+- Example: "ekonomie" should be "ekonomie" (if that's the correct form)
+
+### 2. Proper Noun Pronunciation
+
+For proper nouns, especially non-Czech names, add pronunciation guidance:
+
+```
+<!-- For foreign proper nouns -->
+<alias name="Hayek">hajek</alias>
+<alias name="von Mises">fon mízes</alias>
+```
+
+### 3. Economic and Technical Term Handling
+
+For economic or technical terms that might be mispronounced:
+
+```
+<!-- For technical economic terms -->
+<alias name="Grenznutzen">grenčnucn</alias>
+<alias name="laissez-faire">lesé fér</alias>
+```
+
+### 4. Sentence Rhythm and Flow
+
+Czech has specific rhythmic patterns that may need enhancement:
+
+- Add natural breaks at clause boundaries, especially for long sentences
+- Consider Czech-specific speech patterns and pacing
+- Example: "Pokud měnová politika centrální banky <break time="0.3s" /> vede k inflaci, <break time="0.5s" /> pak následkem toho mohou být..."
+
+### 5. Number and Date Formatting
+
+Format numbers and dates for proper Czech pronunciation:
+
+- Write numbers with spaces for thousands (e.g., "1 000" not "1000")
+- Format years as full numbers ("1935" not "nineteen thirty-five")
+- Format dates in Czech order: day-month-year
+
+### 6. Quoted Text and Foreign Phrases
+
+For quotes or foreign phrases:
+
+- Indicate language context for proper pronunciation
+- Consider adding phonetic guidance for non-Czech quotes
+- Example: "Smith ve svém díle 'Wealth of Nations' <alias name="Wealth of Nations">velθ of nejšns</alias> uvádí..."
+
+### 7. Common Mispronunciations to Address
+
+Preemptively correct these common problems:
+
+- "a vs. á" distinction in appropriate contexts
+- "i vs. y" pronunciation in Czech words
+- Proper stress patterns on first syllables
+- "ř" pronunciation in difficult consonant clusters
+- "ě" pronunciation after labial consonants
+
+## Implementation for AI Agent
+
+When preprocessing Czech text for ElevenLabs:
+
+1. Scan text for all proper nouns and technical terms
+2. Create a consistent pronunciation dictionary for recurring terms
+3. Add appropriate break tags based on Czech sentence structure
+4. Verify all diacritical marks are correctly applied
+5. Apply pronunciation guidance for foreign or technical terminology
+6. Test sample passages to verify natural Czech speech patterns
+
+## Quality Verification Checklist
+
+Before final submission to ElevenLabs API:
+
+- [ ] All diacritical marks properly applied
+- [ ] Proper nouns have pronunciation guidance
+- [ ] Technical terms have consistent pronunciation
+- [ ] Natural sentence breaks added
+- [ ] Numbers and dates formatted for Czech pronunciation
+- [ ] Foreign phrases have pronunciation guidance
+- [ ] Sample test of complex passages performed
+
+By following these Czech-specific preprocessing guidelines, the AI agent will produce significantly higher quality Czech narration with ElevenLabs on the first generation attempt. 

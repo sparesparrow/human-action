@@ -1,0 +1,77 @@
+---
+description: "Implements an intelligent dual-engine approach that selectively applies ElevenLabs premium synthesis for high-value content sections (definitions, key arguments, technical terms) while using Espeak for standard narrative sections, with specific allocation guidelines, integration workflows, and output verification procedures."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+alwaysApply: false
+---
+
+# Hybrid Quality Strategy Rule
+
+This rule establishes a strategic approach for balancing audio quality and cost by using both ElevenLabs and Espeak engines for different parts of the content.
+
+## Strategy Overview
+
+The hybrid approach:
+1. Uses high-quality ElevenLabs API for critical content sections
+2. Uses free Espeak engine for standard narrative sections
+3. Combines both outputs into seamless chapter audio files
+
+## Quality Allocation Guidelines
+
+### ElevenLabs Priority Content (High Quality)
+
+Allocate to ElevenLabs when the content:
+- Introduces key concepts or chapter themes (introductions)
+- Explains critical definitions or technical terms
+- Contains important quotations or dialogue
+- Presents crucial arguments or conclusions (summaries)
+- Requires emotional nuance or varied intonation
+- Contains complex Czech pronunciation challenges
+
+### Espeak Standard Content (Cost-Effective)
+
+Allocate to Espeak when the content:
+- Provides standard narrative flow between key points
+- Contains supplementary examples or background information
+- Presents straightforward descriptive text
+- Contains lists or enumerations of items
+- Appears in appendices, references, or footnotes
+
+## Implementation Instructions
+
+The AI agent should:
+
+1. **Preparation**:
+   - Create an allocation plan for each chapter in JSON format (e.g., `chapter_XX/allocation.json`)
+   - Structure the JSON file to map each paragraph to either "elevenlabs" or "espeak"
+   ```json
+   {
+     "paragraph_001.md": "elevenlabs",
+     "paragraph_002.md": "espeak",
+     "paragraph_003.md": "elevenlabs"
+   }
+   ```
+
+2. **Analysis**:
+   - Analyze each paragraph based on the quality allocation guidelines
+   - Estimate potential cost savings vs. quality impact for each decision
+   - Document rationale for ElevenLabs selections
+
+3. **Processing**:
+   - Generate audio for ElevenLabs paragraphs first, using optimizations from `elevenlabs-audio-optimization.mdc`
+   - Generate audio for Espeak paragraphs using standard settings
+   - Store outputs in their respective directories:
+     - ElevenLabs: `data/5-audio-chunks/`
+     - Espeak: `data/5-audio-chunks-espeak/`
+
+4. **Concatenation**:
+   - Combine audio files from both sources according to the allocation plan
+   - Ensure volume normalization between different audio sources
+   - Output final chapter audio to `data/6-audio-chapters/`
+
+5. **Documentation**:
+   - Track cost savings achieved through hybrid approach
+   - Document quality assessment of final output
+   - Recommend adjustments to allocation strategy based on results
+
+By following this hybrid strategy, the AI agent will balance quality and cost considerations while ensuring the most critical content receives the highest quality synthesis. 

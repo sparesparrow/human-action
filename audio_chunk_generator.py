@@ -21,6 +21,7 @@ from pathlib import Path
 try:
     from elevenlabs import play, save
     from elevenlabs.client import ElevenLabs
+    from elevenlabs import VoiceSettings
 except ImportError:
     print("ElevenLabs SDK není nainstalován. Instalujte pomocí: pip install elevenlabs")
     sys.exit(1)
@@ -95,12 +96,12 @@ def process_markdown_file(
             text=text_content,
             voice_id=voice_id,
             model_id=model_id,
-            voice_settings={
-                "stability": stability,
-                "similarity_boost": similarity_boost,
-                "style": style,
-                "use_speaker_boost": True,
-            },
+            voice_settings=VoiceSettings(
+                stability=stability,
+                similarity_boost=similarity_boost,
+                style=style,
+                use_speaker_boost=True,
+            ),
         )
 
         # Save the audio file

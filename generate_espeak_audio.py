@@ -23,7 +23,7 @@ from typing import Any, Dict, List, Optional, Tuple, Union
 
 # Try to import optional modules with fallbacks
 try:
-    from tqdm import tqdm
+    from tqdm import tqdm as tqdm_module
 except ImportError:
     # Define a simple tqdm replacement if the module is not available
     class tqdm:
@@ -32,7 +32,7 @@ except ImportError:
             print(f"Processing {len(iterable)} files...")
             return iterable
 
-    tqdm = tqdm.tqdm
+    tqdm_module = tqdm.tqdm # Assign fallback to the same name
 
 try:
     import espeakng
@@ -126,12 +126,12 @@ def process_markdown_file(
                 # Initialize the ESpeakNG instance
                 esng = espeakng.Speaker()
                 esng.voice = voice
-                esng.speed = rate
+                esng.speed = rate # type: ignore
                 esng.pitch = pitch
-                esng.volume = volume
+                esng.volume = volume # type: ignore
 
                 # Save to WAV file
-                esng.save_to_file(text_content, str(wav_output_file))
+                esng.save_to_file(text_content, str(wav_output_file)) # type: ignore
 
                 # Convert WAV to MP3 using ffmpeg (better quality and smaller file)
                 logger.info(f"Converting WAV to MP3...")
@@ -406,7 +406,7 @@ def main():
             "last_run": None,
         }
     else:
-        progress = load_progress()
+        progress = load_progress(Path(PROGRESS_FILE)) # Explicitly pass argument
 
     logger.info(
         f"Loaded progress: {progress['total_processed']} processed, {progress['total_failed']} failed"
@@ -429,7 +429,7 @@ def main():
     success_count = 0
     fail_count = 0
 
-    for file in tqdm(remaining_files, desc="Processing files"):
+    for file in tqdm_module(remaining_files, desc="Processing files"):
         logger.info(f"Processing file: {file}")
 
         success, result = process_markdown_file(

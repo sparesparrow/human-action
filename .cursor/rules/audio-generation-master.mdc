@@ -1,0 +1,105 @@
+---
+description: "Comprehensive control rule for ElevenLabs audio synthesis that defines strategy selection criteria, coordinates all preprocessing stages, and implements workflow sequencing to produce cost-effective, high-quality narration with appropriate resource allocation."
+globs:
+  - "data/**/*"
+alwaysApply: false
+---
+
+# Audio Synthesis Master Rule
+
+This master rule coordinates all audio generation strategies and optimizations for producing high-quality narration while managing costs effectively. It serves as the entry point for the AI agent to understand the complete audio generation workflow.
+
+## Available Strategies
+
+The project supports three main strategies for audio generation:
+
+1. **Full ElevenLabs Generation** - Highest quality, highest cost
+   - All content generated with ElevenLabs API
+   - Uses optimizations from `elevenlabs-audio-optimization.mdc`
+   - Suitable for critical content or small batches
+
+2. **Hybrid Quality Strategy** - Balanced quality and cost
+   - Critical content with ElevenLabs, standard content with Espeak
+   - Follows allocation in `hybrid-quality-strategy.mdc`
+   - Suitable for medium-sized batches with varying content importance
+
+3. **Progressive Enhancement Strategy** - Initial coverage with gradual quality improvement
+   - Initial generation with Espeak for all content
+   - Selective upgrades to ElevenLabs over time
+   - Follows approach in `progressive-enhancement-strategy.mdc`
+   - Suitable for large batches or when rapid availability is prioritized
+
+## Strategy Selection Guidelines
+
+Select the appropriate strategy based on these factors:
+
+- **Budget Constraints:** 
+  - High budget → Full ElevenLabs
+  - Medium budget → Hybrid Quality
+  - Limited budget → Progressive Enhancement
+
+- **Timeline Requirements:**
+  - Immediate need → Espeak or Progressive Enhancement
+  - Flexible timeline → Hybrid or Full ElevenLabs
+
+- **Content Characteristics:**
+  - Highly technical content → Full ElevenLabs or Hybrid
+  - Standard narrative content → Progressive Enhancement acceptable
+
+## Workflow Coordination
+
+### 1. Planning Phase
+
+- Use `prepare-next-chapter-for-audio-voice-synthesis.mdc` to identify pending chapters
+- Select appropriate strategy based on above guidelines
+- Create necessary allocation or upgrade plan documents
+
+### 2. Preprocessing Phase
+
+- Apply `elevenlabs-czech-preprocessing.mdc` for all content destined for ElevenLabs
+- Implement general text optimizations for all content
+- Create pronunciation dictionaries for recurring terms
+
+### 3. Generation Phase
+
+- For ElevenLabs content:
+  - Apply all optimization techniques from `elevenlabs-audio-optimization.mdc`
+  - Process in small batches to verify quality before full generation
+  - Store in `data/5-audio-chunks/`
+
+- For Espeak content:
+  - Apply basic text cleaning and formatting
+  - Process using established Espeak parameters
+  - Store in `data/5-audio-chunks-espeak/`
+
+### 4. Assembly Phase
+
+- Concatenate audio following the appropriate strategy:
+  - Full ElevenLabs: All from ElevenLabs directory
+  - Hybrid: Mix from both directories according to allocation plan
+  - Progressive: Initially all Espeak, later replacing selected segments
+
+- Normalize volume across all sources
+- Verify transitions between different audio sources
+
+### 5. Documentation Phase
+
+- Update progress tracking files:
+  - `espeak_progress.json`
+  - `elevenlabs_progress.json` (if applicable)
+  - `upgrade_plan.json` (for Progressive strategy)
+  
+- Document costs, quality assessments, and improvement recommendations
+
+## Implementation for AI Agent
+
+The AI agent should:
+
+1. Identify the most appropriate strategy based on batch size, content importance, and budget considerations
+2. Follow the corresponding strategy-specific rule file
+3. Implement all preprocessing steps from the Czech-specific rule
+4. Apply ElevenLabs optimizations to all content using that API
+5. Execute the generation workflow per the selected strategy
+6. Document all decisions, allocations, and results
+
+By integrating all these specialized rules, the AI agent will balance quality and cost concerns while ensuring optimal narration quality from ElevenLabs API on the first attempt. 

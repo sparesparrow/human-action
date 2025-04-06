@@ -1,0 +1,194 @@
+---
+description: "Automates the creation and maintenance of structured pronunciation dictionaries in PLS format, including procedures for term extraction, classification by type, appropriate phonetic notation (IPA/alias/CMU), and organized dictionary generation with proper versioning to ensure pronunciation consistency across chapter boundaries."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+alwaysApply: false
+---
+
+# Pronunciation Dictionary Generator Rule
+
+This rule establishes a systematic approach for creating comprehensive pronunciation dictionaries to enhance ElevenLabs narration quality. By centralizing pronunciation definitions, it ensures consistency across all chapters and reduces the need for inline pronunciation guidance.
+
+## Dictionary Types and Structure
+
+### 1. Master Dictionary
+
+Create a master PLS file containing recurring terms across all chapters:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0" 
+  xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+  http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+  alphabet="ipa" xml:lang="cs-CZ">
+  
+  <!-- Common Terms -->
+  <!-- Names -->
+  <!-- Technical Terms -->
+  
+</lexicon>
+```
+
+### 2. Chapter-Specific Dictionaries
+
+For terms unique to specific chapters, create chapter-specific dictionaries:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0" 
+  xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+  http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+  alphabet="ipa" xml:lang="cs-CZ">
+  
+  <!-- Chapter-Specific Terms -->
+  
+</lexicon>
+```
+
+## Term Extraction Process
+
+### 1. Automated Term Identification
+
+The AI agent should identify these term categories:
+
+- **Proper nouns**: Names of economists, historical figures
+- **Foreign terms**: Non-Czech words and phrases
+- **Technical terminology**: Economic and philosophical concepts
+- **Acronyms and abbreviations**: Items that might be mispronounced
+- **Inconsistently pronounced words**: Words with variable pronunciation
+
+Example extraction logic:
+```
+1. Scan all paragraph files
+2. Identify capitalized terms (potential proper nouns)
+3. Identify terms in italics or quotes (potential foreign terms)
+4. Cross-reference with a list of known economic/philosophical terms
+5. Identify strings of capital letters (potential acronyms)
+```
+
+### 2. Term Classification and Pronunciation
+
+For each extracted term, determine the appropriate handling:
+
+- **Simple Alias**: Use for straightforward word replacements
+- **IPA Notation**: Use for precise phonetic control
+- **CMU Arpabet**: Alternative option for phonetic control
+
+Example classification logic:
+```
+1. For proper nouns: Check against name database
+2. For foreign terms: Apply language-specific rules
+3. For technical terms: Apply domain-specific rules
+4. For acronyms: Determine whether to spell out or pronounce as word
+```
+
+## Dictionary Generation
+
+### 1. Master Dictionary Organization
+
+Structure the master dictionary by categories:
+
+```xml
+<!-- PEOPLE -->
+<lexeme>
+  <grapheme>Mises</grapheme>
+  <alias>mízes</alias>
+</lexeme>
+
+<!-- CONCEPTS -->
+<lexeme>
+  <grapheme>praxeologie</grapheme>
+  <phoneme alphabet="ipa">praksɛologijɛ</phoneme>
+</lexeme>
+
+<!-- FOREIGN TERMS -->
+<lexeme>
+  <grapheme>laissez-faire</grapheme>
+  <alias>lesé fér</alias>
+</lexeme>
+```
+
+### 2. Dictionary Versioning
+
+Maintain versioned dictionaries with change tracking:
+
+```
+lidske_jednani_dict_v1.0.pls
+lidske_jednani_dict_v1.1.pls
+chapter_42_dict_v1.0.pls
+```
+
+## Implementation Instructions
+
+The AI agent should follow this workflow:
+
+1. **Initial Scan**:
+   - Process all chapter paragraphs to extract potential terms
+   - Create a consolidated list of unique terms
+
+2. **Term Analysis**:
+   - Research correct pronunciations for each term
+   - Determine appropriate handling (alias vs. phonetic)
+   - Document source and rationale for each pronunciation decision
+
+3. **Dictionary Creation**:
+   - Generate structured PLS file with all terms
+   - Validate XML structure
+   - Organize by logical categories
+
+4. **Testing and Refinement**:
+   - Test dictionary with sample paragraphs
+   - Identify any pronunciation issues
+   - Update dictionary as needed
+
+5. **Documentation**:
+   - Create usage documentation for dictionary
+   - Include version information
+   - Document terms excluded and why
+
+## Dictionary Format Template
+
+Use this template for dictionary generation:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0" 
+  xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+  http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+  alphabet="ipa" xml:lang="cs-CZ">
+
+  <!-- Metadata -->
+  <!-- Generated for: Lidské Jednání (Human Action) -->
+  <!-- Version: 1.0 -->
+  <!-- Date: YYYY-MM-DD -->
+  <!-- Contains: X terms -->
+  
+  <!-- SECTION: NAMES -->
+  <lexeme>
+    <grapheme>Example Name</grapheme>
+    <alias>Example Pronunciation</alias>
+  </lexeme>
+  
+  <!-- SECTION: ECONOMIC TERMS -->
+  <lexeme>
+    <grapheme>Example Term</grapheme>
+    <phoneme>Example IPA Pronunciation</phoneme>
+  </lexeme>
+  
+  <!-- SECTION: FOREIGN PHRASES -->
+  <lexeme>
+    <grapheme>Example Phrase</grapheme>
+    <alias>Example Pronunciation</alias>
+  </lexeme>
+  
+  <!-- Add more sections as needed -->
+</lexicon>
+```
+
+By systematically generating and maintaining pronunciation dictionaries, the AI agent will ensure consistent, high-quality narration across all chapters of Lidské Jednání, significantly reducing the need for regeneration due to pronunciation errors. 

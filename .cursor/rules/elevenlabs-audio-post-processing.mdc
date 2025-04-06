@@ -1,0 +1,166 @@
+---
+description: "Implements precise FFmpeg command sequences and audio engineering workflows for enhancing raw synthesized audio, with engine-specific processing chains (normalization, compression, EQ, silence padding) and concatenation protocols that create professional-quality output from both ElevenLabs and Espeak sources."
+globs:
+  - "data/*/audio/**/*.mp3"
+  - "data/*/audio/**/*.wav"
+alwaysApply: false
+---
+
+# ElevenLabs Audio Post-Processing Rule
+
+This rule establishes standardized post-processing workflows to enhance the quality and consistency of generated audio files, with specific adjustments based on the audio generation engine used.
+
+## Audio Enhancement Workflows
+
+The AI agent should apply appropriate post-processing techniques based on the source of the audio:
+
+### ElevenLabs Audio Enhancement
+
+For audio generated with ElevenLabs API:
+
+1. **Normalize audio levels** to ensure consistent volume:
+   ```bash
+   ffmpeg -i input.mp3 -filter:a "loudnorm=I=-16:LRA=11:TP=-1.5" -ar 44100 normalized_output.mp3
+   ```
+
+2. **Add appropriate silence** at beginning and end:
+   ```bash
+   ffmpeg -i normalized_output.mp3 -af "adelay=500|500,apad=pad_dur=0.7" padded_output.mp3
+   ```
+
+3. **Apply subtle compression** to improve clarity:
+   ```bash
+   ffmpeg -i padded_output.mp3 -filter:a "compand=0.3|0.3:1|1:-90/-60|-60/-40|-40/-30|-20/-20:6:0:-90:0.2" compressed_output.mp3
+   ```
+
+4. **Apply subtle equalization** to enhance voice clarity:
+   ```bash
+   ffmpeg -i compressed_output.mp3 -af "equalizer=f=100:width_type=h:width=200:g=-2,equalizer=f=2500:width_type=h:width=1000:g=3,equalizer=f=6000:width_type=h:width=2000:g=1" eq_output.mp3
+   ```
+
+### Espeak Audio Enhancement
+
+For audio generated with Espeak:
+
+1. **Normalize audio levels** with more aggressive settings:
+   ```bash
+   ffmpeg -i input.mp3 -filter:a "loudnorm=I=-14:LRA=7:TP=-1.5" -ar 44100 normalized_output.mp3
+   ```
+
+2. **Add appropriate silence** at beginning and end:
+   ```bash
+   ffmpeg -i normalized_output.mp3 -af "adelay=500|500,apad=pad_dur=0.7" padded_output.mp3
+   ```
+
+3. **Apply stronger compression** to improve clarity:
+   ```bash
+   ffmpeg -i padded_output.mp3 -filter:a "compand=0.2|0.2:1|1:-90/-60|-60/-40|-40/-30|-20/-20:5:0:-90:0.1" compressed_output.mp3
+   ```
+
+4. **Apply substantial equalization** to enhance naturalness:
+   ```bash
+   ffmpeg -i compressed_output.mp3 -af "equalizer=f=100:width_type=h:width=200:g=-3,equalizer=f=300:width_type=h:width=200:g=2,equalizer=f=1200:width_type=h:width=800:g=4,equalizer=f=3500:width_type=h:width=1000:g=2,equalizer=f=10000:width_type=h:width=3000:g=-1" eq_output.mp3
+   ```
+
+5. **Apply subtle reverb** to add depth:
+   ```bash
+   ffmpeg -i eq_output.mp3 -af "aecho=0.8:0.7:40:0.5" reverb_output.mp3
+   ```
+
+## Chapter Compilation Process
+
+When combining paragraph audio files into complete chapters:
+
+1. **Prepare file list** for concatenation:
+   ```bash
+   # Create a file list for concatenation
+   for f in chapter_XX/para_*.mp3; do echo "file '$f'" >> filelist.txt; done
+   ```
+
+2. **Concatenate files** with crossfades:
+   ```bash
+   ffmpeg -f concat -safe 0 -i filelist.txt -filter_complex "acrossfade=d=0.5:c1=tri:c2=tri" chapter_XX_combined.mp3
+   ```
+
+3. **Apply final normalization** to the combined file:
+   ```bash
+   ffmpeg -i chapter_XX_combined.mp3 -filter:a "loudnorm=I=-16:LRA=11:TP=-1.5" -ar 44100 chapter_XX_final.mp3
+   ```
+
+4. **Add chapter markers** (for supported formats):
+   ```bash
+   ffmpeg -i chapter_XX_final.mp3 -map_metadata 0 -metadata title="Chapter XX: Chapter Title" -c copy chapter_XX_metadata.mp3
+   ```
+
+## Implementation Instructions
+
+The AI agent should follow this workflow when processing audio files:
+
+### 1. Engine Detection
+
+Determine the audio source engine:
+- Check metadata in audio files or filename patterns
+- Apply appropriate enhancement workflow based on source
+
+### 2. Progressive Processing
+
+Process each audio file in stages:
+- Apply each filter sequentially
+- Create intermediate files for complex processing
+- Validate quality at each stage
+
+### 3. Batch Processing
+
+For efficient processing of multiple files:
+```bash
+#!/bin/bash
+# Example batch script for processing ElevenLabs files
+mkdir -p processed
+for file in *.mp3; do
+  base=$(basename "$file" .mp3)
+  echo "Processing $file..."
+  
+  # Apply full ElevenLabs enhancement chain
+  ffmpeg -i "$file" -filter:a "loudnorm=I=-16:LRA=11:TP=-1.5" -ar 44100 temp1.mp3
+  ffmpeg -i temp1.mp3 -af "adelay=500|500,apad=pad_dur=0.7" temp2.mp3
+  ffmpeg -i temp2.mp3 -filter:a "compand=0.3|0.3:1|1:-90/-60|-60/-40|-40/-30|-20/-20:6:0:-90:0.2" temp3.mp3
+  ffmpeg -i temp3.mp3 -af "equalizer=f=100:width_type=h:width=200:g=-2,equalizer=f=2500:width_type=h:width=1000:g=3,equalizer=f=6000:width_type=h:width=2000:g=1" "processed/${base}_enhanced.mp3"
+  
+  # Cleanup temp files
+  rm temp*.mp3
+done
+```
+
+### 4. Quality Validation
+
+Implement a quality check process:
+- Compare audio metrics before and after processing
+- Log any significant changes in duration, volume, or frequency response
+- Flag files that may need manual intervention
+
+## Advanced Audio Processing
+
+For specialized content requiring additional enhancement:
+
+### 1. Speech Clarity Enhancement
+
+For technical content with specialized terminology:
+```bash
+ffmpeg -i input.mp3 -af "highpass=f=200,lowpass=f=3000,equalizer=f=1000:width_type=h:width=800:g=4" clarity_enhanced.mp3
+```
+
+### 2. Multi-voice Balancing
+
+For audio with multiple voices or dialogue:
+```bash
+ffmpeg -i input.mp3 -filter:a "dynaudnorm=f=150:g=15:p=1:m=5" balanced_output.mp3
+```
+
+### 3. File Size Optimization
+
+For efficient storage/streaming while maintaining quality:
+```bash
+ffmpeg -i input.mp3 -codec:a libmp3lame -qscale:a 2 -ar 44100 -ac 1 optimized_output.mp3
+```
+
+By implementing these standardized post-processing workflows, the AI agent will significantly enhance the quality and consistency of all generated audio, creating a professional listening experience regardless of the original generation engine. 

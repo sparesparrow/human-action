@@ -15,6 +15,13 @@ from typing import Any, Dict, List, Optional, Union
 
 from config import Config
 
+# Import processors
+import pdf_extractor
+from audio_concatenator import AudioConcatenator
+from chunker_splitter import MarkdownChunker
+from espeak_audio_chunk_generator import EspeakAudioChunkGenerator
+from scripts.separate_paragraphs import ParagraphSeparator
+
 # Initialize logging
 logging.basicConfig(
     level=logging.INFO,
@@ -101,10 +108,9 @@ class Pipeline:
     def run_pipeline(self, start_stage=None, end_stage=None, **kwargs):
         """Run the complete pipeline or a section of it"""
         stages = [
-            ("pdf_extraction", PDFProcessor),
+            ("pdf_extraction", pdf_extractor.PDFProcessor),
             ("chunking", MarkdownChunker),
-            ("optimization", BatchProcessor),
-            ("audio_generation", AudioGenerator),
+            ("audio_generation", EspeakAudioChunkGenerator),
             ("audio_concatenation", AudioConcatenator),
             ("paragraph_separation", ParagraphSeparator),
         ]
@@ -215,16 +221,18 @@ class Pipeline:
 
         # Skip steps that are already completed
         steps_to_run = []
-        for step in steps:
-            if step not in self.state.get("completed_steps", {}):
-                steps_to_run.append(step)
+        if steps:
+            for step in steps:
+                if step not in self.state.get("completed_steps", {}):
+                    steps_to_run.append(step)
 
         # Import processors here to avoid circular imports
-        import pdf_extractor
-        from audio_concatenator import AudioConcatenator
-        from chunker_splitter import MarkdownChunker
-        from espeak_audio_chunk_generator import EspeakAudioChunkGenerator
-        from scripts.separate_paragraphs import ParagraphSeparator
+        # Removed imports - now done at top level
+        # import pdf_extractor
+        # from audio_concatenator import AudioConcatenator
+        # from chunker_splitter import MarkdownChunker
+        # from espeak_audio_chunk_generator import EspeakAudioChunkGenerator
+        # from scripts.separate_paragraphs import ParagraphSeparator
 
         # Map of step names to processor classes
         processor_map = {
@@ -248,9 +256,9 @@ class Pipeline:
                 else:
                     processor = processor_class(
                         self.config.get_path(step + "_input")
-                        or self.config.markdown_chunks_dir,
+                        or self.config.markdown_chunks_dir, # type: ignore
                         self.config.get_path(step + "_output")
-                        or self.config.audio_chunks_dir,
+                        or self.config.audio_chunks_dir, # type: ignore
                     )
                     result = processor.process()
 
@@ -267,7 +275,7 @@ class Pipeline:
                 self._save_state()
 
         # Return the result of the last step
-        return result or self.config.audio_book_dir / "audiobook.mp3"
+        return result or self.config.audio_book_dir / "audiobook.mp3" # type: ignore
 
     def run_full_pipeline(self, input_file):
         """
@@ -300,5 +308,5 @@ class Pipeline:
         from espeak_audio_chunk_generator import EspeakAudioChunkGenerator
 
         return EspeakAudioChunkGenerator(
-            self.config.markdown_chunks_dir, self.config.audio_chunks_dir
+            self.config.markdown_chunks_dir, self.config.audio_chunks_dir # type: ignore
         )

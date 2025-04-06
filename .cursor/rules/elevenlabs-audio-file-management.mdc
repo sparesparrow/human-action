@@ -1,0 +1,329 @@
+---
+description: "Defines systematic file organization with standardized naming schemas, metadata tagging protocols, and directory hierarchies for managing audio assets generated with ElevenLabs and Espeak, including version tracking, quality monitoring, and automated processing workflows."
+globs:
+  - "data/*/audio/**/*.mp3"
+  - "data/*/audio/**/*.wav"
+alwaysApply: false
+---
+
+# ElevenLabs Audio File Management Rule
+
+This rule provides a comprehensive framework for organizing, naming, and managing audio files generated through ElevenLabs API and Espeak, ensuring consistency and enabling efficient tracking and accessibility.
+
+## File Naming Conventions
+
+Implement standardized naming conventions for all generated audio files:
+
+### 1. Paragraph Audio Files
+
+Format: `[chapter-number]_[paragraph-id]_[engine-code]_[voice-id]_[version].[ext]`
+
+Components:
+- **chapter-number**: Two-digit chapter number (e.g., 01, 42)
+- **paragraph-id**: Original paragraph ID or sequential number
+- **engine-code**: Engine identifier (`el` for ElevenLabs, `es` for Espeak)
+- **voice-id**: Abbreviated voice identifier
+- **version**: Version number (`v1`, `v2`, etc.)
+- **ext**: File extension (`mp3` or `wav`)
+
+Examples:
+```
+42_para_013_el_adam_v1.mp3
+42_para_013_es_male1_v1.mp3
+```
+
+### 2. Chapter Audio Files
+
+Format: `ch[chapter-number]_[title-slug]_[engine-code]_[voice-id]_[version].[ext]`
+
+Components:
+- **chapter-number**: Two-digit chapter number
+- **title-slug**: Abbreviated chapter title in kebab-case
+- **engine-code**: Engine identifier
+- **voice-id**: Abbreviated voice identifier
+- **version**: Version number
+- **ext**: File extension
+
+Examples:
+```
+ch42_human-cooperation_el_adam_v1.mp3
+ch42_human-cooperation_hybrid_v2.mp3
+```
+
+### 3. Special Content Files
+
+Format: `[content-type]_[identifier]_[engine-code]_[voice-id]_[version].[ext]`
+
+Components:
+- **content-type**: Type of content (`intro`, `summary`, `glossary`)
+- **identifier**: Specific identifier for the content
+- **engine-code**: Engine identifier
+- **voice-id**: Abbreviated voice identifier
+- **version**: Version number
+- **ext**: File extension
+
+Examples:
+```
+intro_book_el_rachel_v1.mp3
+glossary_economics_el_adam_v2.mp3
+```
+
+## Directory Structure
+
+Organize audio files in a standardized directory structure:
+
+```
+data/
+└── audio/
+    ├── raw/                   # Unprocessed audio files
+    │   ├── elevenlabs/        # Raw ElevenLabs files
+    │   │   └── chapter_XX/    # Chapter-specific directories
+    │   └── espeak/            # Raw Espeak files
+    │       └── chapter_XX/    # Chapter-specific directories
+    ├── processed/             # Post-processed audio files
+    │   ├── paragraphs/        # Individual paragraph files
+    │   │   └── chapter_XX/    # Chapter-specific directories
+    │   ├── chapters/          # Combined chapter files
+    │   └── book/              # Complete book files
+    └── hybrid/                # Mixed-engine content
+        └── chapter_XX/        # Chapter-specific directories
+```
+
+## Metadata Standards
+
+Embed consistent metadata in all audio files:
+
+### 1. Basic Metadata Tags
+
+Always include these ID3 tags (MP3) or equivalent:
+
+- **Title**: `[Chapter X: Title] - [Paragraph Y]` or appropriate level
+- **Artist**: "ElevenLabs" or "Espeak"
+- **Album**: "Lidské Jednání" (or appropriate book title)
+- **Track Number**: Sequential paragraph number within chapter
+- **Year**: Year of generation
+- **Genre**: "Audiobook" or "Economics"
+- **Comment**: Generation parameters and version information
+
+### 2. Extended Metadata Tags
+
+Include when applicable:
+
+- **Composer**: Original text author
+- **Publisher**: Publishing organization
+- **BPM**: Speech rate used
+- **Grouping**: Processing chain applied
+- **Lyrics**: Source text (if space permits)
+
+### 3. Custom Metadata
+
+Create custom metadata fields for:
+
+- **Engine**: Full engine identifier
+- **Voice**: Complete voice identifier
+- **Generation Date**: ISO format date
+- **Processing Applied**: List of post-processing steps
+- **Source Text Hash**: Hash of source text for verification
+- **Generation Parameters**: JSON of all generation parameters
+
+## File Management Workflows
+
+Implement standardized workflows for audio file generation and management:
+
+### 1. Generation Tracking Registry
+
+Maintain a JSON registry file for all generated audio:
+
+```json
+{
+  "paragraphs": {
+    "chapter_42": {
+      "para_013": {
+        "elevenlabs": {
+          "latest_version": "v2",
+          "versions": {
+            "v1": {
+              "file": "42_para_013_el_adam_v1.mp3",
+              "generated_at": "2023-07-15T14:32:01Z",
+              "voice_id": "Adam",
+              "model": "eleven_multilingual_v2",
+              "character_count": 423,
+              "duration_sec": 31.2,
+              "parameters": {
+                "stability": 0.75,
+                "similarity_boost": 0.65
+              },
+              "processing_applied": ["normalization", "compression"]
+            },
+            "v2": {
+              "file": "42_para_013_el_adam_v2.mp3",
+              "generated_at": "2023-07-16T09:12:45Z",
+              "voice_id": "Adam",
+              "model": "eleven_multilingual_v2",
+              "character_count": 437,
+              "duration_sec": 32.5,
+              "parameters": {
+                "stability": 0.8,
+                "similarity_boost": 0.7
+              },
+              "processing_applied": ["normalization", "compression", "eq"]
+            }
+          }
+        },
+        "espeak": {
+          "latest_version": "v1",
+          "versions": {
+            "v1": {
+              "file": "42_para_013_es_male1_v1.mp3",
+              "generated_at": "2023-07-14T10:15:22Z",
+              "voice_id": "male1",
+              "character_count": 423,
+              "duration_sec": 28.7,
+              "parameters": {
+                "rate": 175,
+                "pitch": 50,
+                "language": "cs"
+              },
+              "processing_applied": ["normalization", "eq", "reverb"]
+            }
+          }
+        }
+      }
+      // Additional paragraphs
+    }
+    // Additional chapters
+  }
+}
+```
+
+### 2. Version Control
+
+Implement versioning practices:
+
+- **Track all versions**: Never delete previous versions until content is finalized
+- **Version naming**: Use sequential version numbers for each generation attempt
+- **Diff tracking**: Document changes between versions
+- **Regression testing**: Compare quality between versions
+
+### 3. Batch Management
+
+For efficient processing of multiple files:
+
+- **Creation date grouping**: Group files by generation date for batch processing
+- **Chapter-based organization**: Process files by chapter to maintain consistency
+- **Quality tier grouping**: Group files by quality/engine for consistent processing
+- **Status tagging**: Tag files with processing status (raw, processed, verified)
+
+## Implementation Instructions
+
+The AI agent should follow these steps for audio file management:
+
+### 1. Initial Setup
+
+Before generating audio:
+
+- Create the standardized directory structure
+- Initialize tracking registry
+- Establish metadata templates
+
+### 2. File Generation and Processing
+
+When processing audio:
+
+1. **Generate with standardized naming**: Use conventions for all new files
+2. **Store raw files**: Save original files before any processing
+3. **Apply metadata**: Add complete metadata to all files
+4. **Process according to rules**: Apply appropriate post-processing
+5. **Update registry**: Document all details in the tracking registry
+
+### 3. Organization Maintenance
+
+For ongoing management:
+
+1. **Periodic audits**: Verify file organization matches standards
+2. **Clean temporary files**: Remove temporary processing files
+3. **Consolidate versions**: Archive older versions after finalization
+4. **Update documentation**: Keep generation records current
+
+### 4. Quality Control
+
+For maintaining audio quality:
+
+1. **Sample testing**: Regularly test random samples
+2. **Consistency verification**: Ensure consistent quality across chapters
+3. **Feedback integration**: Document quality issues for future improvement
+
+## Automation Scripts
+
+The AI agent should use these scripts for consistent management:
+
+### 1. Metadata Application Script
+
+```bash
+#!/bin/bash
+# Example script to apply metadata to MP3 files
+
+for file in chapter_*/para_*.mp3; do
+  # Extract information from filename
+  chapter=$(echo $file | grep -o 'chapter_[0-9]*' | cut -d'_' -f2)
+  para=$(echo $file | grep -o 'para_[0-9]*' | cut -d'_' -f2)
+  engine=$(echo $file | grep -o 'el\|es')
+  
+  # Apply metadata
+  if [[ $engine == "el" ]]; then
+    artist="ElevenLabs"
+  else
+    artist="Espeak"
+  fi
+  
+  # Get information from registry if available
+  if [ -f "registry.json" ]; then
+    voice=$(jq -r ".paragraphs.chapter_${chapter}.para_${para}.${engine}.latest_version" registry.json)
+  else
+    voice="unknown"
+  fi
+  
+  # Apply ID3 tags
+  id3v2 --artist="$artist" \
+         --album="Lidské Jednání" \
+         --title="Chapter $chapter - Paragraph $para" \
+         --track="$para" \
+         --genre="Audiobook" \
+         --comment="Generated on $(date)" \
+         "$file"
+done
+```
+
+### 2. File Organization Audit Script
+
+```bash
+#!/bin/bash
+# Script to audit file organization
+
+function check_directory() {
+  local dir=$1
+  local pattern=$2
+  local name=$3
+  
+  echo "Checking $name files..."
+  invalid_files=$(find "$dir" -type f -name "*.mp3" ! -name "$pattern" | wc -l)
+  
+  if [ $invalid_files -gt 0 ]; then
+    echo "WARNING: Found $invalid_files files with invalid naming in $dir"
+    find "$dir" -type f -name "*.mp3" ! -name "$pattern" -print
+  else
+    echo "All $name files follow naming convention."
+  fi
+}
+
+# Check ElevenLabs paragraph files
+check_directory "data/audio/raw/elevenlabs/" "[0-9][0-9]_para_[0-9]*_el_*_v[0-9]*.mp3" "ElevenLabs paragraph"
+
+# Check Espeak paragraph files
+check_directory "data/audio/raw/espeak/" "[0-9][0-9]_para_[0-9]*_es_*_v[0-9]*.mp3" "Espeak paragraph"
+
+# Check chapter files
+check_directory "data/audio/processed/chapters/" "ch[0-9][0-9]_*_*_v[0-9]*.mp3" "Chapter"
+```
+
+By implementing this comprehensive audio file management system, the AI agent will maintain organization, ensure traceability, and facilitate efficient processing of all generated audio content. 

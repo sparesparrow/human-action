@@ -1,0 +1,196 @@
+---
+description: "Establishes comprehensive text preparation guidelines for voice synthesis optimization, including sentence restructuring techniques, punctuation patterns, formatting conventions, and content-type-specific transformations that create natural speech patterns while minimizing synthesis artifacts in the final ElevenLabs audio output."
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+alwaysApply: false
+---
+
+# ElevenLabs Content Structuring Rule
+
+This rule provides comprehensive guidelines for structuring and formatting text content to achieve optimal results with ElevenLabs voice synthesis, reducing the likelihood of synthesis artifacts and creating more natural-sounding speech.
+
+## Text Preparation Guidelines
+
+The AI agent should apply these guidelines when preparing text for ElevenLabs synthesis:
+
+### 1. Sentence and Paragraph Structure
+
+Optimize sentence structure for natural speech flow:
+
+- **Maintain optimal sentence length**: 15-25 words per sentence for most content
+- **Vary sentence length and structure**: Mix short statements with medium-length sentences
+- **Use natural transition phrases**: Include verbal bridges between concepts (e.g., "Furthermore," "In addition," "However")
+- **Check readability scores**: Aim for Flesch-Kincaid grade level of 9-11 for complex content
+
+Example transformation:
+```
+BEFORE: "The theory of marginal utility, which explains how individuals make economic choices by evaluating the additional benefit derived from one more unit of a good or service relative to its cost, forms a cornerstone of modern microeconomic analysis and extends to various applications including pricing strategies, consumer behavior modeling, and resource allocation decisions in market economies."
+
+AFTER: "The theory of marginal utility explains how individuals make economic choices. It evaluates the additional benefit derived from one more unit of a good or service relative to its cost. This concept forms a cornerstone of modern microeconomic analysis. It extends to various applications including pricing strategies, consumer behavior modeling, and resource allocation decisions."
+```
+
+### 2. Punctuation Optimization
+
+Use punctuation strategically to guide the voice model:
+
+- **Commas for natural pauses**: Place them where a speaker would naturally pause
+- **Period spacing**: Ensure proper spacing after periods to prevent run-on sentences
+- **Semicolons for connected thoughts**: Use to join related clauses without full stops
+- **Em dashes for emphasis**: Use for important asides or emphasized points
+- **Question mark intonation**: Use questions strategically for tonal variation
+
+Example transformation:
+```
+BEFORE: "Economic calculation requires market prices without prices entrepreneurs cannot calculate profits and losses prices emerge only in genuine market exchange between property owners."
+
+AFTER: "Economic calculation requires market prices. Without prices, entrepreneurs cannot calculate profits and losses. These prices emerge only in genuine market exchange between property owners."
+```
+
+### 3. Formatting for Voice Clarity
+
+Apply formatting that helps the voice model interpret content correctly:
+
+- **Number formatting**: Write numbers as words for 0-10, numerals for larger values
+- **Abbreviation expansion**: Expand abbreviations on first use with the abbreviation in parentheses
+- **Quote formatting**: Use curly quotes (" ") instead of straight quotes (" ")
+- **List structure**: Format lists with complete sentences and proper punctuation
+- **Acronym handling**: Add periods between letters for acronyms to be spelled out (e.g., "U.S.A." vs "USA")
+
+Example transformation:
+```
+BEFORE: "GDP in the USA grew by 2.7% in Q3 according to the BEA report which cited increased spending in the B2B sector."
+
+AFTER: "Gross Domestic Product (GDP) in the U.S.A. grew by 2.7% in the third quarter according to the Bureau of Economic Analysis (BEA) report. The report cited increased spending in the business-to-business sector."
+```
+
+### 4. Special Character Handling
+
+Manage special characters to prevent synthesis issues:
+
+- **Mathematical symbols**: Replace with word equivalents (e.g., "+" becomes "plus")
+- **Currency symbols**: Use consistent formatting (e.g., "$100" or "100 dollars")
+- **Em dashes and hyphens**: Use proper em dashes (—) for breaks in thought
+- **Quotation marks**: Ensure proper nesting of quotes with alternating formats
+- **Parentheses and brackets**: Minimize nested parentheses that can confuse the model
+
+Example transformation:
+```
+BEFORE: "The profit rate (π=TR-TC) depends on market conditions [supply+demand] & government policies."
+
+AFTER: "The profit rate (defined as total revenue minus total cost) depends on market conditions (both supply and demand) and government policies."
+```
+
+## Content Type-Specific Guidelines
+
+Apply specialized formatting based on content type:
+
+### 1. Theoretical Concepts
+
+For dense theoretical content:
+
+- **Define terms before use**: Introduce key terms with clear definitions
+- **Use concrete examples**: Follow abstract concepts with real-world applications
+- **Break down complex ideas**: Use a step-by-step approach for difficult concepts
+- **Include transition sentences**: Bridge between theoretical points
+
+Example:
+```
+Time preference is a fundamental concept in Austrian economics. It refers to how people value present goods over future goods. For example, most people would prefer to receive $100 today rather than $100 a year from now. This preference shapes interest rates and capital formation throughout the economy.
+```
+
+### 2. Historical Narratives
+
+For historical content:
+
+- **Establish chronological markers**: Use clear time references
+- **Include proper name pronunciations**: Add phonetic guides for uncommon names
+- **Provide context clues**: Include brief explanations of historical references
+- **Maintain narrative flow**: Use storytelling techniques with clear progression
+
+Example:
+```
+In 1871, Carl Menger (pronounced: MENG-er) published his "Principles of Economics." This work, appearing during the marginal revolution, established the Austrian School of economics. Menger's approach differed from the classical economists who came before him by focusing on subjective value theory.
+```
+
+### 3. Statistical Information
+
+For data-heavy content:
+
+- **Introduce statistics with context**: Explain what numbers represent
+- **Round complex numbers**: Simplify decimal places when exact precision isn't crucial
+- **Use comparative language**: Help listeners grasp relative magnitude
+- **Space out dense statistics**: Don't cluster multiple figures in single sentences
+
+Example:
+```
+BEFORE: "Inflation rates varied significantly: 2.4% in 2018, 1.8% in 2019, 1.2% in 2020, and 4.7% in 2021 with the highest monthly rate of 5.6% occurring in November."
+
+AFTER: "Inflation rates varied significantly over recent years. In 2018, it reached 2.4%. This fell to 1.8% in 2019 and dropped further to 1.2% in 2020. However, 2021 saw a sharp increase to 4.7%. The highest monthly rate that year was 5.6%, which occurred in November."
+```
+
+## Implementation Process
+
+The AI agent should follow this process when preparing content:
+
+### 1. Content Analysis
+
+Evaluate the text for:
+- Sentence length and complexity
+- Punctuation patterns
+- Special character usage
+- Content type and purpose
+
+### 2. Structured Transformation
+
+Apply the appropriate guidelines based on content type:
+- Restructure sentences for optimal length and flow
+- Optimize punctuation for natural speech patterns
+- Format special content according to guidelines
+- Add SSML markers where appropriate
+
+### 3. Quality Check
+
+Verify the transformed content by checking:
+- Reading flow and natural language patterns
+- Proper handling of specialized terminology
+- Consistent formatting throughout the document
+- Absence of potential synthesis pain points
+
+### 4. Documentation
+
+Document transformations made:
+- Note significant structural changes
+- Record specialized formatting decisions
+- Create reusable templates for similar content
+
+## Implementation Examples
+
+### Example 1: Economic Theory Transformation
+
+```markdown
+BEFORE:
+The law of diminishing marginal utility explains that as a person increases consumption of a product while keeping consumption of other products constant, there is a decline in the marginal utility that person derives from consuming each additional unit of that product, this concept developed by Carl Menger, William Stanley Jevons, and Léon Walras forms the basis for understanding consumer behavior & market pricing.
+
+AFTER:
+The law of diminishing marginal utility explains an important economic principle. It states that as a person increases consumption of a product—while keeping consumption of other products constant—there is a decline in the marginal utility from each additional unit. 
+
+This concept was developed independently by three economists: Carl Menger (MENG-er), William Stanley Jevons (JEV-ons), and Léon Walras (val-RAHS). Their work forms the foundation for understanding both consumer behavior and market pricing mechanisms.
+```
+
+### Example 2: Statistical Content Transformation
+
+```markdown
+BEFORE:
+GDP growth rates for countries X, Y and Z were 3.4%, 2.7% and -0.8% respectively with country X showing improvement from Q3's 2.9% while country Y declined from 3.1% and country Z improved from -1.2%.
+
+AFTER:
+Let's examine the GDP growth rates for three countries. 
+
+Country X achieved a 3.4% growth rate. This represents an improvement from the third quarter, when growth was 2.9%. 
+
+Country Y experienced a 2.7% growth rate. This marks a decline from its previous rate of 3.1%.
+
+Country Z recorded a negative growth rate of 0.8%. However, this actually shows improvement from the previous quarter's deeper contraction of 1.2%.
+```
+
+By implementing these content structuring guidelines, the AI agent will create text optimized for voice synthesis, resulting in more natural-sounding narration with fewer synthesis artifacts and improved listener comprehension. 

@@ -6,6 +6,7 @@ Unified configuration for the audio book generation pipeline
 
 import os
 from pathlib import Path
+from typing import Dict, Any, Optional
 
 import yaml
 
@@ -13,13 +14,24 @@ import yaml
 class Config:
     def __init__(self, config_file="config.yaml"):
         self.config_path = Path(config_file)
-        self.config = self._load_config()
+        self.config: Dict[str, Any] = self._load_config()
 
         # Set up base directories
-        self.base_dir = Path(self.config.get("base_dir", "."))
+        self.base_dir: Path = Path(self.config.get("base_dir", "."))
+
+        # Declare directory path attributes for static analysis
+        self.pdf_dir: Optional[Path] = None
+        self.markdown_chapters_dir: Optional[Path] = None
+        self.markdown_chunks_dir: Optional[Path] = None
+        self.optimized_chunks_dir: Optional[Path] = None
+        self.audio_chunks_dir: Optional[Path] = None
+        self.audio_chapters_dir: Optional[Path] = None
+        self.paragraphs_dir: Optional[Path] = None
+        self.audio_book_dir: Optional[Path] = None
+
         self.initialize_directories()
 
-    def _load_config(self):
+    def _load_config(self) -> Dict[str, Any]:
         """Load configuration from YAML file"""
         if not self.config_path.exists():
             return self._create_default_config()
@@ -66,7 +78,7 @@ class Config:
             # Store the full path in the config
             setattr(self, f"{dir_name}_dir", full_path)
 
-    def get_path(self, key):
+    def get_path(self, key: str) -> Optional[Path]:
         """Get a directory path by key"""
         dir_path = self.config["directories"].get(key)
         if dir_path:

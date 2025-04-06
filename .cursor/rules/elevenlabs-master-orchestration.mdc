@@ -1,0 +1,295 @@
+---
+description: "Serves as the executive rule that sequences and coordinates all ElevenLabs-related processes into a unified production pipeline with four distinct phases (content preparation, synthesis planning, audio generation, chapter production), complete with decision frameworks, documentation requirements, and quality control checkpoints throughout the workflow."
+globs:
+  - "data/**/*"
+alwaysApply: true
+---
+
+# ElevenLabs Master Orchestration Rule
+
+This master rule coordinates all specialized ElevenLabs rules into a cohesive workflow, ensuring proper sequencing and integration of all audio synthesis processes from text preparation to final delivery.
+
+## Rule Orchestration Framework
+
+The AI agent should follow this rule execution sequence for optimal results:
+
+### 1. Content Analysis and Preparation Phase
+
+**Rules to apply in sequence:**
+
+1. **Content Structuring** (.cursor/rules/elevenlabs-content-structuring.mdc)
+   - Optimize sentence structure and paragraph flow
+   - Apply proper formatting for speech synthesis
+   - Perform text readability optimization
+
+2. **Czech Preprocessing** (.cursor/rules/elevenlabs-czech-preprocessing.mdc)
+   - Apply Czech-specific preprocessing rules
+   - Handle diacritics and special characters
+   - Optimize Czech pronunciation patterns
+
+3. **Economic Terminology** (.cursor/rules/elevenlabs-economic-terminology.mdc)
+   - Identify and format specialized economic terms
+   - Apply proper pronunciation for economic concepts
+   - Ensure consistent handling of Austrian economics vocabulary
+
+4. **Narrative Flow Optimization** (.cursor/rules/elevenlabs-narrative-flow-optimization.mdc)
+   - Enhance pacing and flow with proper pauses
+   - Apply emphasis and intonation markers
+   - Optimize question/answer and dialogue patterns
+
+### 2. Synthesis Planning and Allocation Phase
+
+**Rules to apply in sequence:**
+
+1. **Cost Optimization Analysis** (.cursor/rules/elevenlabs-cost-optimization-analysis.mdc)
+   - Score content complexity and importance
+   - Determine optimal engine allocation
+   - Create allocation plan for each chapter
+
+2. **Hybrid Quality Strategy** (.cursor/rules/hybrid-quality-strategy.mdc)
+   - Apply hybrid approach based on content scores
+   - Identify transition points between engines
+   - Ensure coherent listening experience
+
+3. **Progressive Enhancement Strategy** (.cursor/rules/progressive-enhancement-strategy.mdc)
+   - Plan initial generation at base quality
+   - Identify priority content for enhancement
+   - Create upgrade roadmap for future iterations
+
+4. **Pronunciation Dictionary Generator** (.cursor/rules/elevenlabs-pronunciation-dictionary-generator.mdc)
+   - Extract terminology requiring pronunciation control
+   - Generate master and chapter-specific dictionaries
+   - Apply consistent pronunciation across chapters
+
+### 3. Audio Generation and Processing Phase
+
+**Rules to apply in sequence:**
+
+1. **Audio Optimization** (.cursor/rules/elevenlabs-audio-optimization.mdc)
+   - Apply API-specific optimization techniques
+   - Implement SSML and pause controls
+   - Fine-tune stability and clarity parameters
+
+2. **File Management** (.cursor/rules/elevenlabs-audio-file-management.mdc)
+   - Implement standardized naming conventions
+   - Organize files in proper directory structure
+   - Apply consistent metadata
+
+3. **Audio Post-Processing** (.cursor/rules/elevenlabs-audio-post-processing.mdc)
+   - Apply appropriate audio enhancement workflows
+   - Normalize and balance audio output
+   - Create consistent listening experience
+
+### 4. Chapter Planning and Production Phase
+
+**Rules to apply in sequence:**
+
+1. **Next Chapter Planning** (.cursor/rules/prepare-next-chapter-for-audio-voice-synthesis.mdc)
+   - Identify next chapters for production
+   - Create detailed preparation plan
+   - Document requirements and special handling needs
+
+2. **Audio Generation Master** (.cursor/rules/audio-generation-master.mdc)
+   - Coordinate complete generation process
+   - Track progress and maintain quality
+   - Ensure consistent application of all rules
+
+## Integrated Workflow Implementation
+
+The AI agent should implement this orchestrated workflow for each chapter:
+
+### 1. Initial Analysis (Input: Raw Text)
+
+```
+for each chapter:
+  1. Analyze paragraph complexity and importance
+  2. Score content using Cost Optimization Analysis
+  3. Create initial allocation plan
+  4. Identify special handling requirements
+```
+
+### 2. Text Preparation (Input: Raw Text → Output: Optimized Text)
+
+```
+for each paragraph:
+  1. Apply Content Structuring rules
+  2. Apply Czech Preprocessing
+  3. Apply Economic Terminology handling
+  4. Apply Narrative Flow Optimization
+  5. Document all transformations
+```
+
+### 3. Synthesis Planning (Input: Optimized Text → Output: Generation Plan)
+
+```
+for each chapter:
+  1. Finalize engine allocation based on Cost Optimization
+  2. Apply Hybrid Quality Strategy adjustments
+  3. Document Progressive Enhancement path
+  4. Generate pronunciation dictionaries
+  5. Create detailed synthesis plan document
+```
+
+### 4. Audio Generation (Input: Generation Plan → Output: Raw Audio)
+
+```
+for each paragraph:
+  1. Apply Audio Optimization techniques
+  2. Generate audio with appropriate engine
+  3. Store raw files with proper naming conventions
+  4. Update generation registry
+```
+
+### 5. Audio Processing (Input: Raw Audio → Output: Enhanced Audio)
+
+```
+for each audio file:
+  1. Apply appropriate post-processing workflow
+  2. Add complete metadata
+  3. Organize in standardized directory structure
+  4. Perform quality validation
+```
+
+### 6. Chapter Compilation (Input: Enhanced Audio → Output: Chapter Audio)
+
+```
+for each chapter:
+  1. Concatenate paragraph files with proper transitions
+  2. Apply chapter-level normalization
+  3. Add chapter metadata and markers
+  4. Perform final quality check
+```
+
+## Decision-Making Framework
+
+The AI agent should use this framework for handling edge cases and making decisions:
+
+### 1. Content Categorization Matrix
+
+| Content Type | Complexity | Importance | Recommended Approach |
+|--------------|------------|------------|----------------------|
+| Core theory | High | High | ElevenLabs with full optimization |
+| Examples | Medium | Medium | Hybrid approach with emphasis on clarity |
+| Historical context | Medium | Medium | Hybrid with focus on name pronunciation |
+| Technical details | High | Medium | ElevenLabs for terminology-heavy sections |
+| Narrative sections | Low | Low | Espeak with enhanced post-processing |
+
+### 2. Quality-Cost Tradeoff Guidelines
+
+When making allocation decisions, prioritize in this order:
+
+1. **Chapter beginnings and endings**: Always high quality
+2. **Key theoretical sections**: Always high quality
+3. **Sections with complex terminology**: Prefer high quality
+4. **Transition paragraphs**: Match quality of surrounding content
+5. **Extended examples**: Can use cost-effective approach if clear
+6. **Background information**: Lowest priority for premium quality
+
+### 3. Quality Control Checkpoints
+
+Implement these validation checkpoints in the workflow:
+
+1. **Post-text optimization**: Verify readability and speech-friendliness
+2. **Post-allocation**: Review engine assignments for coherence
+3. **Sample generation**: Test representative paragraphs before full production
+4. **Post-processing**: Verify audio quality and consistency
+5. **Chapter compilation**: Ensure seamless transitions and consistent volume
+
+## Documentation Requirements
+
+The AI agent should maintain these documentation artifacts:
+
+### 1. Chapter Production Record
+
+For each chapter, create a structured record:
+
+```json
+{
+  "chapter_id": "42",
+  "title": "Human Cooperation",
+  "processing_status": "completed",
+  "processing_date": "2023-08-15",
+  "paragraph_count": 65,
+  "elevenlabs_paragraphs": 20,
+  "espeak_paragraphs": 45,
+  "total_duration": "1:15:32",
+  "character_count": 45320,
+  "estimated_cost": "$X.XX",
+  "special_handling": [
+    {
+      "paragraph_id": "013",
+      "issue": "Complex terminology",
+      "solution": "Applied custom pronunciation dictionary"
+    }
+  ],
+  "quality_metrics": {
+    "overall_rating": 4.5,
+    "consistency": 4.7,
+    "pronunciation": 4.3,
+    "flow": 4.6
+  }
+}
+```
+
+### 2. Processing Changelog
+
+Maintain a running changelog of all processing actions:
+
+```markdown
+# Chapter 42 Processing Log
+
+## 2023-08-10: Initial Analysis
+- Completed content complexity scoring
+- Created initial allocation plan (30% ElevenLabs, 70% Espeak)
+- Identified 5 paragraphs requiring special terminology handling
+
+## 2023-08-11: Text Optimization
+- Applied sentence restructuring to improve flow
+- Optimized punctuation for better pauses
+- Added pronunciation guides for names and terms
+- Created terminology dictionary with 28 specialized terms
+
+## 2023-08-12: Audio Generation
+- Generated all paragraph audio files
+- Applied post-processing enhancements
+- Combined into chapter file
+- Performed quality review (score: 4.5/5)
+
+## 2023-08-13: Quality Adjustments
+- Regenerated 3 paragraphs with pronunciation issues
+- Applied additional equalization to improve clarity
+- Updated metadata for consistent tagging
+```
+
+### 3. Master Project Dashboard
+
+Maintain a high-level project dashboard:
+
+```markdown
+# Audio Synthesis Project Status
+
+## Progress Summary
+- Completed chapters: 10/64 (15.6%)
+- Chapters in progress: 2
+- Paragraphs processed: 724/5280
+- Total audio duration: 8:45:12
+- Estimated completion: 45 days
+
+## Quality Metrics
+- Average quality rating: 4.6/5
+- Pronunciation accuracy: 94.8%
+- User satisfaction: 4.7/5
+
+## Resource Usage
+- ElevenLabs characters: 245,680
+- Cost to date: $XX.XX
+- Estimated total cost: $XXX.XX
+- Cost savings from hybrid approach: XX%
+
+## Next Steps
+- Complete chapters 11-12
+- Implement pronunciation improvements for economic terms
+- Enhance post-processing for better espeak quality
+```
+
+By following this master orchestration rule, the AI agent will implement a comprehensive, efficient workflow for audio synthesis that optimizes for both quality and cost while maintaining consistent production standards across all chapters. 
