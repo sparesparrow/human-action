@@ -21,27 +21,28 @@ Usage:
   python main.py --stage all             # Run the entire pipeline
 """
 
-import os
-import sys
 import argparse
 import logging
+import os
+import sys
 from pathlib import Path
+
+from audio_chunk_generator import process_markdown_file
+from audio_concatenator import process_all_chapters
+from chunker_splitter import MarkdownChunker
 
 # Import processing modules
 from pdf_extractor import PDFProcessor
-from chunker_splitter import MarkdownChunker
 from text_optimizer import BatchProcessor
-from audio_chunk_generator import process_markdown_file
-from audio_concatenator import process_all_chapters
 
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     handlers=[
         logging.StreamHandler(sys.stdout),
-        logging.FileHandler('lidske_jednani_processing.log')
-    ]
+        logging.FileHandler("lidske_jednani_processing.log"),
+    ],
 )
 logger = logging.getLogger(__name__)
 
@@ -56,8 +57,16 @@ AUDIO_CHUNKS_DIR = DATA_DIR / "5-audio-chunks"
 AUDIO_CHAPTERS_DIR = DATA_DIR / "6-audio-chapters"
 
 # Ensure all directories exist
-for directory in [PDF_DIR, MARKDOWN_DIR, CHUNKS_DIR, OPTIMIZED_DIR, AUDIO_CHUNKS_DIR, AUDIO_CHAPTERS_DIR]:
+for directory in [
+    PDF_DIR,
+    MARKDOWN_DIR,
+    CHUNKS_DIR,
+    OPTIMIZED_DIR,
+    AUDIO_CHUNKS_DIR,
+    AUDIO_CHAPTERS_DIR,
+]:
     directory.mkdir(parents=True, exist_ok=True)
+
 
 def extract_pdf_stage():
     """Extract text from PDF files to markdown chapters."""
@@ -66,6 +75,7 @@ def extract_pdf_stage():
     processor.process()
     logger.info("PDF extraction completed")
 
+
 def chunk_markdown_stage():
     """Split markdown chapters into smaller chunks."""
     logger.info("Starting markdown chunking stage")
@@ -73,16 +83,19 @@ def chunk_markdown_stage():
     chunker.process_all()
     logger.info("Markdown chunking completed")
 
+
 def optimize_text_stage():
     """Optimize markdown chunks for text-to-speech."""
     logger.info("Starting text optimization stage")
-    
+
     # Check for Anthropic API key
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        logger.error("Anthropic API key not found. Please set the ANTHROPIC_API_KEY environment variable.")
+        logger.error(
+            "Anthropic API key not found. Please set the ANTHROPIC_API_KEY environment variable."
+        )
         sys.exit(1)
-    
+
     # Get all markdown chunk files that haven't been optimized yet
     chunk_files = []
     for file in CHUNKS_DIR.glob("*.md"):
@@ -90,40 +103,41 @@ def optimize_text_stage():
         if file.stem.endswith("-OPTIMIZED"):
             continue
         chunk_files.append(file.name)
-    
+
     if not chunk_files:
         logger.warning("No unprocessed markdown chunks found")
         return
-    
+
     # Initialize the batch processor
-    processor = BatchProcessor(
-        api_key=api_key,
-        base_dir=str(CHUNKS_DIR)
-    )
-    
+    processor = BatchProcessor(api_key=api_key, base_dir=str(CHUNKS_DIR))
+
     # Process in batches if there are many files
     # For simplicity, we'll just pass all files here
     # In a real implementation, you might want to process in smaller batches
     import asyncio
+
     asyncio.run(processor.process_files(chunk_files))
-    
+
     # Move optimized files to the optimized directory
     for file in CHUNKS_DIR.glob("*-OPTIMIZED.md"):
         dest_file = OPTIMIZED_DIR / file.name
         file.rename(dest_file)
-    
+
     logger.info("Text optimization completed")
+
 
 def generate_audio_stage():
     """Generate audio from optimized markdown chunks."""
     logger.info("Starting audio generation stage")
-    
+
     # Check for ElevenLabs API key
     api_key = os.environ.get("ELEVENLABS_API_KEY")
     if not api_key:
-        logger.error("ElevenLabs API key not found. Please set the ELEVENLABS_API_KEY environment variable.")
+        logger.error(
+            "ElevenLabs API key not found. Please set the ELEVENLABS_API_KEY environment variable."
+        )
         sys.exit(1)
-    
+
     # Get all optimized markdown files that haven't been processed yet
     optimized_files = []
     for file in OPTIMIZED_DIR.glob("*.md"):
@@ -131,11 +145,11 @@ def generate_audio_stage():
         if file.name.startswith("AUDIO_GENERATED-"):
             continue
         optimized_files.append(file)
-    
+
     if not optimized_files:
         logger.warning("No unprocessed optimized markdown files found")
         return
-    
+
     # Process each file
     for file in optimized_files:
         logger.info(f"Processing {file.name}")
@@ -146,13 +160,14 @@ def generate_audio_stage():
             model_id="eleven_multilingual_v2",
             stability=0.5,
             similarity_boost=0.75,
-            style=0.0
+            style=0.0,
         )
-        
+
         if not success:
             logger.error(f"Failed to process {file.name}: {result}")
-    
+
     logger.info("Audio generation completed")
+
 
 def concatenate_audio_stage():
     """Concatenate audio chunks into full chapters."""
@@ -160,55 +175,53 @@ def concatenate_audio_stage():
     process_all_chapters(AUDIO_CHUNKS_DIR, AUDIO_CHAPTERS_DIR)
     logger.info("Audio concatenation completed")
 
+
 def main():
     """Main function to orchestrate the processing pipeline."""
     parser = argparse.ArgumentParser(
-        description='Lidské Jednání Project - Processing Pipeline',
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+        description="Lidské Jednání Project - Processing Pipeline",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
-    
+
     parser.add_argument(
-        '--stage',
+        "--stage",
         type=str,
-        choices=['pdf-extract', 'chunk', 'optimize', 'audio-gen', 'concat', 'all'],
-        default='all',
-        help='Processing stage to run'
+        choices=["pdf-extract", "chunk", "optimize", "audio-gen", "concat", "all"],
+        default="all",
+        help="Processing stage to run",
     )
-    
-    parser.add_argument(
-        '--verbose',
-        action='store_true',
-        help='Enable verbose logging'
-    )
-    
+
+    parser.add_argument("--verbose", action="store_true", help="Enable verbose logging")
+
     args = parser.parse_args()
-    
+
     # Set logging level based on verbosity
     if args.verbose:
         logger.setLevel(logging.DEBUG)
-    
+
     try:
         # Run the specified stage or all stages
-        if args.stage == 'pdf-extract' or args.stage == 'all':
+        if args.stage == "pdf-extract" or args.stage == "all":
             extract_pdf_stage()
-        
-        if args.stage == 'chunk' or args.stage == 'all':
+
+        if args.stage == "chunk" or args.stage == "all":
             chunk_markdown_stage()
-        
-        if args.stage == 'optimize' or args.stage == 'all':
+
+        if args.stage == "optimize" or args.stage == "all":
             optimize_text_stage()
-        
-        if args.stage == 'audio-gen' or args.stage == 'all':
+
+        if args.stage == "audio-gen" or args.stage == "all":
             generate_audio_stage()
-        
-        if args.stage == 'concat' or args.stage == 'all':
+
+        if args.stage == "concat" or args.stage == "all":
             concatenate_audio_stage()
-        
+
         logger.info(f"Pipeline stage '{args.stage}' completed successfully")
-    
+
     except Exception as e:
         logger.error(f"Error in pipeline: {str(e)}")
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

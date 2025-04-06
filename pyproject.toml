@@ -1,0 +1,56 @@
+[tool.poetry]
+name = "human-action-audiobook"
+version = "0.1.0"
+description = "Pipeline to process the Czech translation of 'Human Action' from PDF to optimized audio files."
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+license = "MIT"  # Or your chosen license
+package-mode = false # Disable package mode to silence installation warning
+# packages = [{include = "human_action_pipeline"}] # Assuming your main code is in a package named this
+
+[tool.poetry.dependencies]
+python = "^3.10" # Match your project's Python version
+anthropic = ">=0.15.0"
+elevenlabs = ">=0.2.27"
+tqdm = ">=4.64.0"
+# espeakng = ">=1.0.0" # Note: espeakng python wrapper might need system libs. Consider system install or Docker.
+pypdf = ">=4.0.0"
+markdown = ">=3.5.1"
+# pyaml = ">=1.0.0" # This seems like a typo, maybe PyYAML?
+pydub = ">=0.25.1"
+PyYAML = ">=6.0"
+# pyttsx3 = ">=2.90" # Often requires system libraries, better via system install or Docker.
+numpy = ">=1.26.0"
+matplotlib = "^3.8.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=7.4.0"
+black = "^24.4.2"
+isort = "^5.13.2"
+mypy = "^1.10.1"
+types-PyYAML = "^6.0.12.12" # Type hints for PyYAML
+types-markdown = "^3.6.0.20240703" # Type hints for Markdown
+# Add type hints for other libraries if mypy reports missing stubs
+
+[tool.black]
+line-length = 88
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true # Start with this, then refine by adding specific ignores or type stubs
+exclude = [
+    '^tmp/', 
+    '^scripts/' # Exclude the scripts directory
+]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
