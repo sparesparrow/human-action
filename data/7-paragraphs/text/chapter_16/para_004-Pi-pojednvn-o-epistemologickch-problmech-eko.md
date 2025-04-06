@@ -1,1 +1,1 @@
-Při pojednávání o epistemologických problémech ekonomie je obvyklé přijmout nějaké řešení určené pro přírodní vědy. Někteří autoři doporučují <alias name="Poincaré">poankare</alias>ho konvencionalismus.
+Při pojednávání o epistemologických problémech ekonomie<break time="0.2s" /> je obvyklé přijmout nějaké řešení určené pro přírodní vědy.<break time="0.4s" /> Někteří autoři doporučují <alias name="Poincaré">poankare</alias>ho konvencionalismus.
