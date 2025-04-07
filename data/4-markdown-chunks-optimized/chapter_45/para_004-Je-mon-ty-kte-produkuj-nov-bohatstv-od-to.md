@@ -1,0 +1,1 @@
+<emphasis level="moderate">Je možné ty, kteří produkují nové bohatství,<break time="0.3s"/> od tohoto břemene osvobodit výběrem daní,<break time="0.3s"/> které jsou potřebné pro splácení,<break time="0.3s"/> výhradně od držitelů dluhopisů.</emphasis><break time="0.5s"/> <emphasis level="strong">To však znamená nezastřené popření dluhu.</emphasis> 

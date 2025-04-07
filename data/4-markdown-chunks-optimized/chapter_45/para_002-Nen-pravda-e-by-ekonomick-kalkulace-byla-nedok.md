@@ -1,0 +1,1 @@
+<emphasis level="strong">Není pravda, že by ekonomická kalkulace byla nedokonalá<break time="0.3s"/> jen proto, že neodpovídá zmateným představám lidí,</emphasis><break time="0.4s"/> kteří touží po stálém příjmu,<break time="0.3s"/> jenž by nezávisel na lidských výrobních procesech. 
