@@ -1,0 +1,1 @@
+Člověk může pokročit v uvažování pouze proto,<break time="0.3s"/> že jeho úsilí je podpořeno staršími generacemi,<break time="0.4s"/> které vytvořily nástroje myšlení,<break time="0.2s"/> pojmy<break time="0.1s"/> a terminologie,<break time="0.3s"/> a zformulovaly daný problém. 

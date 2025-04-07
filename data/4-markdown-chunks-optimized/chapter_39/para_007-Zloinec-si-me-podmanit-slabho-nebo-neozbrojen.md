@@ -1,0 +1,1 @@
+Zločinec si může podmanit slabšího nebo neozbrojeného společníka.<break time="0.6s"/> To však nemá nic společného se životem ve společnosti.<break time="0.6s"/> Je to izolovaný protispolečenský jev. 

@@ -1,0 +1,1 @@
+Člověk má jediný nástroj pro boj s omyly: rozum. 

@@ -1,0 +1,1 @@
+Kde nedošlo ani k jedné z těchto dvou variant,<break time="0.4s"/> armáda utlačovaných se zbavila několika despotů<break time="0.4s"/> buď v otevřeném povstání,<break time="0.4s"/> nebo tichým,<break time="0.2s"/> ale trvalým působením ideologických sil. 

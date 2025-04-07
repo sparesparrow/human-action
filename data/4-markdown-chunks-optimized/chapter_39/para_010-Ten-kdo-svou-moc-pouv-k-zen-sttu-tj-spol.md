@@ -1,0 +1,1 @@
+Ten,<break time="0.1s"/> kdo svou moc používá k řízení státu,<break time="0.3s"/> tj. společenského nástroje nátlaku a donucení,<break time="0.4s"/> vládne.<break time="0.6s"/> Vláda je použití moci v politickém orgánu.<break time="0.6s"/> Vláda je vždy založena na moci,<break time="0.3s"/> tj. síle řídit činnost jiných lidí. 

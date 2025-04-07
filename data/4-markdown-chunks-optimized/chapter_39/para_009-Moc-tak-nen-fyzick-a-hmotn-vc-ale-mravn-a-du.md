@@ -1,0 +1,1 @@
+Moc tak není fyzická a hmotná věc,<break time="0.3s"/> ale mravní a duševní jev.<break time="0.6s"/> Králova moc spočívá v tom,<break time="0.2s"/> že jeho poddaní uznávají monarchistickou ideologii. 

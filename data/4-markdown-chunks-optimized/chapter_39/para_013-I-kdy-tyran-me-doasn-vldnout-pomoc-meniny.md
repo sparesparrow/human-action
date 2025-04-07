@@ -1,0 +1,1 @@
+I když tyran může dočasně vládnout pomocí menšiny,<break time="0.3s"/> pokud je tato menšina ozbrojena a většina není,<break time="0.5s"/> z dlouhodobého pohledu nemůže menšina udržet většinu v podřízenosti.<break time="0.6s"/> Utlačovaní povstanou ve vzpouře<break time="0.3s"/> a shodí ze sebe jařmo tyranie. 
