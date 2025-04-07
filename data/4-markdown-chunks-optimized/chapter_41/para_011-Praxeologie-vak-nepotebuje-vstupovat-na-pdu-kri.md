@@ -1,0 +1,1 @@
+Praxeologie však nepotřebuje vstupovat na půdu kritiky této filozofie.<break time="0.5s"/> Jejím úkolem je vyvracet chyby obsažené v současných ideologiích. 
