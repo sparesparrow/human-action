@@ -1,0 +1,7 @@
+<speak>
+<prosody rate="95%">
+<emphasis level="moderate">Nepřátelský útok byla praxe běžná pro nelidské předchůdce člověka.</emphasis> <break time="400ms"/> <emphasis level="strong">Vědomá a účelná spolupráce je výsledkem dlouhého vývojového procesu.</emphasis> <break time="500ms"/> Etnologie a historie nám poskytly zajímavé informace o počátku a primitivních formách meziosobní směny. <break time="400ms"/> <emphasis level="moderate">Někteří považují zvyk vzájemného dávání a dostávání darů a domlouvání se dopředu na určitém recipročním daru za předstupeň meziosobní směny.</emphasis> <break time="500ms"/> <prosody rate="90%"><emphasis level="moderate">Jiní považují němý barter za primitivní formu obchodu.</emphasis> <break time="400ms"/> <emphasis level="strong">Nicméně dávat dary v očekávání, že budu odměněn recipročním darem od obdarovaného, nebo abych získal přízeň člověka, jehož nepřátelství může být zhoubné, je již rovnocenné meziosobní směně.</emphasis> <break time="500ms"/> Totéž se týká němého barteru, který se liší od jiných forem barterů a obchodování pouze absencí ústního jednání.</prosody>
+</prosody>
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_42/para_013-Neptelsk-tok-byla-praxe-bn-pro-nelidsk-pe.mp3)
+</speak> 
