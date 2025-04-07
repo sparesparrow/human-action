@@ -1,1 +1,17 @@
-V tomto ohledu není příliš důležité,<break time="0.3s"/> zda byly úvěry formálně uzavřeny jako neumořitelné, či nikoli;<break time="0.4s"/> <emphasis level="moderate">záměr a praxe byly zpravidla takové,<break time="0.3s"/> že byly za neumořitelné považovány a bylo s nimi tak zacházeno.</emphasis><break time="0.5s"/> V době rozkvětu liberalismu<break time="0.3s"/> některé západní státy skutečně umořily části svých dlouhodobých dluhů<break time="0.3s"/> čestným vyrovnáním.<break time="0.5s"/> <emphasis level="strong">Avšak ve většině případů byly nové dluhy pouze navršovány na ty staré.</emphasis><break time="0.5s"/> <prosody rate="95%">Finanční dějiny minulého století<break time="0.3s"/> vykazují trvalé zvyšování částky veřejného zadlužení.</prosody> 
+# V tomto ohledu není příliš důležité, zda byly úvěry formálně neumořitelné
+
+<speak>
+<prosody rate="95%">
+<emphasis level="moderate">V tomto ohledu není příliš důležité, zda byly úvěry formálně uzavřeny jako neumořitelné, či nikoli;</emphasis> <break time="200ms"/> <emphasis level="strong">záměr a praxe byly zpravidla takové, že byly za neumořitelné považovány a bylo s nimi tak zacházeno.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="moderate">V době rozkvětu liberalismu některé západní státy skutečně umořily části svých dlouhodobých dluhů čestným vyrovnáním.</emphasis>
+
+<break time="300ms"/>
+
+<prosody rate="90%">Avšak ve většině případů byly nové dluhy pouze navršovány na ty staré.</prosody> <break time="200ms"/> <emphasis level="strong">Finanční dějiny minulého století vykazují trvalé zvyšování částky veřejného zadlužení.</emphasis>
+</prosody>
+</speak>
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_44/para_007-V-tomto-ohledu-nen-pli-dleit-zda-byly-vr.mp3) 
