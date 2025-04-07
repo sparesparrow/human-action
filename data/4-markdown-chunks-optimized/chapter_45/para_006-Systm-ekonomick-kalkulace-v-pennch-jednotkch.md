@@ -1,1 +1,13 @@
-<emphasis level="moderate">Systém ekonomické kalkulace v peněžních jednotkách<break time="0.3s"/> je podmíněn určitými společenskými institucemi.</emphasis><break time="0.5s"/> <emphasis level="strong">Může fungovat pouze v institucionálním uspořádání s dělbou práce<break time="0.3s"/> a soukromým vlastnictvím výrobních prostředků,</emphasis><break time="0.4s"/> v němž jsou statky a služby všech řádů kupovány a prodávány<break time="0.3s"/> proti všeobecně používanému médiu směny,<break time="0.3s"/> tj. penězům. 
+# Podmínky fungování ekonomické kalkulace
+
+<speak>
+<prosody rate="95%" volume="medium">
+<emphasis level="moderate">Systém ekonomické kalkulace v peněžních jednotkách je podmíněn určitými společenskými institucemi.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="strong">Může fungovat pouze v institucionálním uspořádání s dělbou práce a soukromým vlastnictvím výrobních prostředků,</emphasis> <break time="200ms"/> <emphasis level="moderate">v němž jsou statky a služby všech řádů kupovány a prodávány proti všeobecně používanému médiu směny, tj. penězům.</emphasis>
+</prosody>
+</speak>
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_45/para_006-Systm-ekonomick-kalkulace-v-pennch-jednotkch.mp3) 
