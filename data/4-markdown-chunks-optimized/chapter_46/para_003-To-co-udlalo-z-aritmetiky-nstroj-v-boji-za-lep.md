@@ -1,0 +1,1 @@
+<emphasis level="strong">To, co udělalo z aritmetiky nástroj v boji za lepší život,<break time="0.3s"/> byla peněžní kalkulace.</emphasis><break time="0.5s"/> <emphasis level="moderate">Poskytuje techniku pro používání výsledků<break time="0.3s"/> dosažených v laboratorních pokusech<break time="0.3s"/> k nejúčinnějšímu odstraňování nespokojenosti.</emphasis> 

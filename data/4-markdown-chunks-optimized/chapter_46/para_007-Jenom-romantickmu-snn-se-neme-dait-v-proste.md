@@ -1,0 +1,1 @@
+<emphasis level="strong">Jenom romantickému snění se nemůže dařit<break time="0.3s"/> v prostředí střízlivé kritiky.</emphasis><break time="0.5s"/> <emphasis level="moderate">Počtář s chladnou hlavou je tím,<break time="0.3s"/> kdo nelítostně trestá nadšené vizionáře.</emphasis> 

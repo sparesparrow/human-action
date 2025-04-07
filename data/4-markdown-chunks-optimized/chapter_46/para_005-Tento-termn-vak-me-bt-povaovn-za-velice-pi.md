@@ -1,0 +1,1 @@
+<emphasis level="strong">Tento termín však může být považován za velice přiléhavý.</emphasis><break time="0.5s"/> <emphasis level="moderate">Odkazuje k nejcharakterističtějšímu znaku tohoto systému,<break time="0.3s"/> k jeho největší chloubě,<break time="0.3s"/> tedy k roli, jakou v jeho chování hraje pojem kapitálu.</emphasis> 
