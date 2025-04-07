@@ -1,1 +1,17 @@
-Dobré důvody mohou být sneseny pro krátkodobé vládní dluhy<break time="0.3s"/> za zvláštních podmínek.<break time="0.5s"/> <emphasis level="moderate">Oblíbené ospravedlňování válečných půjček je samozřejmě nesmyslné.</emphasis><break time="0.5s"/> <prosody rate="95%">Veškerý materiál, který je pro vedení války potřeba,<break time="0.3s"/> musí být zajištěn omezením civilní spotřeby,<break time="0.3s"/> spotřebováním části fondů, které jsou k dispozici,<break time="0.3s"/> a tím, že se bude víc pracovat.</prosody><break time="0.5s"/> <emphasis level="strong">Veškeré břemeno válčení padá na žijící generaci.</emphasis><break time="0.5s"/> Budoucí generace jsou zasaženy pouze do té míry,<break time="0.3s"/> nakolik – kvůli válečným výdajům –<break time="0.3s"/> zdědí od těch, kteří žijí teď, méně,<break time="0.3s"/> než by zdědily, kdyby nebyly vedeny žádné války. 
+# Dobré důvody mohou být sneseny pro krátkodobé vládní dluhy
+
+<speak>
+<prosody rate="95%">
+<emphasis level="moderate">Dobré důvody mohou být sneseny pro krátkodobé vládní dluhy za zvláštních podmínek.</emphasis> <break time="200ms"/> <emphasis level="strong">Oblíbené ospravedlňování válečných půjček je samozřejmě nesmyslné.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="strong">Veškerý materiál, který je pro vedení války potřeba, musí být zajištěn omezením civilní spotřeby, spotřebováním části fondů, které jsou k dispozici, a tím, že se bude víc pracovat.</emphasis>
+
+<break time="300ms"/>
+
+<prosody rate="90%">Veškeré břemeno válčení padá na žijící generaci.</prosody> <break time="200ms"/> <emphasis level="moderate">Budoucí generace jsou zasaženy pouze do té míry, nakolik – kvůli válečným výdajům – zdědí od těch, kteří žijí teď, méně, než by zdědily, kdyby nebyly vedeny žádné války.</emphasis>
+</prosody>
+</speak>
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_44/para_004-Dobr-dvody-mohou-bt-sneseny-pro-krtkodob-vld.mp3) 
