@@ -1,1 +1,21 @@
-<emphasis level="strong">Peněžní kalkulace dosahuje naprosté dokonalosti v kapitalistickém účetnictví.</emphasis><break time="0.5s"/> <prosody rate="95%">Stanovuje ceny dostupných prostředků v penězích<break time="0.3s"/> a srovnává tento součet se změnami,<break time="0.3s"/> které způsobilo jednání a působení jiných faktorů.</prosody><break time="0.5s"/> <emphasis level="moderate">Toto srovnání ukazuje, jaké změny se objevily ve stavu věcí jednajících lidí<break time="0.3s"/> a velikost takových změn;</emphasis><break time="0.4s"/> díky němu lze zjistit úspěch a neúspěch,<break time="0.3s"/> zisk a ztrátu.<break time="0.5s"/> <emphasis level="moderate">Systém svobodného podnikání byl nazván kapitalismem,<break time="0.3s"/> aby tak byl odsouzen a pošpiněn.</emphasis> 
+# Dokonalost peněžní kalkulace v kapitalistickém účetnictví
+
+<speak>
+<prosody rate="95%" volume="medium">
+<emphasis level="strong">Peněžní kalkulace dosahuje naprosté dokonalosti v kapitalistickém účetnictví.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="moderate">Stanovuje ceny dostupných prostředků v penězích a srovnává tento součet se změnami,</emphasis> <break time="200ms"/> <emphasis level="moderate">které způsobilo jednání a působení jiných faktorů.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="strong">Toto srovnání ukazuje, jaké změny se objevily ve stavu věcí jednajících lidí a velikost takových změn;</emphasis> <break time="200ms"/> <emphasis level="moderate">díky němu lze zjistit úspěch a neúspěch, zisk a ztrátu.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="strong">Systém svobodného podnikání byl nazván kapitalismem, aby tak byl odsouzen a pošpiněn.</emphasis>
+</prosody>
+</speak>
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_46/para_004-Penn-kalkulace-dosahuje-naprost-dokonalosti-v.mp3) 
