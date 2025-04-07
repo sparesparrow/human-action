@@ -1,1 +1,17 @@
-<emphasis level="moderate">Všechny výsledky těchto výpočtů se vztahují pouze na jednání jednotlivců.</emphasis><break time="0.5s"/> Když statistici tyto výsledky sumarizují,<break time="0.3s"/> výsledek ukazuje součet autonomního jednání velkého množství samostatných jednotlivců,<break time="0.3s"/> ale neukazuje výsledek jednání kolektivního orgánu, souboru nebo celku.<break time="0.5s"/> <prosody rate="95%">Ve sdruženích a společnostech jednají vždy jednotlivci,<break time="0.3s"/> i když nikoli pouze jeden jednotlivec.</prosody><break time="0.5s"/> <emphasis level="strong">Peněžní kalkulace je naprosto nepoužitelná a bezúčelná<break time="0.3s"/> pro jakékoli úvahy, které se na věci nedívají z pohledu jednotlivců.</emphasis><break time="0.5s"/> Týká se počítání zisku jednotlivců,<break time="0.3s"/> nikoli imaginárních „společenských" hodnot a „společenského" blahobytu. 
+# Individuální povaha peněžní kalkulace
+
+<speak>
+<prosody rate="95%" volume="medium">
+<emphasis level="strong">Všechny výsledky těchto výpočtů se vztahují pouze na jednání jednotlivců.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="moderate">Když statistici tyto výsledky sumarizují, výsledek ukazuje součet autonomního jednání velkého množství samostatných jednotlivců,</emphasis> <break time="200ms"/> <emphasis level="strong">ale neukazuje výsledek jednání kolektivního orgánu, souboru nebo celku.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="moderate">Ve sdruženích a společnostech jednají vždy jednotlivci, i když nikoli pouze jeden jednotlivec.</emphasis> <break time="200ms"/> <emphasis level="strong">Peněžní kalkulace je naprosto nepoužitelná a bezúčelná pro jakékoli úvahy, které se na věci nedívají z pohledu jednotlivců.</emphasis> <break time="200ms"/> <emphasis level="moderate">Týká se počítání zisku jednotlivců, nikoli imaginárních „společenských" hodnot a „společenského" blahobytu.</emphasis>
+</prosody>
+</speak>
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_46/para_001-Vechny-vsledky-tchto-vpot-se-vztahuj-pouze.mp3) 
