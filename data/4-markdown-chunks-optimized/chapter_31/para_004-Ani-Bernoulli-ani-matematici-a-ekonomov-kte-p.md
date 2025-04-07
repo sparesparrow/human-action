@@ -1,1 +1,1 @@
-<emphasis level="strong">Ani Bernoulli, ani matematici a ekonomové,<break time="0.3s"/> kteří přijali jeho způsob uvažování,<break time="0.3s"/> tak nemohou při řešení paradoxu hodnoty uspět.</emphasis> 
+<emphasis level="strong">Ani Bernoulli, ani matematici a ekonomové,<break time="0.3s"/> kteří přijali jeho způsob uvažování,</emphasis><break time="0.5s"/> <emphasis level="moderate">tak nemohou při řešení paradoxu hodnoty uspět.</emphasis>
