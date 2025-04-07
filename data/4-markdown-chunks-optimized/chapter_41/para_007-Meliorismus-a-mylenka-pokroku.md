@@ -1,0 +1,1 @@
+Meliorismus a myšlenka pokroku 

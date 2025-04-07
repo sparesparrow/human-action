@@ -1,0 +1,1 @@
+Pojmy pokrok a úpadek mají význam pouze v teleologickém systému myšlení.<break time="0.5s"/> V takovém rámci má smysl nazývat přiblížení se zamýšleným cílům pokrokem<break time="0.3s"/> a opačný pohyb úpadkem.<break time="0.5s"/> Nevztáhneme-li je na jednání nějakého činitele a na určitý cíl,<break time="0.3s"/> jsou oba tyto termíny prázdné a postrádají jakýkoli smysl. 

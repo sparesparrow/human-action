@@ -1,0 +1,1 @@
+„Přál bych si,"<break time="0.3s"/> řekl <alias name="Bentham">bentm</alias> <alias name="Philarétu Chaslesovi">filarétu šalézovi</alias>,<break time="0.4s"/> „aby mi byla dána výsada prožít ty roky,<break time="0.3s"/> které mi ještě zbývají,<break time="0.3s"/> na konci každého ze století po mé smrti;<break time="0.5s"/> tak bych mohl vidět výsledky svého psaní." 

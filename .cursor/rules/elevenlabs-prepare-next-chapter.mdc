@@ -1,0 +1,10 @@
+---
+description: "If the user simply asks to continue or to proceed with next steps, and you are not sure what to"
+globs:
+  - "data/7-paragraphs/text/**/*.md"
+  - "data/4-markdown-chunks-optimized/*.md"
+alwaysApply: true
+---
+
+
+## If not sure what to do, then just go ahead to the next chapter or paragraph enhancement process on the list and apply the text preparation rules for the next paragraphs and next chapters  ( @text and @4-markdown-chunks-optimized ) as well

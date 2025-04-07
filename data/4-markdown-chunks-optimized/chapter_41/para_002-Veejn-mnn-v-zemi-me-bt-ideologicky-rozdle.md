@@ -1,0 +1,1 @@
+Veřejné mínění v zemi může být ideologicky rozděleno takovým způsobem,<break time="0.4s"/> že žádná skupina není dostatečně silná,<break time="0.3s"/> aby ustavila trvalou vládu.<break time="0.6s"/> Pak zavládne anarchie.<break time="0.6s"/> Revoluce a veřejné násilí se stanou trvalými. 

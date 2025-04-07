@@ -4,7 +4,7 @@
 
 Ve stranických programech mají tyto technické otázky samozřejmě zásadní důležitost. <break time="0.3s"/> <prosody rate="95%">Strana je oddána určitým prostředkům, doporučuje určité metody politického jednání a naprosto odmítá všechny jiné metody a politické programy jako nepatřičné.</prosody> <break time="0.4s"/> Strana je sbor, který sdružuje všechny, kdo chtějí horlivě využít tytéž prostředky pro společnou akci. <break time="0.3s"/> <emphasis level="moderate">Principem, který dělá rozdíly mezi lidmi a stmeluje strany, je výběr prostředků.</emphasis> Pro stranu jako takovou jsou tedy vybrané prostředky podstatné.
 
-<!-- <!-- [AUDIO: .data/4-markdown-chunks-optimized/chapter_38f_paragraph_2.mp3] -->
+<!-- [AUDIO: .data/4-markdown-chunks-optimized/chapter_38f_paragraph_2.mp3] -->
 
 <prosody rate="90%">Strana je odsouzena k zániku, pokud se jasně ukáže, že doporučované prostředky nejsou účinné.</prosody> <break time="0.3s"/> Straničtí vůdci, jejichž prestiž a politické kariéry jsou svázány s programem dané strany, mohou mít spoustu důvodů pro vyjmutí principů strany z neomezené diskuse; <break time="0.3s"/> mohou jim dát charakter <emphasis level="moderate">konečných cílů</emphasis>, o nichž nelze pochybovat, protože vycházejí ze světového názoru.
 

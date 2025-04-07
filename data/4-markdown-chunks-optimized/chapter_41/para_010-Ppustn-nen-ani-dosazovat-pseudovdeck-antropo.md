@@ -1,0 +1,1 @@
+Přípustné není ani dosazovat pseudovědecký antropocentrismus<break time="0.3s"/> na místo antropocentrismu náboženství<break time="0.3s"/> a starších metafyzických doktrín. 

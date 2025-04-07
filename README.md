@@ -8,6 +8,8 @@ This project processes the Czech translation of the book "Human Action" (Lidské
 
 ## STAV
 - Textová data připravena: [4-markdown-chunks-optimized](./data/4-markdown-chunks-optimized)
+- Vylepšování obsahu pro Elevenlabs API:
+![Screenshot](data/screenshots/Screenshot_20250407_023826.png)
 - TODO: dokončit generování všech kapitol
   - `python audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md` (ElevenLabs)
   - nebo `python espeak_audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md` (espeak-ng)

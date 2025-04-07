@@ -72,5 +72,3 @@ When processing text for ElevenLabs narration:
 4. Ensure natural narrative flow with appropriate pauses
 5. Verify formatting meets ElevenLabs standards before API submission
 6. Test a small sample before processing large batches
-
-By following these guidelines, the generated audio will have significantly higher quality on first generation, reducing the need for costly regeneration. 
