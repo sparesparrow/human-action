@@ -1,0 +1,1 @@
+<emphasis level="moderate">Přes všechnu tuto neurčitost se ekonomická kalkulace může dobrat svého cíle,</emphasis><break time="0.3s"/> protože tyto neurčitosti nemají původ v nedokonalosti výpočetního systému.<break time="0.5s"/> <emphasis level="strong">Tkví v podstatě jednání,</emphasis><break time="0.3s"/> které se vždy potýká s nejistou budoucností. 

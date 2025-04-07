@@ -1,0 +1,1 @@
+<emphasis level="moderate">Avšak ani tento strnulý stav nemůže být důsledně promyšlen až do nejzazších logických důsledků;</emphasis><break time="0.5s"/> ještě méně může být uskutečněn.<break time="0.5s"/> <emphasis level="strong">Kde existuje jednání,<break time="0.3s"/> tam dochází ke změně.</emphasis><break time="0.5s"/> Jednání je motorem změny. 

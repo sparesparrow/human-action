@@ -1,0 +1,1 @@
+<emphasis level="strong">Kořeny myšlenky stabilizace</emphasis> 

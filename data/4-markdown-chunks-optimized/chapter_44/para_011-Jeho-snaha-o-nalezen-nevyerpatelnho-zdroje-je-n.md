@@ -1,0 +1,1 @@
+<emphasis level="strong">Jeho snaha o nalezení nevyčerpatelného zdroje je neúspěšná.</emphasis> 
