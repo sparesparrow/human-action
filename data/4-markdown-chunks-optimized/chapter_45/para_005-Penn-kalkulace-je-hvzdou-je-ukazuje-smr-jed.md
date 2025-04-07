@@ -1,1 +1,19 @@
-<emphasis level="strong">Peněžní kalkulace je hvězdou, jež ukazuje směr jednání<break time="0.3s"/> ve společenském systému dělby práce.</emphasis><break time="0.5s"/> Je to kompas člověka, který se účastní výroby.<break time="0.5s"/> <prosody rate="95%">Počítá, aby odlišil výnosné oblasti výroby od těch, jež jsou ztrátové,<break time="0.3s"/> ty, které svrchovaní spotřebitelé pravděpodobně schválí,<break time="0.3s"/> od těch, které pravděpodobně zamítnou.</prosody><break time="0.5s"/> <emphasis level="moderate">Každý jednotlivý krok v podnikatelské činnosti<break time="0.3s"/> podléhá přezkoumání peněžní kalkulací.</emphasis><break time="0.5s"/> Předběžná úvaha o plánovaném jednání<break time="0.3s"/> se stává hospodářskou předběžnou kalkulací<break time="0.3s"/> očekávaných nákladů a očekávaných příjmů.<break time="0.5s"/> Zpětné stanovení výsledku minulého jednání<break time="0.3s"/> se stává účtováním o ziscích a ztrátách. 
+# Peněžní kalkulace jako navigační hvězda ekonomického jednání
+
+<speak>
+<prosody rate="95%">
+<emphasis level="strong">Peněžní kalkulace je hvězdou, jež ukazuje směr jednání ve společenském systému dělby práce.</emphasis> <break time="200ms"/> <emphasis level="strong">Je to kompas člověka, který se účastní výroby.</emphasis>
+
+<break time="300ms"/>
+
+<emphasis level="moderate">Počítá, aby odlišil výnosné oblasti výroby od těch, jež jsou ztrátové,</emphasis> <break time="200ms"/> <emphasis level="moderate">ty, které svrchovaní spotřebitelé pravděpodobně schválí, od těch, které pravděpodobně zamítnou.</emphasis>
+
+<break time="300ms"/>
+
+<prosody rate="90%">
+<emphasis level="strong">Každý jednotlivý krok v podnikatelské činnosti podléhá přezkoumání peněžní kalkulací.</emphasis> <break time="200ms"/> <emphasis level="moderate">Předběžná úvaha o plánovaném jednání se stává hospodářskou předběžnou kalkulací očekávaných nákladů a očekávaných příjmů.</emphasis> <break time="200ms"/> <emphasis level="moderate">Zpětné stanovení výsledku minulého jednání se stává účtováním o ziscích a ztrátách.</emphasis>
+</prosody>
+</prosody>
+</speak>
+
+[🔊 Poslechnout audio](/data/7-paragraphs/audio/chapter_45/para_005-Penn-kalkulace-je-hvzdou-je-ukazuje-smr-jed.mp3) 
