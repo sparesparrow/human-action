@@ -1,0 +1,1 @@
+<emphasis level="strong">JEDNÁNÍ VE SVĚTĚ</emphasis><break time="1.5s"/> 

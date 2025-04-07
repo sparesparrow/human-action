@@ -1,0 +1,1 @@
+<emphasis level="moderate">Můžeme předvídat, že za jinak stejných okolností<break time="0.3s"/> povede pokles poptávky po a<break time="0.3s"/> k poklesu ceny a.</emphasis><break time="0.5s"/> <prosody rate="95%">Nemůžeme však předpovídat velikost tohoto poklesu.</prosody><break time="0.5s"/> <emphasis level="strong">Zodpovědět tuto otázku může jenom rozumění.</emphasis> 

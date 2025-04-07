@@ -1,0 +1,1 @@
+<emphasis level="moderate">Každá část se hodnotí zvlášť.</emphasis><break time="0.5s"/> <prosody rate="95%">Každé části je přiděleno pořadí na hodnotové škále.</prosody><break time="0.5s"/> <emphasis level="strong">Tato pořadí však mohou být mezi různými částmi<break time="0.3s"/> stejné velikosti libovolně zaměňována.</emphasis> 

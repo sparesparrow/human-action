@@ -1,0 +1,1 @@
+<emphasis level="moderate">Stejná logika platí i pro zvýšení dostupné zásoby jakékoli komodity<break time="0.3s"/> získáním dodatečného počtu jednotek.</emphasis> 
