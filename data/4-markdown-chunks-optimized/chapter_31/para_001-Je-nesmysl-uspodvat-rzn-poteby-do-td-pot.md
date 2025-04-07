@@ -1,0 +1,1 @@
+<emphasis level="moderate">Je nesmysl uspořádávat různé potřeby do „tříd potřeb",</emphasis><break time="0.3s"/> <prosody rate="95%">abychom zjistili, že taková klasifikace nám není pro teorii hodnoty nic platná.</prosody> 
