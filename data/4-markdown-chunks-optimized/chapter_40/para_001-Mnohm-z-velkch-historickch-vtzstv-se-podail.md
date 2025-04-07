@@ -1,0 +1,1 @@
+Mnohým z velkých historických vítězství se podařilo udržet,<break time="0.4s"/> neboť se okupanti spojili s těmi třídami poraženého národa,<break time="0.4s"/> které byly podporovány vládnoucí ideologií,<break time="0.4s"/> a byli díky tomu považováni za legitimní vládce. 

@@ -1,0 +1,1 @@
+Vítězné menšiny někdy vděčí za svůj úspěch technologické převaze.<break time="0.6s"/> To však na věci nic nemění.<break time="0.6s"/> Z dlouhodobého pohledu je nemožné izolovat příslušníky většiny od lepších zbraní.<break time="0.6s"/> Brity v Indii neochraňovalo vybavení jejich ozbrojených sil,<break time="0.4s"/> ale ideologické faktory.
