@@ -1,4 +1,4 @@
-# Mnohotvárnost ekonomických rolí člověka
+# Mnohotvárnost ekonomických rolí
 
 <speak>
 <prosody rate="95%" pitch="+0%">
