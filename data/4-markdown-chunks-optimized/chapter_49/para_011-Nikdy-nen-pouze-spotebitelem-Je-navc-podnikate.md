@@ -1,4 +1,4 @@
-# Mnohotvárnost ekonomických rolí
+# Mnohost ekonomických rolí jednotlivce
 
 <speak>
 <prosody rate="95%" pitch="+0%">
@@ -6,7 +6,7 @@
 <break time="300ms"/>
 <emphasis level="moderate">Funkce podnikatele, majitele půdy, kapitalisty a pracovníka jsou navíc často sloučeny v jedné osobě.</emphasis>
 <break time="300ms"/>
-<emphasis level="strong">Historie se snaží třídit lidi podle cílů, k nimž směřují, a podle prostředků, jaké pro dosažení těchto cílů využívají.</emphasis>
+<emphasis level="moderate">Historie se snaží třídit lidi podle cílů, k nimž směřují, a podle prostředků, jaké pro dosažení těchto cílů využívají.</emphasis>
 </prosody>
 </speak>
 
