@@ -1,4 +1,4 @@
-# Podnikatelská povaha výroby
+# Podnikatelský aspekt využití výrobních prostředků
 
 <speak>
 <prosody rate="95%" pitch="+0%">
