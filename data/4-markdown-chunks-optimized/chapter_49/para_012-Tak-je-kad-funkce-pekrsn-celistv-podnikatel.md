@@ -1,4 +1,4 @@
-# Celistvost ekonomických funkcí
+# Funkční rozdělování v ekonomické teorii
 
 <speak>
 <prosody rate="95%" pitch="+0%">
