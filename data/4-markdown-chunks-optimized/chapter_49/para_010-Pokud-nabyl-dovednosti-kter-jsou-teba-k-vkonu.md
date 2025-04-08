@@ -6,7 +6,9 @@
 <break time="300ms"/>
 <emphasis level="moderate">Učinil vklad v očekávání, že se mu vrátí v přiměřeném výstupu.</emphasis>
 <break time="300ms"/>
-<emphasis level="strong">Pracovník je podnikatelem natolik, nakolik je jeho mzda určována cenou, kterou umožní trh pro ten druh práce, jenž může vykonávat. Tato cena se mění se změnou podmínek, stejně jako se mění cena jakéhokoli jiného výrobního faktoru.</emphasis>
+<emphasis level="strong">Pracovník je podnikatelem natolik, nakolik je jeho mzda určována cenou, kterou umožní trh pro ten druh práce, jenž může vykonávat.</emphasis>
+<break time="300ms"/>
+<emphasis level="moderate">Tato cena se mění se změnou podmínek, stejně jako se mění cena jakéhokoli jiného výrobního faktoru.</emphasis>
 </prosody>
 </speak>
 
