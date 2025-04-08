@@ -1,1 +1,0 @@
-<emphasis level="strong">Čisté tržní hospodářství</emphasis> 

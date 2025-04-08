@@ -1,1 +1,0 @@
-<emphasis level="strong">Vymezení katalaktických problémů</emphasis> 
