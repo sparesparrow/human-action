@@ -1,7 +1,7 @@
-# Vztah mezi podnikatelem a kapitalistou
+# Vztah podnikatele a kapitalisty
 
 <speak>
-<prosody rate="95%" volume="medium">
+<prosody rate="95%" pitch="+0%">
 <emphasis level="strong">Takový podnikatel by byl ve skutečnosti kapitalistovým zaměstnancem, jenž spekuluje na vlastní účet a má stoprocentní podíl na čistém zisku, aniž by se zajímal o ztráty.</emphasis>
 
 <break time="300ms"/>
