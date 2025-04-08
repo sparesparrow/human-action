@@ -1,7 +1,7 @@
-# Rizika kapitalistického podnikání
+# Kapitalista jako virtuální podnikatel
 
 <speak>
-<prosody rate="95%" volume="medium">
+<prosody rate="95%" pitch="+0%">
 <emphasis level="strong">Kapitalista je tedy vždy virtuálním podnikatelem a spekulantem.</emphasis>
 
 <break time="300ms"/>
