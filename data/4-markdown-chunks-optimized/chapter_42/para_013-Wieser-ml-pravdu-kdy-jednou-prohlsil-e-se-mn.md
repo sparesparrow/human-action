@@ -1,0 +1,1 @@
+Wieser měl pravdu,<break time="0.3s"/> když jednou prohlásil,<break time="0.3s"/> že se mnoho ekonomů nechtěně zabývalo komunistickou teorií hodnoty,<break time="0.4s"/> a z toho důvodu opominuli rozpracovat teorii hodnoty současného stavu společnosti.<break time="0.5s"/> <emphasis level="moderate">Je tragické,<break time="0.3s"/> že on sám se této chyby nevyvaroval.</emphasis> 

@@ -1,0 +1,1 @@
+<emphasis level="moderate">Člověk tam nemá žádný nástroj,</emphasis><break time="0.4s"/> jak zjistit,<break time="0.3s"/> jaké jednání by nejlépe posloužilo jeho snaze<break time="0.3s"/> odstranit nespokojenost,<break time="0.3s"/> nakolik je to jen možné. 

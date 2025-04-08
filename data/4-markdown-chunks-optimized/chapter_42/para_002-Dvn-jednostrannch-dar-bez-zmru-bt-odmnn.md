@@ -1,0 +1,1 @@
+Dávání jednostranných darů bez záměru být odměněn<break time="0.3s"/> nějakým jednáním ze strany obdarovaného nebo třetí osoby<break time="0.3s"/> je autistická směna.<break time="0.5s"/> Dárce získá uspokojení,<break time="0.3s"/> které pramení z lepších podmínek obdarovaného.<break time="0.5s"/> Obdarovaný získá dar,<break time="0.3s"/> jako by byl seslaný od Boha.
