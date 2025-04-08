@@ -1,4 +1,4 @@
-# Absolutní moc monopolu
+# Absolutní monopol a jeho neslučitelnost s trhem
 
 **Držitel monopolu je pán a ostatní jsou otroci, kteří jsou plně závislí na jeho přízni.** U tohoto druhu monopolu není třeba se zdržovat. *K tržnímu hospodářství nemá vůbec žádný vztah.* Stačí uvést jeden příklad: **Takový absolutní a totální monopol by uplatňoval celosvětový socialistický stát; měl by moc rozdrtit své odpůrce tím, že by je nechal zemřít hladem.**
 
