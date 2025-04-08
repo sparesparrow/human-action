@@ -1,4 +1,4 @@
-# Spekulativní povaha veškerého jednání
+# Podnikatelská aktivita a nejistota v ekonomické teorii
 
 <speak>
 <prosody rate="95%" pitch="+0%">
@@ -6,11 +6,11 @@
 <break time="300ms"/>
 <emphasis level="moderate">Jakmile tento předpoklad strnulosti hodnot opustíme, zjistíme, že každá změna dat musí jednání nutně ovlivnit.</emphasis>
 <break time="300ms"/>
-<emphasis level="strong">Protože jednání nezbytně směřuje k ovlivnění budoucího stavu věcí, třebaže někdy pouze nejbližší budoucnosti následujícího okamžiku, je ovlivněno každou nesprávně předvídanou změnou dat, která se objeví v časovém období mezi začátkem a koncem období, k jehož zaopatření toto jednání směřovalo.</emphasis>
+<emphasis level="moderate">Protože jednání nezbytně směřuje k ovlivnění budoucího stavu věcí, třebaže někdy pouze nejbližší budoucnosti následujícího okamžiku, je ovlivněno každou nesprávně předvídanou změnou dat, která se objeví v časovém období mezi začátkem a koncem období, k jehož zaopatření toto jednání směřovalo.</emphasis>
 <break time="300ms"/>
-<emphasis level="moderate">Výsledek jednání je tedy vždy nejistý. Jednání je vždy spekulováním.</emphasis>
+<emphasis level="strong">Výsledek jednání je tedy vždy nejistý. Jednání je vždy spekulováním.</emphasis>
 <break time="300ms"/>
-<emphasis level="strong">To platí nejen pro tržní hospodářství, ale o nic méně i pro Robinsona Crusoe, toho pomyslného individuálního činitele, i pro podmínky socialistické ekonomiky.</emphasis>
+<emphasis level="moderate">To platí nejen pro tržní hospodářství, ale o nic méně i pro Robinsona Crusoe, toho pomyslného individuálního činitele, i pro podmínky socialistické ekonomiky.</emphasis>
 </prosody>
 </speak>
 
