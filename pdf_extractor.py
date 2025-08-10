@@ -85,7 +85,9 @@ class PDFProcessor:
             reader = pypdf.PdfReader(str(pdf_path))
             text = ""
             for page in reader.pages:
-                text += page.extract_text() + "\n"
+                # Safeguard against pages that return None
+                extracted = page.extract_text() or ""
+                text += extracted + "\n"
             return text
         except Exception as e:
             logger.error(f"Error extracting text from {pdf_path.name}: {e}")
