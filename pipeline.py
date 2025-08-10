@@ -53,7 +53,8 @@ class Pipeline:
             return {
                 "stages": {
                     "pdf_extraction": {"completed": False, "files_processed": []},
-                    "chunking": {"completed": False, "files_processed": []},
+                    # Using consistent naming across pipeline components
+                    "chunk_splitting": {"completed": False, "files_processed": []},
                     "optimization": {"completed": False, "files_processed": []},
                     "audio_generation": {"completed": False, "files_processed": []},
                     "audio_concatenation": {"completed": False, "files_processed": []},
@@ -109,7 +110,7 @@ class Pipeline:
         """Run the complete pipeline or a section of it"""
         stages = [
             ("pdf_extraction", pdf_extractor.PDFProcessor),
-            ("chunking", MarkdownChunker),
+            ("chunk_splitting", MarkdownChunker),
             ("audio_generation", EspeakAudioChunkGenerator),
             ("audio_concatenation", AudioConcatenator),
             ("paragraph_separation", ParagraphSeparator),
