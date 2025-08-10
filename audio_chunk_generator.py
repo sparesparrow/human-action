@@ -107,12 +107,20 @@ def process_markdown_file(
         # Save the audio file
         save(audio, str(output_file))
 
-        # Rename the processed markdown file by adding prefix
-        new_name = file_path.parent / f"AUDIO_GENERATED-{file_path.name}"
-        file_path.rename(new_name)
+        # Verify the audio file was created successfully
+        if not output_file.exists() or output_file.stat().st_size == 0:
+            raise RuntimeError(f"Audio file was not created or is empty: {output_file}")
+
+        # Only rename the processed markdown file after confirming successful audio generation
+        try:
+            new_name = file_path.parent / f"AUDIO_GENERATED-{file_path.name}"
+            file_path.rename(new_name)
+            logger.info(f"Renamed processed file to: {new_name.name}")
+        except OSError as e:
+            logger.warning(f"Could not rename processed file {file_path.name}: {e}")
+            # Don't fail the entire operation if renaming fails
 
         logger.info(f"Successfully generated: {output_file}")
-        logger.info(f"Renamed processed file to: {new_name.name}")
 
         return True, str(output_file)
 

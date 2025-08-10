@@ -38,8 +38,8 @@ class PDFProcessor:
 
     def __init__(
         self,
-        input_dir: str = "/home/sparrow/projects/LidskeJednani/data/1-pdf",
-        output_dir: str = "/home/sparrow/projects/LidskeJednani/data/2-markdown-chapters",
+        input_dir: str = "data/1-pdf",
+        output_dir: str = "data/2-markdown-chapters",
     ):
         """
         Initialize the PDF Processor.
@@ -236,7 +236,7 @@ def main():
         "-i",
         "--input-dir",
         type=str,
-        default="/home/sparrow/projects/LidskeJednani/data/1-pdf",
+        default="data/1-pdf",
         help="Directory containing PDF files",
     )
 
@@ -244,7 +244,7 @@ def main():
         "-o",
         "--output-dir",
         type=str,
-        default="/home/sparrow/projects/LidskeJednani/data/2-markdown-chapters",
+        default="data/2-markdown-chapters",
         help="Directory for output markdown chapters",
     )
 

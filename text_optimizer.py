@@ -261,26 +261,31 @@ Follow these instructions to modify the text:
         """
         try:
             # Get list of files to process (markdown chunks)
-            input_dir = self.base_dir / "data/3-markdown-chunks" # Use base_dir
-            output_dir = self.base_dir / "data/4-markdown-chunks-optimized" # Use base_dir
+            input_dir = self.base_dir / "data/3-markdown-chunks"
+            output_dir = self.base_dir / "data/4-markdown-chunks-optimized"
 
             # Create output directory if it doesn't exist
             output_dir.mkdir(parents=True, exist_ok=True)
 
-            # Find all markdown files that haven't been optimized yet
+            # Scan input directory once and build processing list efficiently
             files_to_process = []
+            existing_optimized = set()
+            
+            # Get all existing optimized files first (only scan once)
+            for f in output_dir.glob("*-OPTIMIZED.md"):
+                existing_optimized.add(f.stem.replace("-OPTIMIZED", ""))
+            
+            # Find files that need processing
             for f in input_dir.glob("*.md"):
-                 optimized_filename = f"{f.stem}-OPTIMIZED{f.suffix}"
-                 if not (output_dir / optimized_filename).exists():
-                      files_to_process.append(str(f.relative_to(self.base_dir)))
-
+                if f.stem not in existing_optimized:
+                    files_to_process.append(f.name)
 
             if not files_to_process:
                 logging.info("No files found to process (or all already optimized).")
                 return {
                     "success": True,
                     "processed_files": [],
-                    "stats": {"input_count": 0, "output_count": 0, "optimized_count": 0},
+                    "stats": {"input_count": 0, "output_count": len(existing_optimized), "optimized_count": 0},
                 }
 
             logging.info(f"Found {len(files_to_process)} files needing optimization.")
@@ -288,18 +293,16 @@ Follow these instructions to modify the text:
             # Run the async process
             asyncio.run(self.process_files(files_to_process))
 
-            # Count output files actually created in this run (more accurate)
-            # We rely on the processing logic to log success/failure per file
-            output_files_now = list(output_dir.glob("*-OPTIMIZED.md"))
-
+            # Count final results efficiently
+            final_optimized_count = len(list(output_dir.glob("*-OPTIMIZED.md")))
 
             return {
-                "success": True, # Assuming batch submission itself is success; individual errors logged within
-                "processed_files": files_to_process, # Files attempted
+                "success": True,
+                "processed_files": files_to_process,
                 "stats": {
                     "input_count": len(files_to_process),
-                    "output_count": len(output_files_now), # Total optimized files existing now
-                    # Could add more detailed stats based on batch results if needed
+                    "output_count": final_optimized_count,
+                    "newly_optimized": final_optimized_count - len(existing_optimized),
                 },
             }
         except Exception as e:
