@@ -1,0 +1,9 @@
+anthropic>=0.15.0
+elevenlabs>=0.2.27
+tqdm>=4.64.0
+pypdf>=4.0.0
+markdown>=3.5.1
+pydub>=0.25.1
+PyYAML>=6.0
+numpy>=1.26.0
+matplotlib>=3.8.0
