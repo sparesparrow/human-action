@@ -161,8 +161,11 @@ def concatenate_audio_files(input_files: List[Path], output_file: Path) -> bool:
         logger.info(f"Running: {' '.join(cmd)}")
         result = subprocess.run(cmd, capture_output=True, text=True)
 
-        # Remove temporary file
-        file_list_path.unlink()
+        # Remove temporary file (ensure cleanup even if ffmpeg fails)
+        try:
+            file_list_path.unlink()
+        except Exception as cleanup_error:
+            logger.warning(f"Failed to cleanup temporary file {file_list_path}: {cleanup_error}")
 
         if result.returncode != 0:
             logger.error(f"Error concatenating audio files: {result.stderr}")

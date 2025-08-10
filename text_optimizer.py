@@ -136,7 +136,7 @@ Follow these instructions to modify the text:
                 )
 
                 # Update progress bar based on API response
-                pbar.n = message_batch.completed_requests or 0 + (message_batch.failed_requests or 0)
+                pbar.n = (message_batch.completed_requests or 0) + (message_batch.failed_requests or 0)
                 pbar.refresh()
 
 

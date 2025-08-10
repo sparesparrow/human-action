@@ -110,7 +110,7 @@ class PDFProcessor:
         current_chapter_title = "Předmluva" # Default title for content before Chapter 1
 
         # Regex to find lines like "Kapitola 1. Title" or "Kapitola 5"
-        chapter_pattern = re.compile(r"^\\s*Kapitola\\s+(\\d+)\\.?\\s*(.*)$", re.IGNORECASE)
+        chapter_pattern = re.compile(r"^\s*Kapitola\s+(\d+)\.?\s*(.*)$", re.IGNORECASE)
 
         for line in lines:
             match = chapter_pattern.match(line)
