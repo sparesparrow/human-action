@@ -77,6 +77,20 @@ class Pipeline:
         """Run a specific pipeline stage"""
         logger.info(f"Starting stage: {stage_name}")
 
+        # Check if output already exists for certain stages
+        if stage_name == "optimization":
+            output_dir = self.config.optimized_chunks_dir
+            if output_dir and output_dir.exists() and list(output_dir.glob("*-OPTIMIZED.md")):
+                logger.info(f"Stage {stage_name} already has output, skipping")
+                return {"success": True, "skipped": True}
+        
+        elif stage_name == "audio_generation":
+            # Check if audio files already exist
+            audio_dir = self.config.audio_chunks_dir
+            if audio_dir and audio_dir.exists() and list(audio_dir.glob("*.mp3")):
+                logger.info(f"Stage {stage_name} already has audio output, skipping")
+                return {"success": True, "skipped": True}
+
         try:
             # Initialize the processor with config and any extra args
             processor = processor_class(self.config, **kwargs)
@@ -255,12 +269,19 @@ class Pipeline:
                     processor = processor_class()
                     result = processor.process(input_file)
                 else:
-                    processor = processor_class(
-                        self.config.get_path(step + "_input")
-                        or self.config.markdown_chunks_dir, # type: ignore
-                        self.config.get_path(step + "_output")
-                        or self.config.audio_chunks_dir, # type: ignore
-                    )
+                    if step == "audio_concatenation":
+                        # AudioConcatenator takes input_dir and output_dir
+                        processor = processor_class(
+                            self.config.audio_chunks_dir, # input: audio chunks
+                            self.config.audio_book_dir, # output: final audiobook
+                        )
+                    else:
+                        processor = processor_class(
+                            self.config.get_path(step + "_input")
+                            or self.config.markdown_chunks_dir, # type: ignore
+                            self.config.get_path(step + "_output")
+                            or self.config.audio_chunks_dir, # type: ignore
+                        )
                     result = processor.process()
 
                 # Mark step as completed

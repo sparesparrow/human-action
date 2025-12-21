@@ -17,14 +17,17 @@ import sys
 import time
 from pathlib import Path
 
-# Import ElevenLabs SDK with the latest structure
+# Import ElevenLabs SDK with the latest structure (optional)
+ELEVENLABS_AVAILABLE = False
 try:
     from elevenlabs import play, save
     from elevenlabs.client import ElevenLabs
     from elevenlabs import VoiceSettings
+    ELEVENLABS_AVAILABLE = True
 except ImportError:
-    print("ElevenLabs SDK není nainstalován. Instalujte pomocí: pip install elevenlabs")
-    sys.exit(1)
+    logger = logging.getLogger(__name__)
+    logger.warning("ElevenLabs SDK není nainstalován. Funkce ElevenLabs bude nedostupná.")
+    logger.info("Nainstalujte pomocí: pip install elevenlabs")
 
 # Setup logging
 logging.basicConfig(
@@ -59,6 +62,10 @@ def process_markdown_file(
     Returns:
         Tuple (success, output_file_path)
     """
+    if not ELEVENLABS_AVAILABLE:
+        logger.error("ElevenLabs SDK is not available. Cannot process audio.")
+        return False, "ElevenLabs SDK not available"
+
     try:
         # Create Path objects
         file_path = Path(

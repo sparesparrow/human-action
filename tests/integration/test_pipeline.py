@@ -44,7 +44,7 @@ class TestPipeline:
         config.audio_book_dir = test_config.audio_book_dir
 
         # For compatibility with test fixtures
-        config.markdown_paragraphs_dir = test_config.markdown_paragraphs_dir
+        config.markdown_paragraphs_dir = test_config.paragraphs_dir
 
         return config
 
@@ -99,7 +99,7 @@ class TestPipeline:
         for chunk_idx, _ in enumerate(chunk_files):
             for para_idx in range(2):  # 2 paragraphs per chunk
                 para_file = (
-                    test_config.markdown_paragraphs_dir
+                    test_config.paragraphs_dir
                     / f"para_{chunk_idx}_{para_idx}.md"
                 )
                 with open(para_file, "w", encoding="utf-8") as f:
@@ -306,10 +306,12 @@ class TestPipeline:
                 chunk_files.append(chunk_file)
 
         # Create some mock audio files for the concatenator
+        # Use a minimal valid MP3 header to avoid FFmpeg parsing errors
+        minimal_mp3 = b'\xff\xfb\x90\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
         for chunk_file in chunk_files:
             audio_file = test_config.audio_chunks_dir / f"{chunk_file.stem}.mp3"
             with open(audio_file, "wb") as f:
-                f.write(b"Mock audio data")
+                f.write(minimal_mp3)
 
         # Create a state file that shows previous steps are completed
         state_file = test_config.base_dir / "pipeline_state.json"
@@ -326,7 +328,7 @@ class TestPipeline:
                 },
                 "paragraph_separation": {
                     "output_files": [
-                        str(test_config.markdown_paragraphs_dir / "para_01.md")
+                        str(test_config.paragraphs_dir / "para_01.md")
                     ]
                 },
             },
@@ -344,17 +346,22 @@ class TestPipeline:
         audio_concatenator_mock.process.return_value = (
             config.audio_book_dir / "audiobook.mp3"
         )
+        # Mock the concatenate_audio_files method to avoid FFmpeg issues
+        audio_concatenator_mock.concatenate_audio_files.return_value = (
+            config.audio_book_dir / "audiobook.mp3"
+        )
 
         # Create the expected output file
         with open(config.audio_book_dir / "audiobook.mp3", "wb") as f:
             f.write(b"Mock audiobook output")
 
-        # Patch modules
+        # Patch modules and functions
         with patch.dict(
             "sys.modules",
             {
                 "audio_concatenator": MagicMock(
-                    AudioConcatenator=lambda *args, **kwargs: audio_concatenator_mock
+                    AudioConcatenator=lambda *args, **kwargs: audio_concatenator_mock,
+                    concatenate_audio_files=MagicMock(return_value=True)
                 )
             },
         ):
