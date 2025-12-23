@@ -12,8 +12,78 @@ directories:
 processing:
   parallel_jobs: 4
 tts:
-  engine: espeak-ng
-  pitch: 50
-  rate: 175
-  voice: cs
-  volume: 100
+  engine_priority: [piper, coqui, espeak-ng, elevenlabs, mock]  # Priority order for TTS engines
+
+  # Piper TTS settings (highest priority)
+  piper:
+    model: cs_CZ-jirka-medium  # Czech voice model - high quality for academic content
+    voice: cs_CZ-jirka-medium
+    language: cs
+    keep_wav: true  # Set to true to keep WAV files (lossless quality, larger files). Recommended for best quality.
+    upsample: true  # Upsample 22050 Hz to 44100 Hz for better quality (when converting to compressed formats)
+    # Production voice settings - chosen after variant testing
+    preset: clear  # 'clear' preset provides stable, clear delivery perfect for philosophical content
+    length_scale: 1.0  # Normal speech rate
+    noise_scale: 0.5   # More stable/less variation for academic clarity
+    noise_w: 0.7       # Clearer phoneme articulation
+
+  # Coqui TTS settings
+  coqui:
+    model: tts_models/multilingual/multi-dataset/xtts_v2
+    language: cs
+    speaker_wav: null  # Optional reference audio for voice cloning
+
+  # Espeak settings
+  espeak:
+    voice: cs
+    rate: 175
+    pitch: 50
+    volume: 100
+
+  # ElevenLabs settings (paid API, lowest priority)
+  elevenlabs:
+    voice_id: OJtLHqR5g0hxcgc27j7C
+    model_id: eleven_multilingual_v2
+    stability: 0.5
+    similarity_boost: 0.75
+    style: 0.0
+
+# Speech-to-Text (STT) configuration
+stt:
+  engine: whisper  # Options: whisper, vosk, speech_recognition
+  whisper:
+    model: base  # tiny, base, small, medium, large
+    device: cpu  # cpu, cuda
+
+# Voice Variant Generation Configuration
+voice_variants:
+  enabled: true
+  output_dir: data/5-audio-chunks/variants
+  presets:
+    natural:
+      length_scale: 1.0
+      noise_scale: 0.667
+      noise_w: 0.8
+    clear:
+      length_scale: 1.0
+      noise_scale: 0.5
+      noise_w: 0.7
+    expressive:
+      length_scale: 1.0
+      noise_scale: 0.8
+      noise_w: 0.9
+    fast:
+      length_scale: 1.2
+      noise_scale: 0.6
+      noise_w: 0.8
+    slow:
+      length_scale: 0.8
+      noise_scale: 0.5
+      noise_w: 0.7
+  models_to_test:
+    - cs_CZ-jirka-medium
+    - cs_CZ-jirka-low
+  engines_to_test:
+    - piper
+    - coqui
+    - espeak

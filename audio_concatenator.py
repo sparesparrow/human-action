@@ -201,7 +201,11 @@ def process_chapter(
 
     # Format chapter number with leading zeros if needed
     chapter_num_formatted = chapter_num.zfill(2)
-    output_file = output_dir / f"{chapter_num_formatted}-Jednající_člověk.mp3"
+
+    # Determine output format based on input files
+    # If input files are WAV, output WAV to avoid codec conversion issues
+    input_format = files[0].suffix.lower() if files else ".wav"
+    output_extension = ".wav" if input_format == ".wav" else ".mp3"
 
     # Get chapter title if available (customize this based on your naming convention)
     # This is just a placeholder - you might want to use a mapping of chapter numbers to titles
@@ -215,7 +219,7 @@ def process_chapter(
     chapter_title = chapter_titles.get(
         chapter_num_formatted, f"Chapter_{chapter_num_formatted}"
     )
-    output_file = output_dir / f"{chapter_num_formatted}-{chapter_title}.mp3"
+    output_file = output_dir / f"{chapter_num_formatted}-{chapter_title}{output_extension}"
 
     logger.info(f"Processing chapter {chapter_num_formatted}: {chapter_title}")
     logger.info(f"Concatenating {len(files)} files: {[f.name for f in files]}")
@@ -240,15 +244,36 @@ def process_all_chapters(input_dir: Path, output_dir: Path) -> int:
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Get all MP3 files
-    mp3_files = sorted(input_dir.glob("*.mp3"), key=lambda p: natural_sort_key(p.name))
+    # Get all audio files (check subdirectories too)
+    audio_files = []
 
-    if not mp3_files:
-        logger.warning(f"No MP3 files found in {input_dir}")
+    # Check for WAV files in current directory and subdirectories
+    for pattern in ["*.wav", "**/*.wav"]:
+        wav_files = sorted(input_dir.glob(pattern), key=lambda p: natural_sort_key(p.name))
+        if wav_files:
+            audio_files.extend(wav_files)
+
+    # Remove duplicates (file might appear in multiple patterns)
+    audio_files = list(set(audio_files))
+
+    if audio_files:
+        logger.info(f"Found {len(audio_files)} WAV files for concatenation")
+    else:
+        # Fallback to MP3 if no WAV files
+        for pattern in ["*.mp3", "**/*.mp3"]:
+            mp3_files = sorted(input_dir.glob(pattern), key=lambda p: natural_sort_key(p.name))
+            if mp3_files:
+                audio_files.extend(mp3_files)
+
+        audio_files = list(set(audio_files))  # Remove duplicates
+        logger.info(f"Found {len(audio_files)} MP3 files for concatenation")
+
+    if not audio_files:
+        logger.warning(f"No audio files found in {input_dir} or subdirectories")
         return 0
 
     # Group files by chapter
-    chapters = group_files_by_chapter(mp3_files)
+    chapters = group_files_by_chapter(audio_files)
 
     if not chapters:
         logger.warning("Could not identify any chapters from the filenames")

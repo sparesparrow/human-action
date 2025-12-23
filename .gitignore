@@ -2,6 +2,7 @@
 *.wav
 *.mp4
 tmp/
+data/transcriptions/temp/
 
 
 # Byte-compiled / optimized / DLL files

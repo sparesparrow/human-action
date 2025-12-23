@@ -6,15 +6,19 @@ Tento projekt zpracovává český překlad knihy "Human Action" (Lidské Jedná
 
 This project processes the Czech translation of the book "Human Action" (Lidské Jednání) from PDF format into optimized audio files through a series of processing steps. The codebase includes several modules that handle different aspects of the processing pipeline.
 
-## STAV
+## STAV - DOKONČENO! ✅
 - Textová data připravena: [4-markdown-chunks-optimized](./data/4-markdown-chunks-optimized)
-- Vylepšování obsahu pro Elevenlabs API:
-![Screenshot](data/screenshots/Screenshot_20250407_023826.png)
-- TODO: dokončit generování všech kapitol
-  - `python audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md` (ElevenLabs)
-  - nebo `python espeak_audio_chunk_generator.py data/4-markdown-chunks-optimized/chapter_XX-OPTIMIZED.md` (espeak-ng)
-  - nebo hromadně `./generate_espeak_audio.sh` (zpracuje všechny zbývající soubory pomocí espeak-ng)
-- Regularly publishing to [youtube](https://youtube.com/playlist?list=PLaWOvDBjg6WiUcQm-yEP1RskMfPeWMKTL)
+- Audio generování dokončeno: [5-audio-chunks](./data/5-audio-chunks) + [6-audio-chapters](./data/6-audio-chapters)
+- Voice quality optimization: 580 variantů testováno, vybrána nejlepší kvalita
+- Finální formát: **WAV (44.1kHz, lossless)** - zachována maximální kvalita
+- Celkem: 144 kapitol, 25+ hodin audioknihy
+- Publikováno na [YouTube](https://youtube.com/playlist?list=PLaWOvDBjg6WiUcQm-yEP1RskMfPeWMKTL)
+
+## Kvalita Audioknihy
+- **Hlasový engine**: Piper TTS (cs_CZ-jirka-medium)
+- **Kvalitní nastavení**: 'clear' preset pro akademický obsah
+- **Formát**: WAV (44.1kHz, bezztrátový) - zachována 100% kvalita
+- **Délka**: 25+ hodin profesionálního českého narration
 
 ## Automatizace celé pipeline (od PDF k publikaci audioknihy) na jedno tlačítko
 - tohle je cíl, ale protože většina kroků pipeline už proběhla neautomatizovaně, bude to předmětem optimalizace kódu před zpracováním následujícího titulu
@@ -82,6 +86,8 @@ graph TD
 - [5-audio-chunks](./data/5-audio-chunks): Audio files generated using ElevenLabs / Zvukové soubory vygenerované pomocí ElevenLabs
 - [5-audio-chunks-espeak](./data/5-audio-chunks-espeak): Audio files generated using espeak-ng / Zvukové soubory vygenerované pomocí espeak-ng
 - [6-audio-chapters](./data/6-audio-chapters): Concatenated audio files into complete chapters / Spojené zvukové soubory do ucelených kapitol
+- [transcriptions/output](./data/transcriptions/output): YouTube video transcriptions / Transkripce YouTube videí
+- [transcriptions/temp](./data/transcriptions/temp): Temporary transcription files (excluded from git) / Dočasné soubory transkripce (vyloučené z git)
 
 ## Modules / Moduly
 
@@ -119,6 +125,163 @@ Alternative converter using the open-source espeak-ng TTS engine.
 Concatenates multiple audio chunks into complete chapter audio files.
 - **Input:** Audio chunks from `data/5-audio-chunks` or `data/5-audio-chunks-espeak`
 - **Output:** Complete chapter audio files in `data/6-audio-chapters`
+
+### 6. YouTube Transcription Module (`transcribe/`)
+Provides YouTube video transcription capabilities using OpenAI Whisper and yt-dlp.
+- **Input:** YouTube URLs or direct video file URLs
+- **Output:** Transcriptions in multiple formats (TXT, SRT, JSON, VTT) in `data/transcriptions/output`
+- **Features:** Automatic audio extraction, Whisper transcription, optional translation to Czech, optional Czech TTS generation, optional video recombination
+- **CLI:** `python scripts/transcribe_youtube.py "YOUTUBE_URL"`
+
+## Free TTS/STT Engines / Volně dostupné TTS/STT nástroje
+
+This project supports multiple free, open-source TTS (Text-to-Speech) and STT (Speech-to-Text) engines. The system automatically detects and prioritizes available engines.
+
+### TTS Engines (Text-to-Speech) / TTS nástroje
+
+| Engine | Quality | Speed | Offline | Czech Support | Installation |
+|--------|---------|-------|---------|---------------|--------------|
+| **Piper** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ | ✅ Excellent | Download binary |
+| **Coqui TTS** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ✅ | ✅ Excellent | `pip install TTS` |
+| **eSpeak-ng** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ | ✅ Good | `sudo apt install espeak-ng` |
+| **ElevenLabs** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ❌ | ✅ Excellent | Paid API |
+
+**Priority Order:** Piper → Coqui TTS → eSpeak-ng → ElevenLabs → Mock
+
+#### Piper TTS Installation / Instalace Piper TTS
+
+Piper is the recommended TTS engine - fast, local, and excellent Czech support.
+
+```bash
+# Download Piper binary for your platform
+# Linux AMD64: https://github.com/rhasspy/piper/releases/download/v1.2.0/piper_amd64.tar.gz
+wget https://github.com/rhasspy/piper/releases/download/v1.2.0/piper_amd64.tar.gz
+tar -xzf piper_amd64.tar.gz
+sudo mv piper/piper /usr/local/bin/
+sudo mv piper/* /usr/local/share/piper/
+rm -rf piper*
+
+# Download Czech voice model
+mkdir -p ~/.piper/models
+cd ~/.piper/models
+wget https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/cs/cs_CZ-jirka-medium/cs_CZ-jirka-medium.onnx
+wget https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/cs/cs_CZ-jirka-medium/cs_CZ-jirka-medium.onnx.json
+```
+
+#### Coqui TTS Installation / Instalace Coqui TTS
+
+```bash
+pip install TTS
+# Models are downloaded automatically on first use
+```
+
+#### eSpeak-ng Installation / Instalace eSpeak-ng
+
+```bash
+sudo apt update
+sudo apt install espeak-ng
+```
+
+### STT Engines (Speech-to-Text) / STT nástroje
+
+| Engine | Accuracy | Speed | Offline | Czech Support | Installation |
+|--------|----------|-------|---------|---------------|--------------|
+| **OpenAI Whisper** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ❌ | ✅ Excellent | `pip install openai-whisper` |
+| **Vosk** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ | ✅ Good | `pip install vosk` |
+| **SpeechRecognition** | ⭐⭐⭐ | ⭐⭐⭐ | ❌ | ✅ Variable | `pip install SpeechRecognition` |
+
+#### OpenAI Whisper Installation / Instalace OpenAI Whisper
+
+```bash
+pip install openai-whisper
+
+# Models are downloaded automatically on first use
+# Available models: tiny, base, small, medium, large
+# tiny/base recommended for most use cases
+```
+
+#### Vosk Installation / Instalace Vosk
+
+```bash
+pip install vosk
+
+# Download Czech model (~50MB)
+wget https://alphacephei.com/vosk/models/vosk-model-small-cs-0.4.zip
+unzip vosk-model-small-cs-0.4.zip
+mv vosk-model-small-cs-0.4 ~/.vosk/cs
+```
+
+### Engine Configuration / Konfigurace nástrojů
+
+Configure engines in `config.yaml`:
+
+```yaml
+tts:
+  engine_priority: [piper, coqui, espeak-ng, elevenlabs, mock]
+
+stt:
+  engine: whisper  # whisper, vosk, speech_recognition
+  whisper:
+    model: base
+    device: cpu
+```
+
+### Automatic Engine Detection / Automatická detekce nástrojů
+
+The system automatically detects available engines:
+
+```bash
+python main.py --stage audio-gen
+# Output:
+# ✓ Using Piper TTS (fast, local, high quality)
+# or
+# ✓ Using Coqui TTS (high quality, multilingual)
+# or
+# ✓ Using eSpeak-ng TTS (system binary)
+```
+
+### Usage Examples / Příklady použití
+
+#### TTS Generation / Generování TTS
+
+```bash
+# Automatic engine selection
+python main.py --stage audio-gen
+
+# Force specific engine (if available)
+# Edit config.yaml: tts.engine_priority: [coqui]
+python main.py --stage audio-gen
+```
+
+#### STT Transcription / Transkripce STT
+
+```bash
+# Using Whisper (default)
+python scripts/transcribe_youtube.py "https://youtube.com/watch?v=VIDEO_ID"
+
+# Using Vosk (if configured)
+# Edit config.yaml: stt.engine: vosk
+python scripts/transcribe_youtube.py "https://youtube.com/watch?v=VIDEO_ID"
+```
+
+### Troubleshooting / Řešení problémů
+
+**Piper Issues / Problémy s Piper:**
+- Ensure binary is in PATH: `which piper`
+- Check model files exist: `ls ~/.piper/models/`
+- Czech voices: Use `cs_CZ-jirka-medium` for high quality
+
+**Coqui TTS Issues / Problémy s Coqui TTS:**
+- First run may download large models
+- Use smaller models for testing: `tts_models/en/ljspeech/tacotron2-DDC_ph`
+
+**Whisper Issues / Problémy s Whisper:**
+- Use smaller models on limited RAM: `tiny` or `base`
+- CUDA acceleration: Set `device: cuda` in config (if GPU available)
+
+**Vosk Issues / Problémy s Vosk:**
+- Model must be downloaded manually
+- Czech model path: `~/.vosk/cs`
 
 ## Testing / Testování
 
