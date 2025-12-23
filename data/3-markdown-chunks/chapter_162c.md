@@ -1,4 +1,3 @@
-
 Karikaturou schématu sdílení zisků je princip schopnosti platit , který se
 
 nedávno stal součástí programu amerických odborářů. Zatímco sdílení ziskůmá za cíl přidělit zaměstnancům část již dosaženého zisku, snaha o schémazaložené na schopnosti platit usiluje o rozdělení zisků, o kterých se nějakývnější pozorovatel domnívá, že by zaměstnavatel mohl dosáhnout v budouc-nosti.

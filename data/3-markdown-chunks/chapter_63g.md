@@ -1,25 +1,4 @@
-
-Matematická metoda nedokáže ukázat, jak se ve stavu nerovnováhy obje-
-
-ví takové jednání, které směřuje k ustavení rovnováhy. Je samozřejmě možnénaznačit matematické operace, jež jsou třeba k přetvoření matematickéhopopisu určitého nerovnovážného stavu na matematický popis rovnovážnéhostavu. Ale tyto matematické operace v žádném případě nepopisují tržní pro-ces uváděný do chodu nesrovnalostmi v cenové struktuře.
-
-O diferenciálníchrovnicích mechaniky se předpokládá, že v kteroukoli chvíli časového interva-lu přesně popisují pohyb od nerovnovážného stavu k rovnovážnému stavu.Pouze ti, kdo jsou naprosto zaslepení předsudkem, že ekonomie musí být sla-bou náhražkou mechaniky, budou podceňovat váhu této námitky. Velminedokonalá a povrchní metafora nenahradí služby, které poskytuje logickáekonomie.
-
-V každé kapitole katalaxie si lze ověřit zničující důsledky matematického
-
-přístupu k ekonomii. Stačí uvést pouze dva případy. Jeden poskytuje tzv. rov-nice směny, marný a zavádějící pokus matematických ekonomů zabývat sezměnami kupní síly peněz.
-
-10Druhý lze nejlépe vyjádřit odkazem na výrok
-
-profesora Schumpetera, podle něhož spotřebitelé ohodnocující spotřebnízboží „ ipso facto také ohodnocují výrobní prostředky, které vstupují do výro-
-
-by tohoto zboží“.
-
-11Je jen stěží možné popsat tržní proces chybněji.
-
-Předmětem ekonomie nejsou statky a služby, ale jednání živých lidí. Jejím
-
-cílem není zaobírat se imaginárními konstrukty, jakým je například rovnová-ha. Tyto konstrukty jsou pouze myšlenkovým nástrojem. Výhradní úlohouekonomie je analýza jednání lidí, analýza procesů.
+Tyto konstrukty jsou pouze myšlenkovým nástrojem. Výhradní úlohouekonomie je analýza jednání lidí, analýza procesů.
 
 32410Srov. níže, str. 362.
 

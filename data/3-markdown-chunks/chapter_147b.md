@@ -1,4 +1,3 @@
-
 Na vysoké daně si stěžují podnikatelé. Státníci jsou zneklidněni nebezpe-
 
 čím „zničení potenciálu země“. Skutečnou podstatu problému zdanění je aletřeba vidět v paradoxu, kdy čím vyšší daně máme, tím více podkopávají tržní
@@ -62,3 +61,5 @@ k využívání každého výrobního faktoru k nejlepšímu uspokojení nejvíc
 Správnost tohoto závěru je prokázána znamenitým a nevyvratitelným způ-
 
 sobem v případě historicky nejčastějšího druhu vládních zásahů do výroby,kterým je stavění překážek mezinárodnímu obchodu. V této oblasti je vše jed-nou provždy vyřčeno díky učení klasických ekonomů a obzvláště díky DaviduRicardovi. Clo může dosáhnout jedině toho, že odchýlí výrobu z těch oblastí,ve kterých dosahovala výše výstupu na jednotku vyšších hodnot, do oblastí,kde dosahuje hodnot nižších. Výrobu nijak nezvyšuje, naopak ji omezuje.
+
+Lidé obšírně vykládají o údajné vládní podpoře výroby.

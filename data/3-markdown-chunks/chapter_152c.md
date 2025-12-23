@@ -1,4 +1,3 @@
-
 Poznámky k příčinám úpadku antické civilizace
 
 Znalost dopadů vládního zasahování do tržních cen nám umožňuje pochopit
@@ -36,3 +35,9 @@ Lidé se snažili vyhnout hladu útěkemna venkov, kde se sami pokoušeli pěsto
 Majitelé pozemků totiž ztratili mož-nost prodávat ve městech, a tedy také dodávat své zboží řemeslníkům. Bylinuceni najít náhradu a uspokojit své potřeby, takže sami začali zaměstnávatřemeslníky ve svých venkovských sídlech. Opustili zemědělskou velkovýrobua stali se majiteli půdy, kteří získávali rentu od nájemců půdy či pachtýřů.Tito coloni byli buď propuštění otroci, nebo městský proletariát, kteří se usa-
 
 dili ve vesnicích a začali obdělávat půdu. Na každém statku tak vznikla snahao soběstačnost. Hospodářský význam měst, obchodu, podnikání a městskýchřemesel poklesl. Itálie a provincie se vrátily do méně rozvinutého stadia spo-lečenské dělby práce. Vysoce rozvinutá ekonomická struktura antické civili-zace ustoupila systému, jejž nazýváme panský systém středověku.
+
+Císaři byli znepokojeni tímto vývojem, který podkopal finanční a vojen-
+
+skou moc jejich vlády. Jejich opatření směřující k nápravě však byla neúčin-ná, jelikož nesměřovala k jádru problému. Nátlak a donucení, ke kterým seuchýlili, nemohl zvrátit trend ke společenské dezintegraci, jež byla naopakzpůsobena přílišným nátlakem a donucením. Nikdo z Římanů si nebylvědom skutečnosti, že celý tento proces byl vyvolán vládním zasahováním docen a zlehčováním měny. Vyhlašování císařských zákonů proti obyvatelůmměst, kteří „ relicta civitate rus habitare maluerit “
+
+4, bylo marné.

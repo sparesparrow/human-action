@@ -1,4 +1,3 @@
-
 V pracovních sporech nejsou stranamimanagement a pracovní síla, ale podnikatelé (nebo kapitál) a zaměstnancipracující za plat nebo mzdu. Kapitalistický systém není manažerským systé-mem; je to podnikatelský systém. Zásluhy podnikového vedení nijak nesníží-me, když potvrdíme skutečnost, že to, co určuje alokaci výrobních faktorů dorůzných průmyslových oborů, není jejich činnost.
 
 Nikdo nikdy nenavrhoval, že by socialistické společenství mohlo pozvat

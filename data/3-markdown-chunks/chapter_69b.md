@@ -1,7 +1,4 @@
-
-V teorii monopolních cen se matematika dostává o něco blíž k realitě jed-
-
-nání. Ukazuje, jak by monopolista mohl najít optimální monopolní cenu,pokud by měl k dispozici všechna potřebná data. Monopolista však tvarpoptávkové křivky nezná. To, co zná, jsou pouze body, v nichž se poptávkovéa nabídkové křivky v minulosti navzájem protínaly. Proto nemůže matema-tické vzorce využít ke zjišťování, zda pro jeho monopolizované zboží existujenějaká monopolní cena, a pokud existuje, která z různých monopolních cenje optimální.
+Proto nemůže matema-tické vzorce využít ke zjišťování, zda pro jeho monopolizované zboží existujenějaká monopolní cena, a pokud existuje, která z různých monopolních cenje optimální.
 
 Matematické a grafické výklady jsou proto v této oblasti jedná-ní stejně neplodné jako v jiných oblastech. Nakonec však schematizují mono-polistovo uvažování a nespokojují se, jako v případě konkurenčních cen,s popisem pouhé pomocné konstrukce teoretické analýzy, která v reálnémjednání nehraje žádnou roli.
 
@@ -46,3 +43,11 @@ Maloobchodník nenípouhým prodavačem; je také tím, kdo poskytne přátelsko
 Dobré jméno (goodwill) je věhlas, který podnik získává na základě minu-
 
 lých úspěchů. Zahrnuje očekávání, že se ten, kdo má dobré jméno, budev budoucnu chovat stejně, jak tomu bylo v minulosti. Dobré jméno neníjevem, který by se objevoval pouze v obchodních vztazích. Existuje ve všechspolečenských vztazích. Určuje, jak si člověk vybírá partnera, jak si vybírápřátele, jakému kandidátovi dá hlas ve volbách. Katalaxie se samozřejmězabývá pouze obchodním dobrým jménem.
+
+Nezáleží na tom, jestli je dobré jméno založeno na skutečných výsledcích
+
+a zásluhách, nebo jestli je pouze výsledkem představivosti a klamných před-stav. V lidském jednání není důležitá pravda, jak se zjevuje vševědoucí by-tosti, ale názory lidí, kteří se mohou mýlit. Existují příklady, v nichž jsouspotřebitelé ochotni zaplatit za zvláštní značku nějaké látky vyšší cenu, ačko-li se značkové zboží ve své fyzikální a chemické struktuře neliší od jinýchlevnějších produktů. Odborníci mohou považovat takové chování za nero-zumné.
+
+Ale žádný člověk nemůže být odborníkem ve všech oborech, které
+
+odpovídají jeho volbám. Nemůže se zcela vyhnout tomu, aby znalost skuteč-ného stavu věci nenahrazoval důvěrou v lidi. Pravidelný spotřebitel si nemusívždy vybírat zboží nebo službu, ale dodavatele, kterému věří.

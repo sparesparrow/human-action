@@ -1,7 +1,4 @@
-
-Stav věcí, který umožňuje vznik monopolních cen, je zpravidla navozen
-
-vládními politikami, např. celními bariérami. Pokud vlastníci mnevyužijí
+celními bariérami. Pokud vlastníci mnevyužijí
 
 nabízenou příležitost spojit se za účelem dosažení monopolních cen, vezmouvlády často na sebe organizaci toho, co americké zákony nazývají „konku-renční doložkou“. Policejní síly donutí majitele statku m– většinou majitele
 

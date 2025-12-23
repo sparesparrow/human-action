@@ -1,5 +1,4 @@
-
-Přináší myšlenku války, která by napravila tento neuspokojivý stav.Proč by měla mocná země snášet provokace slabší země? Není snad nestoud-né, když malá Laputánie poškozuje občany velké Ruritánie cly, překážkamimigrace, devizovou regulací, množstevními omezeními obchodu a vyvlastňo-váním ruritánských investic v Laputánii? Nemohla by snad ruritánská armá-da snadno porazit nicotné laputánské síly?
+Není snad nestoud-né, když malá Laputánie poškozuje občany velké Ruritánie cly, překážkamimigrace, devizovou regulací, množstevními omezeními obchodu a vyvlastňo-váním ruritánských investic v Laputánii? Nemohla by snad ruritánská armá-da snadno porazit nicotné laputánské síly?
 
 Přesně taková byla ideologie německých, italských a japonských válečných
 
@@ -56,3 +55,15 @@ přece jenom tak špatné, jak se jej „neortodoxní“ teorie snaží vykresli
 Pokusme se v rámci této argumentace vyložit koncept blahobytu způsobem,
 
 se kterým by se mohla ztotožnit naprostá většina neasketických lidí. Čím lépese nám to bude dařit, tím více bude myšlenka blahobytu ztrácet jakýkoli kon-krétní význam a obsah. Stane se z ní bezbarvá parafráze základní kategorie lid-ského jednání, totiž snaha o co největší odstranění nespokojenosti. Jelikož jevšeobecně uznáváno, že tohoto cíle je možné lépe, či dokonce výlučně, do-sáhnout prostřednictvím společenské dělby práce, lidé v rámci společenskýchvazeb spolupracují.
+
+Člověk společenský na rozdíl od člověka žijícího v autar-
+
+kii musí nutně upravit svůj původní biologický nezájem o blahobyt lidí vnějeho vlastní rodiny. Své konání musí přizpůsobit požadavkům společenské
+
+74702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 747
+
+spolupráce a pohlížet na úspěch ostatních lidí jako na nutnou podmínku
+
+vlastního úspěchu. Z tohoto pohledu je možné popsat cíl společenské koope-race jako dosažení největší spokojenosti největším počtem lidí. Málokdo byse pokoušel vyvracet tuto definici nejvíce žádoucího stavu a tvrdit, že není
+
+dobré vidět co největší počet lidí těšících se co největšímu možnému štěstí.Veškeré útoky proti tomuto Benthamovu tvrzení se soustředily na nejasnostiči nedorozumění ohledně konceptu štěstí; nijak se však nestavily proti postu-látu, že dobru, ať již znamená cokoli, by se mělo těšit největší možné množ-ství lidí.

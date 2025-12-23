@@ -49,3 +49,5 @@ tické ekonomie a zdaňování , Prometheus, Praha, 1934 – pozn. překl.)02_Li
 původními a vyrobenými výrobními faktory a že kosmologická nezničitelnost
 
 hmoty a energie – ať už znamená cokoli – nedává využití půdy zásadně jinýcharakter než jiným výrobním odvětvím.
+
+3.

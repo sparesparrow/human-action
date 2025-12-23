@@ -1,21 +1,4 @@
-
-V imaginárním konstruktu rovnoměrně plynoucí ekonomiky se všechny
-
-výrobní faktory využívají tak, že každý z nich poskytuje ty nejcennější služby.Neexistuje žádná myslitelná a možná změna, která by zlepšila stav uspokoje-ní; žádný faktor se nevyužívá pro uspokojení potřeby a, jestliže toto využití
-
-zabraňuje uspokojení potřeby b, které je považováno za cennější než uspo-
-
-kojení a. Je samozřejmě možné popsat tento nereálný stav alokace zdrojů
-
-diferenciálními rovnicemi a graficky ho znázornit křivkami. Ale takové pro-středky neříkají nic o tržním procesu. Pouze určují fiktivní situaci, v níž bytržní proces přestal pracovat. Matematičtí ekonomové pomíjejí celé teoretic-ké vysvětlení tržního procesu a místo toho věnují svoji pozornost pomocné-mu pojmu, který ztrácí jakýkoli smysl, pokud se použije mimo souvislost,v níž byl vytvořen.
-
-Ve fyzice se setkáváme se změnami, které se objevují v různých smyslo-
-
-vých jevech. V posloupnosti takových změn objevujeme zákonitosti a tato
-
-32201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 322
-
-pozorování nás vedou k vytvoření fyzikální vědy. O původních silách, které
+O původních silách, které
 
 tyto změny podněcují, nevíme nic. Pro zkoumající mysl jsou definitivně danéa vzpírají se jakékoli další analýze. To, co známe z pozorování, je pravidelnézřetězení různých pozorovatelných objektů a příznaků. To, co fyzikové popi-sují diferenciálními rovnicemi, je právě tato vzájemná závislost dat.
 
@@ -44,3 +27,25 @@ Dokud zůstává ve sféře matematických postupů, nemůže říct nico utvá�
 splnit. Problémy analýzy procesů, tj. jediné ekonomické problémy, které mají
 
 význam, se vzpírají matematickému přístupu. Zavedení časových parametrůdo rovnic není řešením. Dokonce ani neukazuje na základní nedostatkymatematické metody. Tvrzení, že každá změna obsahuje čas a že změna jevždy v časové posloupnosti, jsou pouhou cestou, jak vyjádřit skutečnost, žedokud existuje strnulost a neměnnost, neexistuje čas. Hlavním nedostatkemmatematické ekonomie není to, že ignoruje časovou posloupnost, ale že igno-ruje působení tržního procesu.
+
+Matematická metoda nedokáže ukázat, jak se ve stavu nerovnováhy obje-
+
+ví takové jednání, které směřuje k ustavení rovnováhy. Je samozřejmě možnénaznačit matematické operace, jež jsou třeba k přetvoření matematickéhopopisu určitého nerovnovážného stavu na matematický popis rovnovážnéhostavu. Ale tyto matematické operace v žádném případě nepopisují tržní pro-ces uváděný do chodu nesrovnalostmi v cenové struktuře.
+
+O diferenciálníchrovnicích mechaniky se předpokládá, že v kteroukoli chvíli časového interva-lu přesně popisují pohyb od nerovnovážného stavu k rovnovážnému stavu.Pouze ti, kdo jsou naprosto zaslepení předsudkem, že ekonomie musí být sla-bou náhražkou mechaniky, budou podceňovat váhu této námitky. Velminedokonalá a povrchní metafora nenahradí služby, které poskytuje logickáekonomie.
+
+V každé kapitole katalaxie si lze ověřit zničující důsledky matematického
+
+přístupu k ekonomii. Stačí uvést pouze dva případy. Jeden poskytuje tzv. rov-nice směny, marný a zavádějící pokus matematických ekonomů zabývat sezměnami kupní síly peněz.
+
+10Druhý lze nejlépe vyjádřit odkazem na výrok
+
+profesora Schumpetera, podle něhož spotřebitelé ohodnocující spotřebnízboží „ ipso facto také ohodnocují výrobní prostředky, které vstupují do výro-
+
+by tohoto zboží“.
+
+11Je jen stěží možné popsat tržní proces chybněji.
+
+Předmětem ekonomie nejsou statky a služby, ale jednání živých lidí. Jejím
+
+cílem není zaobírat se imaginárními konstrukty, jakým je například rovnová-ha.

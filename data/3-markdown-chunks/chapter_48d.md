@@ -1,11 +1,4 @@
-
-Imaginární konstrukt konečného stavu klidu se vyznačuje tím, že věnuje
-
-plnou pozornost změně, k níž dochází v časové posloupnosti událostí.V tomto ohledu se liší od imaginárního konstruktu rovnoměrně plynoucí eko-
-
-nomiky , který je charakterizován vyloučením změn daných hodnot a časové-
-
-ho prvku. (Je nevhodné nazývat tento imaginární konstrukt, jak tomu běžněje, statickým hospodářstvím nebo statickou rovnováhou a je hrubou chybou
+(Je nevhodné nazývat tento imaginární konstrukt, jak tomu běžněje, statickým hospodářstvím nebo statickou rovnováhou a je hrubou chybou
 
 22601_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 226
 
@@ -48,3 +41,7 @@ měrně plynoucí ekonomice jsou změny a posloupnost událostí vyloučeny.Jedn
 Tyto neřešitelné rozpory však neovlivňují službu, kterou tento imaginární
 
 konstrukt poskytuje vzhledem k jediným problémům, pro jejichž řešení je jakvhodný, tak nepostradatelný: vzhledem k problémům vztahu mezi cenamivýrobků a cenami faktorů potřebných k jejich výrobě, a z toho vyplývajícímproblémům podnikání, a zisku a ztráty. Abychom pochopili funkci podniká-ní a smysl zisku a ztráty, uděláme model systému, v němž neexistují. Tatopředstava je pouhým nástrojem pro naše uvažování. Není to popis možnéhoa uskutečnitelného stavu věcí.
+
+Dokonce vůbec nepřichází v úvahu dovést ima-ginární konstrukt rovnoměrně plynoucí ekonomiky až k jeho konečnýmlogickým důsledkům. Neboť je nemožné vyloučit z obrazu tržního hospodář-ství podnikatele. Různé výrobní faktory, které se doplňují, se nemohou spojitsamočinně. Musí být sloučeny účelovým jednáním lidí, kteří směřují k určitým
+
+cílům a jsou při tom motivováni touhou zlepšovat svůj stav uspokojení.

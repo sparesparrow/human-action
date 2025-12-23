@@ -19,7 +19,9 @@ class EspeakAudioChunkGenerator:
             language: Language code for espeak voice (default: cs for Czech).
         """
         self.input_dir = Path(input_dir)
-        self.output_dir = Path(output_dir)
+        # Organize output by engine: create espeak subdirectory
+        base_output = Path(output_dir)
+        self.output_dir = base_output / "espeak"
         self.language = language
 
         # Ensure output directory exists

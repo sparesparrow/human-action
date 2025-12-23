@@ -57,3 +57,7 @@ Pro Misese byla ale ekonomika neustále v hluboké
 a nezbytné nerovnováze, takže tyto rovnice byly pro ekonomickou kalkulaci
 
 zcela nedůležité. Problém neúplných informací, zejména z důvodu nutnénejistoty ohledně budoucnosti, navíc rovnou měrou postihoval jak centrálníplánovače, tak soukromé podnikatele.
+
+I když se Mises zpravidla vyhýbal tomu, aby se pouštěl do polemiky
+
+s ostatními kritiky socialismu, zabýval se v článku publikovaném ve fran-couzském ekonomickém žurnálu v roce 1938 rozdíly mezi svým a Hayeko-vým postojem.

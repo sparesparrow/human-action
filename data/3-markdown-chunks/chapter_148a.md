@@ -41,3 +41,13 @@ Při vysvětlování tohoto rozdílu se nemusíme zabývatotázkou, zda jsou v A
 Naopak. Při současném způsobu omezení mobility kapitálu a práce by
 
 přechod ke svobodnému obchodu nutně zvýšil americkou životní úroveň.Odvětví, ve kterých jsou americké náklady vyšší (americká produktivita jenižší), by se zmenšily, a ta, kde jsou náklady nižší (produktivita je vyšší), byse rozvinuly.
+
+Při existenci svobodného obchodu by došlo ke zvýšení tržeb švýcarských
+
+výrobců hodinek na americkém trhu a tržby amerických konkurentů bypoklesly. To je však jen část důsledků svobodného obchodu. Švýcaři by díky
+
+6735Pro podrobnou analýzu srov. str. 560 výše.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 673
+
+vyšším tržbám a větší výrobě více vydělali a více nakupovali. Nezáleží na tom,
+
+zda oni sami nakoupí více amerických průmyslových výrobků nebo zda zvýšísvé domácí nákupy a učiní tak lidé v jiných zemích, například ve Francii. Aťjiž se stane cokoli, ekvivalent dodatečně utržených dolarů musí v konečnémdůsledku skončit ve Spojených státech a zvýšit tržby některých americkýchodvětví.

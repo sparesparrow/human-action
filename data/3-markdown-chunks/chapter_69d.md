@@ -1,15 +1,4 @@
-
-22Držení hotovosti, dokonce i když přesahuje obvyklé množství a nazývá se „hroma-
-
-děním“, je druhem využití dostupných prostředků. Za existujících tržních podmínekpovažují aktéři držení hotovosti za nejvhodnější využití části svého jmění.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 345
-
-pochybnosti, které mohou potlačit sklon k rozšíření prosperujícího podniku,
-
-i když se zdá, že situace na trhu nabízí příznivé možnosti. Podnikatel nemusívěřit, že bude schopen větší podnik úspěšně řídit. Může být také vystrašenpříkladem kdysi prosperujících podniků, u nichž rozšíření vedlo k nezdaru.
-
-Obchodník, který je díky své skvělé pověsti v postavení, že může prodávat
-
-za vyšší ceny než méně slavní konkurenti, by se samozřejmě mohl vzdát své výhody a snížit ceny na úroveň konkurence. Stejně jako každý prodejcestatků nebo práce by se mohl zříct využití plné výhody stavu trhu a prodávatza cenu, při níž poptávka převyšuje nabídku. Když by to udělal, dával by tím některým lidem dar. Obdarovanými by byli ti, kteří by mohli naku-povat za tuto nižší cenu.
+Stejně jako každý prodejcestatků nebo práce by se mohl zříct využití plné výhody stavu trhu a prodávatza cenu, při níž poptávka převyšuje nabídku. Když by to udělal, dával by tím některým lidem dar. Obdarovanými by byli ti, kteří by mohli naku-povat za tuto nižší cenu.
 
 Ostatní, ačkoli by byli ochotni kupovat za stejnoucenu, by museli odejít s prázdnýma rukama, protože zásoby by nebyly dosta-tečné.
 
@@ -46,3 +35,31 @@ ných prodejců, může konkurenci omezit také ve prospěch privilegovanýchkup
 To, co se obvykle studuje jako poptávkový monopol, jsou určité jevy při
 
 určení cen specifických komplementárních výrobních faktorů.
+
+Výroba jedné jednotky komodity mvyžaduje – vedle využití různých
+
+nespecifických faktorů – využití po jedné jednotce každého ze dvou napros-to specifických faktorů aab. Ani a, ani bnemohou být nahrazeny žádným
+
+jiným faktorem; na druhé straně je ak ničemu, pokud se nepoužije společně
+
+sb, a naopak. Dostupná zásoba aznačně přesahuje zásobu b. Proto vlastníci
+
+anemohou získat za ažádnou cenu. Poptávka po avždy zaostává za nabíd-
+
+kou; anení ekonomickým statkem. Je-li anerostné ložisko, jehož těžení vyža-
+
+duje použití kapitálu a práce, vlastnictví ložiska nepřináší poplatky za využi-tí. Neexistuje důlní renta.
+
+Pokud však majitelé avytvoří kartel, mohou způsobit naprostý obrat.
+
+Mohou omezit dodávky faktoru a, které nabízejí k prodeji, na tak malý objem,
+
+že nabídka bpřevýší nabídku a. Teď se astává ekonomickým statkem, za nějž
+
+jsou placeny ceny, zatímco cena bklesá k nule. Jestliže pak majitelé breagují
+
+také vytvořením kartelu, vznikne mezi těmito dvěma monopolistickými kar-tely cenová válka, o jejímž výsledku nemůže katalaxie nic říct. Jak již bylopoukázáno, v případech, v nichž má více než jeden nutný výrobní faktornaprosto specifický charakter, nepřináší cenový proces jednoznačně defino-vatelný výsledek.
+
+Nezáleží na tom, jestli tržní situace je či není taková, aby faktory aab
+
+mohly být společně prodávány za monopolní ceny.

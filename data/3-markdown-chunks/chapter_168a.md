@@ -57,3 +57,7 @@ zkušeností komplexního jevu.Nemůže nikdy, jak jsme si ukázali, potvrdit č
 Tyto dopady ale nikdy nemají takovou nezpochybňovanou přesvědčovací sílu,kterou mají experimenty na poli přírodních věd. Konečným kritériem správ-
 
 nosti či nesprávnosti ekonomického teorému je pouze rozum bez pomocizkušenosti.
+
+Neblahým důsledkem této situace je to, že naivní mysl nedokáže nahléd-
+
+nout realitu věcí, kterými se ekonomie zabývá. V lidských očích je „reálné“všechno to, co člověk nemůže změnit a čemu musí přizpůsobit své jednání,chce-li dosáhnout svých cílů. Poznání reality je smutnou zkušeností. Učí nás,kde leží meze uspokojení našich přání.

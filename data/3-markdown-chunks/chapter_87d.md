@@ -1,6 +1,3 @@
-
-Odklad spotřeby znamená, že jednotlivec dává přednost uspokojení
-
 poskytovanému pozdější spotřebou před uspokojením z okamžité spotřeby.Volba delší doby výroby znamená, že jednající člověk hodnotí pozdější výsle-dek tohoto výrobního postupu výše než produkt, který by mu mohl přinéstméně časově náročný výrobní postup. Při tomto uvažování a výsledných vol-bách se doba výroby jeví jako doba čekání. Velikým přínosem Jevonsea Böhm-Bawerka bylo to, že ukázali význam zahrnutí doby čekání.
 
 Pokud by jednající lidé nemuseli věnovat pozornost době čekání, nikdy by
@@ -52,3 +49,7 @@ a zítřejším přáním c, jemuž by – za nepřítomnosti časové preferenc
 přiřazeno první místo. Pokud dává přednost bpřed c, volba jednoznačně
 
 zahrnuje časovou preferenci. Cílevědomé usilování o uspokojení potřebymusí být nutně vedeno preferencí uspokojení v bližší budoucnosti před uspo-kojením ve vzdálenější budoucnosti.
+
+Podmínky, v nichž musí jednat moderní člověk kapitalistického Západu,
+
+jsou odlišné od těch, v nichž žili a jednali jeho primitivní předci.

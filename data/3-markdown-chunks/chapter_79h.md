@@ -1,13 +1,4 @@
-
-Tímto způsobem směřuje fungo-vání trhu k odstranění těchto často diskutovaných nerovnováh. Pomocí zvý-šení množství peněz je možné oddálit nebo přerušit tento proces přizpůsobe-ní. Je však nemožné zbavit ho významu nebo ho učinit méně bolestným proty, jichž se týká.
-
-Pokud by vládou způsobené změny kupní síly vyvolané hotovostí vedly jen
-
-k přesunu bohatství od jedněch lidí k jiným, nebylo by přípustné odsoudit jez pohledu katalaktické vědecké neutrality. Je zjevně mylné ospravedlňovat jepomocí všeobecného dobra nebo blahobytu veřejnosti. Bylo by je nicméněstále možné považovat za politická opatření vhodná k prosazování zájmůněkterých skupin lidí na úkor ostatních bez toho, aby vznikala nějaká dalšíškoda. Avšak do hry vstupují i jiné okolnosti.
-
-Není nutné poukazovat na důsledky, k nimž vede nepřetržitá deflační poli-
-
-tika. Takovou politiku nikdo nepodporuje. Přízeň lidu a po potlesku toužícíchpublicistů a politiků patří inflaci. S ohledem na tyto snahy musíme zdůraznittři body. Zaprvé: Inflační nebo expanzivní politika musí vyústit v nadměrnouspotřebu na jedné straně a mylné investice na straně druhé. Vede k plýtváníkapitálem a ohrožuje uspokojování potřeb v budoucnu.
+Přízeň lidu a po potlesku toužícíchpublicistů a politiků patří inflaci. S ohledem na tyto snahy musíme zdůraznittři body. Zaprvé: Inflační nebo expanzivní politika musí vyústit v nadměrnouspotřebu na jedné straně a mylné investice na straně druhé. Vede k plýtváníkapitálem a ohrožuje uspokojování potřeb v budoucnu.
 
 14Zadruhé: Proces
 

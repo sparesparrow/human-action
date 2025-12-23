@@ -1,8 +1,3 @@
-
-U všech odvětví existuje univerzální tendence přesouvat se do těch míst,
-
-v nichž jsou možnosti výroby největší. V nenarušované tržní ekonomice jetato tendence oslabena kvůli zvažování nepřevoditelnosti vyžadovaných kapi-tálových statků. Historický prvek nedává starým odvětvím trvalou převahu.Pouze brání plýtvání pocházejícímu z investic vedoucích k nevyužití kapacitystále použitelných výrobních zařízení na jedné straně a omezením objemukapitálových statků dostupných pro naplnění neuspokojených potřeb na stra-ně druhé.
-
 Neexistují-li cla, jsou přesuny odvětví odloženy do doby, kdy jsoukapitálové statky investované ve starých továrnách opotřebovány, nebo jsouzastaralé vlivem technologických zlepšení, která jsou tak významná, že jenutné nahradit je novým zařízením. Dějiny průmyslu ve Spojených státechposkytují celou řadu příkladů přesunů center průmyslové výroby v rámcijedné země, které nebyly vynuceny žádnými ochranářskými opatřeními zestrany úřadů.
 
 Argument nedospělých odvětví není o nic méně nepodloženýnež ostatní důvody předkládané ve prospěch protekcionismu.
@@ -60,3 +55,11 @@ sto, že dosud jeho úsilí nevyústilo v prakticky použitelné zlepšení.
 5. Firma chce usmířit vynálezce, kteří se s ní chtějí soudit, s cílem ušetřit
 
 peníze, čas a nervové vypětí související s neopodstatněným soudním sporemo nedodržení podmínek smlouvy.
+
+6. Firma se uchyluje ke zjevnému uplácení nebo podléhá skrytému vydírá-
+
+ní tím, že platí za neužitečný patent úředníkům, inženýrům nebo jiným vliv-ným osobám v podnicích nebo institucích, které jsou jejími stávajícími nebopotenciálními zákazníky.
+
+Pokud je vynález ve srovnání se starými postupy tak nadřazený, že je kvůli
+
+němu staré vybavení zastaralé a je bezpodmínečně nutné ho okamžitě nahra-dit novými stroji, uskuteční se tato změna bez ohledu na to, zda je majitelempatentu vlastník starého vybavení nebo nezávislá firma.

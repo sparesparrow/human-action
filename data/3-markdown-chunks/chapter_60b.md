@@ -1,9 +1,4 @@
-
-27101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 271
-
-Všechny tyto změny cen výrobních faktorů nastávají okamžitě se zaháje-
-
-ním podnikatelských opatření určených k přizpůsobení výrobních procesůnovému stavu věcí. Když se zabýváme tímto problémem, stejně jako ostatní-mi problémy změn tržních dat, musíme se vyvarovat oblíbeného omylu, že jemezi krátkodobými a dlouhodobými důsledky vedena ostrá hranice. To, co sestane z krátkodobého pohledu, jsou právě jen první články řetězu postup-ných přeměn, které směřují k zavedení dlouhodobých důsledků.
+To, co sestane z krátkodobého pohledu, jsou právě jen první články řetězu postup-ných přeměn, které směřují k zavedení dlouhodobých důsledků.
 
 Dlouhodo-bým důsledkem je v našem případě vymizení podnikatelských zisků a ztrát.Krátkodobé důsledky jsou představovány úvodními stupni tohoto procesuodstranění, který by nakonec, pokud by nebyl přerušen dalšími změnami dat,vyústil v nastolení rovnoměrně plynoucí ekonomiky.
 
@@ -44,3 +39,7 @@ Ekonomie je vzhledem k takovým svévolným hodnotovým soudům neu-
 trální. Nezajímá ji problém, jestli by zisky měly být schvalovány nebo odsuzo-vány z pohledu domnělého přirozeného práva a domnělého věčného a neměn-ného mravního kodexu, o nichž údajně předává jasné informace osobníintuice nebo božské zjevení. Ekonomie pouze konstatuje skutečnost, že ziska ztráta jsou základní jevy tržního hospodářství. Bez nich tržní hospodářstvínemůže existovat.
 
 Je samozřejmě možné, aby veškeré zisky zabavovala policie.Taková politika by však nutně přeměnila tržní hospodářství na nesmyslnýchaos. Člověk má bezpochyby moc zničit mnoho věcí a v průběhu svých dějintuto svou schopnost hojně využíval. Může zničit i tržní hospodářství.
+
+Kdyby samozvaní moralisté nebyli zaslepeni závistí, nezabývali by se zis-
+
+kem, aniž by se současně zabývali jeho logickým důsledkem, ztrátou. Ne-přecházeli by mlčky skutečnost, že nutnými podmínkami hospodářskéhopokroku jsou činy těch, jejichž úspory vedou k akumulaci dodatečnýchkapitálových statků, a zlepšovatelů, a že využití těchto podmínek pro usku-tečnění hospodářského pokroku provádějí podnikatelé.

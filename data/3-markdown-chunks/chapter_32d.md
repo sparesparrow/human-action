@@ -1,11 +1,4 @@
-
-Tuto skutečnost lze vyjádřit i tak, že nazveme dosaho-vání volného času cílem účelové aktivity či ekonomickým statkem prvníhořádu. Při používání této poněkud komplikované terminologie musíme nahlí-žet na volný čas jako na jakýkoli jiný ekonomický statek z pohledu mezníhoužitku. Musíme dovodit, že první jednotka volného času uspokojuje přání,které je preferováno před přáním druhým, druhé před třetím a tak dále.
-
-Obrá-cením tohoto výroku získáme tvrzení, že újma práce pociťovaná pracujícímroste rychlejším tempem než množství vydané práce.
-
-Pro praxeologii je nicméně studium otázky, zda újma z práce roste propor-
-
-cionálně k množství vydané práce či rychleji, zbytečné. (Zda je tento problémdůležitý pro fyziologii a psychologii, můžeme ponechat nerozhodnuté.) Pra-cující každopádně ukončuje práci v okamžiku, kdy nepovažuje užitek z jejíhopokračování za dostatečnou kompenzaci újmy plynoucí z jejího dalšího vy-konávání. Přitom staví proti sobě, pokud zanedbáváme snížení výnosu způ-sobené rostoucí únavou, každou část pracovní doby se stejným množstvímproduktu jako části předchozí.
+Přitom staví proti sobě, pokud zanedbáváme snížení výnosu způ-sobené rostoucí únavou, každou část pracovní doby se stejným množstvímproduktu jako části předchozí.
 
 Užitek z jednotek výstupu však klesá s vyda-nou prací a nárůstem celkového výnosu. Produkty předchozích jednotek pra-covního času sloužily k uspokojení důležitějších potřeb než produkty prácevykonané později. Uspokojení těchto méně významných potřeb nemusí býtvnímáno jako dostatečná odměna za další pokračování práce, ačkoli se porov-návají se stejnými množstvími fyzického výstupu.
 
@@ -36,3 +29,17 @@ nespecifického charakteru. Všechny přírodou dané primární výrobní fakto
 Je samozřejmě nepřípustné zabývat se obecně lidskou prací jako takovou.
 
 Bylo by základní chybou opomíjet, že se lidé a jejich schopnosti pracovat liší.Práce, kterou umí jeden člověk, je vhodnější pro některé cíle, méně vhodnápro cíle jiné a zcela nevhodná pro ostatní cíle. Jedním z nedostatků klasickéekonomie bylo, že nevěnovala dostatečnou pozornost tomuto faktu a nevzalajej v potaz při konstrukci své vlastní teorie hodnoty, cen a mzdových sazeb.Lidé nehospodaří s prací obecně, ale s konkrétními dostupnými druhy práce,které se široce liší v kvalitě a kvantitě.
+
+Výroba každého jednotlivého produk-tu vyžaduje zaměstnání pracovníků schopných vykonávat jistý druh práce. Jeabsurdní ospravedlňovat nezohlednění tohoto poznatku odkazem na to, že sehlavní poptávka po práci a nabídka práce týkají nekvalifikované práce, kte-rou může vykonávat každý zdravý člověk, a že kvalifikovaná práce, práce lidís jistými vrozenými schopnostmi a zvláštním tréninkem je spíše výjimkou.Není třeba zkoumat, zda takové podmínky existovaly ve vzdálené minulosti
+
+11901_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 119
+
+či zda i pro primitivní příslušníky kmene byla nerovnost vrozených a získa-
+
+ných schopností pracovat hlavním faktorem při hospodaření s prací. Přizkoumání podmínek civilizovaných národů je přehlížení rozdílů v kvalitěvykonávané práce nepřípustné. Práce, kterou jsou různí lidé schopni vyko-návat, se liší, protože lidé se odlišní již rodí a dovednosti, které v průběhuživota získají, jejich odlišnosti dále posilují.
+
+Když mluvíme o nespecifickém charakteru lidské práce, samozřejmě
+
+netvrdíme, že je veškerá lidská práce stejné kvality. Chceme pouze ukázat, žerozdíly v druzích práce, které je třeba k výrobě různých komodit, jsou většínež rozdíly ve vrozených schopnostech lidí. (Zde se nezabýváme kreativnímvýkonem génia. Práce génia přesahuje sféru běžného lidského jednání a jejako dar osudu lidstvu.
+
+6Rovněž nebereme zřetel na institucionální bariéry,

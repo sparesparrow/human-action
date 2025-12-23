@@ -1,8 +1,3 @@
-
-V měnícím se hospodářství převládá tendence k přesnému přizpůsobování
-
-tržních mzdových sazeb úrovni konečných mzdových sazeb. Toto přizpůso-bování vyžaduje určitý čas. Délka období přizpůsobení záleží na čase nutnémk vyškolení pro výkon nové práce a k přesunu pracovníků do nového bydliš-tě. Dále závisí na subjektivních faktorech, jako jsou obeznámenost pracovní-ků s podmínkami a vyhlídkami na trhu práce.
-
 Přizpůsobení je spekulativnímpodnikem, protože trénink na novou práci a změna bydliště představují urči-té výdaje, které jsou vynaloženy pouze tehdy, pokud daný pracovník věří, žese při budoucím stavu trhu práce vyplatí.
 
 V souvislosti se všemi těmito věcmi neexistuje nic, co by bylo příznačné
@@ -44,3 +39,13 @@ přepravní náklady (v nejširším slova smyslu) zásobování spotřebními s
 Na druhou stra-nu se lze na některých místech vyhnout určitým výdajům bez zhoršení uspo-kojení potřeb, zatímco na jiných místech by jejich nezaplacení uspokojenípotřeb ovlivnilo nepříznivě. Tyto výdaje, které musí pracovník snést na urči-tých místech, aby dosáhl stejného stupně uspokojení potřeb, nebo které můžeušetřit, aniž by to toto uspokojení narušilo, můžeme nazvat nákladovou slož-kou (C). Nákladová složka určitého zeměpisného místa je buď kladná, nebo
 
 záporná.
+
+56002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 560
+
+Za předpokladu, že neexistují žádné institucionální bariéry bránící či tre-
+
+stající pohyb kapitálových statků, pracovníků a komodit z jednoho místa čioblasti do jiné a že pracovníci jsou lhostejní k tomu, kde žijí a pracují, existu-je tendence k rozmístění populace po zemském povrchu podle fyzické pro-duktivity primárních přírodních výrobních faktorů a podle nemožnosti pře-sunout nepřevoditelné výrobní faktory vynaložené v minulosti. Pokudzanedbáme nákladovou složku, převládá všude na zemském povrchu ten-dence k vyrovnání mzdových sazeb pro tentýž druh práce.
+
+Určitou oblast by bylo možné nazvat relativně přelidněnou, pokud jsou
+
+v ní tržní mzdové sazby plus (kladná nebo záporná) nákladová složka nižšínež standardní sazby, a relativně málo zalidněnou, pokud jsou v ní tržnímzdové sazby plus (kladná nebo záporná) nákladová složka vyšší než stan-dardní sazby.

@@ -1,6 +1,3 @@
-
-Chovatel dobytka nekrmí krávy proto, aby byly šťastné, ale abydosáhl cílů, jež jim přidělil ve svých plánech. Může dávat přednost většímumnožství mléka, nebo masa, nebo něčeho jiného. Jaký typ lidí chtějí šlechtitelélidí vypěstovat – atlety, nebo matematiky?
-
 Válečníky, nebo tovární dělníky?Ten, kdo by z člověka udělal materiál pro cílevědomé šlechtění a krmení, by sipřisvojil despotickou moc a používal by spoluobčany jako prostředek k dosa-žení svých vlastních cílů, které se liší od cílů, k nimž směřují tito spoluobčané.
 
 Hodnotové soudy jednotlivce se liší v tom, co mu přináší větší uspokojení
@@ -50,3 +47,7 @@ konstruktem. Dochází k němu stále znovu a znovu. Když se zavírá burza, br
 nízkou, resp. příliš vysokou, neprodali nebo nenakoupili.9Totéž platí pro
 
 všechny obchody. Celé tržní hospodářství je jakoby velkým místem směnynebo trhu. V každém okamžiku se uskuteční všechny takové obchody, kteréjsou strany ochotny uzavřít za uskutečnitelnou cenu. Nové obchody mohoubýt uzavřeny teprve tehdy, když se ocenění alespoň jedné ze stran změní.
+
+Tvrdí se, že pojem prostého stavu klidu je neuspokojivý. Lidé říkají, že se
+
+vztahuje pouze na určení cen statků, jejichž určitá zásoba je již k dispozici,a neříká nic o vlivu, jaký tyto ceny mají na výrobu. Tato námitka je nepodlože-ná.

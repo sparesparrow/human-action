@@ -1,5 +1,4 @@
-
-Každáodchylka od směru, který jim předepisuje poptávka spotřebitelů, jde na vrubpodnikatelů. I ta nejmenší odchylka, ať už navozená záměrně nebo způsobe-ná chybou, špatným odhadem nebo lajdáctvím, omezuje jejich zisk nebo hoúplně odejme. Vážnější odchylky vedou ke ztrátám, a tak zmenšují neboúplně pohlcují jejich bohatství. Kapitalisté, podnikatelé a majitelé půdymohou uchovat a zvýšit své bohatství pouze tím, že budou co nejlépe plnitpříkazy spotřebitelů.
+Vážnější odchylky vedou ke ztrátám, a tak zmenšují neboúplně pohlcují jejich bohatství. Kapitalisté, podnikatelé a majitelé půdymohou uchovat a zvýšit své bohatství pouze tím, že budou co nejlépe plnitpříkazy spotřebitelů.
 
 Nemají svobodu utrácet peníze, které jim spotřebitelénejsou ochotni vrátit tím, že za jejich výrobky zaplatí více. Při vedení svýchpodniků musí být bezcitní a musí mít tvrdé srdce, protože sami spotřebitelé– jejich nadřízení – jsou bezcitní a mají tvrdá srdce.
 

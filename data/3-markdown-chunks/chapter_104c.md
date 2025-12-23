@@ -1,13 +1,4 @@
-
-Uspokojivé vysvětlení hospodářských cyklů nemůže být postaveno na sku-
-
-tečnosti, že jednotlivé firmy nebo skupiny firem špatně odhadují budoucí stav
-
-52319Je pozoruhodné, že tento pojem je užíván jak k označení promýšlení a následné akce
-
-průkopníků a podnikatelů, tak i ryze akademických úvah teoretiků, které přímonevedou k žádnému jednání.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 523
-
-trhu a kvůli tomu činí mylné investice. Předmětem hospodářského cyklu je
+Předmětem hospodářského cyklu je
 
 všeobecný rozmach podnikatelských aktivit, sklon k rozšiřování produkce ve
 

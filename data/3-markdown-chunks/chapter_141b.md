@@ -1,7 +1,4 @@
-
-Netvrdíme, že kapitalistický způsob ekonomické kalkulace zaručuje abso-
-
-lutně nejlepší řešení alokace výrobních faktorů. Taková absolutně dokonalářešení jakéhokoli problému nejsou pro smrtelníky přístupná. To, co fungová-ní trhu, který není narušován zásahy donucení a nátlaku, může přinést, jepouze nejlepší z řešení, jež jsou za daného stavu technických znalostí a inte-lektuálních schopností nejbystřejších lidí dané doby dostupná lidské mysli.Jakmile nějaký člověk objeví nesoulad mezi skutečným stavem výroby a usku-tečnitelným lepším
+To, co fungová-ní trhu, který není narušován zásahy donucení a nátlaku, může přinést, jepouze nejlepší z řešení, jež jsou za daného stavu technických znalostí a inte-lektuálních schopností nejbystřejších lidí dané doby dostupná lidské mysli.Jakmile nějaký člověk objeví nesoulad mezi skutečným stavem výroby a usku-tečnitelným lepším
 
 3stavem, žene ho motiv zisku k maximálnímu úsilí, aby
 

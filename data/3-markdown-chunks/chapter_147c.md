@@ -1,5 +1,4 @@
-
-Lidé obšírně vykládají o údajné vládní podpoře výroby. Vláda ale nemá
+Vláda ale nemá
 
 schopnost podpořit jednu část výroby bez toho, aby neomezila výrobu jinde.Vláda pouze odebírá výrobní faktory z oblastí, ve kterých by je zaměstnalneomezovaný trh, a směruje je do výroby někde jinde. Jen málo záleží na tom,jaké administrativní procedury vláda k uskutečnění tohoto kroku zvolí. Můžeotevřeně dotovat nebo zakrýt dotaci schválením cla, a tím přinutit lidi nákla-dy uhradit.
 
@@ -42,3 +41,9 @@ K nejpopulárnějším opatřením k omezení výroby patří zákonodárství n
 ochranu pracovní síly. I zde se vlády a veřejné mínění krutě mýlí při hodno-cení jeho dopadů. Věří, že omezení pracovní doby a zákaz dětské práce zceladopadne na zaměstnavatele a pro příjemce mezd představuje „sociální výho-dy“. To ovšem platí pouze do té míry, do jaké tyto zákony snižují nabídkupráce, a tedy zvyšují mezní produktivitu práce oproti mezní produktivitěkapitálu. Pokles nabídky práce ale také snižuje celkové množství vyrobenéhozboží, a tím i průměrnou spotřebu na hlavu.
 
 Celková velikost koláče se zmen-šuje, ale část menšího koláče, která připadá na příjemce mezd, je proporcio-nálně větší, než kolik by získali z většího koláče; spolu s tím se zmenšuje část,která připadne kapitalistům.
+
+1Konečný dopad na výši reálných mzdových
+
+6671Podnikatelské zisky a ztráty nejsou touto legislativou dotčeny, jelikož zcela závisejí
+
+na více či méně úspěšném přizpůsobení výroby měnícím se podmínkám trhu.

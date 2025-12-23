@@ -49,3 +49,7 @@ možnost tato území navštívit, má právo těšit se z veškeré jejich nád
 a považovat je jakoby za vlastní. Formální vlastník nemá žádné výhodyz uspokojení, které jeho majetek dává návštěvníkům. To však nemění nic naskutečnosti, že tato půda slouží lidskému blahu a je podle toho oceňována.Na pozemcích spočívá věcné břemeno, které opravňuje každého k průchodua táboření. Protože žádné jiné využití takové oblasti není možné, toto břeme-no plně vyčerpává všechny výhody, které by vlastník ze svého vlastnictvímohl získat.
 
 Protože zvláštní služby, které tyto skály a ledovce mohou posky-tovat, jsou prakticky nevyčerpatelné, neopotřebovávají se a pro své uchovánínevyžadují žádné vklady kapitálu a práce, toto uspořádání nepřináší takovédůsledky, jaké se objevily vždy, když bylo použito pro pozemky k těžbě dřeva,lovu a rybolovu.
+
+Jestliže je v blízkosti těchto pohoří k dispozici pouze omezený prostor pro
+
+stavbu přístřeší, hotelů a dopravních prostředků (např.

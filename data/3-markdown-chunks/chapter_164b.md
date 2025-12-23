@@ -1,4 +1,3 @@
-
 Války vedené primitivními kmeny neměly vliv na kooperaci založenou na
 
 dělbě práce. Takový typ spolupráce vesměs mezi bojujícími stranami předzahájením konfliktu neexistoval. Tyto války byly neomezenými neboli totál-ními válkami. Jejich cílem bylo úplné vítězství nebo porážka. Poražení bylibuď vyhubeni, nebo vyhnáni ze svých příbytků či zotročeni. Bojovníci vůbecneuvažovali o možnosti, že by nějaká smlouva mohla konflikt vyřešit a umož-nit tak, aby obě strany vedle sebe nadále žily v míru.

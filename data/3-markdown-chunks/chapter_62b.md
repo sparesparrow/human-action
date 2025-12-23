@@ -1,4 +1,3 @@
-
 Člověk vstupuje do řad průkopníků tím, že se spon-tánně vrhne vpřed, a tím podstoupí zkoušku, které trh podrobuje – bez ohle-du na to, o koho se jedná – každého, kdo se chce stát průkopníkem nebosetrvat v tomto významném postavení. Každý má možnost uchopit svoušanci. Nováček nemusí čekat na to, až ho někdo pozve nebo vyzve. Musí sena vlastní pěst vrhnout vpřed a musí sám vědět, jak si obstarat potřebné pro-středky.
 
 Stále dokola se tvrdí, že v podmínkách „pozdního“ nebo „rozvinutého“
@@ -42,3 +41,9 @@ Aby člověk uspěl v podnikání, nemusí mít titul z ekonomické školy. Tyto
 školy vychovávají lidi pro rutinní práci v podřízeném postavení. Rozhodněnevychovávají podnikatele. Podnikatele nelze vychovat. Člověk se stává pod-nikatelem tím, že se chopí příležitosti a vyplní mezeru. Pro takový projev pro-nikavého úsudku, předvídavosti a energie není třeba žádné zvláštní vzdělání.Měříme-li to školskými normami pedagogů, nejúspěšnějšími podnikateli byličasto lidé nevzdělaní. Hodili se však pro společenskou funkci přizpůsobová-ní výroby nejnaléhavějším požadavkům.
 
 Kvůli těmto hodnotám je spotřebite-lé vybrali do vedoucího postavení v podnikání.
+
+12. Jednotlivec a trh
+
+Běžně se metaforicky mluví o automatických a anonymních silách, které
+
+uvádějí do chodu „mechanismus“ trhu.

@@ -1,13 +1,4 @@
-
-44912Pro marxistický útok na genetiku srov. T. D. Lysenko, Heredity and Variability (New
-
-York, 1945). Kritické zhodnocení tohoto sporu lze nalézt v J. R. Baker, Science and the
-
-Planned State (New York, 1945), str. 71—76.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 449
-
-Nevíme, jakého směru by nabral vývoj dějin Asie a Afriky, pokud by jejich
-
-obyvatelé byli ponecháni sami sobě. Avšak stalo se, že některé z těchto zemíbyly podřízeny evropské správě a ostatní – jako Čína a Japonsko – byly přinu-ceny ukázkou námořní síly otevřít své hranice. Úspěchy západního industri-alismu k nim přišly ze zahraničí. Byly ochotny těžit výhody ze zahraničníhokapitálu, který jim byl půjčen a investován na jejich území.
+Byly ochotny těžit výhody ze zahraničníhokapitálu, který jim byl půjčen a investován na jejich území.
 
 V přijímání ideo-logií, z nichž pramení moderní industrialismus, byly o poznání pomalejší.Jejich přijetí západního způsobu života je povrchní.
 

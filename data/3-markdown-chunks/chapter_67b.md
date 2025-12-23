@@ -1,10 +1,3 @@
-
-Klasickou zemí kartelů bylo Německo. V posledních desetiletích devate-
-
-náctého století se německá říše vydala cestou rozsáhlého programu Sozialpo-
-
-litik. Záměrem bylo zvýšit příjmy a životní úroveň lidí pracujících za mzdu
-
 pomocí různých opatření v oblasti legislativy stranící odborovým organiza-cím, velice vychvalovaným Bismarckovým programem sociálního zabezpeče-ní a nátlakem a donucením k vyšším mzdovým sazbám ze strany odborovýchsvazů. Zastánci tohoto programu se vzepřeli varování ekonomů. Vyhlašovali,že nic takového jako ekonomický zákon neexistuje.
 
 V drsné realitě Německa zvýšila Sozialpolitik výrobní náklady. Každý
@@ -48,3 +41,7 @@ státních průmyslových oborů na bázi kartelů. Lépe dopadl v některých d
 17Uznávaným účelem Organizace spojených
 
 národů je pokračovat v těchto plánech.
+
+12. Abychom postřehli důvod, který byl motivací promonopolní politiky
+
+současných vlád, je nutné dívat se na ni jako na jednotný jev. Z katalaktické-ho pohledu nejsou tyto monopoly stejné.

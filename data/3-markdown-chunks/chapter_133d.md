@@ -1,19 +1,4 @@
-
-6Když ji klasičtí ekonomové vyslovili, snažili se zdůraznit
-
-dvě věci: zaprvé, že každý má zájem na zachování dělby práce ve společnos-
-
-6036Místo „správně chápané“ zájmy můžeme stejně dobře říct „dlouhodobé“ zájmy.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 603
-
-ti, systému, který znásobuje produktivitu lidského úsilí. Zadruhé, že v tržní
-
-společnosti jsou všechny produktivní činnosti skutečně řízeny poptávkouspotřebitelů. Skutečnost, že ne všechny lidské potřeby mohou být uspokoje-ny, není způsobena nevhodnou společenskou institucí nebo nedostatky systé-mu tržního hospodářství. Je to přirozená podmínka lidského života. Víra, žepříroda poskytuje člověku nevyčerpatelné bohatství a že bída je výsledkemlidské neschopnosti uspořádat dobrou společnost, je zcela mylná.
-
-„Přirozenýstav“, který reformátoři a utopisté vykreslili jako ráj, byl ve skutečnosti sta-vem krajní chudoby a nouze. „Chudoba není dílem zákonů,“ říká Bentham,„je to prvotní stav lidské rasy.“
-
-7Dokonce i těm, kteří se nacházejí u samé
-
-základny lidské pyramidy, se daří lépe, než by se jim dařilo, kdyby neexisto-vala spolupráce ve společnosti. I oni mají prospěch z fungování tržního hos-podářství a podílejí se na výhodách civilizované společnosti.
+I oni mají prospěch z fungování tržního hos-podářství a podílejí se na výhodách civilizované společnosti.
 
 Reformátoři devatenáctého století neopustili svůj zamilovaný výmysl
 

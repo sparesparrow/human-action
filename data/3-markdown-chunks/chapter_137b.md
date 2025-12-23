@@ -1,11 +1,4 @@
-
-60812K tomuto způsobu argumentace se uchylovali zejména někteří význační představi-
-
-telé křesťanského socialismu. Marxisté doporučovali socialismus na základě toho, žeznásobí produktivitu a každému přinese nebývalou materiální hojnost. Teprvepozději změnili taktiku. Prohlašují, že ruský dělník je šťastnější než americký, přes-tože je jeho životní úroveň mnohem nižší; vědomí, že žije ve spravedlivém systému,mu zdaleka vyvažuje všechno materiální strádání.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 608
-
-Socialismus není uskutečnitelným systémem hospodářské organizace společ-
-
-nosti, protože nemá žádnou metodu ekonomické kalkulace. Zabývat se tímtozásadním problémem bude úkolem páté části této knihy.
+Zabývat se tímtozásadním problémem bude úkolem páté části této knihy.
 
 Zjištění této pravdy nepřispívá ke zlehčování nezvratnosti a síly přesvěd-
 
@@ -44,3 +37,9 @@ Jak jsme si již ukázali,
 polů. Je pravda, že u mnohého zboží převažují v mnoha zemích monopolníceny a některé druhy zboží se za monopolní ceny prodávají dokonce i na svě-tovém trhu. Avšak téměř všechny tyto případy monopolních cen jsou výsled-kem zasahování vlády do podnikání. Nevznikly vzájemnou souhrou faktorů,jež působí na nenarušovaném trhu. Nejsou plodem kapitalismu, ale naopakprávě snahy působit proti silám, které určují výši tržních cen. Mluvit o mono-polním kapitalismu je překrucováním skutečnosti.
 
 Správnější by bylo mluvito monopolním intervencionismu nebo o monopolním etatismu.
+
+Ty případy monopolních cen, které by se objevily i na trhu, do nějž není
+
+zasahováno a který není narušován zásahy různých národních vlád a tajnýmidohodami mezi skupinami vlád, mají malý význam. Týkají se některýchsurovin, jejichž nalezišť je málo a jsou zeměpisně soustředěná v určitýchoblastech, a místních monopolů z omezeného prostoru. Je však pravda, žev těchto případech mohou monopolní ceny vzniknout dokonce i v nepřítom-nosti vládních politik, které přímo či nepřímo směřují k jejich vzniku.
+
+Jenutné si uvědomit, že moc spotřebitelů není dokonalá a že fungování demo-kratických tržních procesů má své meze. V některých výjimečných a řídkýchpřípadech, které nemají velkou důležitost, existuje dokonce i na trhu, kterýnení ovlivňován a deformován vládními zásahy, antagonismus mezi zájmyvlastníků výrobních faktorů a zájmy ostatních lidí. Avšak existence takovýchrozporů vůbec nenarušuje shodu zájmu všech lidí, co se týče zachování tržní-ho hospodářství.

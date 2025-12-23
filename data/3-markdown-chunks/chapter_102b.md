@@ -1,13 +1,4 @@
-
-Pokud se člověk dívá na tento stav z pohledu spotřebitelů, výsledek je
-
-samozřejmě tentýž. Spotřebitelé by na tom byli lépe, kdyby iluze vytvořenápolitikou snadno dostupných peněz nenalákala podnikatele k plýtvání vzác-
-
-50401_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 504
-
-nými kapitálovými statky jejich investováním pro uspokojení méně naléha-
-
-vých potřeb, a tím k jejich stažení z těch výrobních procesů, v nichž by uspo-kojily naléhavější potřeby. Co se však jednou stalo, nelze změnit. Musejí sev této době vzdát určitých výhod, kterých by mohli požívat, kdyby boommylné investice nevyvolal. Na druhou stranu však mohou spatřovat určitéodškodnění ve skutečnosti, že jsou jim nyní dostupné i požitky, které bynebyly v jejich dosahu, kdyby nebyl hladký průběh hospodářských aktivitnarušen orgiemi boomu.
+Musejí sev této době vzdát určitých výhod, kterých by mohli požívat, kdyby boommylné investice nevyvolal. Na druhou stranu však mohou spatřovat určitéodškodnění ve skutečnosti, že jsou jim nyní dostupné i požitky, které bynebyly v jejich dosahu, kdyby nebyl hladký průběh hospodářských aktivitnarušen orgiemi boomu.
 
 Je to jen chabá náhrada, protože jejich poptávka poostatních věcech, které nemohou získat kvůli nevhodnému užití kapitálovýchstatků, je silnější než jejich poptávka po těchto tak řečeno „substitutech“. Jeto však jediná volba, kterou za daných okolností mají.
 
@@ -50,3 +41,11 @@ V socialistickém hospodářství záleží jen na hodnotovém úsudku vlády.
 Lidem jsou veškeré prostředky k provádění jejich vlastních hodnotovýchsoudů odebrány. Diktátor se nemusí zatěžovat tím, zda lid schvaluje jehorozhodnutí o tom, kolik obětovat na běžnou spotřebu a kolik na dodatečnéinvestice. Pokud diktátor investuje více, a tím sníží prostředky dostupné proběžnou spotřebu, lidé musí méně jíst a držet jazyk za zuby. Nevznikne žádnákrize, protože obyvatelé nemají žádnou příležitost projevit svoji nespokoje-nost.
 
 Tam, kde neexistuje žádné podnikání, nemůže být podnikání ani dobré,ani špatné. Může docházet k hladovění a hladomoru, ale nikoli k depresiv tom smyslu, v němž je tento pojem používán při popisování problémů trž-ního hospodářství. Pokud nemají jednotlivci svobodu volby, nemohou protes-tovat proti použitým způsobům řízení průběhu výrobních aktivit.
+
+7. Hrubá tržní úroková míra ovlivněná deflací
+
+a úvěrovou kontrakcí
+
+Předpokládáme, že v průběhu deflačního procesu je celý objem, o který je
+
+omezena nabídka peněz (v širším smyslu), stažen z úvěrového trhu. Potomjsou úvěrový trh a hrubá tržní úroková míra ovlivněny na samém začátku toho-to procesu, v okamžiku, kdy se ještě vlivem probíhající změny peněžního vzta-hu nezměnily ceny statků a služeb. Můžeme například předpokládat, že vládausilující o deflaci vypíše půjčku a zničí vypůjčené papírové peníze. Tentopostup byl v posledních dvou stoletích opakovaně použit.

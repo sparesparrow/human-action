@@ -1,5 +1,4 @@
-
-Loria, Achille. 1891. “Economics in Italy.” Annals of the American Academy 2
+“Economics in Italy.” Annals of the American Academy 2
 
 (September).
 
@@ -162,3 +161,5 @@ Stigler, George J. 1949. Production and Distribution Theories: The Formative
 Period . New York: Macmillan.
 
 _____. 1965. The Theory of Price. 2. vyd. New York: Macmillan.
+
+Stolper, Wolfgang F. 1994.

@@ -1,11 +1,4 @@
-
-Nezáleží na tom, jestli je dobré jméno založeno na skutečných výsledcích
-
-a zásluhách, nebo jestli je pouze výsledkem představivosti a klamných před-stav. V lidském jednání není důležitá pravda, jak se zjevuje vševědoucí by-tosti, ale názory lidí, kteří se mohou mýlit. Existují příklady, v nichž jsouspotřebitelé ochotni zaplatit za zvláštní značku nějaké látky vyšší cenu, ačko-li se značkové zboží ve své fyzikální a chemické struktuře neliší od jinýchlevnějších produktů. Odborníci mohou považovat takové chování za nero-zumné.
-
-Ale žádný člověk nemůže být odborníkem ve všech oborech, které
-
-odpovídají jeho volbám. Nemůže se zcela vyhnout tomu, aby znalost skuteč-ného stavu věci nenahrazoval důvěrou v lidi. Pravidelný spotřebitel si nemusívždy vybírat zboží nebo službu, ale dodavatele, kterému věří. Platí příplatektěm, které považuje za důvěryhodné.
+Platí příplatektěm, které považuje za důvěryhodné.
 
 Role, kterou dobré jméno hraje na trhu, nenarušuje ani neomezuje konku-
 
@@ -58,3 +51,15 @@ investoval své vlastní finanční prostředky, nebo jestli by si musel potřeb
 pouze tehdy, když od něj očekává zvýšení svých zisků. Navíc existují další
 
 34521Výdaje za dodatečnou reklamu také představují dodatečný kapitálový vklad.
+
+22Držení hotovosti, dokonce i když přesahuje obvyklé množství a nazývá se „hroma-
+
+děním“, je druhem využití dostupných prostředků. Za existujících tržních podmínekpovažují aktéři držení hotovosti za nejvhodnější využití části svého jmění.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 345
+
+pochybnosti, které mohou potlačit sklon k rozšíření prosperujícího podniku,
+
+i když se zdá, že situace na trhu nabízí příznivé možnosti. Podnikatel nemusívěřit, že bude schopen větší podnik úspěšně řídit. Může být také vystrašenpříkladem kdysi prosperujících podniků, u nichž rozšíření vedlo k nezdaru.
+
+Obchodník, který je díky své skvělé pověsti v postavení, že může prodávat
+
+za vyšší ceny než méně slavní konkurenti, by se samozřejmě mohl vzdát své výhody a snížit ceny na úroveň konkurence.

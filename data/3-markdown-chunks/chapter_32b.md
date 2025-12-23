@@ -1,5 +1,4 @@
-
-Věcí, která poskytuje takové neomezené služby, je například znalost kauzál-ních vztahů. Formule, předpis, který nám říká, jak připravovat kávu, jakmileje jednou znám, poskytuje neomezenou službu. Neztrácí nic ze své schop-nosti, ať je používán libovolněkrát, jeho produkční schopnosti jsou nevy-čerpatelné, není tudíž ekonomickým statkem. Jednající nikdy není v situaci,kdy by musel volit mezi hodnotou užití známého předpisu a nějaké jiné uži-tečné věci.
+Neztrácí nic ze své schop-nosti, ať je používán libovolněkrát, jeho produkční schopnosti jsou nevy-čerpatelné, není tudíž ekonomickým statkem. Jednající nikdy není v situaci,kdy by musel volit mezi hodnotou užití známého předpisu a nějaké jiné uži-tečné věci.
 
 Zákon výnosů tvrdí, že existuje optimum kombinace ekonomických statků
 
@@ -32,3 +31,11 @@ Zákon výnosů neníomezen jen na výrobní faktory komplementární k půdě. 
 Lidé kdysi věřili, že zatímco zákon klesajících výnosů platí v zemědělské
 
 produkci, ve zpracovatelském průmyslu převládají výnosy rostoucí. Trvalodlouho, než si uvědomili, že se zákon výnosů vztahuje shodně na všechnaodvětví. Stavět proti sobě ve vztahu k tomuto zákonu zpracovatelský průmysla zemědělství je chyba. To, co se velmi nevhodně nazývá zákonem rostoucíchvýnosů, není nic jiného než převrácený zákon výnosů klesajících, neuspo-kojivá formulace zákona výnosů.
+
+Když se blížíme k optimální kombinacizvyšováním množství jediného faktoru při konstantním množství faktorůostatních, pak mohou jednotkové výnosy variabilního faktoru růst buď pro-porcionálně, nebo dokonce rychleji. Stroj může, je-li obsluhován 2 pracovní-ky, produkovat p, při obsluze 3 pracovníky 3 p, 4 pracovníky 6 p, 5 pracovní-
+
+ky 7 p, 6 pracovníky rovněž 7 p. V takovém případě je optimální výstup na
+
+pracovníka, 6/4, dosahován při obsluze stroje 4 pracovníky, zatímco ostatníkombinace přinášejí ½p, p, 7/5 pa 7/6 p. Pokud například místo 2 zaměst-
+
+náme 3 nebo 4 pracovníky, vzrostou výnosy rychleji, než odpovídá nárůstupracovníků. Nerostou v poměru 2:3:4, nýbrž v poměru 1:3:6. Sledujeme ros-toucí výnosy na pracovníka. Nejedná se však o nic jiného než o převrácenýzákon klesajících výnosů.

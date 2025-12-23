@@ -1,31 +1,4 @@
-
-Avšak poté, co tuto nenapravitelnou chybu udělali, je tomu
-
-tak, že veřejnost chce dostat víc pa je připravena platit za něj tolik, kolik teď
-
-činí teoretická konkurenční tržní cena, totiž s. V současné situaci neschvalu-
-
-33701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 337
-
-je jednání podniku, které stahuje určité množství variabilního kapitálu z vyu-
-
-žití pro výrobu p. Tato částka jistě nezůstane nevyužita. Odchází do jiných
-
-oborů podnikání a vyrábí zde něco jiného, konkrétně m. Avšak v současných
-
-podmínkách by spotřebitelé před zvýšením dostupného množství výrobkumdali přednost zvýšení dostupného množství p. Důkazem je, že v nepřítom-
-
-nosti monopolistického omezení výrobní kapacity p, jak je tomu za daných
-
-podmínek, by výnosnost výroby množství qprodávaného za cenu sbyla tak
-
-vysoká, že by se vyplatila víc než zvýšení množství vyráběného výrobku m.
-
-Tento případ má dva charakteristické rysy. Zaprvé, monopolní ceny place-
-
-né kupujícími jsou stále nižší, než kolik by činily celkové náklady výroby p,
-
-pokud by byly plně započteny všechny vklady investorů. Zadruhé, monopol-ní výnosy firmy jsou tak malé, že nepřemění celé toto podnikání na dobrouinvestici. Zůstává špatnou investicí. Právě tato skutečnost vytváří monopolnípostavení firmy. Nikdo zvenku nechce do podnikání na tomto poli vstoupit,protože výroba pvede ke ztrátám.
+Zadruhé, monopol-ní výnosy firmy jsou tak malé, že nepřemění celé toto podnikání na dobrouinvestici. Zůstává špatnou investicí. Právě tato skutečnost vytváří monopolnípostavení firmy. Nikdo zvenku nechce do podnikání na tomto poli vstoupit,protože výroba pvede ke ztrátám.
 
 Monopol z neúspěšnosti vůbec není pouhou akademickou konstrukcí.
 
@@ -64,3 +37,17 @@ Dokonce i v – nepřílišpravděpodobném – případě, že poptávka po dom
 Skutečnost, že se břemeno monopolních výnosů přenáší do ceny měst-
 
 ského využití půdy, neznamená, že nebrání růstu města. Odsouvá využitíokrajových pozemků pro rozšíření městského osídlení. Chvíle, kdy se promajitele nějakého předměstského pozemku stává výhodným vyjmout ho zezemědělského nebo jiného nezastavěného využití a využít ho pro rozvojměsta, nastane později.
+
+Zastavení rozvoje města je dvojsečné jednání. Jeho užitečnost pro mono-
+
+polistu není jednoznačná. Nemůže vědět, zda v budoucnu budou platit tako-vé podmínky, aby do Apřilákaly víc lidí, kteří představují jediný trh pro jeho
+
+výrobky. Jedno z lákadel, které město nově příchozím poskytuje, je jeho veli-kost, spousta obyvatel. Průmysl a obchod tíhnou k centrům. Jestliže jednánímonopolisty zpomalí růst městského společenství, může stočit proud k jinýmmístům. Může být promarněna příležitost, která se už nikdy nevrátí. Většípříjmy v budoucnu mohou být obětovány kvůli poměrně malým krátkodo-bým výnosům.
+
+Proto je přinejmenším sporné, zda majitel místního mezního monopolu
+
+slouží svým zájmům z dlouhodobého pohledu dobře, pokud se rozhodne pro-dávat za monopolní ceny. Často by pro něj bylo výhodnější vybírat si mezirůznými kupci. Mohl by prodávat stavební projekty v centrální části města zavyšší ceny a podobné projekty v okrajových čtvrtích za nižší ceny. Dosahmístního mezního monopolu je omezenější, než se obecně předpokládá.
+
+Monopol z omezeného prostoru je důsledkem skutečnosti, že fyzikální pod-
+
+mínky omezují obor činnosti tak, že je v něm místo pouze pro jeden neboněkolik podniků. Monopol vznikne, když je v oboru pouze jeden podnik,nebo když se několik málo činných podniků spojí k jednání ve shodě.

@@ -1,7 +1,4 @@
-
-I když se Mises zpravidla vyhýbal tomu, aby se pouštěl do polemiky
-
-s ostatními kritiky socialismu, zabýval se v článku publikovaném ve fran-couzském ekonomickém žurnálu v roce 1938 rozdíly mezi svým a Hayeko-vým postojem. Poté co předkládá argument, že stav rovnováhy popsatelnýmatematickými rovnicemi je čistě hypotetický, zdánlivý a nerealizovatelnýstav budoucnosti, který nemůžeme dnes znát, a „neodpovídá ničemu skuteč-nému“, Mises píše:
+Poté co předkládá argument, že stav rovnováhy popsatelnýmatematickými rovnicemi je čistě hypotetický, zdánlivý a nerealizovatelnýstav budoucnosti, který nemůžeme dnes znát, a „neodpovídá ničemu skuteč-nému“, Mises píše:
 
 I Hayek ukázal, že využití rovnic, jež popisují stav rovnováhy, pro
 

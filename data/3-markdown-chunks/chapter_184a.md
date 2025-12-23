@@ -39,3 +39,13 @@ nemohou proto být aplikovány na neuskutečnitelný statický stav, kde z defi-
 Clarkem, zakladatelem proslulé americké školy (Mises citován v Greaves 1996,str. 50). A Hayek rázně tvrdil, že „alespoň někteří členové druhé nebo třetí generacerakouské školy dluží učení J. B. Clarka takřka tolik, co svým přímým učitelům“(Hayek 1992, str. 39). Konečně Fetter jmenoval Clarka, raději než Walrase, spolus Mengerem a Jevonsem jako „nejvýznamnější představitele tří tvůrčích zdrojůmezní teorie“ (Fetter 1923, str. 594).02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 819
 
 Potíže Clarkovy diskuse však sahají za pouhé sémantické nepřesnosti.
+
+Zřejmě zmaten svou vlastní zavádějící terminologií nedokázal myšlenkovětrvat na fiktivnosti statického stavu a naznačoval, že tento stav, nezávisle narealitě, skutečně existuje – třebaže je neustále narušován nikdy nekončícímpřívalem „frikcí a poruch“ spojených s dynamickými jevy. Podle Clarka tedyexistuje statický stav ve stejném smyslu, v němž existuje vodní hladina nezá-visle na vlnách, které neustále brázdí její povrch. Clarkovými slovy:
+
+Na statický stav … bychom měli … nahlížet jako na ideální uspo-
+
+řádání, které se promítá skrze poruchy a změny skupinovéhosystému [to jest konkurenčního tržního hospodářství] skutečnéspolečnosti, právě tak jako se pomyslná hladina moře promításkrze vlny. Statická společnost … je forma a modus jednání, ježjsou obsaženy ve skutečném světě… Můžeme uchopit její jádro.(Clark 1965, str. 402—03)
+
+V souladu se svým přístupem rozdělil Clark ekonomické teorémy na tvr-
+
+zení o „statických silách“ a „dynamických silách“.

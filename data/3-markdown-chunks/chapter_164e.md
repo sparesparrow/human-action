@@ -1,7 +1,4 @@
-
-Přizpůsobení výrobních činností změnám spotřebitelské poptávky je zdro-
-
-jem zisků. Čím větší je rozdíl mezi dřívějšími výrobními činnostmi a těmi,které reagují na novou strukturu poptávky, tím větší přizpůsobení je třebaa tím větších zisků dosáhnou ti, kterým se nejlépe podaří tohoto přizpůsobe-ní dosáhnout. Náhlý přechod od míru k válce prudce mění strukturu trhu,činí radikální přizpůsobení nevyhnutelným, a stává se tak pro mnohé zdro-jem vysokých zisků. Plánovači a intervencionisté považují takové zisky zaskandální.
+Čím větší je rozdíl mezi dřívějšími výrobními činnostmi a těmi,které reagují na novou strukturu poptávky, tím větší přizpůsobení je třebaa tím větších zisků dosáhnou ti, kterým se nejlépe podaří tohoto přizpůsobe-ní dosáhnout. Náhlý přechod od míru k válce prudce mění strukturu trhu,činí radikální přizpůsobení nevyhnutelným, a stává se tak pro mnohé zdro-jem vysokých zisků. Plánovači a intervencionisté považují takové zisky zaskandální.
 
 Domnívají se, že základní povinností vlády v dobách války jezabránit vzniku nových milionářů. Říkají, že je nespravedlivé nechat některélidi zbohatnout, když jsou jiní lidé zabíjeni a mrzačeni.
 
@@ -48,3 +45,5 @@ Změnám okolností, jež nastolila mezinárodní dělba práce, nevěnovali
 pozornost ani generální štáby a studenti vojenského umění. Metody vojenskévědy spočívají ve zkoumání způsobů vedení válek v minulosti a snaze vyvo-dit z nich obecná pravidla. Ani nejsvědomitější zkoumání tažení Turennehoa Napoleona I. však nemohlo přinést poznání problému, který neexistovalv době, kdy prakticky nelze hovořit o mezinárodní dělbě práce.
 
 Evropští vojenští experti znevažovali studium americké občanské války.
+
+Podle nich tato válka nebyla zajímavá. Nebyla vedena řádnými armádamivedenými profesionálními veliteli. Civilisté, jako například Lincoln, zasaho-vali do vedení operací. Z této války se proto nelze příliš přiučit, říkají. Aleprávě v této občanské válce poprvé hrály problémy meziregionální dělbypráce rozhodující roli. Jih byl vesměs zemědělský a jeho zpracovatelský prů-mysl nevýznamný.

@@ -41,3 +41,11 @@ renční schopnosti některých ruritánských výrobních odvětví oproti odv�
 (To závisí na nové podobě kom-parativních nákladů.) Neexistuje ale žádné nutné spojení mezi těmito krátko-dobými a dlouhodobými dopady. Přizpůsobovací procesy v období přechoduvytváří kaleidoskopicky měnící se situace, jež se mohou zcela lišit od podobyfinálního výsledku. Krátkozraká veřejnost věnuje ale veškerou svou pozornostprávě těmto krátkodobým dopadům.
 
 Slyší, jak si zasažení podnikatelé stěžují,že nové ruritánské zákony otevírají Laputáncům příležitost prodávat pod cenoujak v Ruritánii, tak v Laputánii. Vidí, že jsou některé ruritánské podniky nuce-ny omezit výrobu a propustit zaměstnance. Začíná mít pochybnosti o správ-nosti učení samozvaných „neortodoxních přátel třídy pracujících“.
+
+Situace se ale mění, když Ruritánie zavede dostatečně vysoké clo, které
+
+zabrání Laputáncům dočasně zvýšit své dodávky na ruritánský trh. Nejzře-telnější krátkodobé dopady nového opatření jsou pak skryty do té míry, žejejich existence zůstane veřejnosti utajena. Dlouhodobým dopadům se alesamozřejmě vyhnout nelze. Je jich však dosaženo prostřednictvím série odliš-ných krátkodobých dopadů, které nejsou tolik viditelné, a tedy nevyvolají
+
+67502_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 675
+
+takové problémy.

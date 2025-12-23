@@ -67,3 +67,7 @@ Ani teoretici, ani kapitalistéa podnikatelé, ani spotřebitelé nejsou schopni
 současných dat představu o výši takové rovnovážné ceny. Taková představa
 
 není potřeba. To, co člověka popohání ke změnám a inovacím, není vize rov-novážných cen, ale očekávání výše cen omezeného počtu druhů zboží, jakébudou panovat na trhu toho dne, kdy on chce prodávat. To, co má na myslipodnikatel, když se pouští do určitého projektu, je pouze prvním krokem pře-měn, které – pokud se neobjeví jiné změny dat než ty, které vyvolá jeho pro-jekt – by vedly k ustavení rovnovážného stavu.
+
+Pro využití rovnic popisujících rovnovážný stav je ale potřeba znalost
+
+odstupňování hodnot spotřebního zboží v tomto rovnovážném stavu. Totoodstupňování je jedním z prvků, jež tyto rovnice považují za známé. Avšakředitel zná pouze své současné hodnocení, a nikoli hodnocení v hypotetickémrovnovážném stavu.

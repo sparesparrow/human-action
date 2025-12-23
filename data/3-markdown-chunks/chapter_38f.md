@@ -1,4 +1,3 @@
-
 Žádná strana by vědomě nedávala přednostdezintegraci společnosti, anarchii a návratu k primitivnímu barbarství předřešením, které musí být vykoupeno za cenu obětování některých ideologic-kých bodů.
 
 Ve stranických programech mají tyto technické otázky samozřejmě zá-

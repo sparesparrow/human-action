@@ -1,18 +1,3 @@
-
-Takové názory jsou oprávněné, pokud se někdo na lidstvo dívá očima šle-
-
-chtitele, který chce vyšlechtit lidskou rasu vybavenou určitými vlastnostmi.Ale společnost není chovná farma provozovaná za účelem produkce určitéhotypu lidí. Nelze stanovit žádnou „přirozenou“ normu, co je v biologické evo-
-
-14701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 147
-
-luci člověka žádoucí a co je nežádoucí. Každé zvolené kritérium je arbitrární,
-
-čistě subjektivní, je to zkrátka pouze hodnotový názor. Termíny zdokonalo-vaní rasy a degenerace rasy jsou nesmyslné, nejsou-li založeny na konkrét-ních plánech na budoucnost lidstva.
-
-Je pravda, že civilizovaný člověk je přizpůsobený životu ve společnosti,
-
-a nikoli životu lovců v panenských lesích.
-
 Mýtus o mystickém společenství
 
 Praxeologická teorie je nakažena mýtem o mystickém společenství.Společnost, tvrdí zastánci této doktríny, není produktem záměrné lidské
@@ -56,3 +41,9 @@ Na druhou stranu do této představy půdy, jejíž hlas údajněslyší, často
 Různí příslušníci národa nebo jazykové skupiny a seskupení, která vytvá-
 
 řejí, nejsou vždy sjednoceni v přátelství a dobré víře. Dějiny každého národajsou líčením vzájemných nenávistí a dokonce nepřátelství mezi jeho složka-mi. Můžeme si představit Angličany a Skoty, Yankee a Jižany, Prusy a Bavory.To, co takové animozity překonalo a všem příslušníkům národa nebo jazyko-vé skupiny vnuklo city společenství a sounáležitosti, které dnešní nacionalistépovažují za přirozený a původní jev, byly ideologie.
+
+Vzájemná sexuální přitažlivost muže a ženy tkví ve zvířecí podstatě člově-
+
+ka a je nezávislá na myšlení a teoretizování. Může být nazývána původní,vegetativní, instinktivní nebo mystickou; nebude vadit, jestliže budeme meta-foricky tvrdit, že dělá ze dvou bytostí jednu. Můžeme ji nazývat mystickýmspojením dvou těl, společenstvím. Avšak ani soulož, ani to, co ji předcházía následuje, nevede ke spolupráci ve společnosti a ke společenskému způso-bu života. Zvířata se také spojují při páření, ale nevytvořila žádné společen-ské vztahy.
+
+Rodinný život není pouhým produktem sexuálního styku. To, žerodiče a děti žijí společně, tak jak to dělají v rodině, je bezpochyby přirozenéa nutné. Vztah páření nemusí vést ke vzniku rodinné organizace. Lidská rodi-na je výsledek myšlení, plánování a jednání.

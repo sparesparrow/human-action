@@ -1,4 +1,3 @@
-
 Tento argument je však chybný. Před-pokládá totiž, že zaměstnavatelé shrábnou rozdíl mezi mzdovou sazbouzaloženou na mezní produktivitě a nižší monopolní sazbou jako dodatečnýmonopolní výnos a nepřesunou ho na spotřebitele v podobě snížení ceny.Kdyby totiž měli snížit ceny podle poklesu výrobních nákladů, neměli byz toho, jako podnikatelé a prodávající daného zboží, žádný prospěch.
 
 Celýpřínos by získali spotřebitelé, a tedy i námezdní pracovníci ve svém postave-ní kupujících; podnikatelé samotní by na tom získali jen jako spotřebitelé.Aby si mohli zaměstnavatelé ponechat dodatečný výnos z „vykořisťování“slabé vyjednávací pozice pracovníků, museli by jednat ve shodě ve svémpostavení prodávajících. To by vyžadovalo všeobecný monopol ve všechvýrobních činnostech, jenž může být vytvořen pouze institucionálními ome-zeními vstupu do podnikání.

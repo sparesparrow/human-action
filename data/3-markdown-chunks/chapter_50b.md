@@ -1,4 +1,3 @@
-
 Pokud dále předpokládáme, že toto hospodářství je statickým hospodář-
 
 stvím a že se všechny termínové obchody soustřeďují v jedné společnosti, jezřejmé, že se celková velikost ztráty této společnosti přesně rovná celkovévelikosti jejích zisků. Abychom zavedli socialistický stav bez zisků a ztrát, stavnerušené jistoty a stability, stačí nám pouze tuto společnost zestátnit. Tak jetomu ale pouze proto, že naše definice statického hospodářství zahrnuje rov-nost celkové velikosti ztrát a celkové velikosti zisků.
@@ -46,3 +45,5 @@ společnosti požadavkům vzájemné spolupráce. Tržní ceny říkají výrobc
 Tržní hospodářství se musí přísně odlišovat od druhého myslitelného –
 
 ačkoli nerealizovatelného – systému společenské spolupráce v rámci dělbypráce, systému společného neboli státního vlastnictví výrobních prostředků.Tento druhý systém se všeobecně nazývá socialismem, komunismem, pláno-vaným hospodářstvím nebo státním kapitalismem. Tržní hospodářství nebolikapitalismus, jak se běžně nazývá, a socialistické hospodářství se navzájemvylučují.
+
+Žádná směs těchto dvou systémů není možná ani myslitelná, něcotakového jako smíšené hospodářství – systém, který by byl částečně kapita-listický a částečně socialistický – neexistuje.

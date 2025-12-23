@@ -1,19 +1,4 @@
-
-Ve městě žije pmilovníků hudby, z nichž každý by byl ochoten zaplatit 2 $
-
-za recitál virtuóza. Takový koncert však vyžaduje vyšší náklady než 2 pdola-
-
-rů, a proto nemůže být uskutečněn. Je-li však možná diskriminace vstupného
-
-35201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 352
-
-azppřátel hudby je jich nochotno vydat po 4 $, pak bude možné recitál usku-
-
-tečnit, pokud částka 2 ( n+p ) bude dostatečná. Potom nlidí utratí za vstupné
-
-po 4 $ a (p – n) lidí po 2 $, a vzdají se uspokojení nejméně naléhavé potřeby,
-
-kterou by byli uspokojili, kdyby nedali přednost návštěvě recitálu. Každáosoba v publiku se má lépe, než by se měla, kdyby nemožnost cenové diskri-minace zabránila v představení. Je v zájmu organizátorů zvýšit počet divákůaž k bodu, v němž by vstupné dalších spotřebitelů převyšovalo cenu, kteroujsou ochotni zaplatit.
+Je v zájmu organizátorů zvýšit počet divákůaž k bodu, v němž by vstupné dalších spotřebitelů převyšovalo cenu, kteroujsou ochotni zaplatit.
 
 Vše bude jinak, pokud by bylo možné uspořádat recitál, i kdyby vstupné
 
@@ -82,3 +67,17 @@ Pokud služby poskytované komoditou amohou být nahrazeny – i kdyby to
 nebylo dokonale uspokojivým způsobem – službami poskytovanými jinoukomoditou b, změna ceny jedné z nich ovlivňuje také cenu té druhé. Vzájem-
 
 ný vztah cen aabmůžeme nazvat substitučním vztahem.
+
+Výrobní vztah, spotřební vztah a substituční vztah jsou zvláštní vztahy cen
+
+omezeného množství statků. Od těchto zvláštních vztahů je třeba odlišitobecný vztah cen všeho zboží a služeb. Tento obecný vztah je důsledkemtoho, že pro každý druh uspokojení potřeb je vedle různých víceméně speci-fických faktorů nutný jeden vzácný faktor, který můžeme – přes kvalitativnírozdíly v jeho schopnosti vyrábět – v hranicích, které byly přesně definoványvýše,
+
+26nazývat nespecifickým faktorem, a tímto faktorem je práce.
+
+V hypotetickém světě, v němž jsou všechny výrobní faktory naprosto spe-
+
+cifické, by lidské jednání působilo na mnoha různých polích uspokojovánípotřeb navzájem nezávisle. To, co v našem skutečném světě spojuje různéoblasti uspokojování potřeb, je existence obrovského množství nespecific-kých faktorů, které se hodí pro využití k dosažení různých cílů a které se
+
+35426Srov. výše, str. 118—121.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 354
+
+mohou do určité míry zastupovat.

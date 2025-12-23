@@ -1,20 +1,3 @@
-
-Úspěchkaždého zaopatření do nejistébudoucnosti závisí na správnosti očekávání, na jehož základě bylo uděláno.Žádný příjem nemůže být zajištěn proti změnám, které nebyly správně před-vídány.
-
-Stejně není proces tvorby cen ani druhem rozdělování. Jak jsme již ukáza-
-
-li, v tržním hospodářství neexistuje nic, na co by se pojem rozdělování dalpoužít.
-
-14. Ceny a výroba
-
-Proces tvorby cen na nenarušovaném trhu usměrňuje výrobu tam, kde nej-
-
-lépe slouží potřebám spotřebitelů, jež se projevují na trhu. Pouze v případěmonopolních cen mají monopolisté sílu kvůli vlastnímu prospěchu odvéstv omezeném rozsahu výrobu z tohoto oboru jinam.
-
-Ceny určují, který výrobní faktor by měl být použit a který by měl být
-
-ponechán bez využití. Specifické výrobní faktory se používají pouze tehdy,když neexistuje cennější využití komplementárních nespecifických faktorů.Existují technologické návody, půda i nepřevoditelné kapitálové statky,jejichž schopnost vyrábět zůstává nevyužita, protože jejich využití by zname-nalo plýtvání tím nejvzácnějším ze všech faktorů, prací.
-
 Zatímco v podmín-kách, které panují v našem světě, nemůže na nenarušovaném trhu existovatdlouhodobé nevyužití práce, je nevyužitá kapacita půdy a nepřevoditelnéhoprůmyslového vybavení běžným jevem.
 
 Je nesmyslné naříkat nad skutečností, že se nějaká kapacita nevyužívá.
@@ -56,3 +39,13 @@ hodnotové soudy nazývá hlasem objektivní pravdy. V lidském jednání nepla-
 Každá cena stanovená na trhu je plodem vzájemného působení účinkují-
 
 cích sil, tedy poptávky a nabídky. Ať už je situace na trhu, která tuto cenuvyvolala, jakákoli, cena je vzhledem k ní vždy přiměřená, pravá a reálná.Nemůže být vyšší, když se neobjeví nikdo, kdo by byl ochoten vyšší cenunabídnout, a nemůže být nižší, když se neobjeví žádný prodejce, který by bylochoten za nižší cenu dodávat. Ceny může změnit pouze to, když se objevítakoví lidé ochotní nakupovat nebo prodávat.
+
+Ekonomie analyzuje tržní proces, který vytváří ceny statků, mzdy a úroko-
+
+vé míry. Nevymýšlí vzorce, které by komukoli umožňovaly spočítat „správ-nou“ cenu, lišící se od ceny stanovené na trhu vzájemným působením kupu-jících a prodávajících.
+
+U kořene mnoha snah o stanovení netržních cen je zmatený a sporný
+
+pojem reálných nákladů. Kdyby náklady byly reálnou věcí, tj. veličinounezávislou na osobních hodnotových soudech a objektivně zjistitelnoua měřitelnou, bylo by možné, aby jejich výši, a tedy správnou cenu určovalnestranný arbitr. Není třeba, abychom se dále zabývali nesmyslností tétomyšlenky. Náklady jsou jevem hodnocení.
+
+Náklady jsou hodnoty přiřazenénejcennějšímu uspokojení potřeb, které zůstávají neuspokojeny, protože pro-středky potřebné pro jejich uspokojení jsou používány k uspokojování těchpotřeb, jejichž náklady se právě zabýváme. Dosažení přebytku hodnotyvýrobku nad náklady – zisku – je cílem každého výrobního úsilí. Zisk jevýnos úspěšného jednání. Nemůže být definován bez odkazu na hodnocení.Je to jev hodnocení a nemá přímý vztah k fyzikálním ani jiným jevům vnější-ho světa.

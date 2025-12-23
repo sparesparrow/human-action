@@ -1,15 +1,4 @@
-
-61115Srov. O. Spann, Der wahre Staat (Lipsko, 1921), str. 249.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 611
-
-Soukromé vlastnictví je lidský nástroj. Není dané shora. Vzniklo v raných
-
-historických dobách, když si lidé vlastní silou a vlastní mocí přisvojovali to,co předtím nebylo ničí. Vlastníci byli stále znova okrádáni o svůj majetekvyvlastňováním. Dějiny soukromého vlastnictví mohou být vysledovány zpětaž k bodu, v němž vzniklo jednáním, které určitě nebylo legální. Praktickykaždý vlastník je přímým nebo nepřímým právním nástupcem lidí, kteří zís-kali vlastnictví buď svévolným přisvojením věcí, jež neměly vlastníka, nebonásilným oloupením svých předchůdců.
-
-Avšak skutečnost, že právní formalismus může vysledovat každý titul zpět
-
-buď ke svévolnému přisvojení, nebo k násilnému vyvlastnění, nemá vůbecžádný význam pro podmínky tržní společnosti. Vlastnictví v tržním hospo-dářství už není spojeno se vzdálenými počátky soukromého vlastnictví.O události v daleké minulosti, skryté v temnotě dějin primitivních lidí, se uždnes nikdo nezajímá, protože v nenarušované tržní společnosti spotřebitelérozhodují každý den znovu, kdo by měl vlastnit a kolik.
-
-Spotřebitelé přidělu-jí kontrolu nad výrobními prostředky těm, kteří vědí, jak je nejlépe použít prouspokojení nejnaléhavějších potřeb spotřebitelů. Vlastníci mohou být pova-žováni za nástupce přivlastňovatelů nebo vyvlastňovatelů pouze v právníma formalistickém smyslu. Ve skutečnosti jsou pověřenci spotřebitelů a jsoufungováním trhu nuceni spotřebitelům co nejlépe sloužit. V kapitalismu jesoukromé vlastnictví dovršením sebeurčení spotřebitelů.
+Ve skutečnosti jsou pověřenci spotřebitelů a jsoufungováním trhu nuceni spotřebitelům co nejlépe sloužit. V kapitalismu jesoukromé vlastnictví dovršením sebeurčení spotřebitelů.
 
 Smysl soukromého vlastnictví v tržní společnosti se zásadně liší od toho,
 
@@ -40,3 +29,21 @@ Jsou výsledkem různých vládních zásahů dopodnikání, obchodních a migra
 ním hospodářství. Představme si svět, v němž by každý mohl svobodně žíta pracovat jako podnikatel nebo jako zaměstnanec, kde by chtěl a jak by si tozvolil, a ptejme se, které z těchto konfliktů by ještě existovaly.
 
 Představme sisvět, v němž je plně uskutečněn princip soukromého vlastnictví výrobníchprostředků, v němž neexistují instituce, které by bránily mobilitě kapitálu,práce a komodit, v němž zákony, soudy a úředníci nediskriminují jednotlivcenebo skupiny jednotlivců, ať už domácích nebo cizinců. Představme si stav,v němž se vlády věnují výlučně tomu, aby chránily život, zdraví a majetek jed-notlivce proti násilnému a podvodnému útoku.
+
+V takovém světě jsou na mapěnakresleny hranice, ale ty nikomu nebrání, aby se staral o to, o čem si myslí,že ho to udělá úspěšnějším. Žádný jednotlivec se nezajímá o rozšíření rozlo-hy území svého státu, protože z takového rozmachu nemůže mít žádný zisk.Výboje se nevyplatí a války vyšly z módy.
+
+V době, která předcházela rozmachu liberalismu a vzniku moderního ka-
+
+pitalismu, spotřebovávali lidé většinou pouze to, co mohlo být vyrobeno zesurovin, které byly dostupné v jejich okolí. Rozvinutí mezinárodní dělbypráce tento stav podstatně změnilo. Potraviny a suroviny dovážené ze vzdá-lených zemí jsou zbožím masové spotřeby. Nejvyspělejší evropské státy seobejdou bez těchto dovozů pouze za cenu velmi podstatného snížení životníúrovně.
+
+Za naprosto nutné nákupy nerostů, dřeva, ropy, obilí, tuku, kávy,čaje, kakaa, ovoce, vlny a bavlny musejí platit vývozem výrobků, z nichžvětšina je vyrobena z dovážených surovin. Jejich životní zájmy zraňujeprotekcionářská obchodní politika zemí produkujících tyto základní ko-modity.
+
+61302_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 613
+
+Před dvěma sty lety se Švédové nebo Švýcaři prakticky nezajímali o to,
+
+jestli nějaká mimoevropská země využívá své přírodní zdroje efektivně či nee-fektivně. Dnes však hospodářská zaostalost cizí země, která je bohatá na pří-rodní zdroje, zraňuje zájmy všech, jejichž životní úroveň by se mohla zvýšit,kdyby toto přírodní bohatství začalo být využíváno vhodnějším způsobem.Princip neomezené svrchovanosti každého národa je ve světě vládních zásahů
+
+do podnikání výzvou pro všechny ostatní národy. Konflikt mezi těmi, kteří
+
+nemají, a těmi, kteří mají, je skutečným konfliktem.

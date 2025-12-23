@@ -53,3 +53,7 @@ měnové a úvěrové politiky, odhalí, že tento názor je přijímán témě�
 Rozšířenost inflacionismu je do značné míry výsledkem hluboce zakoře-
 
 něné nenávisti k věřitelům. Inflace je považována za spravedlivou, protožezvýhodňuje dlužníky na úkor věřitelů. Inflacionistický pohled na historii, kte-rým se musíme zabývat v tomto oddíle, je s těmito argumenty proti věřitelůmspojen pouze velmi volně. Jeho závěr, že „expanzionismus“ je hnací silouhospodářského pokroku a „restrikcionismus“ je nejhorším ze všech zel, jevětšinou založen na jiných argumentech.
+
+Je zjevné, že problémy, na které inflacionistická doktrína poukazuje,
+
+nemohou být vyřešeny pomocí učení o historické zkušenosti.

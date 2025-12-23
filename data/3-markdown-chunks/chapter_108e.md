@@ -1,9 +1,4 @@
-
-Pojem fyziologického životního minima navíc postrádá přesnost a vědec-
-
-kou pečlivost, které mu lidé přisuzují. Primitivní člověk, přizpůsobený pod-mínkám lidské existence vhodným spíše pro zvířata, by dokázal přežíti v podmínkách nesnesitelných pro jeho elegantní potomky zhýčkané ka-pitalismem. Neexistuje nic jako fyziologicky a biologicky určené životní mi-nimum, platné pro každý exemplář živočišného druhu homo sapiens . Stejně
-
-neudržitelná je představa určitého množství kalorií potřebných k zachovánízdraví a plodnosti člověka a dalšího určitého množství nutného k nahrazeníprací vynaložené energie. Odkaz na chov dobytka a vivisekce morčat ekono-mům při jejich úsilí o porozumění otázkám účelového lidského jednání nepo-máhá. „Železný zákon mzdový“ a v podstatě totožná marxistická doktrínaurčení „hodnoty pracovní síly“ pomocí „pracovního času nutného pro její pro-dukci a následně také pro její reprodukci“
+„Železný zákon mzdový“ a v podstatě totožná marxistická doktrínaurčení „hodnoty pracovní síly“ pomocí „pracovního času nutného pro její pro-dukci a následně také pro její reprodukci“
 
 8jsou tím nejméně obhajitelným,
 
@@ -30,3 +25,17 @@ Není nutné poznamenávat, že pruská historická škola se svým wirtschaftli
 che Staatswissenschaften pohlížela na mzdové sazby a stejně i na ceny statků
 
 a úrokové míry jako na „historické kategorie“ a ve svých pojednáních o mzdo-vých sazbách se uchylovala k „důchodu odpovídajícímu hierarchickémupostavení na společenské stupnici tříd“. Podstatou této školy bylo popřítexistenci ekonomie a nahradit ji historií. Je však nanejvýš překvapivé, žeMarx a marxisté nepoznali, že jejich prosazování této nepodložené doktrínyzcela rozložilo podstatu takzvaného marxistického systému ekonomie.
+
+Kdyžčlánky a disertace publikované v Anglii na počátku šedesátých let přesvědčilyMarxe, že se již nelze neochvějně držet mzdové teorie klasických ekonomů,upravil svoji vlastní teorii hodnoty pracovní síly. Prohlásil, že „rozsah tak-zvaných potřeb a způsob jejich uspokojení jsou samy o sobě výsledkem
+
+54102_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 541
+
+historického vývoje“ a „závisí z velké míry na civilizačním stupni dosaženém
+
+danou zemí, a mezi jinými faktory, zejména na podmínkách a zvycích a ambi-cích týkajících se životní úrovně, za kterých byla utvářena třída svobodnýchdělníků“. Tím „vstupuje do určení hodnoty pracovní síly historický a morálníprvek“. Když ale Marx dodává, že nicméně „pro danou zemi v daném čase jeprůměrné množství nezbytných životních potřeb danou skutečností“,
+
+9odpo-
+
+ruje sám sobě a uvádí čtenáře v omyl. To, co má na mysli, již není „nezbytnouživotní potřebou“, ale věcí považovanou za nezbytnou z tradičního pohledu,již jde o prostředky nutné k zachování životního standardu odpovídajícíhopozici pracovníka v tradiční společenské hierarchii. Uchýlení se k takovémuvysvětlení prakticky znamená vzdání se jakéhokoli ekonomického nebo kata-laktického vysvětlení určení mzdových sazeb. Mzdové sazby jsou vysvětlenyjako historická data.
+
+Již nejsou považovány za tržní jev, ale za faktor vznika-jící vně vzájemného působení tržních sil.

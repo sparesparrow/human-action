@@ -1,4 +1,3 @@
-
 Každoročně opakující se tržby majitelů půdy a dobytka nenesou žádné
 
 zvláštní znaky, které by je katalakticky odlišovaly od tržeb plynoucích z vyro-bených výrobních faktorů, které jsou dříve či později užity ve výrobním pro-cesu. Právo nakládat s pozemkem představuje ovládnutí jeho spolupráce připrodukci všech plodů, které na něm mohou kdy vyrůst, a právo nakládats dolem představuje ovládnutí jeho spolupráce při získávání všech nerostů,které mohou kdy být jeho prostřednictvím vyneseny na zemský povrch.
@@ -54,3 +53,7 @@ a Young, Outlines of Economics (3. vyd., New York, 1920), str. 493.01_Lidske jed
 Úvěrový trh neurčuje úrokovou míru. Přizpůsobuje úrokovou míru z úvěrů
 
 čisté úrokové míře, jež se projevuje v diskontu budoucích statků.
+
+Čistý úrok je kategorií lidského jednání. Působí při každém ohodnocení
+
+vnějších věcí a nemůže nikdy zmizet.

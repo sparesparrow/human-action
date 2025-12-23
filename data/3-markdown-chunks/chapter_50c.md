@@ -1,5 +1,4 @@
-
-Žádná směs těchto dvou systémů není možná ani myslitelná, něcotakového jako smíšené hospodářství – systém, který by byl částečně kapita-listický a částečně socialistický – neexistuje. Výroba se řídí buď trhem, nebovýnosy průmyslového cara či výboru „carů“.
+Výroba se řídí buď trhem, nebovýnosy průmyslového cara či výboru „carů“.
 
 Jestliže jsou v rámci společnosti, která je založená na soukromém vlastnic-
 

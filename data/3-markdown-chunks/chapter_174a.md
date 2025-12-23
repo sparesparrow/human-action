@@ -57,3 +57,9 @@ vi, že je to „velmi solidní a významné dílo“ (citováno v Swedberg 1991
 recenzoval knihu příznivě v Political Science Quarterly, přičemž dospívá k závě-
 
 ru, že „toto dílo je jak kritické, tak konstruktivní, a v každém směru výrazněpřispívá k pokroku ekonomické vědy“ (citováno v Allen 1994, str. 84).
+
+Na rozdíl od svých věhlasných současníků neměl Böhm-Bawerk pro Das
+
+Wesen dobrého slova, neboť správně chápal, jak hluboce antimengerovská je
+
+použitá teoretická metoda. Přesto také evidentně považoval Schumpetera zašpičkového ekonomického teoretika. V typicky pronikavé poznámce podčarou předložil Böhm-Bawerk zdrcující kritiku Schumpeterova pokusu od-stranit v Das Wesen koncepty „příčiny“ a „vysvětlení“ z ekonomické teorie

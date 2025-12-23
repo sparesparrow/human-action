@@ -1,4 +1,3 @@
-
 Pokud byvlastníci kapitálových statků – s ustavením podmínek rovnoměrně plynoucíekonomiky – měli přestat získávat jakýkoli úrok, došlo by k narušení pod-mínek platných pro alokaci dostupné zásoby statků na uspokojení potřebv různých obdobích budoucnosti. Změněné podmínky vyžadují novou aloka-ci. Rozdíl mezi ohodnocením uspokojení potřeb v různých obdobích budouc-nosti nemůže zmizet ani v rovnoměrně plynoucí ekonomice.
 
 I v rámci tohotoimaginárního konstruktu budou lidé připisovat vyšší hodnotu jablku dostup-nému dnes v porovnání s jablkem dostupným za deset nebo sto let. Pokudkapitalisté nezískávají žádný úrok, je porušena rovnováha mezi uspokojenímv bližších a vzdálenějších obdobích budoucnosti. Skutečnost, že kapitalistaudržoval svůj kapitál na úrovni 100 000 dolarů byla podmíněna tím, že100 000 dolarů v současnosti se rovná 105 000 dolarům dostupným o dvanáctměsíců později.
@@ -46,3 +45,7 @@ um,“ The Economic Journal, XL (1930), str. 211 a násl.01_Lidske jednani_final
 zmizením spotřeby. Zvýšení čistého úroku nade všechny meze by bylo totož-
 
 né se zmizením spoření a veškerého zaopatření pro budoucnost.
+
+Množství dostupné nabídky kapitálových statků neovlivňuje ani míru
+
+čistého úroku, ani objem dodatečných úspor. Ani ta nejhojnější nabídka kapi-tálu nemusí nutně vyvolat ani snížení míry čistého úroku, ani pokles sklonuk úsporám.

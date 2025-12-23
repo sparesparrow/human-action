@@ -41,3 +41,13 @@ Pozastavení vyplácení uloženého měnového kovu situaci zcela mění.Již n
 Katalakticky nejvýznamnější otázky vydávání fiduciárních prostředků
 
 jedinou bankou, nebo více bankami jednajícími ve shodě, jejíž klientela zahr-nuje všechny jednotlivce, se netýkají omezení objemu této emise. Budeme sejimi zabývat ve XX. kapitole, věnované vztahům mezi množstvím peněz a úro-kovou mírou.
+
+V tomto bodě našeho zkoumání se musíme zaměřit na problém koexisten-
+
+ce mnoha nezávislých bank. Nezávislost znamená, že každá banka vydávající
+
+39301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 393
+
+fiduciární prostředky sleduje svou vlastní cestu a nejedná v souladu s jinými
+
+bankami. Koexistence znamená, že každá banka má klientelu, která neza-hrnuje všechny členy tržního systému. Pro jednoduchost budeme předpoklá-dat, že žádný člověk ani firma není klientem více než jedné banky.

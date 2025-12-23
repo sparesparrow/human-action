@@ -1,11 +1,4 @@
-
-Ať již je systém vládyjakýkoli, základem, na němž je vybudován a na němž také spočívá, je vždynázor těch, jimž se vládne, že poslouchat vládu a být k ní loajální slouží jejichvlastním zájmům lépe než povstání a ustavení jiného režimu. Většina má mocodstranit nepopulární vládu a tuto moc použije, kdykoli začne být přesvěd-čena, že to její vlastní blaho vyžaduje. Občanská válka a revoluce jsou pro-středky, jimiž nespokojené většiny svrhávají vládce a metody vládnutí, jež jimnevyhovují.
-
-V zájmu domácího míru směřuje liberalismus k demokratickévládě. Demokracie proto není revolučním zřízením. Naopak, je to prostředek,který slouží právě k předcházení revolucím a občanským válkám. Poskytujemetodu pro mírové přizpůsobení vlády vůli většiny. Pokud lidé v úřadecha jejich politika již nevyhovují většině národa, budou – v příštích volbách –odstraněni a nahrazeni jinými lidmi hlásícími se k jiné politice.
-
-Princip většinové vlády nebo vlády podle lidí, jak je doporučován libera-
-
-lismem, nesměřuje k převaze těch průměrných, nevzdělaných, ochočenýchbarbarů. Také liberálové věří, že národu by měli vládnout ti, kteří se pro tentoúkol nejlépe hodí. Ale věří, že schopnost člověka vládnout se lépe ukáže pře-svědčováním jeho spoluobčanů než tím, že se na ně použije síla. Samozřejměneexistuje žádná záruka, že voliči svěří úřad tomu nejschopnějšímu kandidá-tovi. Ale takovou záruku nemůže nabídnout ani žádný jiný systém.
+Ale věří, že schopnost člověka vládnout se lépe ukáže pře-svědčováním jeho spoluobčanů než tím, že se na ně použije síla. Samozřejměneexistuje žádná záruka, že voliči svěří úřad tomu nejschopnějšímu kandidá-tovi. Ale takovou záruku nemůže nabídnout ani žádný jiný systém.
 
 Je-li vět-šina národa oddána nezdravým principům a dává přednost neschopnýmvyhledávačům funkcí, neexistuje jiný lék než pokusit se změnit jejich myšle-ní objasňováním rozumnějších principů a doporučováním lepších lidí. Men-šina nikdy nezíská trvalý úspěch jinými prostředky.
 
@@ -42,3 +35,19 @@ Jestliže někdo postuluje existenci entity, která je z definicevyšší, uroze
 4– si libovali v tom, že tuto
 
 věc převrátili vzhůru nohama a nade všechno hlásali přednost jedince.) Jest-liže společnost nebo stát jsou entitou obdařenou vůlí a úmyslem a všemiostatními vlastnostmi, jež jí jsou připisovány kolektivistickou doktrínou, pakje jednoduše nesmyslné stavět nicotné cíle ubohého jedince proti jejím vyso-kým plánům.
+
+Kvaziteologický charakter všech kolektivistických doktrín se zračí v jejich
+
+vzájemných konfliktech. Kolektivistická doktrína neprohlašuje nadřazenostkolektivního celku v abstraktním smyslu; vždy provolává slávu určitémukolektivistickému idolu, a buď rovnou popírá existenci jiných podobnýchidolů, nebo je vzhledem ke svému idolu vykazuje do podřízeného a služeb-
+
+1344Viz Max Stirner (Johan Kaspar Schmidt), The Ego and His Own , přeložil S. T. Bying-
+
+ton (New York, 1907).01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 134
+
+ného postavení. Uctívači státu provolávají slávu určitému státu, tj. jejich
+
+vlastnímu; nacionalisté provolávají slávu svému vlastnímu národu. Jestližeodpadlíci napadnou jejich konkrétní program zvěstováním nadřazenosti jiné-ho kolektivistického idolu, neuchýlí se k žádným jiným námitkám než ke stá-lému opakování: My máme pravdu, protože nám vnitřní hlas říká, že mámepravdu, a vy se mýlíte.
+
+Střety protichůdných kolektivistických učení a sektnemohou být rozhodnuty logickým uvažováním; musí je rozhodnout zbraně.Alternativami k liberálnímu a demokratickému principu vlády většiny jsoumilitaristické principy ozbrojených konfliktů diktátorského útisku.
+
+Všechny druhy kolektivistických učení se shodnou v nesmiřitelném

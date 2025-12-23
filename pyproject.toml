@@ -23,6 +23,18 @@ PyYAML = ">=6.0"
 numpy = ">=1.26.0"
 matplotlib = "^3.8.0"
 
+# YouTube transcription dependencies
+yt-dlp = ">=2023.10.0"
+ffmpeg-python = ">=0.2.0"
+googletrans = ">=3.1.0a0"
+edge-tts = ">=6.1.0"
+
+# Optional TTS/STT engines (uncomment/install as needed)
+# openai-whisper = ">=20231117"     # Free STT, requires models download
+# vosk = ">=0.3.45"                  # Offline STT, Czech support
+# SpeechRecognition = ">=3.10.0"     # Multiple STT backends
+# piper-tts = ">=1.2.0"              # Piper TTS (if available via pip)
+
 
 [tool.poetry.group.dev.dependencies]
 pytest = ">=7.4.0"

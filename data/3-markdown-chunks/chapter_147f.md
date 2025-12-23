@@ -1,7 +1,4 @@
-
-Je zjevné, že zrušení ruritánského cla na kůži musí v dlouhém období pro-
-
-spět každému, jak obyvatelům Ruritánie, tak cizincům. V krátkém období aletoto opatření poškodí zájmy kapitalistů, kteří investovali do ruritánskéhokožedělného průmyslu. O nic méně ale nepoškodí ani krátkodobé zájmy ruri-tánských pracovníků, kteří se specializují na kožedělné práce. Část z nichbude muset buď emigrovat, nebo změnit zaměstnání. Tito kapitalisté a pra-covníci proto budou vášnivě bojovat proti veškerým snahám snížit clo na kůžiči ho zcela zrušit.
+Část z nichbude muset buď emigrovat, nebo změnit zaměstnání. Tito kapitalisté a pra-covníci proto budou vášnivě bojovat proti veškerým snahám snížit clo na kůžiči ho zcela zrušit.
 
 Náš příklad jasně ukazuje, proč je politicky nesmírně obtížné odstranit
 

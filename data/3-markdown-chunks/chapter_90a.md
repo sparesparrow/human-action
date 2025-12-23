@@ -51,3 +51,7 @@ Pokud jsou tyto přebytky skladoványa drženy pouze z důvodu pozdější spot�
 se stávají pouze tehdy, jsou-li použity jako prostředky obživy dělníků zapoje-
 
 ných do časově náročnějších procesů. Pokud jsou použity tímto způsobem,jsou fyzicky spotřebovány. Ale ekonomicky nezmizely. Byly nahrazeny nejpr-ve bezprostředními výstupy procesů s delší dobou výroby a později spotřeb-ními statky, které jsou konečným produktem těchto procesů.
+
+Všechny tyto akce a procesy jsou duševně ovládány kapitálovým účetnic-
+
+tvím, vrcholem peněžní ekonomické kalkulace. Bez pomoci peněžní kalkula-ce by se člověk nemohl dozvědět, zda – bez ohledu na délku doby výroby –určitý proces slibuje vyšší produktivitu než nějaký jiný. Výdaje vyžadovanérůznými procesy nemohou být navzájem poměřovány bez pomoci peněžní-ho vyjádření.

@@ -1,19 +1,4 @@
-
-Stejně jako všechny věci, které jsou střiženy tak, aby vyhovovaly vkusu
-
-mas, je i reklama pro lidi s jemným citem odpuzující. Toto opovrženíovlivňuje přijetí obchodní propagace. Reklama a všechny ostatní metodyobchodní propagace jsou zavrhovány jako jeden z nejodpornějších výplodůneomezené konkurence. Měla by být zakázána. Spotřebitelům by měli raditnestranní odborníci. Tento úkol by měly plnit veřejné školy, „nestranický“ tiska družstva.
-
-Omezení práva obchodníků propagovat své zboží by omezilo svobodu spo-
-
-třebitelů utrácet svůj příjem podle vlastních přání a tužeb. Znemožnilo by jimto dozvědět se tolik, kolik mohou a chtějí, o stavu trhu a podmínkách, kterépro ně mohou být důležité při výběru co si koupit a co ne. Už by se nemohlirozhodovat na základě názoru, který si o prodejcově hodnocení jeho vlastní-ho zboží sami utvořili; byli by nuceni jednat na základě doporučení jinýchlidí. Není nepravděpodobné, že by je tito rádci uchránili před některými chy-bami.
-
-Ale individuální spotřebitel by byl v opatrovnictví poručníků. Jestliženení reklama omezená, jsou spotřebitelé v zásadě v postavení poroty, která se
-
-29201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 292
-
-o případu dozvídá na základě výslechu svědků a přímého vyšetřování všech
-
-ostatních důkazních prostředků. Je-li reklama omezená, jsou v postaveníporoty, kterou nějaký policista informuje o výsledku svého vlastního zkou-mání důkazů.
+Je-li reklama omezená, jsou v postaveníporoty, kterou nějaký policista informuje o výsledku svého vlastního zkou-mání důkazů.
 
 Je široce rozšířeným omylem, že šikovná reklama může přesvědčit spotře-
 
@@ -48,3 +33,23 @@ Jestliže je vládě zadán úkol zajistit, abyv reklamách na parfémy a zubní
 Představa, že obchodní propagace může přinutit spotřebitele, aby se pod-
 
 řídili vůli inzerentů, je falešná. Reklamě se nikdy nemůže podařit vytlačit hor-šími výrobky lepší a levnější zboží.
+
+Z pohledu inzerenta jsou náklady vyvolané reklamou součástí celkového
+
+účtu výrobních nákladů. Obchodník vydává peníze za reklamu, pokuda nakolik očekává, že výsledný nárůst prodeje zvýší celkový čistý výnos.V tomto ohledu neexistuje žádný rozdíl mezi náklady na reklamu a všemiostatními výrobními náklady. Jsou činěny pokusy rozlišovat mezi výrobnímia prodejními náklady. Říká se, že růst výrobních nákladů zvyšuje nabídku,zatímco růst prodejních nákladů (včetně nákladů na reklamu) zvyšujepoptávku.
+
+27To je chyba. Všechny výrobní náklady jsou vydávány se záměrem
+
+zvýšit poptávku. Jestliže výrobce cukrovinek použije lepší suroviny, usilujeo nárůst poptávky, stejně jako když zavede atraktivnější obaly, udělá svéobchody lákavější nebo když utratí víc za reklamu. Když se zvyšuje výrobnícena na jednotku výrobku, úmyslem je vždy zvýšení poptávky. Jestližeobchodník chce zvýšit nabídku, musí navýšit celkové výrobní náklady, cožčasto vede ke snížení výrobních nákladů na jednotku výstupu.
+
+14. „Volkswirtschaft“
+
+Tržní hospodářství jako takové nebere ohled na politické hranice. Jeho
+
+hřištěm je celý svět.
+
+Termín Volkswirtschaft byl dlouho používán německými zastánci vládní
+
+všemohoucnosti. Teprve mnohem později začali Britové a Francouzi mluvito„British economy“ a„l’économie francaise“ jako o hospodářstvích, která se liší
+
+od ekonomik jiných národů.

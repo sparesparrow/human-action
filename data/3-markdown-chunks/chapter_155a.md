@@ -53,3 +53,13 @@ tenčních stávek a nejrůznějších zákonů (obzvláště zákonů americké
 Dealu ), které byly zjevně zaměřeny proti zaměstnavatelům a které udělily
 
 odborům privilegované postavení. Rozhodující je pouze jediná věc. Nařídí-livláda nebo podaří-li se odborům skrze tlak a donucení stanovit mzdové sazbynad úrovní potenciálních tržních sazeb, dojde k institucionální nezaměst-nanosti.
+
+69802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 698
+
+XXXI. MANIPULACE S MĚNOU A ÚVĚRY
+
+1. Vláda a peníze
+
+Prostředky směny a peníze jsou produkty trhu. Věc se stává prostředkem
+
+směny či penězi, když s ní lidé provádějí tržní transakce.

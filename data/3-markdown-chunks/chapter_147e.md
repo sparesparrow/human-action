@@ -1,7 +1,4 @@
-
-Chudoba je v Asii a jiných zaostalých zemích způsobena stejnými příčina-
-
-mi, které sužovaly životy lidí v počátcích západního kapitalismu. Zatímcorychle rostl počet obyvatel, politiky omezující výrobu zdržovaly přizpůsobenívýrobních metod potřebám rostoucího počtu hladových krků. Ekonomovézastávající laissez faire , které vysokoškolské učebnice běžně označují za pesi-
+Zatímcorychle rostl počet obyvatel, politiky omezující výrobu zdržovaly přizpůsobenívýrobních metod potřebám rostoucího počtu hladových krků. Ekonomovézastávající laissez faire , které vysokoškolské učebnice běžně označují za pesi-
 
 misty a obhájce nespravedlivého sobectví vykořisťující buržoazie, budou mítnavěky zásluhu na tom, že připravili cestu ekonomické svobodě, jež zvýšilaprůměrnou životní úroveň do dříve nevídaných výšin.
 
@@ -50,3 +47,7 @@ zaměstnána v kožedělném průmyslu, než by tomu bylo při svobodném
 obchodu s kůží, jiná domácí odvětví se zmenšila či přinejmenším bylo zabrá-něno jejich růstu. Méně kůže je dováženo ze zahraničí a menší množstvíruritánských výrobků je vyváženo jako úhrada za dováženou kůži. Rozsahruritánského zahraničního obchodu se snižuje. Ani jediný člověk na celémsvětě nemá ze zachování starého cla výhodu. Naopak. Každý je poškozenpoklesem celkového výstupu produktivního lidského úsilí.
 
 Kdyby takovoupolitiku, jakou přijala Ruritánie ohledně kůže, přijaly všechny státy ve vztahuk veškerému zboží v té nejpřísnější podobě, která by zcela odstranila mezi-národní obchod a zavedla v každé zemi autarkii, všichni lidé by byli zcela při-praveni o výhody, jež jim přináší mezinárodní dělba práce.
+
+Je zjevné, že zrušení ruritánského cla na kůži musí v dlouhém období pro-
+
+spět každému, jak obyvatelům Ruritánie, tak cizincům. V krátkém období aletoto opatření poškodí zájmy kapitalistů, kteří investovali do ruritánskéhokožedělného průmyslu. O nic méně ale nepoškodí ani krátkodobé zájmy ruri-tánských pracovníků, kteří se specializují na kožedělné práce.

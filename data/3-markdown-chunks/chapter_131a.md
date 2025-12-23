@@ -55,3 +55,7 @@ sophique : „Být dobrým patriotem znamená přát si, aby se vlastní obec ob
 hatila obchodem a zesílila v boji; je zřejmé, že země nemůže dosáhnout ziskujinak než na úkor jiné země a že nemůže dobýt území, aniž by ublížila jinýmlidem.“ Voltaire, jako mnoho spisovatelů před ním i po něm, považoval zazbytečné seznámit se s ekonomickým myšlením. Kdyby si byl přečetl esejesvého současníka Davida Huma, byl by se dozvěděl, jak je chybné zto-tožňovat válku a zahraniční obchod.
 
 Voltaire, který znamenitě demaskovalletité pověry a oblíbené bludy, se nevědomky stal obětí omylu nejzhoub-nějšího.
+
+Když pekař dodává chléb zubaři a zubař mu pomůže od bolesti zubů, není
+
+poškozen ani pekař, ani zubař.

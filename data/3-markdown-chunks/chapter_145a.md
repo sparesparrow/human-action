@@ -57,3 +57,7 @@ Systém intervencionismu či narušeného tržního hospodářstvíse od německ
 Vláda nemá za cíl spojit je do
 
 integrovaného systému, který by určoval ceny, mzdy a úrokové míry, a převésttak kontrolu nad výrobou a spotřebou do rukou státních orgánů.
+
+Systém narušeného tržního hospodářství či intervencionismu usiluje
+
+o zachování dualismu oddělených sfér vládních aktivit na straně jedné a eko-nomické svobody v rámci tržního systému na straně druhé.

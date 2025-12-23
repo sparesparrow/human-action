@@ -39,3 +39,5 @@ Zdůrazněme pouze jednu stránku této věci. Rozsáhlé oblasti – východní
 Asie, východní Indie, jižní a jihovýchodní Evropa, Latinská Amerika – jsouzasaženy moderním kapitalismem jen lehce. Podmínky v těchto zemích se cel-kově vzato příliš neliší od podmínek v Anglii na počátku „průmyslové revolu-ce“. V tradičním hospodářském prostředí není místo pro miliony lidí. Osudtěchto zoufalých mas může být zlepšen pouze industrializací. Tím, co potřebujínejvíce, jsou podnikatelé a kapitalisté.
 
 Jelikož vlastní pošetilé politiky těchtonárodů jim zabránily těšit se z pomoci, kterou jim až dodnes nabízel doveze-ný zahraniční kapitál, musí sami zahájit domácí kapitálovou akumulaci. Musíprojít všemi fázemi, kterými prošel na cestě svého vývoje i západní industria-lismus. Musí začít s poměrně nízkými mzdami a dlouhou pracovní dobou.Jejich politici, ošáleni doktrínami běžnými v dnešní západní Evropě a SeverníAmerice, se domnívají, že mohou postupovat jinak.
+
+Podporují tlak odborůa údajně prodělnické zákonodárství. Radikalismus jejich zásahů ničí v samémzárodku všechny snahy o vytvoření domácího průmyslu.

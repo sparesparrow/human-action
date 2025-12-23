@@ -1,7 +1,4 @@
-
-Hybná síla peněz se může stát určitým způsobem účinnou právě při ovliv-
-
-ňování této prvotní funkce úrokové míry. Hotovostí vyvolané změny v peněž-ním vztahu mohou za určitých podmínek ovlivnit úvěrový trh, předtím neždopadnou na ceny statků a práce. Zvýšení nebo snížení nabídky peněz (v šir-ším smyslu) může zvýšit nebo snížit nabídku peněz na úvěrovém trhu, a tímsnížit nebo zvýšit hrubou tržní úrokovou míru, i když nedošlo k žádné změněčistého úroku.
+Zvýšení nebo snížení nabídky peněz (v šir-ším smyslu) může zvýšit nebo snížit nabídku peněz na úvěrovém trhu, a tímsnížit nebo zvýšit hrubou tržní úrokovou míru, i když nedošlo k žádné změněčistého úroku.
 
 Pokud k tomu dojde, tržní míra se bude lišit od výše, která byodpovídala čistému úroku a nabídce kapitálových statků použitelných vevýrobě. Potom tržní úroková míra selhává při naplňování své funkce řízenípodnikatelových rozhodnutí. Narušuje podnikatelskou kalkulaci a svádí jehojednání z cesty, na níž by nejlepším možným způsobem uspokojil nejnaléha-vější potřeby spotřebitelů.
 

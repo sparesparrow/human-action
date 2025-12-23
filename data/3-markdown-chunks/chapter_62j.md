@@ -1,25 +1,4 @@
-
-Hybnou sílu nedodávají tržnímu procesu ani spotřebitelé, ani majitelé
-
-výrobních prostředků – půdy, kapitálových statků a práce –, ale podnikavía spekulující podnikatelé. To jsou lidé, kteří chtějí dosáhnout zisku využitímcenových rozdílů. Chápajíce rychleji a vidouce dále než jiní lidé, rozhlížejí sekolem sebe po zdrojích zisku. Nakupují tehdy a tam, kde považují ceny za pří-liš nízké, a prodávají tehdy a tam, kde považují ceny za příliš vysoké.
-
-Kon-taktují majitele výrobních faktorů a jejich konkurence žene ceny těchto fak-torů nahoru až k hranici, která odpovídá jimi očekávaným budoucím cenámvýrobků. Kontaktují spotřebitele a jejich konkurence tlačí ceny spotřebníhozboží dolů až k bodu, kdy mohou být prodány všechny zásoby. Hybnou siloutrhu je spekulace za účelem zisku, podobně jako je tomu u hybné síly výroby.
-
-Pohyb na trhu se nikdy nezastaví. Imaginární konstrukt rovnoměrně ply-
-
-noucí ekonomiky nemá žádný vzor v realitě. Nikdy se nemůže objevit situa-ce, v níž by se součet cen komplementárních výrobních faktorů – vezmeme-lipatřičný ohled na časovou preferenci – rovnal cenám výrobků a nemohly bybýt očekávány žádné další změny. Vždy existují zisky, kterých někdo můžedosáhnout. Spekulanti jsou vždy vábeni očekáváním zisku.
-
-30001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 300
-
-Imaginární konstrukt rovnoměrně plynoucí ekonomiky je myšlenkový
-
-nástroj pro pochopení podnikatelského zisku a ztráty. Není to však schéma,které by umožňovalo pochopit proces tvorby cen. Konečné ceny, které odpo-vídají této imaginární představě, nejsou vůbec totožné s tržními cenami. Čin-nost podnikatelů nebo jakýchkoli jiných aktérů na hospodářské scéně nenívedena ohledy na žádné takové věci, jako je cenová rovnováha a rovnoměrněplynoucí ekonomika. Podnikatelé berou v úvahu předpokládané budoucíceny, nikoli konečné ceny nebo rovnovážné ceny.
-
-Odhalují nesoulad mezivýší cen komplementárních výrobních faktorů a očekávanými budoucímicenami výrobků a jsou odhodláni takový nesoulad využít. Tyto snahy podni-katelů by nakonec, kdyby nedošlo k výskytu žádných dalších změn dat, vedlyke vzniku rovnoměrně plynoucí ekonomiky.
-
-Činnost podnikatelů s sebou nese trend k vyrovnávání cen za stejné zboží
-
-ve všech oblastech trhu, přičemž se bere patřičný ohled na přepravní nákladya na čas, který přeprava spotřebuje. Rozdíly v cenách, které nejsou pouze pře-chodné a nemusí být setřeny podnikatelským jednáním, jsou vždy důsled-kem konkrétních překážek, jež působí proti vnitřnímu sklonu k vyrovnávání.Existuje nějaké omezení bránící podnikání, které usiluje o zisk, aby se mohloangažovat.
+Rozdíly v cenách, které nejsou pouze pře-chodné a nemusí být setřeny podnikatelským jednáním, jsou vždy důsled-kem konkrétních překážek, jež působí proti vnitřnímu sklonu k vyrovnávání.Existuje nějaké omezení bránící podnikání, které usiluje o zisk, aby se mohloangažovat.
 
 Pozorovatel, jenž není dostatečně seznámen se skutečnýmiobchodními podmínkami, někdy nedokáže rozpoznat institucionální bariéru,která brání takovému vyrovnávání. Ale zainteresovaní obchodníci vždy vědí,co jim znemožňuje využít takové rozdíly.
 
@@ -44,3 +23,37 @@ bariéry brání v uskutečňování transakcí, které by musely vést k vyrovn
 Všechny ceny, jež známe, jsou cenami minulými. Jsou to data patřící do
 
 hospodářských dějin. Když mluvíme o současných cenách, implicitně před-pokládáme, že se ceny v nejbližší budoucnosti nebudou lišit od cen v nedáv-né minulosti. Avšak vše, co je řečeno o budoucích cenách, je pouze výsledekrozumění budoucím událostem.
+
+Zkušenost hospodářských dějin nám nikdy neřekne víc, než že v jistý den
+
+a na jistém místě dvě strany AaBsměnily jisté množství komodity aza jisté
+
+množství peněžních jednotek p. Když mluvíme o takto realizovaných koupích
+
+a prodejích za tržní cenu a, řídíme se teoretickým rozuměním, které je odvo-
+
+zeno od apriorního počátku. Je to pochopení toho, že v nepřítomnosti jistýchfaktorů, které přispívají k rozdílům v cenách, směřují ceny zaplacené ve stej-nou chvíli a na stejném místě za stejné množství téže komodity k vyrovnání,tedy ke konečné ceně. Avšak skutečné tržní ceny nikdy tohoto konečnéhostavu nedosáhnou. Různé tržní ceny, o nichž můžeme získat informace, bylystanoveny za různých podmínek. Je nepřípustné zaměňovat průměry censpočtené na jejich základě s konečnými cenami.
+
+Pouze u zaměnitelných komodit, se kterými se obchoduje na organizova-
+
+ných burzách cenných papírů nebo na organizovaných komoditních burzách,je přípustné předpokládat při porovnávání cen, že se vztahují ke stejné kvali-tě. Kromě takových cen sjednaných na burzách a vedle cen komodit, jejichžhomogenitu lze přesně zjistit pomocí technických analýz, je vážnou chybounebrat na vědomí rozdíly v kvalitě příslušné komodity. Dokonce i ve velko-obchodě s metrovým textilem hraje pestrost zboží hlavní roli.
+
+Srovnávání censpotřebního zboží je z větší části zavádějící kvůli rozdílům v kvalitě. Při určo-vání jednotkové ceny je také důležité množství zobchodované v dané trans-akci. Firemní akcie prodané v jedné velké dávce přinášejí jinou cenu nežakcie prodané v několika malých dávkách.
+
+Tyto skutečnosti je nutné stále znovu zdůrazňovat, protože je dnes běžné
+
+stavět statistické zpracování cenových dat proti teorii cen. Statistika cen jevšak bohužel celá problematická. Její základy jsou pochybné, protože okol-nosti z větší části nedovolují srovnávání různých dat, jejich spojování do řada počítání průměrů. Ve své dychtivosti vrhnout se na matematické výpočtypodléhají statistici pokušení přehlížet neslučitelnost dat, která mají k dispo-zici.
+
+Informace, že jistá firma prodala jistého dne jistý typ bot po šesti dola-rech za pár, líčí jednu skutečnost z hospodářských dějin. Studie chování cenbot od roku 1923 do roku 1939 je pouhou hypotézou, i když se použijí jakko-li důmyslné metody.
+
+Katalaxie ukazuje, že podnikatelské aktivity směřují k odstranění těch
+
+cenových rozdílů, které nejsou způsobeny cenou přepravy a obchodními bari-
+
+30201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 302
+
+érami. S touto teorií zatím není v rozporu žádná dosavadní zkušenost. Výsled-
+
+ky získané arbitrárním srovnáváním nestejných věcí nemají význam.
+
+2.

@@ -41,3 +41,5 @@ doktríny hlásající neschopnost dělníků vyčkávat –, že ti, kdo chtěj
 Vždy existovali a stále existují lidé, kteří pracovali pouze po nějaký čas
 
 a poté nějaký čas žili z úspor vytvořených svou prací. V zemích, v nichž jekulturní úroveň lidu nízká, je často obtížné najmout pracovníky, kteří jsouochotni v daném zaměstnání setrvat. Průměrný člověk takových zemí je taklhostejný a netečný, že neví o žádném jiném způsobu užití svého výdělku nežsi koupit nějaký volný čas. Pracuje jen proto, aby mohl zůstat nějakou dobunezaměstnaný.
+
+V civilizovaných zemích je to jiné. Zde pracovník pohlíží na nezaměstna-

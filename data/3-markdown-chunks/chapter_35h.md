@@ -1,20 +1,3 @@
-
-Kvaziteologický charakter všech kolektivistických doktrín se zračí v jejich
-
-vzájemných konfliktech. Kolektivistická doktrína neprohlašuje nadřazenostkolektivního celku v abstraktním smyslu; vždy provolává slávu určitémukolektivistickému idolu, a buď rovnou popírá existenci jiných podobnýchidolů, nebo je vzhledem ke svému idolu vykazuje do podřízeného a služeb-
-
-1344Viz Max Stirner (Johan Kaspar Schmidt), The Ego and His Own , přeložil S. T. Bying-
-
-ton (New York, 1907).01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 134
-
-ného postavení. Uctívači státu provolávají slávu určitému státu, tj. jejich
-
-vlastnímu; nacionalisté provolávají slávu svému vlastnímu národu. Jestližeodpadlíci napadnou jejich konkrétní program zvěstováním nadřazenosti jiné-ho kolektivistického idolu, neuchýlí se k žádným jiným námitkám než ke stá-lému opakování: My máme pravdu, protože nám vnitřní hlas říká, že mámepravdu, a vy se mýlíte.
-
-Střety protichůdných kolektivistických učení a sektnemohou být rozhodnuty logickým uvažováním; musí je rozhodnout zbraně.Alternativami k liberálnímu a demokratickému principu vlády většiny jsoumilitaristické principy ozbrojených konfliktů diktátorského útisku.
-
-Všechny druhy kolektivistických učení se shodnou v nesmiřitelném
-
 nepřátelství k základnímu politickému ustanovení liberálního systému:k vládě většiny, toleranci k nesouhlasným názorům, ke svobodě myšlení,projevu a tisku, k rovnosti všech lidí před zákonem. Tato spolupráce kolekti-vistických učení ve snaze zničit svobodu přinesla chybnou víru, že problé-mem současného politického antagonismu je individualismus versuskolektivismus.
 
 Ve skutečnosti je to boj mezi individualismem na jedné straněa velkým množstvím kolektivistických sekt na straně druhé; jejich vzájemnánenávist a nepřátelství nejsou o nic méně zuřivé než jejich opovržení libe-rálním systémem. Kapitalismus neatakuje jednotná marxistická sekta, alehouf marxistických skupin. Tyto skupiny – například stalinisté, trockisté,menševici, příznivci Druhé internacionály a tak dále – mezi sebou navzájembojují s největší brutalitou a nelidskostí.
@@ -42,3 +25,19 @@ Moderní oživení ideje kolektivismu, hlavní příčina všech agonií a pohro
 našich dní, mělo tak všestranný úspěch, že odsoudilo základní ideje liberálnísociální filozofie k zapomenutí. Dnes tyto ideje ignoruje dokonce i mnohoz upřednostňovaných demokratických institucí. Důvody, které předkládajípro ospravedlnění svobody a demokracie, jsou nakaženy kolektivistickýmichybami; jejich doktríny jsou spíš deformací než potvrzením pravého libe-ralismu.
 
 V jejich očích má většina vždy pravdu prostě proto, že má moc zli-kvidovat každou opozici; většinová vláda je diktátorská vláda nejpočetnějšístrany a vládnoucí většina není vázána zdrženlivostí při použití své sílya při provádění politických činností. Jakmile nějaká frakce uspěje při získá-vání podpory většiny obyvatel a získá tím kontrolu nad vládní mašinerií, mávolnost odepřít menšině všechna demokratická práva, pomocí nichž předtímsama vedla svůj boj o nejvyšší moc.
+
+Tento pseudoliberalismus je samozřejmě naprostým opakem liberální
+
+doktríny. Liberálové si nemyslí, že většiny jsou božské a neomylné; netvrdí,že pouhá skutečnost, že nějaká politika je obhajována velkým množstvím lidí,je důkazem jejího přínosu pro obecné blaho. Nedoporučují diktaturu většinyani potlačení nesouhlasících menšin. Liberalismus směřuje k politickémuzřízení, které zajišťuje hladké fungování spolupráce ve společnosti a postup-né posilování vzájemných společenských vztahů.
+
+Jeho hlavním cílem jevyhnout se násilným konfliktům, válkám a revolucím, které určitě rozložíspolupráci lidí ve společnosti a uvrhnou lidi zpět do primitivních podmínekbarbarství, kde spolu všechny kmeny a politické orgány donekonečna bojo-valy. Protože dělba práce vyžaduje nerušený mír, směřuje liberalismusk nastolení vládního systému, u něhož je pravděpodobné, že mír udrží, tedydemokracie.
+
+Praxeologie a liberalismus
+
+Liberalismus, jak ho chápalo devatenácté století, je politická doktrína.
+
+Není to teorie, ale aplikace teorií rozvinutých praxeologií, a zejména ekono-mií na jisté problémy lidského jednání v rámci společnosti.
+
+Co se týče hodnot a konečných cílů, o něž jednání usiluje, není liberalis-
+
+mus jako politická doktrína neutrální. Předpokládá, že lidé, nebo alespoňjejich většina, jsou odhodlaní určitých cílů dosáhnout. Dává jim informaceo prostředcích, které jsou k realizaci jejich plánů vhodné. Zastánci liberálníchdoktrín jsou si plně vědomi toho, že jejich učení platí pouze pro lidi, kteří jsouoddáni těmto hodnotícím principům.

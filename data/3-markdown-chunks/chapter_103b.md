@@ -1,4 +1,3 @@
-
 50901_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 509
 
 Rozdíl mezi úvěrovou expanzí a prostou inflací
@@ -48,3 +47,5 @@ Peelův zákon z roku 1844 a jeho napodobeniny v jiných zemích nedo-sáhly cí
 Druhá nedokonalost měnové teorie byla závažnější. Omezila své úvahy na
 
 problém odlivu peněz do zahraničí. Zabývala se pouze určitým případem,jmenovitě úvěrovou expanzí pouze v jedné zemi při neexistenci expanzev zemích ostatních, případně existenci expanze menšího rozsahu. To mohlostačit k vysvětlení britských krizí první poloviny devatenáctého století. Jdevšak o povrchní vysvětlení. Podstatné otázky nikdo nepoložil. Nikdo se nepo-kusil objasnit následky všeobecné úvěrové expanze neomezené jen na určitýpočet bank s omezenou klientelou.
+
+Vzájemný vztah mezi nabídkou peněz(v širším smyslu) a úrokovou mírou nikdo neanalyzoval. Členové měnovéškoly se vysmáli různým pokusům o snížení nebo úplné zrušení úrokua označili je za šarlatánství, nikdo je však důkladně nerozebral a neodmítl.Všichni mlčky souhlasili s naivním předpokladem neutrality peněz. Proto bylzanechán volný prostor všem marným snahám vysvětlit krize a hospodářskécykly pomocí teorie přímé směny.

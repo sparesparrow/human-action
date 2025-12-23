@@ -1,28 +1,3 @@
-
-Obchodníci na tomto zvláštním trhu jsou při předví-dání budoucích změn rychlejší než zbytek lidí. V důsledku toho odráží ceno-vá struktura devizového trhu nový peněžní vztah dříve než ceny mnohýchstatků a služeb. Jakmile domácí inflace začne jakkoli ovlivňovat ceny někte-rých statků a dlouho předtím, než se její dopady na většinu cen statků a slu-žeb vyčerpají, ceny zahraničních měn porostou až do bodu odpovídajícíhokonečnému stavu domácích cen a mzdových sazeb.
-
-Tato skutečnost byla vykládána zcela mylně. Lidé si nebyli schopni uvědo-
-
-mit, že nárůst směnných kurzů pouze předvídá pohyb domácích cen statků.Vysvětlovali prudký růst kurzů jako výsledek nepříznivé platební bilance.Tvrdili, že poptávka po zahraniční měně byla zvýšena zhoršením obchodníbilance nebo jiných položek platební bilance, nebo jednoduše špinavými int-rikami části nevlasteneckých spekulantů. Čím vyšší jsou ceny zahraničníchměn, tím více vzrostou domácí ceny dovážených statků. Ceny domácích
-
-41001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 410
-
-výrobků musí udělat totéž, protože jinak by jejich nízká úroveň přiměla pod-
-
-nikatele, aby je stáhli z domácí spotřeby a prodali se ziskem v zahraničí.
-
-Je jednoduché ukázat omyly obsažené v této rozšířené doktríně. Pokud
-
-nebyl nominální důchod domácích obyvatel zvýšen inflací, budou nuceniomezit svoji spotřebu buď dovážených, nebo domácích výrobků. V prvním pří-padě by se snížily dovozy, ve druhém by se zvýšily vývozy. Tak by se obchod-ní bilance vrátila zpět k tomu, co merkantilisté nazývají příznivým stavem.
-
-Jsou-li merkantilisté zahnáni do úzkých, nemohou jinak než připustit, že
-
-je tato úvaha přesvědčivá. Ale, jak říkají, týká se pouze obchodu za normál-ních podmínek. Nebere prý v úvahu takovou situaci, ve které země musídovážet nezbytně nutné statky, jako jsou například potraviny nebo základnísuroviny. Dovoz těchto statků nemůže být zredukován pod určité minimum.Jsou dováženy bez ohledu na to, jakou cenu je za ně nutné zaplatit.
-
-Pokudnemůže být zahraniční měna nutná pro jejich dovoz obstarána odpovídajícímobjemem vývozu, obchodní bilance se stává nepříznivou a směnné kurzy ros-tou stále výše.
-
-Tento argument je stejně klamný jako ostatní merkantilistické představy.
-
 Ať už je poptávka jednotlivce nebo skupiny jednotlivců po nějakých statcíchjakkoli naléhavá nebo důležitá, mohou ji uspokojit na trhu pouze tím, žezaplatí tržní cenu. Pokud chce Rakušan nakoupit kanadskou pšenici, musí zani zaplatit tržní cenu v kanadských dolarech. Ty získá vývozem statků buďpřímo do Kanady, nebo do nějaké jiné země. Nezvýší množství dostupnýchkanadských dolarů tím, že zaplatí za kanadský dolar vyšší cenu (v šilincích,rakouské domácí měně).
 
 Kromě toho si nemůže dovolit platit tuto vyšší cenu(v šilincích) za dováženou pšenici, pokud zůstal jeho příjem (v šilincích)nezměněn. Pouze pokud rakouská vláda zahájí inflační politiku, a tím zvýšípočet šilinků v kapsách obyvatel Rakouska, mohou si Rakušané dovolit kupo-vat stejné množství kanadské pšenice jako dříve, aniž by museli omezovatostatní výdaje.
@@ -40,3 +15,51 @@ Znamená to, že obyvatelé dané země jsou chudí.A domácí inflace pochopite
 Stejně tak nemá spekulace žádný vztah k určování směnných kurzů. Speku-
 
 lanti pouze předvídají očekávané změny. Pokud se zmýlí, pokud je jejich názor,že dojde k inflaci, chybný, struktura cen a směnných kurzů nebude odpovídatjejich očekáváním a budou muset za svoji chybu zaplatit svoji vlastní ztrátou.
+
+Doktrína, podle níž jsou směnné kurzy určovány platební bilancí, je zalo-
+
+žena na nepřípustné generalizaci zvláštního případu. Pokud dvě oblasti,AaB, užívají stejný druh peněz a jejich obyvatelé nechtějí měnit velikost obje-
+
+mu hotovosti, který mají v držení, potom se za dané časové období množstvípeněz placené obyvateli Aobyvatelům Brovná množství peněz placenému
+
+obyvateli Bobyvatelům Aa veškeré platby tak mohou být vyrovnány bez nut-
+
+nosti přepravovat peníze z Ado B, nebo z Bdo A.Poté se kurz telegrafického
+
+převodu BvAnemůže zvýšit nad bod těsně pod bodem vývozu zlata a nemů-
+
+že klesnout pod bod těsně nad bodem dovozu zlata a naopak. V tomto rozpětíurčuje každodenní stav platební bilance každodenní stav směnného kurzu. Jetomu tak pouze proto, že ani obyvatelé A, ani obyvatelé Bnechtějí změnit
+
+objem hotovosti ve svém držení. Pokud obyvatelé oblasti Achtějí snížit objem
+
+hotovosti ve svém držení a obyvatelé oblasti Btaké, peníze jsou přepraveny
+
+zAdo Ba kurz telegrafického převodu B dosáhne v Abodu vývozu zlata.
+
+Peníze tak nejsou přepravovány proto, že by platební bilance oblasti Abyla
+
+nepříznivá. To, co nazývají merkantilisté nepříznivou platební bilancí, jedůsledkem záměrného omezení objemu držené hotovosti části obyvatelAa záměrný růst objemu držené hotovosti části obyvatel B. Pokud by nebyl
+
+žádný z obyvatel Aochoten omezit objem hotovosti ve svém držení, k odlivu
+
+peněz z Aby nikdy nedošlo.
+
+Rozdíl mezi obchodem s penězi a obchodem s prodejnými statky je tento:
+
+Statky jsou zpravidla přesunovány jedním směrem, tj. z míst s přebytečnouvýrobou do míst s přebytečnou poptávkou. V důsledku toho jsou ceny určité-ho statku v místech s přebytečnou výrobou zpravidla o velikost přepravníchnákladů nižší než v místech s přebytečnou poptávkou. Jinak je tomu u peněz,pokud nebereme v úvahu situaci zemí těžících zlato a těch zemí, jejichž oby-vatelé záměrně usilují o změnu objemu hotovosti ve svém držení. Peníze sepohybují jednou sem, podruhé tam.
+
+V jednu chvíli země peníze vyváží,v jinou je dováží. Každá vyvážející země se velmi brzy stane zemí dovážejícíprávě kvůli svým předchozím vývozům. Z tohoto důvodu je možné ušetřitnáklady přepravy peněz díky fungování devizového trhu.
+
+16. Úrokové míry a peněžní vztah
+
+Peníze hrají v úvěrových transakcích stejnou roli jako ve všech ostatních
+
+obchodních transakcích. Úvěry jsou zpravidla poskytovány v penězích, úroka jistina jsou také spláceny v penězích. Související platby ovlivňují velikost
+
+41201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 412
+
+držené hotovosti jen dočasně. Příjemci úvěrů, úroku a jistiny vydají získanou
+
+sumu buď na spotřebu, nebo na investice. Svoji držbu hotovosti zvýší jentehdy, když je k tomu vede určitá úvaha, nezávislá na přijatých penězích.
+
+Konečná výše úrokové míry je shodná pro všechny půjčky stejného druhu.

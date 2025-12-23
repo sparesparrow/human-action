@@ -1,0 +1,39 @@
+{
+  "timestamp": "1766458498.6374068",
+  "models": [
+    {
+      "model_id": "rhasspy/piper-voices/cs/cs_CZ/jirka/low",
+      "model_name": "cs_CZ-jirka-low",
+      "language": "cs",
+      "lang_country": "cs_CZ",
+      "speaker": "jirka",
+      "quality": "low",
+      "size_mb": 60,
+      "downloads": 0,
+      "likes": 0,
+      "last_modified": "",
+      "tags": [],
+      "pipeline_tag": "text-to-speech",
+      "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/cs/cs_CZ/jirka/low",
+      "download_url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/cs/cs_CZ/jirka/low/cs_CZ-jirka-low.onnx",
+      "config_url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/cs/cs_CZ/jirka/low/cs_CZ-jirka-low.onnx.json"
+    },
+    {
+      "model_id": "rhasspy/piper-voices/cs/cs_CZ/jirka/medium",
+      "model_name": "cs_CZ-jirka-medium",
+      "language": "cs",
+      "lang_country": "cs_CZ",
+      "speaker": "jirka",
+      "quality": "medium",
+      "size_mb": 60,
+      "downloads": 0,
+      "likes": 0,
+      "last_modified": "",
+      "tags": [],
+      "pipeline_tag": "text-to-speech",
+      "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/cs/cs_CZ/jirka/medium",
+      "download_url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/cs/cs_CZ/jirka/medium/cs_CZ-jirka-medium.onnx",
+      "config_url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/cs/cs_CZ/jirka/medium/cs_CZ-jirka-medium.onnx.json"
+    }
+  ]
+}

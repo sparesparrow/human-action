@@ -1,13 +1,4 @@
-
-Charakteristickým rysem tohoto jevu je fakt, že růst množství peněz způ-
-
-sobí pokles poptávky po penězích. Tendence k poklesu kupní síly vytvářenázvýšením množství peněz je zesílena všeobecným sklonem k omezení držbyhotovosti. Nakonec je dosaženo bodu, v němž ceny, za něž by se lidé byli
-
-38501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 385
-
-ochotni vzdát „reálných“ statků, diskontují očekávaný pokles kupní síly do
-
-takové míry, že nikdo nemá v ruce dostatečný objem hotovosti k jejich zapla-cení. Peněžní systém se hroutí; všechny transakce v postižených penězíchustávají; vlivem paniky mizí i poslední zbytky jejich kupní síly. Lidé se vrace-jí k barteru, případně k užívání jiného druhu peněz.
+Lidé se vrace-jí k barteru, případně k užívání jiného druhu peněz.
 
 Průběh stupňující se inflace je následující: Na počátku způsobí příliv doda-
 
@@ -52,3 +43,13 @@ z užívání peněžních substitutů. Používání nároků, splatných na po
 Dokud byly nároky vůči dlužníkovi nezpochybnitelnésolventnosti splatné každodenně a mohly být směněny bez předchozíhooznámení a bez jakýchkoli výdajů, jejich směnná hodnota byla rovná jejichnominální hodnotě; právě tato dokonalá rovnost jim přiřadila charakterpeněžního substitutu.
 
 Avšak poté, co bylo jejich směňování pozastaveno,datum splatnosti odsunuto na neurčito, a po následných pochybnostech o sol-ventnosti dlužníka či o jeho ochotě platit, ztratily část hodnoty, jež jim byladříve připisována. Nyní byly pouhými nároky nevynášejícími žádný úrok vůčipochybnému dlužníkovi a splatné k neurčitému datu. Protože však byly pou-žívány jako prostředek směny, jejich směnná hodnota neklesla až na tu úro-veň, na kterou by klesla v případě, že by šlo o pouhé nároky.
+
+Je možné oprávněně předpokládat, že takové úvěrové peníze by mohly být
+
+dále užívány jako prostředek směny, i kdyby měly ztratit svůj charakter náro-ků vůči bance nebo státní pokladně a tím se staly neplnohodnotnými penězi .
+
+Neplnohodnotné peníze jsou představovány pouhými symbolickými penězi,které nemohou být použity k žádnému průmyslovému užití, ani nést žádnýnárok.
+
+Není úkolem katalaxie, ale hospodářských dějin, pátrat po tom, zda se
+
+v minulosti objevil nějaký typ neplnohodnotných peněz, nebo zda všechnydruhy peněz, které nebyly komoditními penězi, spadají pod označení úvěro-vé peníze. Jedinou věcí, kterou musí stanovit katalaxie, je to, že musí připus-tit možnost existence neplnohodnotných peněz.

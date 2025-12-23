@@ -57,3 +57,5 @@ Nemůže odčarovat vzácnostvýrobních faktorů, nemůže učinit lidi bohatš
 Liberální filozofie Benthama a Bastiata doposud nedokonala své dílo
 
 a neodstranila překážky obchodu a zásahy vlády do podnikání, když začalapůsobit falešná teologie božského státu. Úsilí zlepšit podmínky příjemcůmezd a drobných rolníků pomocí vládních nařízení způsobovalo oslabenívazeb, které spojovaly domácí ekonomiku každé země s ekonomikami za-hraničními. Hospodářský nacionalismus, nutný doplněk domácího interven-cionismu, poškozuje zájmy zahraničních národů, a vytváří tak mezinárodníkonflikty.
+
+Přináší myšlenku války, která by napravila tento neuspokojivý stav.Proč by měla mocná země snášet provokace slabší země?

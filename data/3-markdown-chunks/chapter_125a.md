@@ -47,3 +47,7 @@ Carlyle a Ruskin, Nietzsche, Georges Sorel a Spengler byli zvěstovateli myš-le
 Běh dějin neurčuje – říkají tyto filozofie – ubohá činnost materiálně založe-
 
 ných obchodníků a podomních prodejců, ale hrdinské skutky válečníkůa dobyvatelů. Ekonomové se mýlí, když ze zkušenosti kratičké liberální epizo-dy odvozují teorii, které připisují všeobecnou platnost. Tato epocha liberalis-mu, individualismu a kapitalismu, demokracie, tolerance a svobody, pohrdánívšemi „pravými“ a „věčnými“ hodnotami a nadvlády lůzy nyní mizí a nikdy senevrátí. Úsvit statečnosti vyžaduje novou teorii lidského jednání.
+
+Žádný ekonom si však nikdy nedovolil popírat, že války a výboje měly
+
+v minulosti maximální důležitost a že Hunové a Tataři, Vandalové a Vikingo-vé, Normani a conquistadoři hráli v dějinách obrovskou roli.

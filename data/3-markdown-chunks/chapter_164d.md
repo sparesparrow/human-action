@@ -1,7 +1,4 @@
-
-Je marné vkládat naděje do smluv, konferencí a takových byrokratických
-
-institucí, jako je Společnost národů či Organizace spojených národů. Minis-tři, úředníci a nejrůznější experti boj proti ideologiím nepovedou. Duch dobý-vání nemůže být potlačen byrokratickými opatřeními. Nutná je radikálnízměna ideologií a hospodářských politik.
+Minis-tři, úředníci a nejrůznější experti boj proti ideologiím nepovedou. Duch dobý-vání nemůže být potlačen byrokratickými opatřeními. Nutná je radikálnízměna ideologií a hospodářských politik.
 
 2. Válka a tržní ekonomika
 
@@ -52,3 +49,7 @@ Nedostatky způsobů financování válečných výdajů vyvolalynutnost regulac
 Věci, které umožnily americkým ozbrojeným silám vyhrát válku a poskyt-
 
 ly veškeré materiální vybavení nutné ke spolupráci jejím spojencům, nevy-tvořila vládní nařízení a úředničina velkého počtu lidí uvedených na vládníchvýplatních páskách, ale úsilí soukromého sektoru. Ekonom z těchto historic-kých skutečností nic nevyvozuje. Je ale vhodné je zmínit, jelikož intervencio-nisté se nás snaží přesvědčit, že nařízení zakazující využití oceli ke stavběbytových domů automaticky vyrábí letadla a bitevní lodě.
+
+Přizpůsobení výrobních činností změnám spotřebitelské poptávky je zdro-
+
+jem zisků.

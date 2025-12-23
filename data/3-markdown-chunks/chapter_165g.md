@@ -1,19 +1,4 @@
-
-Podle zastánců školy přirozeného práva jsou si všichni lidé biologicky
-
-rovni, a proto mají nezcizitelné právo na rovný podíl na všech věcech. Prvnítvrzení je zjevně v rozporu se skutečností. Druhé vede při důsledné interpre-taci k takovým absurdnostem, že jeho zastánci raději zcela zavrhují logickoukonzistenci a v konečném důsledku přicházejí k tomu, že každá instituce, aťjiž je jakkoli diskriminující a hanebná, je považovaná za slučitelnou s neza-datelnou rovností všech lidí.
-
-Význační obyvatelé Virginie, jejichž myšlenkypodnítily americkou revoluci, souhlasili s otroctvím černochů. Bolševismus,který je nejdespotičtějším vládním systémem, jaký historie zná, se vydává zasamo zosobnění principu rovnosti a svobody všech lidí.
-
-Liberální zastánci rovnosti před zákonem si byli plně vědomi skutečnosti, že
-
-se lidé nerodí rovni a že právě tato jejich nerovnost vede ke vzniku společenskéspolupráce a civilizace. Rovnost před zákonem nebyla podle jejich názoruvytvořena, aby opravila nevyhnutelné skutečnosti světa a odstranila přírodní
-
-75402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 754
-
-nerovnost. Představovala naopak nástroj k zajištění maximálního prospěchu,
-
-který z ní je možné vyvodit, pro celé lidstvo. Proto by žádné instituce stvořenéčlověkem neměly člověku bránit v dosažení takového postavení, v němž můženejlépe sloužit svým spoluobčanům. Liberálové nepřistupovali k tomutoproblému z pozice údajných nezcizitelných práv jedinců, ale z pohledu spole-čenského a utilitárního. Rovnost před zákonem je v jejich očích dobrá z tohodůvodu, že nejlépe slouží zájmům všech.
+Liberálové nepřistupovali k tomutoproblému z pozice údajných nezcizitelných práv jedinců, ale z pohledu spole-čenského a utilitárního. Rovnost před zákonem je v jejich očích dobrá z tohodůvodu, že nejlépe slouží zájmům všech.
 
 Ponechává na voličích, aby určili, kdobude zastávat veřejné funkce, a na spotřebitelích, aby rozhodli, kdo bude vyví-jet výrobní činnosti. Odstraňuje tak příčiny násilných konfliktů a zajišťujepostupný rozvoj směrem k uspokojivějšímu stavu lidské společnosti.
 
@@ -44,3 +29,17 @@ kultura mnohých asijských národů daleko před kulturou západní, objevuje s
 otázka, co vlastně pokrok na Východě zastavilo. V případě hinduistické civi-lizace je odpověď zjevná. Železné sevření nepružného kastovního systémuochromilo individuální iniciativu a v zárodku utlumilo každý pokus o odchý-lení se od tradičních standardů. V Číně a mohamedánských zemích ales výjimkou relativně málo početného otroctví kastovní rigidita neexistovala.V těchto zemích vládli autokraté, ale jednotlivci pod jejich vládou si bylirovni.
 
 Právě na tuto rovnost před panovníkem odkazují dnes lidé, kteří hovo-ří o údajných demokratických zvycích orientálních zemí.
+
+Koncept ekonomické rovnosti ovládaných, které byli tyto národy a jejich
+
+vládci oddáni, nebyl přesně definován. Přes tuto vágnost se ale lišil zásadnímzpůsobem v jednom ohledu; v úplném zavržení nahromadění velkého majet-ku v rukou jakéhokoli jedince. Vládci totiž považovali bohaté lidi za ohroženísvého politického postavení.
+
+Všichni, jak vládci, tak ovládaní, byli přesvědče-ni, že žádný člověk nemůže nahromadit nadbytečné prostředky jinak, nežtak, že připraví jiné o to, co by jim mělo po právu patřit, a že bohatství něko-lika zámožných lidí je příčinou chudoby většiny ostatních. Pozice bohatýchpodnikatelů byla ve všech orientálních zemích nesmírně ošemetná. Byli vydá-váni na milost úředníků. Ani četné úplatky je nedokázaly ochránit před kon-fiskací.
+
+Veškerý lid zajásal, kdykoli se majetný podnikatel stal obětí závistia nenávisti úředníků.
+
+Tento odpor k penězům zastavil civilizační pokrok na Východě a uvrhl
+
+masy na hranici hladu. Jelikož nedocházelo k akumulaci kapitálu, nemohlodocházet k technologickým zdokonalením. Kapitalismus přišel na Východjako cizí dovezená ideologie, vnucená cizími armádami a námořnictvemv podobě koloniální dominance nebo extrateritoriální správy. Tyto násilnézpůsoby zcela jistě nepředstavovaly správné prostředky ke změně tradiciona-listické mentality orientálních národů.
+
+Uznání této skutečnosti ale nijaknemění platnost tvrzení, že to bylo odmítání kapitálové akumulace, ježodsoudilo stovky milionů Asiatů k chudobě a hladu.

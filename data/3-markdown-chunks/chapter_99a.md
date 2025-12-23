@@ -39,3 +39,9 @@ Ukázali jsme jeden důvod, proč může být cenová prémie téměř nulová,
 avšak nikdy ne zcela odstraněna. Tímto důvodem jsou dopady hotovostí vyvo-laných změn v peněžním vztahu na obsah úvěrových transakcí. (Druhýmdůvodem se budeme zabývat v následujícím oddílu.) Cenová prémie vždyzaostává za změnami v kupní síle, protože tím, co ji vytváří, není změnav nabídce peněz (v širším smyslu), ale dopady těchto změn na cenovou struk-turu, které se nutně objevují později. Pouze v konečném stadiu nepřetržitéinflace je situace jiná.
 
 Panika měnové krize, závěrečná fáze boomu, není ty-pická jen závratným zvyšováním cen, ale také růstem kladné cenové prémienade všechny meze. Žádná hrubá úroková míra, jakkoli vysoká, se poten-ciálnímu věřiteli nezdá dost velká na to, aby mu vynahradila ztráty z očeká-vaného poklesu kupní síly peněžní jednotky. Přestane půjčovat peníze a dápřednost nákupu „reálných“ statků. Úvěrový trh se zastaví.
+
+4. Úvěrový trh
+
+Hrubé úrokové míry ustavené na úvěrovém trhu nejsou jednotné. Podni-
+
+katelská složka, kterou vždy obsahují, se liší podle specifických podmínekdané transakce. Jednou z hlavních vad všech historických a statistických stu-dií věnovaných pohybu úrokových měr je to, že tento faktor opomíjejí.

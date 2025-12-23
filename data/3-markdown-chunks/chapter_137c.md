@@ -1,10 +1,3 @@
-
-Ty případy monopolních cen, které by se objevily i na trhu, do nějž není
-
-zasahováno a který není narušován zásahy různých národních vlád a tajnýmidohodami mezi skupinami vlád, mají malý význam. Týkají se některýchsurovin, jejichž nalezišť je málo a jsou zeměpisně soustředěná v určitýchoblastech, a místních monopolů z omezeného prostoru. Je však pravda, žev těchto případech mohou monopolní ceny vzniknout dokonce i v nepřítom-nosti vládních politik, které přímo či nepřímo směřují k jejich vzniku.
-
-Jenutné si uvědomit, že moc spotřebitelů není dokonalá a že fungování demo-kratických tržních procesů má své meze. V některých výjimečných a řídkýchpřípadech, které nemají velkou důležitost, existuje dokonce i na trhu, kterýnení ovlivňován a deformován vládními zásahy, antagonismus mezi zájmyvlastníků výrobních faktorů a zájmy ostatních lidí. Avšak existence takovýchrozporů vůbec nenarušuje shodu zájmu všech lidí, co se týče zachování tržní-ho hospodářství.
-
 Tržní hospodářství je jediným systémem hospodářské orga-nizace společnosti, který může fungovat a který opravdu funguje. Socialis-mus nelze uskutečnit kvůli jeho neschopnosti vyvinout metodu ekonomickékalkulace. Intervencionismus musí vést k situaci, která je z pohledu jehostoupenců méně vhodná než podmínky nenarušovaného tržního hospodář-ství, jež chce změnit. Navíc se sám zničí, jakmile je doveden za úzké pole pou-žití.
 
 14Protože je tomu tak, je jediným společenským řádem, který může
@@ -40,3 +33,15 @@ Ale jen málo zastánců těchto škol je tak přímých jakonacistický filozof
 15Je nutné se o těchto věcech zmínit, abychom se vyhnuli
 
 oblíbeným omylům a zmatkům. Když se katalaxie zabývá soukromýmvlastnictvím, zajímá se o kontrolu, a ne o právní termíny, pojmy a definice.Soukromé vlastnictví znamená, že vlastníci rozhodují o využití výrobních fak-torů, zatímco veřejné vlastnictví znamená, že jejich využití řídí vláda.
+
+61115Srov. O. Spann, Der wahre Staat (Lipsko, 1921), str. 249.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 611
+
+Soukromé vlastnictví je lidský nástroj. Není dané shora. Vzniklo v raných
+
+historických dobách, když si lidé vlastní silou a vlastní mocí přisvojovali to,co předtím nebylo ničí. Vlastníci byli stále znova okrádáni o svůj majetekvyvlastňováním. Dějiny soukromého vlastnictví mohou být vysledovány zpětaž k bodu, v němž vzniklo jednáním, které určitě nebylo legální. Praktickykaždý vlastník je přímým nebo nepřímým právním nástupcem lidí, kteří zís-kali vlastnictví buď svévolným přisvojením věcí, jež neměly vlastníka, nebonásilným oloupením svých předchůdců.
+
+Avšak skutečnost, že právní formalismus může vysledovat každý titul zpět
+
+buď ke svévolnému přisvojení, nebo k násilnému vyvlastnění, nemá vůbecžádný význam pro podmínky tržní společnosti. Vlastnictví v tržním hospo-dářství už není spojeno se vzdálenými počátky soukromého vlastnictví.O události v daleké minulosti, skryté v temnotě dějin primitivních lidí, se uždnes nikdo nezajímá, protože v nenarušované tržní společnosti spotřebitelérozhodují každý den znovu, kdo by měl vlastnit a kolik.
+
+Spotřebitelé přidělu-jí kontrolu nad výrobními prostředky těm, kteří vědí, jak je nejlépe použít prouspokojení nejnaléhavějších potřeb spotřebitelů. Vlastníci mohou být pova-žováni za nástupce přivlastňovatelů nebo vyvlastňovatelů pouze v právníma formalistickém smyslu.

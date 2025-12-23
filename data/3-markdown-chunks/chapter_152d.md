@@ -1,9 +1,4 @@
-
-Císaři byli znepokojeni tímto vývojem, který podkopal finanční a vojen-
-
-skou moc jejich vlády. Jejich opatření směřující k nápravě však byla neúčin-ná, jelikož nesměřovala k jádru problému. Nátlak a donucení, ke kterým seuchýlili, nemohl zvrátit trend ke společenské dezintegraci, jež byla naopakzpůsobena přílišným nátlakem a donucením. Nikdo z Římanů si nebylvědom skutečnosti, že celý tento proces byl vyvolán vládním zasahováním docen a zlehčováním měny. Vyhlašování císařských zákonů proti obyvatelůmměst, kteří „ relicta civitate rus habitare maluerit “
-
-4, bylo marné. Systém leiturgií ,
+Systém leiturgií ,
 
 veřejných služeb poskytovaných bohatými občany, pouze rozklad dělby práceurychlil. Ani zákony o speciálních povinnostech majitelů lodí, navicularii ,
 

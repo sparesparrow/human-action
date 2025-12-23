@@ -53,3 +53,13 @@ Misesův mengerovský přístup k ekonomické teorii od přístupu přívrženc�
 Hayekův zmatek pramení z nepochopenískutečnosti, že Nationalökonomie představovala Misesův záměrný pokus
 
 o „autonomní“ rekonstrukci paradigmatu, jež nemohl být v souladu s „všeo-becným vývojem“ ekonomie ve směru Hayekem schvalované walra-sovsko-marshallovské fúze. Na to obzvláště ukazuje Hayekova předpověď, že„centrální část“ knihy, totiž kapitoly o peněžní kalkulaci a katalaxii, nebudoupředmětem hlavního zájmu většiny čtenářů. Právě to však jsou samozřejměkapitoly, které obsahují podstatu rekonstruovaného systému mengerovskéekonomické teorie (Hayek 1992, str. 150—51).
+
+Rakouská škola byla díky vydání Nationalökonomie na počátku roku 1940
+
+připravena na rázný návrat, avšak přišla pohroma. Odříznut od německy
+
+82402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 824
+
+mluvícího trhu válkou v Evropě zkrachoval její švýcarský vydavatel a prodej
+
+a distribuce Misesova díla ustaly. V době, kdy Yale University Press v roce 1949

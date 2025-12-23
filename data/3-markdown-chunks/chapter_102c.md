@@ -1,12 +1,3 @@
-
-7. Hrubá tržní úroková míra ovlivněná deflací
-
-a úvěrovou kontrakcí
-
-Předpokládáme, že v průběhu deflačního procesu je celý objem, o který je
-
-omezena nabídka peněz (v širším smyslu), stažen z úvěrového trhu. Potomjsou úvěrový trh a hrubá tržní úroková míra ovlivněny na samém začátku toho-to procesu, v okamžiku, kdy se ještě vlivem probíhající změny peněžního vzta-hu nezměnily ceny statků a služeb. Můžeme například předpokládat, že vládausilující o deflaci vypíše půjčku a zničí vypůjčené papírové peníze. Tentopostup byl v posledních dvou stoletích opakovaně použit.
-
 Jeho hlavní myšlen-kou bylo dostat po dlouhém období inflační politiky národní peněžní jednot-ku zpět na úroveň předchozí kovové parity. Ve většině případů byly přirozenětyto deflační projekty brzy ukončeny, protože jejich provádění narazilo narostoucí odpor, a navíc výrazně zatěžovaly státní pokladnu. Nebo můžeme
 
 5069Srov. níže, str. 710—712.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 506

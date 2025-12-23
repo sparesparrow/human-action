@@ -1,17 +1,4 @@
-
-Jiní kritikové ekonomické kalkulace si neuvědomují, že je to metoda, která
-
-je k dispozici pouze lidem, kteří jednají v hospodářském systému dělby práceve společenském řádu založeném na soukromém vlastnictví výrobních pro-středků. Může sloužit pouze pro uvažování jednotlivců nebo skupin jednot-livců, kteří působí v ústavním uspořádání tohoto společenského řádu. Prototo je kalkulace soukromého zisku, a nikoli „společenského blahobytu“. Toznamená, že základní skutečností pro ekonomickou kalkulaci jsou ceny natrhu.
-
-Nelze je použít pro uvažování, jehož normou není poptávka spotřebite-lů, která se projevuje na trhu, ale hypotetická ocenění diktátorského orgánu,který řídí všechny státní či pozemské záležitosti. Ten, kdo chce posuzovat jed-nání z pohledu jakési nárokované „společenské hodnoty“, tj. z pohledu „celéspolečnosti“, a kritizovat ho srovnáváním s jevy v imaginárním socialistickémsystému, v němž je nadřazena jeho vlastní vůle, nepotřebuje ekonomickoukalkulaci.
-
-Ekonomické kalkulace na základě peněz jsou kalkulacemi podni-katelů, kteří vyrábějí pro spotřebitele v tržní společnosti. Pro jiné úkoly jevyužít nelze.
-
-Člověk, který chce využívat ekonomické kalkulace, se na věci nesmí dívat
-
-způsobem despotického smýšlení. Pro kalkulace mohou ceny používat pod-nikatelé, kapitalisté, vlastníci půdy i výdělečně činné osoby v kapitalistickéspolečnosti. Pro záležitosti, které jsou za zájmy těchto kategorií, jsou cenynevhodné. Je nesmyslné oceňovat penězi věci, o nichž se nesmlouvá na trhu,a využívat v kalkulaci jakékoli položky, které nemají vztah k realitě. Zákonystanovují částku, jež by měla být zaplacena jako odškodnění za způsobenísmrti člověka.
-
-Ale uzákoněné ustanovení pro určení výše částky odškodněníneznamená, že existuje cena lidského života. Kde existuje otroctví, tamexistuje tržní cena otroků. Kde otroctví neexistuje, tam člověk, lidský života zdraví jsou res extra commercium . Ve společnosti svobodných lidí je zachová-
+Kde existuje otroctví, tamexistuje tržní cena otroků. Kde otroctví neexistuje, tam člověk, lidský života zdraví jsou res extra commercium . Ve společnosti svobodných lidí je zachová-
 
 ní života a zdraví cílem, nikoli prostředkem. Nevstupuje do žádného majet-kového procesu, o němž se účtuje.
 
@@ -40,3 +27,27 @@ tvoří, se neustále mění. Hodnota, kterou jednotlivec přiřazuje jak peněz
 Každodenní zkušenost učí lidi, že tržní směnné poměry jsou proměnlivé.
 
 Dalo by se očekávat, že s tím budou všechny lidské představy o cenách plněpočítat. Přesto jsou všechny oblíbené představy o výrobě a spotřebě, marke-tingu a cenách více nebo méně nakaženy vágní a protichůdnou představoucenové stability. Laik má sklon považovat zachování včerejší cenové struktu-ry za normální a správné a odmítat změny ve směnných poměrech jako poru-šení pravidel přírody a spravedlnosti.
+
+Bylo by chybou vysvětlovat toto oblíbené přesvědčení jako fosilii starých
+
+názorů vzniklých v dávných dobách, kdy byly podmínky výroby i odbytu sta-bilnější. Je otázkou, zda v těch dobách byly ceny proměnlivější, či nikoli. Nao-pak by se spíš dalo tvrdit, že sloučení lokálních trhů do větších celostátníchtrhů, konečný vznik celosvětového trhu, který zahrnuje celý svět, a vývojobchodu směřující k plynulému zásobování spotřebitelů způsobily, že cenovézměny budou méně časté a méně ostré.
+
+V předkapitalistických dobách bylamnohem větší stabilita v technologických metodách výroby, ale bylo takémnohem víc nepravidelností v zásobování různých místních trhů a v přizpů-sobení nabídky jejich měnící se poptávce. Avšak i kdyby byla pravda, že cenybyly ve vzdálené minulosti o něco stabilnější, nemělo by to pro dnešek žádnývýznam. Oblíbené představy o penězích a peněžních cenách nejsou odvoze-ny z myšlenek zformulovaných v minulosti.
+
+Bylo by chybné interpretovat jejako atavistické pozůstatky. V moderních podmínkách čelí denně každý jed-
+
+19801_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 198
+
+notlivec tolika problémům s kupováním a prodáváním, že můžeme klidně tvr-
+
+dit, že jeho uvažování o těchto věcech není jednoduše bezmyšlenkovité přejí-mání tradičních názorů.
+
+Není těžké pochopit, proč ti, jejichž krátkodobé zájmy jsou poškozovány
+
+změnou cen a nesou takové změny nelibě, zdůrazňují, že předchozí ceny bylynejen spravedlivější, ale také normálnější, a tvrdí, že cenová stabilita je v sou-ladu se zákony přírody a morálky. Každá změna cen ale napomáhá krátkodo-bým zájmům jiných lidí. Ti, kteří jsou zvýhodněni, by jistě neměli nutkánízdůrazňovat spravedlivost a normálnost cenové stability.
+
+Ani atavistické reminiscence, ani zájmy sobecké skupiny nemohou vysvět-
+
+lit oblíbenost myšlenky cenové stability. Její kořeny je třeba hledat ve skuteč-nosti, že představy týkající se společenských vztahů byly vytvořeny podlevzoru přírodních věd. Ekonomové a sociologové, kteří usilovali o zformováníspolečenských věd podle vzoru fyziky a fyziologie, se pouze oddávali tomuzpůsobu myšlení, jehož rozšířené klamné představy si přisvojili již dávnopředtím.
+
+Dokonce i klasičtí ekonomové se jen pomalu osvobozovali od této chyby.

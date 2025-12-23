@@ -57,3 +57,13 @@ Spojené státy se zatím tak daleko nedostaly. Jestli se ovšem výrazně velmi
 Ponechme nyní stranou všechny ostatní důsledky, které důsledné uplatně-
 
 ní principu schopnosti platit přináší, a soustřeďme se na finanční aspekty.
+
+Intervencionista obhajující další veřejné výdaje si neuvědomuje, že výše
+
+dostupných fondů je omezená. Nechápe, že zvýšení výdajů v jedné oblasti
+
+76802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 768
+
+nutně snižuje jejich výši v jiné oblasti. Domnívá se, že k dispozici je spousta
+
+peněz; že je lze snadno získat z příjmu a majetku bohatých. Doporučuje-livětší dotace školám, jednoduše říká, že by bylo dobré utratit více na vzdělá-ní.

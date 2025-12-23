@@ -37,3 +37,19 @@ v druhé generaci jejich přívrženců citelně chyběl vlivný myslitel.25Clar
 Fetter a Davenport se během 20. let blížili ke konci svých zářných kariéra nepřispívali již k čisté teorii, následkem čehož škola prudce ztratila vliv naamerické ekonomy hlavního proudu a přenechala americké pole teoretickéhozkoumání napospas marshallovské nadvládě. Tři nejprodávanější ekonomic-ké učebnice mezi první světovou válkou a Velkou depresí tak byly od Ri-charda T. Elyho (se třemi spolupracovníky), Franka W. Taussiga a HenryhoR.
 
 Seagera, ačkoliv předválečná pojednání Davenporta a Fettera zůstávalav první jedenáctce (Dorfman 1969, str. 211). Přestože obsahovaly některérakouské pohledy, vykládaly texty Elyho a kol. a Seagera zjevně marshallov-skou teorii cen, zatímco Taussig vystavěl svou originální teoretickou kon-strukci na Johnu Stuartu Millovi a byl Josephem Schumpeterem trefně ozna-čen za „amerického Marshalla“ (Schumpeter 1969, str. 220; Ely et al. 1928,str. 143—79; Seager 1908, str. 81—106; Taussig 1928, str.
+
+109—220). Hayek nav-štívil Spojené státy roku 1923 a byl udiven a zděšen pozoruhodně náhlýmzhroucením rakousko-americké školy. Narážeje na toto první osobní setkánís americkými ekonomy, Hayek napsal:
+
+Musím přiznat, že z mého převážně teoretického zájmu byl první
+
+dojem z amerických ekonomů zklamáním. Brzy jsem zjistil, ževelcí ekonomové, jejichž jména mi byla důvěrně známá, jsou pova-žováni mými americkými současníky za staromódní muže a žepráce v jejich tradici nepokročila o nic dále, než mi bylo již před-tím známo. (Hayek 1992, str. 35)
+
+V Německu se blížil konec doby temna, nadvlády antiteoretické německé
+
+historické školy, ale knihou, jež po první světové válce znovu vzbudila teore-tickou zvědavost německých ekonomů, nebyly ani Marshallovy, ani Menge-rovy Zásady, ale The Theory of Social Economy Gustava Cassela (1932), která
+
+81025Pár členů mladší generace této školy napsalo poválečné učebnice, které pokračova-
+
+ly v mengerovské tradici. Například John Roscoe Turner z New York University psal
+
+svou disertaci pod vedením Fettera na Princetonu a také vyjádřil v předmluvě ke svéknize (1919, str. iii—vi) „hluboký vděk“ Davenportovi, svému bývalému kolegoviz Cornellu. Arthur L. Faubel, student Fettera a Turnera, byl také hluboce ovlivněnDavenportovými „díly a učením“ (Faubel 1923, str. v—ix).

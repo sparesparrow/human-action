@@ -1,11 +1,4 @@
-
-Socialistické společenství by muselo regulovat porodnost úřední kontro-
-
-lou. Muselo by usměrňovat sexuální život svých chráněnců v nemenší mířenež všechny ostatní oblasti jejich jednání. V tržním hospodářství má každýjednotlivec spontánní zájem na tom, aby neplodil děti, které by nemohlvychovat bez podstatného snížení životní úrovně své rodiny. Tak je zastavenrůst počtu obyvatel nad optimální velikost, která je určena zásobou dostup-ného kapitálu a stavem technických znalostí. Zájmy každého jedince se sho-dují se zájmy všech ostatních jedinců.
-
-Ti, kdo bojují proti regulaci porodnosti, chtějí omezit prostředek, který je
-
-nepostradatelný pro zachování mírové spolupráce lidí a dělby práce ve spo-lečnosti. Kde je průměrná životní úroveň ohrožena nadměrným nárůstempočtu obyvatel, tam vznikají nesmiřitelné konflikty zájmů. Každý jedinec jeopět soupeřem všech ostatních jedinců v boji o přežití. Zničení soupeřů jejediným prostředkem zvýšení vlastního blahob ytu. Filozofové a teologové,
+Kde je průměrná životní úroveň ohrožena nadměrným nárůstempočtu obyvatel, tam vznikají nesmiřitelné konflikty zájmů. Každý jedinec jeopět soupeřem všech ostatních jedinců v boji o přežití. Zničení soupeřů jejediným prostředkem zvýšení vlastního blahob ytu. Filozofové a teologové,
 
 kteří tvrdí, že antikoncepce je v rozporu s Božími zákony a se zákony Přírody,odmítají vidět věci takové, jaké doopravdy jsou. Příroda omezuje materiálníprostředky potřebné pro zlepšení blahobytu lidí a jejich přežití. V přírodníchpodmínkách, které existují, si člověk může vybrat pouze mezi nelítostnou vál-kou každého proti každému, nebo spoluprací ve společnosti. Ale spolupráceve společnosti není možná, jestliže lidé popustí uzdu přirozenému rozmnožo-vacímu pudu.
 
@@ -40,3 +33,19 @@ Kvůlitomu, že si můj druh chce pořídit stejně jako já boty, není pro mě
 To je smysl poučky o souladu správně pochopených zájmů všech členů
 
 tržní společnosti.
+
+6Když ji klasičtí ekonomové vyslovili, snažili se zdůraznit
+
+dvě věci: zaprvé, že každý má zájem na zachování dělby práce ve společnos-
+
+6036Místo „správně chápané“ zájmy můžeme stejně dobře říct „dlouhodobé“ zájmy.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 603
+
+ti, systému, který znásobuje produktivitu lidského úsilí. Zadruhé, že v tržní
+
+společnosti jsou všechny produktivní činnosti skutečně řízeny poptávkouspotřebitelů. Skutečnost, že ne všechny lidské potřeby mohou být uspokoje-ny, není způsobena nevhodnou společenskou institucí nebo nedostatky systé-mu tržního hospodářství. Je to přirozená podmínka lidského života. Víra, žepříroda poskytuje člověku nevyčerpatelné bohatství a že bída je výsledkemlidské neschopnosti uspořádat dobrou společnost, je zcela mylná.
+
+„Přirozenýstav“, který reformátoři a utopisté vykreslili jako ráj, byl ve skutečnosti sta-vem krajní chudoby a nouze. „Chudoba není dílem zákonů,“ říká Bentham,„je to prvotní stav lidské rasy.“
+
+7Dokonce i těm, kteří se nacházejí u samé
+
+základny lidské pyramidy, se daří lépe, než by se jim dařilo, kdyby neexisto-vala spolupráce ve společnosti.

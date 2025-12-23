@@ -1,5 +1,4 @@
-
-Je nutné se zabývat právě argumenty těchto intervencionistů. Jde o to zjis-
+Jde o to zjis-
 
 tit, zda je možné, aby policejní aparát dosáhl cílů, kterých má být pomocíregulace cen, mezd a úrokových sazeb na jiné než tržní úrovni dosaženo. Jenepochybné, že je v moci silné a odhodlané vlády nařídit takovéto maximál-ní a minimální ceny a ztrestat všechny, kteří se jim vzepřou. Otázkou ale stálezůstává, zda vláda může dosáhnout cílů, kvůli kterým tato opatření zavedla.
 
@@ -46,3 +45,7 @@ ní vytváří prostě jen nová data, jejichž vliv je určen fungováním trhu
 samotné vlády ještě méně žádoucí než předchozí stav, jejž se vláda rozhodla
 
 změnit.
+
+Tyto teze nepřestanou platit, když někdo dá termín ekonomický zákon do
+
+uvozovek a zpochybní možnost existence takového zákona. Hovoříme-lio zákonech přírody, máme na mysli skutečnost, že existuje neúprosné propo-jení fyzikálních a biologických jevů a že se jednající člověk musí podřídittěmto zákonitostem, pakliže chce uspět.

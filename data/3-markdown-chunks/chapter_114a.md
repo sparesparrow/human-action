@@ -49,3 +49,7 @@ Společenské instituce kdysi vyhradily celé výrobní oblasti či odvětví po
 pro využívání nesvobodných pracovních sil a chránily je před jakoukoli kon-kurencí ze strany podnikatelů zaměstnávajících svobodné lidi. Otroctvía nevolnictví se tak stalo základním rysem strnulého kastovního systému,který nemohl být odstraněn či změněn jednáním jednotlivců. Kdekoli pano-valy jiné podmínky, sami vlastníci otroků se uchýlili k opatřením, jež musela,krok za krokem, vést ke zrušení celého systému otrocké práce.
 
 Nebyla tolidumilnost ani vlídnost, které přinutily lhostejné a bezcitné majitele otrokůve starověkém Římě uvolnit pouta svým otrokům, ale jejich touha po co nej-větším výnosu ze svého majetku. Opustili systém centralizovaného řízenísvých rozsáhlých pozemků, latifundií, a přeměnili otroky prakticky ve svénájemce, pečující o jejich majetky na svůj vlastní účet a dlužící vlastníkupůdy pouze buď nájem, nebo podíl na výnosu.
+
+Ve zpracovatelských oborecha v obchodě se otroci stali podnikateli a jejich fondy, peculium , jejich zákon-
+
+ným kvazivlastnictvím.

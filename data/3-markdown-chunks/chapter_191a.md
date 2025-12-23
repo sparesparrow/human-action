@@ -103,4 +103,3 @@ Výrobní statky, viz Kapitálové statky, Výrob-
 ní faktory
 
 Výzkum, fyzikální vědy vs. ekonomie, 5, 7,
-

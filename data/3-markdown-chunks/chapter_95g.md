@@ -1,7 +1,4 @@
-
-Množství dostupné nabídky kapitálových statků neovlivňuje ani míru
-
-čistého úroku, ani objem dodatečných úspor. Ani ta nejhojnější nabídka kapi-tálu nemusí nutně vyvolat ani snížení míry čistého úroku, ani pokles sklonuk úsporám. Zvýšení kapitálové akumulace a podílu investovaného kapitálu naobyvatele, jež je typickým znakem hospodářsky rozvinutých národů, nutněnesnižuje míru čistého úroku, ani neoslabuje sklon jednotlivců k dodatečnýmúsporám. Lidé jsou v této souvislosti většinou svedeni porovnáním pouhýchtržních úrokových měr stanovených na úvěrovém trhu.
+Zvýšení kapitálové akumulace a podílu investovaného kapitálu naobyvatele, jež je typickým znakem hospodářsky rozvinutých národů, nutněnesnižuje míru čistého úroku, ani neoslabuje sklon jednotlivců k dodatečnýmúsporám. Lidé jsou v této souvislosti většinou svedeni porovnáním pouhýchtržních úrokových měr stanovených na úvěrovém trhu.
 
 Tyto hrubé míry všaknevyjadřují jen výši čistého úroku. Jak bude ukázáno později, obsahují vedleněj i jiné složky, v jejichž důsledku jsou hrubé míry zpravidla vyšší v chud-ších zemích než v zemích bohatších.
 
@@ -40,3 +37,9 @@ Tyto změnyjsou zdrojem, ze kterého pramení podnikatelské zisky a ztráty. Po
 Stejně jako podnikatelský zisk nebo ztráta není ani úrok cenou, ale veli-
 
 činou, kterou lze určitým výpočtem očistit od ceny produktů úspěšnýchpodnikatelských operací. Hrubý rozdíl mezi cenou, za níž je statek prodán,a náklady vynaloženými na jeho výrobu (bez zahrnutí úroku z investovanéhokapitálu), byl v tradici britské klasické ekonomie nazýván ziskem.
+
+5Moderní
+
+ekonomie považuje tuto veličinu za souhrn katalakticky různorodých polo-žek. Přebytek hrubých příjmů nad výdaji, jenž klasičtí ekonomové nazývaliziskem, obsahuje cenu podnikatelovy vlastní práce použité ve výrobním pro-cesu, úrok z investovaného kapitálu a konečně samotný podnikatelský zisk.Pokud nebylo tohoto přebytku při prodeji výrobků vůbec dosaženo, podnika-tel nejen že nezískal samotný podnikatelský zisk, ale ani odpovídající tržníhodnotu své práce, ani úrok z investovaného kapitálu.
+
+4805Srov. R.

@@ -1,8 +1,3 @@
-
-Předpokládejme, že v izolované zemi, jejíž hospodářské podmínky se sho-
-
-dují s hospodářskými podmínkami střední Evropy poloviny devatenáctéhostoletí, vládne diktátor, který je dokonale obeznámen s dnešní americkoutechnikou. Tento diktátor víceméně ví, k jakému cíli by měl vést hospodářstvízemě, jež je mu svěřena do péče. Avšak ani úplná znalost dnešních americ-kých podmínek by mu nedokázala pomoci, co se týče problému převedenídaného systému pomocí postupných kroků nejvhodnějším a nejvýhodnějšímzpůsobem na cílový systém.
-
 63802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 638
 
 Dokonce jestliže pro účely diskuse předpokládáme, že zázračná inspirace

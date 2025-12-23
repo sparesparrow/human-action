@@ -1,19 +1,4 @@
-
-109—220). Hayek nav-štívil Spojené státy roku 1923 a byl udiven a zděšen pozoruhodně náhlýmzhroucením rakousko-americké školy. Narážeje na toto první osobní setkánís americkými ekonomy, Hayek napsal:
-
-Musím přiznat, že z mého převážně teoretického zájmu byl první
-
-dojem z amerických ekonomů zklamáním. Brzy jsem zjistil, ževelcí ekonomové, jejichž jména mi byla důvěrně známá, jsou pova-žováni mými americkými současníky za staromódní muže a žepráce v jejich tradici nepokročila o nic dále, než mi bylo již před-tím známo. (Hayek 1992, str. 35)
-
-V Německu se blížil konec doby temna, nadvlády antiteoretické německé
-
-historické školy, ale knihou, jež po první světové válce znovu vzbudila teore-tickou zvědavost německých ekonomů, nebyly ani Marshallovy, ani Menge-rovy Zásady, ale The Theory of Social Economy Gustava Cassela (1932), která
-
-81025Pár členů mladší generace této školy napsalo poválečné učebnice, které pokračova-
-
-ly v mengerovské tradici. Například John Roscoe Turner z New York University psal
-
-svou disertaci pod vedením Fettera na Princetonu a také vyjádřil v předmluvě ke svéknize (1919, str. iii—vi) „hluboký vděk“ Davenportovi, svému bývalému kolegoviz Cornellu. Arthur L. Faubel, student Fettera a Turnera, byl také hluboce ovlivněnDavenportovými „díly a učením“ (Faubel 1923, str. v—ix). Snad poslední učebnicev této tradici byla napsána roku 1938 dvěma Fetterovými kolegy z Princetonu, Archi-baldem McDonaldem McIsaacem a Jamesem Geraldem Smithem.
+Snad poslední učebnicev této tradici byla napsána roku 1938 dvěma Fetterovými kolegy z Princetonu, Archi-baldem McDonaldem McIsaacem a Jamesem Geraldem Smithem.
 
 Třebaže v ní uve-dená teorie cen již odrážela všudypřítomný vliv marshallovské revoluce nedokonalékonkurence, její kapitoly o teorii rozdělování a ekonomické rovnováze byly zřetelněfetterovskou doktrínou (McIsaac a Smith, 1938, str. 294—391).02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 810
 

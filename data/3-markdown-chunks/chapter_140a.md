@@ -47,3 +47,5 @@ Tržní hospodářství umožňuje mírovou spolupráci mezi lidmi, i když navz
 jem nesouhlasí se svými hodnotovými soudy. V plánech socialistů nezůstalopro nesouhlasné názory žádné místo. Jejich principem je Gleichschaltung , poli-
 
 cií vynucená dokonalá shoda.
+
+Lidé často nazývají socialismus náboženstvím.

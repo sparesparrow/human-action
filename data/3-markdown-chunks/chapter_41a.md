@@ -45,3 +45,5 @@ Sociální filozofie osmnáctého století byla přesvědčena, že lidstvo nyn�
 konečně vstoupilo do doby rozumu. Zatímco v minulosti převažovaly teolo-gické a metafyzické chyby, od nynějška bude mít navrch rozum. Lidé sebudou stále více osvobozovat z pout tradice a předsudků a všechno své úsilívěnují neustálému zlepšování společenských institucí. Každá nová generacepřispěje svým dílem k tomuto nádhernému úkolu. Postupem času bude spo-lečnost stále více společností svobodných lidí, kteří budou usilovat o největšíštěstí pro co největší počet lidí.
 
 Dočasné zhoršení situace samozřejmě nenínemožné. Nakonec ale bude triumfovat dobrá věc, protože je to věc rozumu.Lidé se nazývali šťastnými, protože byli občany osvícenské doby, která obje-vením zákonů racionálního chování dláždila cestu k trvalému zlepšování lid-ských věcí. Naříkali pouze nad skutečností, že oni sami byli příliš staří, abyviděli všechny blahodárné důsledky nové filozofie.
+
+„Přál bych si,“ řekl Bent-ham Philarétu Chaslesovi, „aby mi byla dána výsada prožít ty roky, které miještě zbývají, na konci každého ze století po mé smrti; tak bych mohl vidětvýsledky svého psaní.“

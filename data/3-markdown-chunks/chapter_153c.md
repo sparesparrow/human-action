@@ -1,7 +1,4 @@
-
-Využití více strojů či lepších strojů je možné pouze tehdy, je-li dostupný
-
-požadovaný kapitál. Nutnou podmínkou každého dalšího technologickéhozdokonalení jsou úspory, tj. vyšší výroba než spotřeba. Pouhá znalost tech-nologie je k ničemu, neexistuje-li potřebný kapitál. Indičtí podnikatelé znajíamerické výrobní postupy. Nemohou je ale převzít nikoli kvůli nízkýmmzdám, ale kvůli nedostatku kapitálu.
+Nutnou podmínkou každého dalšího technologickéhozdokonalení jsou úspory, tj. vyšší výroba než spotřeba. Pouhá znalost tech-nologie je k ničemu, neexistuje-li potřebný kapitál. Indičtí podnikatelé znajíamerické výrobní postupy. Nemohou je ale převzít nikoli kvůli nízkýmmzdám, ale kvůli nedostatku kapitálu.
 
 Kapitalistické spoření na druhou stranu nutně vede k využití dodatečných
 

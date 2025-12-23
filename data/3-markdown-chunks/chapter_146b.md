@@ -1,9 +1,4 @@
-
-2. Úplná daň
-
-Myšlenka sociální spravedlnosti, jež je obsažena v principu platby daní dle
-
-schopnosti platit, má za cíl úplnou finanční rovnost všech obyvatel. Dokudbude přetrvávat jakákoli nerovnost bohatství, je možné tvrdit, že tyto vyššípříjmy a majetky – a to bez ohledu na jejich absolutní výši – odhalují nějakýpřebytek schopnosti platit daň, a stejně tak lze argumentovat, že jakékoli exi-
+Dokudbude přetrvávat jakákoli nerovnost bohatství, je možné tvrdit, že tyto vyššípříjmy a majetky – a to bez ohledu na jejich absolutní výši – odhalují nějakýpřebytek schopnosti platit daň, a stejně tak lze argumentovat, že jakékoli exi-
 
 66002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 660
 

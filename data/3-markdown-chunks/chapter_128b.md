@@ -1,4 +1,3 @@
-
 Ke každému ztrátovému projektu, který je uskutečněn s vládnípomocí, existuje odpovídající projekt, od jehož uskutečnění se upustilo jenomkvůli zásahu vlády. Přitom by tento neuskutečněný projekt býval ziskový, tj.byl by využil omezené výrobní prostředky v souladu s nejnaléhavějšími potře-bami spotřebitelů. Z pohledu spotřebitelů je využití těchto výrobních pro-středků pro uskutečnění nevýnosného projektu plýtváním.
 
 Připravuje jeo uspokojení, kterému dávají přednost před tím, co jim může poskytnout vlá-dou sponzorovaný projekt.

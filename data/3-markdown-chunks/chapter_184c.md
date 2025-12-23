@@ -1,19 +1,4 @@
-
-Cenyfaktorů určené pomocí tohoto procesu peněžní imputace pak umožňují pod-nikatelům vyjádřit a porovnávat náklady alternativních výrobních procesů,a tedy alokovat vzácné zdroje v souladu se zákonem mezní produktivity.Böhm-Bawerk také pojal náklad obětované příležitosti určité komodity jakomezní užitek z její peněžní ceny (Geldgrenznutzen) pro kupujícího (Böhm-
-
-Bawerk, 1962, str. 351—70).
-
-Na základě podobných pohledů odmítli mechanickou a agregovanou
-
-kvantitativní teorii peněz jak Wicksteed (1967, sv. 1, str. 135—41; sv. 2, str. 575—623, 768—69, 825—26), tak Davenport (1968, str. 254—331), a pokusi-li se rozvinout teorii peněz a teorii cen uvnitř rámce „mikro“ příčinně-realis-tického přístupu.
-
-Ačkoliv se oba významně přiblížili k tomuto cíli – samotnýWicksteed se dostal velmi blízko k jeho dosažení – nakonec selhali, což měloza následek, že mengerovská teorie cen nadále zůstala teorií barterové směny.Je sice pravdou, že Mises udělal značný pokrok ve spojení monetární teorie
-
-82102_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 821
-
-a teorie hodnoty ve svém pojednání o penězích (Theorie des Geldes und der
-
-Umlaufsmittel [Theory of Money and Credit]), vydaném roku 1912. Neroz-
+Neroz-
 
 pracoval však dostatečnou měrou důsledky tohoto spojení pro teorii cena sám tento projekt považoval až do roku 1940 za nedokončený, jak ostatněuvidíme níže.
 

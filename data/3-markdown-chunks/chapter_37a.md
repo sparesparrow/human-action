@@ -53,3 +53,9 @@ Skutečnost opět odpovídáRicardovým předpokladům.
 Učení klasické teorie o meziregionálním obchodu jsou však nezávislá na
 
 všech změnách institucionálních podmínek. Umožňují nám s tím spojenéproblémy studovat za jakýchkoli podmínek, které si dokážeme představit.
+
+5. Důsledky dělby práce
+
+Dělba práce je výsledek vědomé reakce člověka na mnohotvárnost přírod-
+
+ních podmínek. Na druhou stranu je dělba práce sama o sobě faktorem, kterýzpůsobuje odlišování. Různým zeměpisným oblastem přiřazuje konkrétnífunkce v souhrnu všech výrobních procesů.

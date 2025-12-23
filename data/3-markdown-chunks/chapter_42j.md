@@ -1,18 +1,3 @@
-
-Během posledních desetiletí jsme byli svědky revoluce v tradičním gnose-
-
-ologickém založení fyziky, chemie a matematiky. Stojíme na počátku inovací,jejichž rozsah nelze předvídat. Je možné, že nastupující generace fyzikůbudou muset čelit podobným problémům, jakými se musí zabývat praxeolo-gie. Možná budou donuceny opustit myšlenku, že existuje něco, co vesmírnézměny neovlivňují a co pozorovatel může používat jako standard měření. Alei když toto může přijít, logická struktura měření pozemských entit v makro-skopické nebo molekulární oblasti fyziky se nezmění.
-
-Měření v oblasti mik-roskopické fyziky se také provádějí pomocí měřicích stupnic, mikrometrů,spektrografů – v každém případě hrubými smyslovými orgány člověka, pozo-rovatele a experimentátora, který je sám složen z molekul.
-
-7Nedokáže se
-
-osvobodit od euklidovské geometrie a od pojmu neměnného standardu.
-
-Existují peněžní jednotky a existují měřitelné fyzikální jednotky různých
-
-nakupovaných a prodávaných ekonomických statků a mnoha – ale nikolivšech – služeb. Ale směnné poměry, kterými musíme obchodovat, neustálekolísají. Neexistuje na nich nic stálého a neměnného. Vzpírají se jakémukolipokusu měřit je. Nejsou fakty v tom smyslu, v jakém fyzikové nazývají fak-tem stanovení váhy určitého množství mědi. Jsou to historické jevy, kterévyjadřují, co se stalo jednou, v určitou chvíli a za určitých okolností.
-
 Tentýžčíselný směnný poměr se může objevit znovu, ale není vůbec jisté, zda se toskutečně stane, a pokud se to stane, zůstává otevřena otázka, zda tento iden-tický výsledek je spíše důsledkem zachování stejných okolností nebo návratuk nim než souhrou velice odlišného postavení faktorů, které určují cenu.Čísla, jež jednající člověk používá v ekonomické kalkulaci, se nevztahujík měřitelným veličinám, ale ke směnným poměrům, u nichž se – na základěporozumění – očekává, že budou realizovány na budoucích trzích.
 
 K tomutoje jednání jako k jedinému směrováno a jedině toto má význam pro jednají-cího člověka.
@@ -50,3 +35,21 @@ Ceny zboží a služeb jsou buď historická data popisující minulé události
 nebo předvídání pravděpodobných budoucích událostí. Informace o ceněv minulosti podává zprávu, že v minulosti proběhl jeden nebo více úkonůmeziosobní směny v tomto poměru. Přímo neposkytuje žádnou informacio budoucích cenách. Často můžeme předpokládat, že tržní podmínky, kterérozhodovaly o určení cen v nedávné minulosti, se v bezprostřední budouc-nosti buď vůbec nezmění, nebo se alespoň nezmění podstatně, takže i cenyzůstanou nezměněny nebo se změní pouze nepatrně.
 
 Taková očekávání jsouracionální, jestliže příslušné ceny byly výsledkem vzájemného ovlivňovánímnoha lidí připravených koupit a prodat, pokud by se pro ně směnné pomě-ry zdály být příznivé, a jestliže tržní situace nebyla ovlivněna podmínkami,které lze považovat za náhodné, mimořádné a pravděpodobně neopakovatel-né. Hlavním úkolem ekonomické kalkulace však není zabývat se problémyneměnných nebo pouze nepatrně se měnících tržních situací a cen, ale zabý-vat se změnou.
+
+Jednající jednotlivec buď odhaduje změny, které nastanou bezjeho zásahu, a chce své jednání přizpůsobit tomuto předvídanému stavu věcí;nebo se chce angažovat v projektu, který změní podmínky, i kdyby žádné jinéfaktory změnu nevyvolaly. Minulé ceny jsou pro něj pouhým výchozímbodem ve snaze odhadovat ceny v budoucnosti.
+
+Historici a statistikové se zabývají cenami v minulosti. Praktický člověk se
+
+dívá na ceny v budoucnosti, i kdyby to měla být pouze bezprostřední budouc-nost příští hodiny, dne nebo měsíce. Ceny v minulosti jsou pro něj pouhoupomůckou při předpovídání cen budoucích. Nejen v předběžné kalkulaci
+
+19301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 193
+
+očekávaného výsledku plánovaného jednání, ale o nic méně ani ve snaze
+
+o určení výsledku jeho minulých obchodů ho v prvé řadě zajímají budoucíceny.
+
+V rozvaze a ve výkazu zisků a ztrát je možno výsledky minulého jednání
+
+vidět jako rozdíl mezi peněžním ekvivalentem vlastního kapitálu (celkováaktiva minus celková pasiva) na počátku a na konci vykazovaného obdobía jako rozdíl mezi peněžním ekvivalentem vynaložených nákladů a získanýchhrubých výnosů. Do takových výkazů musí být uveden odhadnutý peněžníekvivalent všech aktiv a pasiv jiných než hotovost.
+
+Tyto položky by měly býtoceněny podle cen, za něž by pravděpodobně mohly být v budoucnu prodá-ny, nebo – což platí obzvlášť v případě zařízení pro výrobní procesy – s ohle-dem na ceny, za které se dle očekávání prodá zboží vyrobené pomocí těchtopoložek.

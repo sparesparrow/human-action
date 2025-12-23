@@ -45,3 +45,5 @@ noho místa na jiné. Ale i v tomto případě jsou vždy pod něčí kontrolou,
 směny. Tato námitka je také zcela chybná. Způsob užití prostředku směny
 
 lidmi spočívá právě v tom, že se jich lidé zbavují. Ale předtím jich chtějí urči-té množství nashromáždit, aby byli připraveni na okamžik, v němž může býtsměna uskutečněna. Právě proto, že nechtějí uspokojit své potřeby v tomtéžokamžiku, kdy na trh přinášejí své statky a služby, právě proto, že chtějípočkat nebo jsou nuceni počkat na to, až se objeví příznivé podmínky prokoupi, nevyměňují zboží za zboží, ale směňují ho nepřímo skrze prostředkysměny.
+
+Fakt, že se peníze neopotřebovávají jejich používáním a že mohouposkytovat své služby prakticky po neomezenou dobu, je důležitým faktorempři formování jejich nabídky.

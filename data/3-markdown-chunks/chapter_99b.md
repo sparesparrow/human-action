@@ -1,9 +1,4 @@
-
-4. Úvěrový trh
-
-Hrubé úrokové míry ustavené na úvěrovém trhu nejsou jednotné. Podni-
-
-katelská složka, kterou vždy obsahují, se liší podle specifických podmínekdané transakce. Jednou z hlavních vad všech historických a statistických stu-dií věnovaných pohybu úrokových měr je to, že tento faktor opomíjejí. Nemážádný smysl uspořádávat data o úrokových mírách na volném trhu nebo dis-kontních sazeb centrálních bank do časových řad. Různá data dostupná provytváření takových časových řad jsou nesouměřitelná.
+Nemážádný smysl uspořádávat data o úrokových mírách na volném trhu nebo dis-kontních sazeb centrálních bank do časových řad. Různá data dostupná provytváření takových časových řad jsou nesouměřitelná.
 
 Tatáž diskontní sazbacentrální banky znamená něco zcela odlišného v různých časových obdobích.Institucionální podmínky, ovlivňující činnosti centrálních bank různých náro-dů, jejich soukromých bank a jejich úvěrových trhů, jsou tak odlišné, že jezcela zavádějící porovnávat nominální úrokové míry bez plného zohledněnítěchto rozdílů. Víme a priori , že – za zcela stejných podmínek – jsou věřitelé
 
@@ -44,3 +39,7 @@ ních faktorů změnám dat – tedy podnikatelé a průkopníci – zakládají
 podnikatele hraje úroková míra, je zřejmá. Ukazuje mu, jak daleko může jít
 
 v přesunu výrobních faktorů z jejich užití ve výrobě pro uspokojení potřebv blízkém období budoucnosti do jejich užití pro uspokojení potřeb ve vzdále-nějším období. Ukazuje mu, jaká doba výroby odpovídá v každém konkrétnímpřípadě rozdílu, který činí veřejnost mezi současnými a budoucími statky.Brání mu zahájit projekty, jejichž uskutečnění není v souladu s omezenýmobjemem kapitálových statků zajištěným díky úsporám veřejnosti.
+
+Hybná síla peněz se může stát určitým způsobem účinnou právě při ovliv-
+
+ňování této prvotní funkce úrokové míry. Hotovostí vyvolané změny v peněž-ním vztahu mohou za určitých podmínek ovlivnit úvěrový trh, předtím neždopadnou na ceny statků a práce.

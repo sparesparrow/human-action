@@ -47,3 +47,7 @@ něco jiného než za zdroj lidského blahobytu, prostředku ke zvyšování pro
 Uchylovali se k magickýmrituálům a slavnostním přísahám, protože to podle jejich názoru byl nejefek-tivnější způsob, jak dosáhnout požadovaných cílů. Jejich intelektuálštípotomci se mýlili, když tyto obřady interpretovali z „idealistického“ pohledu.Skutečný rolník se neoddává nadšenému tlachání o půdě a jejích tajemnýchsilách. Pro něj je půda výrobním faktorem, a ne předmětem sentimentálníchcitů. Prahne po větším poli, protože touží zvýšit svůj příjem a zlepšit svouživotní úroveň.
 
 Zemědělci kupují a prodávají půdu a zastavují ji; prodávají to,co půda vyprodukuje, a jsou velice rozhořčeni, když ceny nejsou tak vysoké,jak by si přáli.
+
+Láska k přírodě a oceňování krás krajiny byly venkovskému obyvatelstvu
+
+cizí. Na venkov je přinesli obyvatelé měst.

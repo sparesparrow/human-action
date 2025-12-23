@@ -1,5 +1,4 @@
-
-Mezi různýmimetodami dá přednost takové, k níž jsou technici neteční, totiž té, jejíž vyu-žití vyžaduje nejmenší náklady. Může zamítnout doporučení techniků vybratdražší metodu, která zajistí větší fyzický výkon, pokud jeho kalkulace ukazu-je, že zvýšení výkonu by nevyvážilo nárůst potřebných nákladů. Podnikatelmusí vykonávat svůj úkol přizpůsobování výroby poptávce spotřebitelů, jak
+Podnikatelmusí vykonávat svůj úkol přizpůsobování výroby poptávce spotřebitelů, jak
 
 27801_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 278
 
@@ -40,3 +39,7 @@ bodit podnikatele od části jeho menších povinností; nikdy se z ní ale nem�
 Je možné odměňovat manažera tak, že bude placen za své služby v pomě-
 
 ru k příspěvku jeho sekce k zisku, kterého dosáhl podnikatel. To ale nepřinášížádný užitek. Jak bylo ukázáno, manažer je v každém případě zainteresovánna úspěchu té části podniku, která je mu svěřena do péče. Manažera všaknelze činit odpovědným za utrpěné ztráty. Tyto ztráty utrpěli majitelé zapoje-ného kapitálu. Nemohou být přenášeny na manažery.
+
+Společnost může klidně ponechat péči o nejlepší možné využití kapitálo-
+
+vých statků na jejich majitelích. Když se pouštějí do konkrétních projektů,dávají tito majitelé v sázku vlastní majetek, bohatství a společenské postavení.Mají dokonce větší zájem na úspěchu svých podnikatelských aktivit než spo-lečnost jako celek. Pro společnost jako celek znamená promarnění kapitáluinvestovaného do určitého projektu pouze ztrátu malé části jejích celkovýchfinančních prostředků; pro majitele to znamená mnohem víc, většinou ztrátuveškerého jmění.

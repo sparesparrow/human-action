@@ -1,5 +1,4 @@
-
-Pochopení, že zůstane-li vše ostatní stejné, pak růstpoptávky musí vést k růstu cen, není odvozeno ze zkušenosti. Nikdo nikdynemohl a nikdy nebude moct pozorovat změny jedné ekonomické veličiny,když všechny ostatní zůstanou stejné. Nic takového jako kvantitativní eko-nomie neexistuje. Všechny ekonomické veličiny, které známe, jsou dataz ekonomické historie. Žádný rozumný člověk nemůže tvrdit, že vztah mezicenou a nabídkou je obecně nebo pro určité komodity konstantní.
+Žádný rozumný člověk nemůže tvrdit, že vztah mezicenou a nabídkou je obecně nebo pro určité komodity konstantní.
 
 Naopakvíme, že vnější jevy ovlivňují různé lidi různým způsobem, že se reakce stej-ných lidí na tutéž vnější událost mění a že není možné roztřídit jednotlivce doskupin stejně reagujících lidí. Toto pochopení je výsledkem naší apriorní teo-rie. Je pravda, že empiris té tuto teorii odmítají; předstírají, že se chtějí učit
 
@@ -42,3 +41,5 @@ str. 104—106.
 vždy peněžními cenami a náklady nelze zahrnout do ekonomických kalkula-
 
 cí, pokud nejsou vyjádřeny v penězích. Jestliže se neuchýlíme k penězům,jsou ceny vyjádřeny v komplexních množstvích různého zboží a služeb, kteréje třeba vynaložit na pořízení výrobku. Na druhé straně ceny – lze-li tentonázev na směnné poměry určené barterem vůbec použít – jsou číselnýmvyjádřením množství různého zboží, za které může „prodávající“ směniturčitou zásobu. Statky, na něž se takové „ceny“ odvolávají, nejsou tytéž jakostatky, na něž se odvolávají „náklady“.
+
+Srovnání takových naturálních cena naturálních nákladů je neproveditelné. Že si prodávající cení zboží, kteréhose zbavuje, méně než zboží, které za něj ve směně obdrží, že se prodávajícía kupující liší v subjektivním hodnocení směňovaného zboží, a že se podni-katel pustí do projektu pouze tehdy, když očekává, že za produkci získá stat-ky, kterých si cení výše než statků, jež vynaloží na výrobu této produkce, tovše víme už na základě praxeologického rozumění.

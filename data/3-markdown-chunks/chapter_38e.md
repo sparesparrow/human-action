@@ -1,4 +1,3 @@
-
 Lidem se občas nedaří vidět tuto skutečnost, protože když se zabývají
 
 filozofiemi a ideologiemi, sledují víc to, co tyto doktríny tvrdí o transcendent-nu a nepoznatelných věcech, a méně jejich názor na pozemské jednání. Mezirůznými částmi ideologického systému je často nepřekonatelná propast. Projednajícího člověka mají skutečný význam pouze taková učení, která vedou

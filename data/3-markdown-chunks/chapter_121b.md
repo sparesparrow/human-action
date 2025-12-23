@@ -1,7 +1,4 @@
-
-Jestliže je v blízkosti těchto pohoří k dispozici pouze omezený prostor pro
-
-stavbu přístřeší, hotelů a dopravních prostředků (např. ozubených železnic),vlastníci těchto nedostatkových pozemků je mohou prodat nebo pronajmoutza výhodnějších podmínek, a tak na sebe převést část užitku, který turisté zís-kávají ze svobodného přístupu k vrcholům. Pokud tomu tak není, těší seturisté ze všech těchto výhod bezplatně.
+ozubených železnic),vlastníci těchto nedostatkových pozemků je mohou prodat nebo pronajmoutza výhodnějších podmínek, a tak na sebe převést část užitku, který turisté zís-kávají ze svobodného přístupu k vrcholům. Pokud tomu tak není, těší seturisté ze všech těchto výhod bezplatně.
 
 5. Cena půdy
 

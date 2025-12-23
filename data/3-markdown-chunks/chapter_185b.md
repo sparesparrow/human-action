@@ -1,14 +1,3 @@
-
-Rakouská škola byla díky vydání Nationalökonomie na počátku roku 1940
-
-připravena na rázný návrat, avšak přišla pohroma. Odříznut od německy
-
-82402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 824
-
-mluvícího trhu válkou v Evropě zkrachoval její švýcarský vydavatel a prodej
-
-a distribuce Misesova díla ustaly. V době, kdy Yale University Press v roce 1949
-
 vydal jeho anglickou verzi, bylo už pozdě na bezprostřední obnovu vlivumengerovské teorie cen uvnitř ekonomické teorie hlavního proudu. Vůdcov-ství v čisté teorii se po válce přesunulo z Evropy do Spojených států, a toz důvodu odchodu mnoha ekonomů ze střední Evropy do Ameriky, spolu seznačným rozvojem vyššího vzdělávání ve Spojených státech vyvolanýmpříspěvky na pokrytí školného, které zavedl G. I. Bill (Barber 1970, str. 14).
 
 Vestejné době se v USA rozvíjely intelektuální proudy, jež vedly ke sloučenímarshallovského a walrasovského přístupu do nepřemožitelné ortodoxie.

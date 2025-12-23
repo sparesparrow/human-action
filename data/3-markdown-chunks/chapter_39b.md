@@ -1,6 +1,3 @@
-
-Interpretace moci jako „skutečného“ činitele nezávislého na ideolo-giích, která je běžná v mnoha politických a historických knihách, je chybná.Termín Realpolitik má smysl pouze tehdy, jestliže se používá k označení poli-
-
 tiky vycházející z obecně přijatých ideologií na rozdíl od politiky založené naideologiích, které nejsou dostatečně uznávané, a jsou proto nevhodné protrvalý systém vlády.
 
 Člověk, jenž interpretuje moc jako fyzickou nebo „skutečnou“ sílu konat

@@ -1,4 +1,3 @@
+Je chybné považovat takovou směnu služeba vyplenění pekařství ozbrojenými lupiči za dva projevy téhož. Zahraničníobchod se od domácího obchodu liší pouze tím, že zboží a služby jsou smě-ňovány přes hraniční čáru, která odděluje území dvou suverénních států.
 
-Když pekař dodává chléb zubaři a zubař mu pomůže od bolesti zubů, není
-
-poškozen ani pekař, ani zubař. Je chybné považovat takovou směnu služeba vyplenění pekařství ozbrojenými lupiči za dva projevy téhož. Zahraničníobchod se od domácího obchodu liší pouze tím, že zboží a služby jsou smě-ňovány přes hraniční čáru, která odděluje území dvou suverénních států.
+Jepříšerné, že Louis Napoleon Bonaparte, pozdější císař Napoleon III., mohlněkolik desítek let po Humovi, Adamu Smithovi a Ricardovi napsat: „Množ-ství zboží, které země vyváží, je vždy přímo úměrné počtu šrapnelů, kterémůže vystřelit na nepřítele, kdykoli si to jeho čest a důstojnost vyžádají.“

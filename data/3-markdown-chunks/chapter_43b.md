@@ -1,4 +1,3 @@
-
 20101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 201
 
 Žádný z nich nemůže být označen za jediný způsob, jak dostat logicky nevy-

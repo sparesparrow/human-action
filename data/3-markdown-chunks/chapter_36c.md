@@ -1,7 +1,4 @@
-
-Ani historie, ani etnologie, ani žádný jiný obor vědění nemohou poskyt-
-
-nout popis evoluce, která vedla od stád a hejn nelidských předků člověkak primitivním, ale již vysoce rozrůzněným společenským skupinám, o nichžzískáváme informace z vykopávek, z nejstarších historických dokumentů a zezpráv objevitelů a cestovatelů, kteří navštívili primitivní kmeny. Úkol, s nímžje věda v otázce původu společnosti konfrontována, může spočívat jediněv ukázání těch faktorů, které mohou a musí vést ke sdružování a jeho narů-stajícímu zesilování. Tento problém řeší praxeologie.
+Úkol, s nímžje věda v otázce původu společnosti konfrontována, může spočívat jediněv ukázání těch faktorů, které mohou a musí vést ke sdružování a jeho narů-stajícímu zesilování. Tento problém řeší praxeologie.
 
 Nakolik je práce přidělbě práce produktivnější než izolovaná práce a nakolik je člověk schopen situto skutečnost uvědomit, natolik inklinuje sama lidská činnost ke spoluprá-ci a sdružování; člověk se nestává společenskou bytostí obětováním svýchzájmů ve prospěch mystického Molocha, společnosti, ale tím, že směřuje ke
 
@@ -42,3 +39,11 @@ jejího závěru, ignorovat problémy s oceněním, protože se může opřít o
 Tyto předpoklady jsou: že budou vyráběnypouze dva výrobky; že se tyto výrobky mohou volně pohybovat; že k výroběkaždého z nich jsou potřeba dva faktory; že jeden z těchto faktorů (může tobýt práce nebo kapitálové statky) je identický při výrobě obou dvou, zatímcoten druhý faktor (konkrétní vlastnosti půdy) se pro každý z těchto dvou pro-cesů liší; že menší výskyt faktoru, který je pro oba procesy společný, určujerozsah čerpání druhého faktoru.
 
 V rámci těchto předpokladů, které umožňu-jí stanovit substituční poměry mezi vynaloženým množstvím společného fak-toru a výkonem, tato věta odpovídá na položenou otázku.
+
+Zákon komparativní výhody je stejně nezávislý na klasické teorii hodnoty
+
+jako zákon výnosů, který jeho zdůvodnění připomíná. V obou případech semůžeme spokojit srovnáváním pouze fyzikálního vstupu a fyzikálního výstu-pu. Zákon výnosů porovnává výstup téhož výrobku. Zákon komparativnívýhody porovnává výstup dvou různých výrobků. Takové srovnání je možné,protože předpokládáme, že pro výrobu každého z nich jsou potřeba kromějednoho specifického faktoru pouze nespecifické faktory stejného druhu.
+
+Někteří kritikové vyčítají zákonu komparativní výhody toto zjednodušení
+
+předpokladů. Myslí si, že moderní teorie hodnoty by vyžadovala přeformulo-vání tohoto zákona v souladu s principy subjektivní hodnoty.

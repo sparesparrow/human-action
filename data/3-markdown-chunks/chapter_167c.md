@@ -1,11 +1,4 @@
-
-Za druhé: Veškeré pokusy o zasahování do tržních jevů nejen nedokážou
-
-dosáhnout cílů, o něž usilují jejich autoři a zastánci, ale vedou ke stavu, kterýsamotní jejich autoři a zastánci hodnotí jako méně žádoucí než stav dřívější,o jehož nápravu usilovali. Chce-li někdo napravit zjevnou nevhodnosta nesmyslnost těchto pokusů přijetím dalšího zásahu či dalších zásahů, musíve svém počínání pokračovat stále dále, až nakonec zcela zničí tržní hospo-dářství a nahradí ho socialismem.
-
-Za třetí: Intervencionismus usiluje o konfiskaci „přebytku“ jedné části oby-
-
-vatel a jeho rozdání jiné části. Jakmile je tento přebytek zcela zkonfiskována vyčerpán, není další pokračování této politiky možné. Všechny země, kterésice nepřijaly systém úplného socialismu podle ruského vzoru, ale vydaly sepo cestě intervencionismu, se stále více blíží něčemu, co nazýváme plánova-né hospodářství, tj. socialismus podle německého či hindenburského vzoru.Dnes nenajdeme velké rozdíly mezi hospodářskými politikami prováděnýmirůznými politickými stranami a zájmovými skupinami.
+Všechny země, kterésice nepřijaly systém úplného socialismu podle ruského vzoru, ale vydaly sepo cestě intervencionismu, se stále více blíží něčemu, co nazýváme plánova-né hospodářství, tj. socialismus podle německého či hindenburského vzoru.Dnes nenajdeme velké rozdíly mezi hospodářskými politikami prováděnýmirůznými politickými stranami a zájmovými skupinami.
 
 Historická jménapolitických stran ztrácejí na významu. Co se týče hospodářských politik,zbyly nám v podstatě jen dva přístupy: zastánci Leninových metod úplnéhozestátnění a intervencionisté. Obhájci svobodného tržního hospodářstvínemají na běh událostí prakticky žádný vliv. Jestli stále zbývá nějaká ekono-
 

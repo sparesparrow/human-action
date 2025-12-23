@@ -1,6 +1,3 @@
-
-uvnitř řádu založeného na dělbě práce, je soulad v počínání jejích členů. Jak-mile se začnou nepřátelit, objeví se tendence ke společenské dezintegraci.
-
 Uvnitř tržní ekonomiky konkurence neobsahuje antagonismy ve smyslu
 
 nepřátelských sporů protikladných zájmů. Je pravda, že konkurence můženěkdy v konkurentech vzbuzovat nenávistné vášně a zlobu, která obvykledoprovází záměr způsobit ostatním lidem škodu. Psychologové proto častopletou konkurenci s bojem. Praxeologie si však musí na tato umělá a zavádě-jící srovnání dát pozor. Konkurenti se snaží o dokonalost a vzornost v rámcisystému vzájemné spolupráce.
@@ -58,3 +55,7 @@ Jednající člověk hodnotí věci jako prostředky pro odstranění své nespo
 jenosti. Z pohledu přírodních věd se různé události, které vedou k uspokoje-ní lidských potřeb, jeví velmi odlišně. Jednající člověk v těchto událostechvidí více méně totéž. Při hodnocení různých stavů uspokojení a prostředkůpro jejich dosažení člověk uspořádává všechny věci do jedné škály a sleduje
 
 u nich pouze jejich význam pro zvýšení svého vlastního uspokojení. Uspoko-jení získané z jídla a uspokojení získané z pozorování uměleckého díla je projednajícího člověka jen naléhavější či méně naléhavou potřebou. Jak hodno-cení, tak jednání dává do jedné škály sestavené podle intenzity, s jakou si jepřeje. Pro jednajícího člověka primárně neexistuje nic než různé stavy rele-vance a naléhavosti ve vztahu k jeho blahobytu.
+
+Kvantita a kvalita jsou kategoriemi vnějšího světa. Pro jednání získávají
+
+význam pouze nepřímo. Jelikož má každá věc jen omezený účinek, jsouněkteré věci považované za vzácné a berou se jako prostředky. Protože jsouúčinky, které věci mohou způsobit, různé, rozlišuje jednající člověk rozličnétřídy věcí. Protože prostředky stejné kvantity a kvality vždy produkují stejnémnožství účinků ve stejné kvalitě, nerozlišuje jednání mezi konkrétními spe-cifickými množstvími homogenních prostředků.

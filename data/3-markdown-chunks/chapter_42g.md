@@ -1,17 +1,4 @@
-
-5Většina z méně
-
-významných ekonomů prostě tvrdila, že peníze slouží „jako míra hodnot“.
-
-Nuže, musíme si uvědomit, že ohodnocovat znamená dávat přednost
-
-apřed b. Z logického, epistemologického, psychologického i praxeologického
-
-pohledu existuje jeden jediný model upřednostňování. Tento model nepřed-stavuje to, když dáváme přednost příteli před jinými lidmi, když laik upřed-nostňuje jeden obraz před ostatními obrazy, nebo konzument chléb předkouskem cukroví. Dávat přednost vždy znamená mít rád avíce než bnebo
-
-toužit po avíce než po b. Stejně jako neexistuje žádné kritérium a žádná míra
-
-sexuální lásky, přátelství a porozumění, estetického požitku, neexistuje animíra hodnoty komodit. Jestliže člověk smění dvě libry másla za košili, jediné,co můžeme ohledně této transakce říct, je, že tento člověk – v momentěobchodu a za podmínek, které mu tento okamžik nabízí – dává přednostjedné košili před dvěma librami másla. Je zřejmé, že každý úkon, v němž jeněčemu dána přednost před něčím jiným, je charakterizován určitou duševníintenzitou citů, které to vyvolává.
+Je zřejmé, že každý úkon, v němž jeněčemu dána přednost před něčím jiným, je charakterizován určitou duševníintenzitou citů, které to vyvolává.
 
 Existuje odstupňování intenzity touhydosáhnout nějakého konkrétního cíle a tato intenzita určuje duševní zisk,jaký úspěšné jednání přinese jednajícímu jedinci. Ale duševní veličinymohou být pouze pociťovány. Jsou naprosto osobní a neexistuje žádný séman-tický prostředek pro vyjádření jejich intenzity, ani pro předání informaceo nich jiným lidem.
 
@@ -62,3 +49,19 @@ ně zabývalo komunistickou teorií hodnoty, a z toho důvodu opominuli roz-prac
 6Je tragické, že on sám
 
 se této chyby nevyvaroval.
+
+Iluze, že ve společnosti založené na veřejném vlastnictví výrobních pro-
+
+středků je možné racionální uspořádání řízení hospodářství, vděčí za svůjpůvod teorii hodnoty klasických ekonomů a za svou vytrvalost selhání mnoha
+
+1866Srov. Friedrich von Wieser, Der natürliche Wert (Vídeň, 1889), str. 60, pozn. 3.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 186
+
+moderních ekonomů, že důkladně, až do nejzazších důsledků nepromysleli
+
+základní zásadu subjektivistické teorie. A tak byly socialistické utopie vytvá-řeny a udržovány chybami myšlenkových škol, které marxisté odmítali jako„ideologické převlečení sobeckých třídních zájmů vykořisťující buržoazie“.Ve skutečnosti umožnila rozkvět socialistických myšlenek právě pochybenítěchto škol. Tato skutečnost jasně ukazuje prázdnotu marxistického učenío „ideologiích“ i jeho moderní odnože, sociologie poznání.
+
+3. Problém ekonomické kalkulace
+
+Jednající člověk používá znalosti, které mu poskytují přírodní vědy, pro
+
+rozvoj technologie, aplikované vědy o možném jednání v oblasti vnějšíchpodmínek. Technologie ukazuje, čeho by se mohlo dosáhnout, kdyby tohoněkdo dosáhnout chtěl, a jak by se toho mohlo dosáhnout za předpokladu, žeby lidé byli připraveni využít naznačené prostředky.

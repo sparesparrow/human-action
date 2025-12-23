@@ -1,11 +1,4 @@
-
-Nejen v zemích ovládaných barbarskými a neobarbarskými despoty, ale
-
-i v tzv. západních demokraciích je studium ekonomie dnes v podstatě posta-veno mimo zákon. Veřejná diskuse ekonomických problémů přehlíží téměřzcela to, co ekonomové říkali v posledních dvou stech letech. S cenami, mzda-mi a úrokovými mírami se zachází, jako kdyby jejich určení nebylo předmě-tem žádného zákona. Vlády se pokoušejí nařizovat a vynucovat maximálníceny komodit stejně jako minimální mzdy.
-
-Státníci nabádají podnikatele, abysnížili své zisky, snížili ceny a zvýšili mzdy, jako kdyby tyto věci závisely nachvályhodných záměrech jedinců. V otázkách mezinárodních ekonomickýchvztahů se lidé lehkovážně uchylují k nejnaivnějším omylům merkantilismu.Najde se jen málo těch, kdo by si byli vědomi vad všech těchto populárníchteorií, či si uvědomovali, proč politiky na nich založené nutně povedou kekatastrofě.
-
-To jsou smutné věci. Existuje však pouze jeden způsob, kterým na ně může
+Existuje však pouze jeden způsob, kterým na ně může
 
 člověk reagovat: nikdy nepolevit při hledání pravdy.
 
@@ -52,3 +45,21 @@ mu je zachovat a podporovat život a oddálit co nejvíce zánik. Myšlení a je
 Veškeré úvahy o nadřazenosti iracionálních prvků jsou proto zbytečné. Ve
 
 světě, jehož existenci náš rozum nemůže vysvětlit, analyzovat či pojmout, exi-stuje úzká oblast, v rámci níž je člověk schopen v jisté míře odstraňovat svounespokojenost. To je sféra rozumu a racionality, doména vědy a účelovéhojednání. Ani její nicotnost, ani nedostatečnost výsledků, jichž v rámci ní člo-věk může dosáhnout, nevede k myšlence naprosté rezignace a letargie.
+
+Žádnésubtilní filozofické argumenty nemohou nikdy zabránit zdravému člověkuv zahájení jednání, které – jak se domnívá – může uspokojit jeho potřeby.Možná je pravda, že v nejhlubších zákoutích lidské duše je touha po neruše-ném klidu a nečinnosti pouhé vegetativní existence. U žijících lidí jsou tytotužby, ať jsou jakékoli, převáženy touhou jednat a zlepšit si podmínky vlast-ního života. Jakmile zvítězí síly odevzdanosti, člověk umírá; nestane se z nějrostlina.
+
+Je pravda, že praxeologie a ekonomie neříkají člověku, zda by si měl
+
+uchovat život, či se ho zříci. Život sám a všechny neznámé síly, jež mu dávajívzniknout a udržují jeho plamen, jsou konečnou daností a jako takové senacházejí za sférou lidské vědy. Předmětem zkoumání praxeologie je pouzezákladní manifestace lidského života, totiž jednání.
+
+2. Ekonomie a hodnotové soudy
+
+Zatímco mnozí lidé kritizují ekonomii za její neutralitu ohledně hodnoto-
+
+vých soudů, jiní lidé ji obviňují z toho, že se do nich údajně pouští. Někteřítvrdí, že ekonomie musí nutně vyjadřovat hodnotové soudy, a není protoopravdu vědeckou, jelikož kritérium vědy je její hodnotová indiference. Jiní
+
+79002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 790
+
+tvrdí, že dobrá ekonomie by měla a mohla být nestranná a že pouze špatní
+
+ekonomové se proti tomuto postulátu prohřešují.

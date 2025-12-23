@@ -1,20 +1,3 @@
-
-Technologie mu ale neposkytuje nic víc než tvrzení o příčinnýchvztazích mezi vnějšími věcmi. Říká například, že 7 a+ 3 b+ ... + xnmusí dát
-
-8 P. Ačkoli však zná hodnotu přiřazenou jednajícím člověkem různým stat-
-
-kům prvního řádu, nedokáže rozhodnout, jestli tento nebo jakýkoli jiný vzo-rec z nekonečného množství podobně sestavených vzorců nejlépe slouží prodosažení cílů, o něž jednající člověk usiluje. Dovednost v oblasti technikymůže stanovit, jak je třeba postavit most, aby překlenul řeku v daném místěa unesl určitou zátěž.
-
-Ale nedokáže odpovědět na otázku, zda by stavba tako-vého mostu odčerpala hmotné faktory výroby a práce z nějakého užití,v němž by mohly uspokojit potřeby, které jsou pociťovány naléhavěji. Nedo-káže říct, jestli by ten most měl být vůbec stavěn, či nikoli, kde by měl býtpostaven, jakou by měl mít nosnost pro dopravu břemen a která z mnohamožností pro jeho stavbu by měla být vybrána.
-
-Technologická kalkulace můžeposkytnout vztahy mezi různými třídami prostředků pouze do té míry, v jakése mohou navzájem zastoupit při úsilí dosáhnout konečného cíle. Jednání jeale nuceno odkrýt vztahy mezi všemi prostředky, jakkoli si mohou být nepo-dobny, bez ohledu na otázku, zda se mohou při plnění stejných služeb navzá-jem zastoupit, či nikoli.
-
-Technologie a úvahy, které jsou z ní odvozeny, by nebyly pro jednajícího
-
-člověka k přílišnému užitku, kdyby do jejich schémat nebylo možné zavést
-
-18801_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 188
-
 peněžní ceny zboží a služeb. Projekty a návrhy inženýrů by byly čistě aka-
 
 demické, kdyby nedokázaly porovnávat vstupy a výstupy na společné bázi.Pyšný teoretik se v odloučení své laboratoře o takové bezvýznamné věcinestará; to, co zkoumá, jsou příčinné vztahy mezi různými součástmivesmíru. Praktický člověk, který dychtí zlepšit podmínky lidstva tím, že v conejvětší míře odstraní nespokojenost, ale musí vědět, zda – za danýchpodmínek – je to, co plánuje, nejlepší metodou (nebo vůbec nějakou meto-dou), jak zbavit lidi části nespokojenosti.
@@ -46,3 +29,17 @@ Proces měření spočívá v ustavení číselného poměru předmětu ve vztah
 k jinému předmětu, totiž k jednotce měření. Základním zdrojem měření jsouprostorové rozměry. Pomocí jednotky definované ve vztahu k rozměru seměří energie i vnitřní síla, schopnost věci vyvolat změny v jiných věcecha vztazích, i běh času. Poloha ručičky ukazuje přímo prostorové vztahya ostatní veličiny pouze nepřímo. Předpoklad, na němž jsou všechna měřenízaložena, je neměnnost jednotky. Jednotka délky je pevným základem, naněmž jsou založena všechna měření.
 
 Předpokládá se, že si člověk nedokážepředstavit, že by nebyla neměnná.
+
+Během posledních desetiletí jsme byli svědky revoluce v tradičním gnose-
+
+ologickém založení fyziky, chemie a matematiky. Stojíme na počátku inovací,jejichž rozsah nelze předvídat. Je možné, že nastupující generace fyzikůbudou muset čelit podobným problémům, jakými se musí zabývat praxeolo-gie. Možná budou donuceny opustit myšlenku, že existuje něco, co vesmírnézměny neovlivňují a co pozorovatel může používat jako standard měření. Alei když toto může přijít, logická struktura měření pozemských entit v makro-skopické nebo molekulární oblasti fyziky se nezmění.
+
+Měření v oblasti mik-roskopické fyziky se také provádějí pomocí měřicích stupnic, mikrometrů,spektrografů – v každém případě hrubými smyslovými orgány člověka, pozo-rovatele a experimentátora, který je sám složen z molekul.
+
+7Nedokáže se
+
+osvobodit od euklidovské geometrie a od pojmu neměnného standardu.
+
+Existují peněžní jednotky a existují měřitelné fyzikální jednotky různých
+
+nakupovaných a prodávaných ekonomických statků a mnoha – ale nikolivšech – služeb. Ale směnné poměry, kterými musíme obchodovat, neustálekolísají. Neexistuje na nich nic stálého a neměnného. Vzpírají se jakémukolipokusu měřit je. Nejsou fakty v tom smyslu, v jakém fyzikové nazývají fak-tem stanovení váhy určitého množství mědi. Jsou to historické jevy, kterévyjadřují, co se stalo jednou, v určitou chvíli a za určitých okolností.

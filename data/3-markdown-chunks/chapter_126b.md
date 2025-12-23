@@ -1,5 +1,4 @@
-
-6. Meze vlastnických práv a problém negativních
+Meze vlastnických práv a problém negativních
 
 a pozitivních externalit
 

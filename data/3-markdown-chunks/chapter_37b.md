@@ -1,9 +1,4 @@
-
-5. Důsledky dělby práce
-
-Dělba práce je výsledek vědomé reakce člověka na mnohotvárnost přírod-
-
-ních podmínek. Na druhou stranu je dělba práce sama o sobě faktorem, kterýzpůsobuje odlišování. Různým zeměpisným oblastem přiřazuje konkrétnífunkce v souhrnu všech výrobních procesů. Některé oblasti učiní městskými,jiné venkovskými; různá odvětví výroby, hornictví a zemědělství umísťuje dorůzných míst. Avšak ještě důležitější je skutečnost, že zesiluje vrozenounerovnost lidí.
+Některé oblasti učiní městskými,jiné venkovskými; různá odvětví výroby, hornictví a zemědělství umísťuje dorůzných míst. Avšak ještě důležitější je skutečnost, že zesiluje vrozenounerovnost lidí.
 
 Cvičení a praxe v konkrétních úlohách přizpůsobují jednotliv-ce, aby lépe splňovali požadavky, které na ně klade jejich práce; lidé rozvíjejíněkteré vrozené schopnosti a rozvoji jiných brání. Objevují se různé druhypovolání, lidé se specializují.
 
@@ -42,3 +37,17 @@ Jednou z výsad, jež společnost poskytuje jednotlivci, je výsada žít nehled
 na nemoci a invaliditu. Nemocná zvířata jsou odsouzena k záhubě. Jejich sla-bost je znevýhodňuje při pokusech najít potravu a odrazit útoky ze stranyjiných zvířat. Hluší, krátkozrací nebo zmrzačení divoši musí zahynout. Tako-vé vady však nepřipravují člověka o možnost přizpůsobit se životu ve společ-nosti. Většina našich současníků je postižena nějakými tělesnými vadami,které biologie považuje za patologické. Naše civilizace vděčí za svůj rozvoj dovelké míry právě takovým lidem.
 
 Eliminační síly přirozeného výběru jsouv podmínkách společnosti značně omezené. Proto někteří lidé říkají, že civi-lizace směřuje ke zhoršování kvality dědičných vlastností členů společnosti.
+
+Takové názory jsou oprávněné, pokud se někdo na lidstvo dívá očima šle-
+
+chtitele, který chce vyšlechtit lidskou rasu vybavenou určitými vlastnostmi.Ale společnost není chovná farma provozovaná za účelem produkce určitéhotypu lidí. Nelze stanovit žádnou „přirozenou“ normu, co je v biologické evo-
+
+14701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 147
+
+luci člověka žádoucí a co je nežádoucí. Každé zvolené kritérium je arbitrární,
+
+čistě subjektivní, je to zkrátka pouze hodnotový názor. Termíny zdokonalo-vaní rasy a degenerace rasy jsou nesmyslné, nejsou-li založeny na konkrét-ních plánech na budoucnost lidstva.
+
+Je pravda, že civilizovaný člověk je přizpůsobený životu ve společnosti,
+
+a nikoli životu lovců v panenských lesích.

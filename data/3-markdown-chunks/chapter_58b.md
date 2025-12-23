@@ -1,4 +1,3 @@
-
 Jedinou alternativou k tomuto finančnímu tlaku uplatňovanému trhem je
 
 přímý tlak a donucení, které vykonává policejní moc. Úřadům se musí svěřitúloha určovat množství a kvalitu práce, kterou každý jednotlivec musí vyko-nat. Jelikož jednotlivci nejsou z pohledu svých schopností stejní, vyžaduje to,

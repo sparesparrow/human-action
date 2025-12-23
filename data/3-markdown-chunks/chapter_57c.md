@@ -1,4 +1,3 @@
-
 Pokud vláda – společenský aparát nátlaku a donucení – omezuje vyko-nání násilí a hrozby pomocí takového násilí k potlačení protispolečenskéhojednání a předcházení mu, pak převažuje to, co se rozumně a smysluplněmůže nazývat svobodou. Potlačeno je pouze chování, jež by nutně rozložilospolupráci ve společnosti a civilizaci, a tím by uvrhlo všechny lidi zpět do pod-mínek, které existovaly v době, kdy z čistě zvířecí existence svých nelidskýchpředků povstal homo sapiens .
 
 Takové donucení nijak podstatně neomezuje

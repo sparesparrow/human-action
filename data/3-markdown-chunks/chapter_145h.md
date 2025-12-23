@@ -1,31 +1,4 @@
-
-65202_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 652
-
-Namítá-li někdo, že existuje konflikt mezi snahou o dosažení zisku růz-
-
-ných jedinců či mezi touto snahou jedinců na straně jedné a blahobytem nastraně druhé, nemůže se vyhnout volání po odstranění práva jednotlivců volita jednat. Musí nahradit úsudek občanů nadřazeností centrální komise pláno-vání výroby. Dobrá společnost z jejich pohledu nenabízí prostor svobodnéiniciativě. Vláda jednoduše jen vydává příkazy a všichni jsou přinuceni jeposlouchat.
-
-5. Význam laissez faire
-
-Ve Francii osmnáctého století představovala fráze laissez faire, laissez passer
-
-poučku, do které někteří bojovníci za svobodu shrnovali svůj program. Jejichcílem bylo vytvoření neomezované tržní společnosti. K dosažení tohoto cíleobhajovali zrušení veškerých zákonů bránících tvořivějším a schopnějšímlidem předčit méně tvořivé a méně schopné konkurenty a zákonů omezu-jících pohyb zboží a lidí. Právě tuto myšlenku měla tato známá fráze vy-jadřovat. V naší době prahnoucí po všemocnosti vlády je myšlenka laissez
-
-faire znevažována. Veřejné mínění ji v současnosti považuje za projev morál-
-
-ní zvrhlosti a maximální nevzdělanosti.
-
-Intervencionista vidí pouze dvě možnosti – „automatické síly“ nebo
-
-„záměrné plánování“.
-
-3Z toho vyvozuje, že spoléhání na automatické síly je
-
-zjevná hloupost. Žádný rozumný člověk přece nemůže vážně navrhovat nic-nedělání a ponechání věcí, aby se vyvíjely bez vlivu účelového jednání. Plánjako projev vědomého jednání je pak samozřejmě mnohem více žádoucí nežabsence jakéhokoli plánování. Laissez faire pak tedy v očích intervencionisty
-
-znamená: Ponechte zlo existovat, nepokoušejte se využít rozum k zlepšeníživota lidí.
-
-Těžko bychom objevili větší omyl. Argument pro plánování je odvozen od
+Argument pro plánování je odvozen od
 
 mylného výkladu metafory a stojí pouze na konotacích termínu „automatic-ký“, který je často používán v přeneseném slova smyslu k popsání tržníhoprocesu.
 
@@ -72,3 +45,29 @@ sorovým názorem, že je důležitější mít lepší domy než lepší kina. 
 za komfortní domy a byty, podnikatelé usilující o dosažení zisku by byli nuce-ni investovat více do stavby domů a bytovek a méně do výroby nákladnýchfilmů. Pan Laski se záměrně snaží postavit se přáním spotřebitelů a nahraditjejich vůli vůlí svou. Chtěl se zbavit demokracie trhu a nastolit absolutní vládujednoho člověka nad výrobou. Možná se domníval, že mu byla zjevena vyššípravda a že je jako nadčlověk povolán k tomu, aby uvalil své hodnoty na masypodřadných lidí.
 
 Pak by ale měl najít odvahu říci to na rovinu.
+
+Veškeré toto vášnivé uctívání dokonalosti vlády je jen mizerným masko-
+
+váním sebezbožštění každého intervencionisty. Báječný bůh Stát je báječným
+
+bohem pouze proto, že se od něj očekává, že bude dělat výlučně to, čeho chcekaždý jednotlivý obhájce intervencionismu dosáhnout. Opravdovým plánemje jen takový plán, se kterým plánovač zcela souhlasí. Všechny ostatní plányjsou prostě podvrhy. Když říká „plán“, má autor knihy o prospěšnosti plá-nování na mysli samozřejmě pouze svůj vlastní plán. Vůbec nebere do úvahy
+
+6547Srov. Laskiho vysílání, „Revolution by Consent“, přetištěno v Talks , X, č. 10 (říjen,
+
+1945), str. 7.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 654
+
+to, že plán, který uvede v život vláda, se od jeho plánu může lišit. Různí
+
+plánovači spolu souhlasí pouze v odmítání laissez faire , tj. individuálního
+
+rozhodování a jednání. Vůbec se neshodnou na volbě jednoho plánu, který byměl být přijat. Jsou-li jim ukázány zjevné a nepopiratelné vady interven-cionistických politik, reagují zastánci intervencionismu vždy stejně. Tytovady, říkají, byly výsledkem falešného intervencionismu; my však obhajuje-me dobrý intervencionismus, ne takovýto špatný intervencionismus. A sa-mozřejmě dobrým intervencionismem je ten, který propaguje samotný panprofesor.
+
+Laissez faire znamená: Nechme každého člověka volit a jednat; nenuťme jej
+
+podvolovat se diktátorovi.
+
+6. Přímý vládní zásah do spotřeby
+
+Při zkoumání ekonomických problémů intervencionismu se nemusíme
+
+zabývat těmi aktivitami vlády, jejichž cílem je okamžitě ovlivnit spotřebitel-skou volbu spotřebních statků. Každý vládní zásah do podnikání musí ne-přímo spotřebu ovlivnit. Vládní zásah totiž mění tržní data, a tak také musízměnit hodnocení a chování spotřebitelů.

@@ -215,4 +215,3 @@ kupní síla, argument, 276—277marxistická doktrína, 540—541minimální mz
 N
 
 Náboženství
-

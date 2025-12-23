@@ -49,3 +49,9 @@ Existující fiskální politiky všech zemí jsou dnes bez výjimky vedeny
 myšlenkou, že daně by měly být každému občanovi vyměřeny podle jeho„schopnosti platit“. Při úvahách, které následně vedly k všeobecnému přijetíprincipu zdanění podle „schopnosti platit“, hrála klíčovou úlohu pošetilámyšlenka, že větší zdanění bohatých než lidí s průměrnými příjmy učiní něja-kým způsobem daň neutrálnější. Avšak i kdyby tomu tak bylo, dnes je jisté,že jakýkoli odkaz na daňovou neutralitu byl velmi brzo zcela opuštěn.
 
 Principschopnosti platit získal na vážnosti jako postulát sociální spravedlnosti. Lidéna věc dnes nahlížejí tak, že fiskální a rozpočtové cíle zdanění jsou pouze dru-hořadé. Základní funkcí zdanění je reforma sociálních podmínek v souladuse spravedlností. Z tohoto pohledu se jako žádoucí jeví taková daň, jež je conejméně neutrální a co nejvíce slouží jako nástroj, jenž odchýlí výrobu a spo-třebu ze stavu, kam by ji zavedl neomezovaný trh.
+
+2. Úplná daň
+
+Myšlenka sociální spravedlnosti, jež je obsažena v principu platby daní dle
+
+schopnosti platit, má za cíl úplnou finanční rovnost všech obyvatel.

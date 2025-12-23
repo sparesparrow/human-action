@@ -39,8 +39,8 @@ class MarkdownChunker:
 
     def __init__(
         self,
-        input_dir: str = "/home/sparrow/projects/LidskeJednani/data/2-markdown-chapters",
-        output_dir: str = "/home/sparrow/projects/LidskeJednani/data/3-markdown-chunks",
+        input_dir: str = "data/2-markdown-chapters",
+        output_dir: str = "data/3-markdown-chunks",
         max_chunk_size: int = 5000,
     ):
         """
@@ -265,7 +265,7 @@ def main():
         "-i",
         "--input-dir",
         type=str,
-        default="/home/sparrow/projects/LidskeJednani/data/2-markdown-chapters",
+        default="data/2-markdown-chapters",
         help="Directory containing markdown chapter files",
     )
 
@@ -273,7 +273,7 @@ def main():
         "-o",
         "--output-dir",
         type=str,
-        default="/home/sparrow/projects/LidskeJednani/data/3-markdown-chunks",
+        default="data/3-markdown-chunks",
         help="Directory for output markdown chunks",
     )
 

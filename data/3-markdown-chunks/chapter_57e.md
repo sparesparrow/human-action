@@ -1,8 +1,3 @@
-
-Jezbytečné kritizovat nepodstatné, doprovodné rysy socialistického programu.Socialismus se nedá vyvrátit tím, že budeme útočit na postoj socialistů
-
-26101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 261
-
 k náboženství, manželství, antikoncepci a umění. Při zacházení s takovými
 
 věcmi se navíc kritikové socialismu často mýlili.

@@ -1,4 +1,3 @@
-
 To, co syndikalisté považují za nejvážnější problém kapitalistického systé-
 
 mu a co hanlivě označují za krutost a bezcitnost autokratických podnikatelůženoucích se za ziskem, je právě výsledkem nadřazenosti spotřebitelů. V pod-mínkách konkurence neomezovaného tržního hospodářství jsou podnikatelénuceni zdokonalovat výrobní technologie bez ohledu na existující zájmy pra-covníků. Zaměstnavatel je nucen nikdy neplatit pracovníkům více, než kolikje v souladu s ohodnocením jejich práce spotřebiteli.

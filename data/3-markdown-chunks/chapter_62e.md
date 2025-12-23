@@ -1,17 +1,4 @@
-
-Všechny druhy politik podporujících výrobce jsou obhajovány na základě
-
-jejich údajné schopnosti zvýšit členům strany životní úroveň. Protekcionis-
-
-29001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 290
-
-mus a hospodářská soběstačnost, nátlak a donucení odborových svazů, pra-
-
-covní zákonodárství, minimální mzdové sazby, veřejné výdaje, úvěrováexpanze, subvence a další nouzové prostředky jsou svými obhájci vždy dopo-ručovány jako nejvhodnější nebo jediné možné prostředky, jak zvýšit reálnýpříjem lidí, o jejichž hlasy se ucházejí. Každý současný státník nebo politikmonotónně říká svým voličům: můj program vás udělá tak zámožnými, nako-lik to jen podmínky dovolují, zatímco program mých protivníků vám přinesenouzi a bídu.
-
-Je pravda, že někteří izolovaní intelektuálové v ezoterických kruzích mluví
-
-jinak. Hlásí prioritu toho, co nazývají věčnými absolutními hodnotami, a vesvých prohlášeních – nikoli ve svém osobním chování – předstírají pohrdánísvětskými a pomíjivými věcmi. Veřejnost však takové projevy ignoruje. Hlav-ním cílem dnešního politického jednání je zajistit pro členskou základnu pří-slušné zájmové skupiny co nejvyšší materiální blahobyt. Jediný způsob, jakvůdce může uspět, je vštípit lidem přesvědčení, že jeho program sloužík dosažení tohoto cíle nejlépe.
+Veřejnost však takové projevy ignoruje. Hlav-ním cílem dnešního politického jednání je zajistit pro členskou základnu pří-slušné zájmové skupiny co nejvyšší materiální blahobyt. Jediný způsob, jakvůdce může uspět, je vštípit lidem přesvědčení, že jeho program sloužík dosažení tohoto cíle nejlépe.
 
 To, co je na politikách podporujících výrobce špatné, je jejich chybná eko-
 
@@ -50,3 +37,19 @@ Obchodní propagace musí být vlezlá a dotěrná. Jejím úkolem je přilákat
 pozornost pomalých lidí, probudit skrytá přání, lákat lidi, aby vyměnili nečin-nou oddanost tradiční rutinní praxi za inovaci. Aby reklama uspěla, musí býtpřizpůsobena mentalitě lidí, kterým nadbíhá. Musí odpovídat jejich chutíma mluvit jejich slovníkem. Reklama je ostrá, hlučná, hrubá a nabubřelá, pro-tože na uctivé náznaky veřejnost nereaguje. To, co inzerenty nutí ukazovatv reklamních kampaních špatný vkus, je špatný vkus lidí.
 
 Z umění reklamyse stal obor aplikované psychologie, sesterská disciplína pedagogiky.
+
+Stejně jako všechny věci, které jsou střiženy tak, aby vyhovovaly vkusu
+
+mas, je i reklama pro lidi s jemným citem odpuzující. Toto opovrženíovlivňuje přijetí obchodní propagace. Reklama a všechny ostatní metodyobchodní propagace jsou zavrhovány jako jeden z nejodpornějších výplodůneomezené konkurence. Měla by být zakázána. Spotřebitelům by měli raditnestranní odborníci. Tento úkol by měly plnit veřejné školy, „nestranický“ tiska družstva.
+
+Omezení práva obchodníků propagovat své zboží by omezilo svobodu spo-
+
+třebitelů utrácet svůj příjem podle vlastních přání a tužeb. Znemožnilo by jimto dozvědět se tolik, kolik mohou a chtějí, o stavu trhu a podmínkách, kterépro ně mohou být důležité při výběru co si koupit a co ne. Už by se nemohlirozhodovat na základě názoru, který si o prodejcově hodnocení jeho vlastní-ho zboží sami utvořili; byli by nuceni jednat na základě doporučení jinýchlidí. Není nepravděpodobné, že by je tito rádci uchránili před některými chy-bami.
+
+Ale individuální spotřebitel by byl v opatrovnictví poručníků. Jestliženení reklama omezená, jsou spotřebitelé v zásadě v postavení poroty, která se
+
+29201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 292
+
+o případu dozvídá na základě výslechu svědků a přímého vyšetřování všech
+
+ostatních důkazních prostředků.

@@ -1,7 +1,4 @@
-
-Dokonce vůbec nepřichází v úvahu dovést ima-ginární konstrukt rovnoměrně plynoucí ekonomiky až k jeho konečnýmlogickým důsledkům. Neboť je nemožné vyloučit z obrazu tržního hospodář-ství podnikatele. Různé výrobní faktory, které se doplňují, se nemohou spojitsamočinně. Musí být sloučeny účelovým jednáním lidí, kteří směřují k určitým
-
-cílům a jsou při tom motivováni touhou zlepšovat svůj stav uspokojení. Jestli-že vyloučíme podnikatele, vyloučíme hybnou sílu celého tržního systému.
+Jestli-že vyloučíme podnikatele, vyloučíme hybnou sílu celého tržního systému.
 
 Pak je tu ještě druhý nedostatek. V imaginárním konstruktu rovnoměrně
 
@@ -42,3 +39,7 @@ se – za fiktivních a neuskutečnitelných předpokladů, že se neobjeví ž�
 nové změny v datech – předpokládá, že vyvolá rovnoměrně plynoucí ekono-
 
 miku. Nevšímají si jednotlivého spekulanta, který si neklade za cíl ustavenírovnoměrně plynoucí ekonomiky, ale chce vytěžit užitek z jednání, kteréupravuje správu věcí tak, aby bylo možno lépe dosáhnout cílů, k nimž veške-ré jednání směřuje, tedy nejlepšího možného odstranění nespokojenosti.Zdůrazňují výhradně fiktivní stav rovnováhy, k němuž by celý souhrn všechtakových jednání dospěl, pokud by nedošlo k žádné další změně v danýchveličinách.
+
+Tuto fiktivní rovnováhu popisují soustavami simultánních dife-renciálních rovnic. Nevidí, že stav věcí, který studují, je stavem, v němž užneexistuje žádné jednání, ale pouze posloupnost událostí vyvolávanýchmytickým hnacím strojem. Veškeré své úsilí věnují popisu – v matematickýchsymbolech – různých „rovnovážných stavů“, tedy stavů klidu a neexistencejednání. Zacházejí s rovnováhou, jako by to byla skutečná věc, a ne omezují-cí představa, pouhý myšlenkový nástroj.
+
+To, co dělají, je jalovým hraním sis matematickými symboly, zábava, která není uzpůsobena ke zprostředková-ní znalostí.

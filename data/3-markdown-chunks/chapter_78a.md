@@ -45,3 +45,7 @@ týž efekt objevit znovu; žádný statek nemůže být používán jako prost�
 směny, pokud na samém počátku takového jeho užití neměl směnnou hod-notu, plynoucí z jiných užití. Všechna tato tvrzení, vyvozená z regresního teo-rému, jsou vždy platná, apodiktická, jak plyne z apriorismu praxeologie. Musí
 
 k tomu dojít tímto způsobem. Nikomu se nemůže podařit vykonstruovathypotetický příklad, v němž by se věci odehrály jinak.
+
+Kupní síla peněz je určována poptávkou a nabídkou, stejně jako v případě
+
+cen všech prodejných statků a služeb. Vzhledem k tomu, že jednání vždy mířík uspokojivějšímu stavu věcí v budoucnu, ten, kdo zvažuje získání nebo vzdá-ní se peněz, se především zajímá o jejich budoucí kupní sílu a budoucí struk-turu cen.

@@ -1,14 +1,3 @@
-
-Tento názor je neobhajitelný. Ve světě rostoucí kupní síly peněžní jednot-
-
-ky by se způsob myšlení každého jednotlivce přizpůsobil této situaci, stejnějako si každý v našem současném světě zvykl na klesající kupní sílu peněžníjednotky. Dnes je každý ochoten považovat růst svého nominálního nebo
-
-42101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 421
-
-peněžního důchodu za zlepšení své hmotné situace. Pozornost lidí se sou-
-
-středí spíše na růst nominálních mzdových sazeb a peněžního vyjádřeníbohatství než na zvýšení nabídky statků. Ve světě rostoucí kupní síly peněž-ní jednotky by se zajímali spíše o pokles životních nákladů. To by zvýraznilofakt, že hospodářský pokrok spočívá především ve stále větší dostupnostivěcí, které činí život příjemnějším.
-
 Pro podnikání nehraje vývoj cen ve velmi dlouhém období žádnou roli.
 
 Podnikatelé a investoři se nestarají o cenové trendy během staletí. Jejich jed-nání je ovlivňováno jejich názory na vývoj cen v nejbližších týdnech, měsí-cích, nebo nanejvýše letech. Nestarají se o celkový vývoj veškerých cen. Proně je podstatná pouze existence rozdílů mezi cenami komplementárníchvýrobních faktorů a očekávanými cenami jejich výrobků. Žádný podnikatelse nepouští do výrobního procesu proto, že by věřil v růst cen, tj. cen všech
@@ -66,3 +55,21 @@ naprostý rozvrat měnového systému.
 5. Deflační politika je nákladná pro státní pokladnu a neoblíbená u lidí.
 
 Inflační politika je naopak pro státní pokladnu pravým požehnáním a oblíbe-ná těmi, kdo věci nerozumí. V praxi je nebezpečí deflace pouze nepatrné,zatímco nebezpečí inflace obrovské.
+
+19. Zlatý standard
+
+Lidé si vybrali vzácné kovy, zlato a stříbro, pro peněžní účely kvůli jejich
+
+mineralogickým, fyzikálním a chemickým vlastnostem. Užití peněz v tržnímhospodářství je praxeologicky nutnou skutečností. To, že je jako peníze uží-váno zlato – a ne něco jiného –, je pouze historická skutečnost a jako takovánemůže být vyvozena z praxeologie. Stejně jako ve všech jiných sférách his-torie, i v peněžních dějinách musí člověk historii porozumět. Pokud shledávázalíbení v tom, že zlatý standard nazývá „barbarským přežitkem“,
+
+28nesmí se
+
+ohrazovat proti stejnému pojmenování všech historicky určených institucí.Potom je skutečnost, že Britové mluví anglicky – a ne dánsky, německy, nebofrancouzsky –, taktéž barbarským přežitkem a každý Brit, který se bránínahrazení angličtiny esperantem, není o nic méně dogmatický a ortodoxnínež ti, kdo o plánu řízené měny nemluví s nadšením.
+
+42327Citováno z International Clearing Union, Text of a Paper Containing Proposals by British
+
+Experts for an International Clearing Union ,April 8, 1943 (vyd. British Information
+
+Services, an Agency of the British Government), str. 12.
+
+28Lord Keynes ve svém projevu před Sněmovnou lordů, 23.

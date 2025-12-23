@@ -1,7 +1,4 @@
-
-Praxeologie jako věda nemůže zasahovat do individuálního práva vybrat si
-
-a jednat. Konečné rozhodnutí je na jednajících lidech, nepatří teoretikům.Přínos vědy pro život nespočívá ve stanovení hodnotových ocenění, alev objasnění podmínek, za nichž člověk musí jednat, a v objasnění důsledkůrůzných způsobů jednání. Dává jednajícímu člověku k dispozici všechnyinformace, které potřebuje, aby se mohl rozhodnout s plným vědomímdůsledků. Připravuje jakýsi odhad nákladů a zisků.
+Konečné rozhodnutí je na jednajících lidech, nepatří teoretikům.Přínos vědy pro život nespočívá ve stanovení hodnotových ocenění, alev objasnění podmínek, za nichž člověk musí jednat, a v objasnění důsledkůrůzných způsobů jednání. Dává jednajícímu člověku k dispozici všechnyinformace, které potřebuje, aby se mohl rozhodnout s plným vědomímdůsledků. Připravuje jakýsi odhad nákladů a zisků.
 
 V této úloze by vědaselhala, kdyby z tohoto výkazu musela vypustit některou z položek, kterémohou ovlivnit výběr a rozhodování lidí.
 

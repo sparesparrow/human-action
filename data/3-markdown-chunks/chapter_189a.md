@@ -163,4 +163,3 @@ Praxeologie
 apriorismus, 31—6, 372definice, 3, 12, 15, 20—31, 58—60, 579—581ekonomie a, 15, 20, 58, 86, 162, 165—6,202, 211, 623, 790—791historie a, 26, 29—31liberalismus, 136—139lidské jednání a, 3, 29—37metoda, 20, 24—5, 39, 217—8, 368polylogismus, 69předpovědi, 106psychologie, 12, 118svoboda a, 257—262útok na, 4—5zákony, 682
 
 Primitivní člověk, 22, 34
-

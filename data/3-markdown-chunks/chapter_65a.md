@@ -83,3 +83,7 @@ kem, firmou, společností nebo institucí, ale několika vlastníky, kteří ch
 částí kartelové dohody je přidělení konkrétních kvót jednotlivým partnerům.Umění vytvářet kartely spočívá ve schopnosti dosáhnout dohody o kvótách.Kartel se zhroutí, jakmile členové už nejsou ochotni držet se dohody o kvó-tách. Pouhé řeči vlastníků statku mo tom, že vyšší ceny jsou žádoucí, k niče-
 
 mu nevedou.
+
+Stav věcí, který umožňuje vznik monopolních cen, je zpravidla navozen
+
+vládními politikami, např.

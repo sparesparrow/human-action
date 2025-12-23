@@ -1,7 +1,4 @@
-
-Jak bylo ukázáno výše, vznik přebytku celkového součtu podnikatelských
-
-zisků nad celkovým součtem podnikatelských ztrát je neoddělitelně spojen seskutečností, že část výhod odvozených ze zvýšení množství volných kapitálo-vých statků a ze zlepšení technologických postupů přechází na nepodnika-telské skupiny. Růst cen komplementárních výrobních faktorů, jako prvnímezi nimi mzdových sazeb, není ani výsada, kterou podnikatelé musí chtěnechtě poskytnout zbylým lidem, ani chytrý nástroj podnikatelů k dosahová-ní zisku.
+Růst cen komplementárních výrobních faktorů, jako prvnímezi nimi mzdových sazeb, není ani výsada, kterou podnikatelé musí chtěnechtě poskytnout zbylým lidem, ani chytrý nástroj podnikatelů k dosahová-ní zisku.
 
 Je to nevyhnutelný a nutný jev v řetězci postupných událostí, kterýmusí nutně zapříčinit úsilí podnikatelů dosáhnout zisku přizpůsobenímnabídky spotřebního zboží novému stavu věcí. Tentýž proces, který vedek přebytku podnikatelského zisku nad podnikatelskými ztrátami, způsobujenejdříve – tj. předtím, než se tento přebytek objeví – vznik tendence k růstumzdových sazeb a cen mnoha hmotných výrobních faktorů.
 
@@ -44,3 +41,5 @@ Je důležité pochopit, jak se problém, který máme na mysli, liší od techn
 kých úkolů techniků. Uskutečnění každého projektu, do něhož se podnikatelpouští při svém rozhodování v souladu s generálním plánem jednání, vyža-duje velké množství okamžitých rozhodnutí. Všechna tato rozhodnutí musíbýt uskutečněna tak, aby preferovala takové řešení problému, které je – anižby bylo v rozporu se záměry generálního plánu na celý projekt – co nejhos-podárnější. Musí se vyhnout zbytečným nákladům, stejně jak to dělá gene-rální plán.
 
 Technik ze svého čistě technického pohledu buď nevidí žádnýrozdíl mezi možnostmi nabízenými různými metodami pro řešení takovédrobnosti, nebo může dát jedné z těchto metod přednost kvůli jejímu větší-mu výkonu ve fyzikálních jednotkách. Podnikatel je však poháněn motivemzisku. Ten mu přikazuje, aby dal přednost nejhospodárnějšímu řešení, tj.tomu řešení, které se vyhýbá využití výrobních faktorů, jejichž zapojení byohrozilo uspokojení silněji pociťovaných potřeb spotřebitelů.
+
+Mezi různýmimetodami dá přednost takové, k níž jsou technici neteční, totiž té, jejíž vyu-žití vyžaduje nejmenší náklady. Může zamítnout doporučení techniků vybratdražší metodu, která zajistí větší fyzický výkon, pokud jeho kalkulace ukazu-je, že zvýšení výkonu by nevyvážilo nárůst potřebných nákladů.

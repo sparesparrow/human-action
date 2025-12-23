@@ -1,15 +1,4 @@
-
-Péče o ty jedince, kterým se nedostává vlastních prostředků k přežití
-
-a není o ně postaráno ze strany příbuzných, byla dlouho považována za cíldobročinnosti. Potřebné prostředky někdy poskytly vlády, častěji ale pochá-zely z dobrovolných příspěvků. Katolické řády a kongregace a některé pro-testantské instituce dokázaly divy při získávání takovýchto darů a jejichnáležitém využití. Dnes navíc existuje celá řada necírkevních organizací, ježsi s nimi konkurují v této ušlechtilé činnosti.
-
-Systém charity je kritizován ze dvou důvodů. Prvním je nedostatečnost
-
-dostupných prostředků. Čím víc se ale kapitalismus rozvíjí a zvyšuje bohat-ství, tím více prostředků je možné věnovat na charitu. Lidé jsou jednak ochot-nější poskytovat dary v souladu se zlepšením jejich vlastního blahobytu. Nadruhou stranu zároveň klesá počet lidí, kteří pomoc potřebují. I pro lidis nevelkými příjmy se totiž otevírá možnost prostřednictvím pojištění a úsporzajistit se pro případ nehod, nemoci, stáří, vzdělání vlastních dětí a pro pří-pad ovdovění či osiření.
-
-Je velmi pravděpodobné, že zdroje dobročinných organizací by v kapitalis-
-
-tických zemích byly dostatečné, kdyby intervencionismus nemařil klíčovéinstituce tržního hospodářství. Úvěrová expanze a inflační nárůst množstvípeněz maří plány „obyčejného člověka“ spořit a vytvářet rezervy na horšíčasy. Ostatní formy intervencionismu ale nejsou o nic škodlivější pro zájmypříjemců mezd a zaměstnanců, živnostníků a vlastníků malých podniků.Stále tak roste počet lidí, kteří se dostali do péče charitativních organizacípouze z toho důvodu, že je tam vehnal intervencionismus.
+Úvěrová expanze a inflační nárůst množstvípeněz maří plány „obyčejného člověka“ spořit a vytvářet rezervy na horšíčasy. Ostatní formy intervencionismu ale nejsou o nic škodlivější pro zájmypříjemců mezd a zaměstnanců, živnostníků a vlastníků malých podniků.Stále tak roste počet lidí, kteří se dostali do péče charitativních organizacípouze z toho důvodu, že je tam vehnal intervencionismus.
 
 Zároveň inflacea pokusy snižovat úrokovou míru pod potenciální tržní míry v podstatěvyvlastňují fondy vložené do nemocnic, azylových domů, sirotčinců a obdob-ných zařízení. Pokud si propagandisté blahobytu stěžují na nedostatek pro-středků dostupných pro poskytování pomoci, stěžují si na jeden z důsledkůpolitik, jež sami zastávají.
 
@@ -42,3 +31,21 @@ Metafyzické argumenty vznesené ve prospěch takovéhoto práva na výživu
 jsou založeny na doktríně přirozených práv. Všichni lidé jsou si před Bohemrovni a vybaveni nezcizitelným právem na život. Odkaz na vrozenou rovnostvšak není namístě při analýze dopadů vrozené nerovnosti. Je smutnou sku-tečností, že fyzická invalidita brání mnohým lidem v tom, aby mohli hrátaktivní úlohu v rámci společenské kooperace. Tyto lidi vylučuje ze společen-ské spolupráce fungování zákonů přírody. Jsou nevlastními dětmi Boha či pří-rody.
 
 Můžeme se zcela ztotožnit s náboženským a etickým učením, kterévyhlašuje, že je povinností člověka pomoci svému nešťastnému bratru, jemužpříroda nepřála. Uznání této povinnosti ale nedává odpověď na otázku,jakým způsobem by k tomu mělo dojít. Nepředepisuje volbu způsobů, kteréby ohrozily společnost a omezily produktivitu lidského úsilí. Ani tělesněschopní, ani postižení by neměli příliš užitku z poklesu množství dostupnýchstatků.
+
+Problémy, o nichž hovoříme, nejsou praxeologické povahy a ekonomie
+
+nám nemůže nabídnout jejich nejlepší možné řešení. Týkají se patologiea psychologie. Mají co do činění s biologickým faktem, že strach z chudoby
+
+75202_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 752
+
+a potupnost vyživování dobročinnými organizacemi hrají významnou úlohu
+
+v uchování fyziologické rovnováhy člověka. Vedou člověka k tomu, aby siuchoval vitalitu, vyhýbal se nemocem a úrazům a co nejrychleji se zotavilz utržených zranění. Zkušenosti systému sociálního zabezpečení, obzvláštěnejstaršího a nejúplnějšího systému německého, jasně ukazují nežádoucídůsledky plynoucí z odstranění těchto motivací.
+
+1Žádná civilizovaná společ-
+
+nost bezcitně nenechávala invalidy zemřít. Nahrazení charitativní pomociprávně vynutitelným nárokem na podporu a výživu se nezdá být v souladus existující lidskou přirozeností. Nikoli metafyzické předsudky, ale otázkypraktického fungování naznačují, že není záhodno zavádět trestně vymaha-telné právo na to, být vyživován.
+
+Krom toho je mylné domnívat se, že přijetí takových zákonů zbaví lidi
+
+v nouzi ponižujícího pocitu spojeného s přijímáním almužny. Čím štědřejší tytozákony budou, tím přísnější musí být jejich fungování.

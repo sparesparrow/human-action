@@ -1,7 +1,4 @@
-
-Složité problémy jsou čistě intelektuálního rázu a musí se s nimi tak zachá-
-
-zet. Je zhoubné přesouvat je do morální oblasti a zbavovat se stoupenců pro-tichůdných ideologií tím, že je nazýváme darebáky. Je marné tvrdit, že to,k čemu směřujeme, je dobré a to, co chtějí naši protivníci, je špatné. Otázka,kterou je třeba řešit, je právě, co má být považováno za dobré a co za zlé. Tuhýdogmatismus charakteristický pro náboženské skupiny a pro marxismus
+Je zhoubné přesouvat je do morální oblasti a zbavovat se stoupenců pro-tichůdných ideologií tím, že je nazýváme darebáky. Je marné tvrdit, že to,k čemu směřujeme, je dobré a to, co chtějí naši protivníci, je špatné. Otázka,kterou je třeba řešit, je právě, co má být považováno za dobré a co za zlé. Tuhýdogmatismus charakteristický pro náboženské skupiny a pro marxismus
 
 16601_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 166
 
@@ -48,3 +45,5 @@ tence, je právě skutečnost, že se mu nedostává zdrženlivosti a jde do ext
 Existují psychiatři, kteří nazývají duševně chorými Němce, kteří se přihlá-
 
 sili k principům nacismu, a chtějí je vyléčit terapeutickými metodami. I zdese setkáváme se stejným problémem. Nacistické doktríny jsou zvrácené, alenijak podstatně se neliší od ideologií socialismu a nacionalismu, které jsouschvalovány veřejným míněním jiných lidí. To, čím se nacismus lišil, bylopouze důsledné použití těchto ideologií na zvláštní podmínky Německa. Stej-ně jako všechny ostatní současné národy toužili nacisté po státní kontrolepodnikání a hospodářské soběstačnosti, tj.
+
+autarkii, pro svůj vlastní národ.Jejich politiku odlišovalo to, že se odmítli smířit s nevýhodami, které by jimzpůsobily jiné národy, kdyby přijaly stejný systém.

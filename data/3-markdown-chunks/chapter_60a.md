@@ -49,3 +49,9 @@ přináší vyšší produktivitu jejich statků, lesů, rybářství, dolů a t
 Ve skupině námezdních pracovníků mají všichni trvalý zisk ze zvýšení
 
 mezní produktivity práce. Na druhé straně však někteří z nich mohou býtv krátké době poškozeni. Jsou to lidé, kteří se specializovali na vykonáváníprací, jež budou překonány v důsledku technologického zlepšení, a kteří sehodí pouze pro práce, v nichž si vydělají – přes obecný růst mzdových sazeb –méně než předtím.
+
+27101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 271
+
+Všechny tyto změny cen výrobních faktorů nastávají okamžitě se zaháje-
+
+ním podnikatelských opatření určených k přizpůsobení výrobních procesůnovému stavu věcí. Když se zabýváme tímto problémem, stejně jako ostatní-mi problémy změn tržních dat, musíme se vyvarovat oblíbeného omylu, že jemezi krátkodobými a dlouhodobými důsledky vedena ostrá hranice.

@@ -1,9 +1,4 @@
-
-6. Vliv minulosti na jednání
-
-Čím dále pokročila akumulace kapitálových statků, tím větším problémem
-
-se stává jejich převoditelnost. Primitivní metody zemědělců a řemeslníkůminulých dob mohly být snadněji přizpůsobeny novým úkolům než moderníkapitalistické metody. Avšak právě moderní kapitalismus musí čelit náhlýmzměnám podmínek. Změny technologických znalostí a poptávky spotřebite-lů, k nimž v naší době dochází denně, způsobují zastarávání mnohých plánůřídících výrobní procesy a vyvolávají otázku, zda by měly být i nadále sledo-vány nebo nikoli.
+Změny technologických znalostí a poptávky spotřebite-lů, k nimž v naší době dochází denně, způsobují zastarávání mnohých plánůřídících výrobní procesy a vyvolávají otázku, zda by měly být i nadále sledo-vány nebo nikoli.
 
 Lidí se může zmocnit duch rozsáhlé inovace, může zvítězit nad překážka-
 
@@ -38,3 +33,17 @@ Musíme buďvelkou část dostupných kapitálových statků nechat nevyužitou 
 Při svém výběru mezi starým bytem a novým bytem, vybaveným veš-kerými zařízeními pro pohodlný život, mezi železnicí a automobilem, meziplynovým a elektrickým světlem, mezi bavlnou a výrobky z umělého hedvá-bí, mezi punčochami z hedvábí a nylonu nepřímo volí mezi dalším užívánímdříve naakumulovaných kapitálových statků a jejich sešrotováním.
 
 Pokudnení stará budova, jež by mohla být obývána ještě celé roky, předčasně zbo-řena a nahrazena moderním domem, protože nájemníci nejsou ochotni platitvyšší nájemné a dávají přednost uspokojení jiných potřeb před bydlenímv pohodlnějším bytě, je zjevné, jak je současná spotřeba ovlivněna podmín-kami v minulosti.
+
+Skutečnost, že ne každé technologické zlepšení je okamžitě použito ve
+
+všech možných užitích, je stejně jasná jako to, že ne všichni vyhazují svá staráauta nebo staré oblečení okamžitě poté, co se na trhu objeví lepší auto nebo
+
+45501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 455
+
+přijdou do módy nové vzory. Ve všech těchto případech jsou lidé motivováni
+
+vzácností dostupných statků.
+
+Je sestrojen nový stroj, výkonnější než ty používané před ním. To, zda
+
+továrny, vybavené méně výkonnými stroji, tyto stroje nahradí novým mode-lem i přesto, že jsou stále použitelné, záleží na stupni nadřazenosti novéhostroje.

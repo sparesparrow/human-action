@@ -1,42 +1,3 @@
-
-Může se stát, že se – za nezměněných předpokladů – objeví dočasný
-
-nesoulad mezi platbami z Ado B azBdo A. Poté se lze vyhnout přesunu zlata
-
-mezi těmito oblastmi pouze tím, že dojde k úvěrovým operacím. Pokud můžedovozce, který má dnes zaplatit z oblasti Ado oblasti B, koupit na devizovém
-
-trhu nároky vůči obyvatelům Bsplatné za devadesát dnů, může si ušetřit
-
-náklady spojené s přepravou zlata tím, že si na devadesát dnů vypůjčí sumu,již má zaplatit. Obchodníci na devizovém trhu sáhnou po tomto náhradnímřešení, pokud náklady na půjčení si v oblasti Bnepřevýší náklady na půjčení
-
-si v oblasti Ao více než dvojnásobek nákladů na přepravu zlata. Pokud jsou
-
-přepravní náklady zlata 1/8 procenta, budou ochotni zaplatit za tříměsíčnípůjčku v Bnejvýše o 1 procento (per annum) více, jako úrok odpovídající tako-
-
-vé úrovni úrokové míry na peněžním trhu, při níž – za předpokladu nepří-tomnosti takových požadavků pro platby mezi oblastmi – budou mezi AaB
-
-uskutečněny úvěrové operace.
-
-Tyto skutečnosti je možné vyjádřit tvrzením, že denní stav platební bilan-
-
-ce mezi AaBurčuje denní bod, v němž je – v mezích stanovených bodem
-
-vývozu a bodem dovozu zlata – směnný kurz měn stanoven. Nesmíme ovšemzapomenout, že toto nastane pouze v případě, nezamýšlejí-li obyvatelé AaB
-
-změnit objem hotovosti ve svém držení. Pouze tehdy se totiž lze zcela vyhnoutpřevodu zlata a udržet směnný kurz měn mezi body dovozu a vývozu zlata.Pokud chtějí obyvatelé oblasti Aomezit objem hotovosti ve svém držení a oby-
-
-vatelé oblasti Bho chtějí zvýšit, musí být zlato přepraveno z Ado Ba kurz v B
-
-pro telegrafický převod dosáhne v Abodu vývozu zlata. Potom je posláno
-
-zlato z Ado Bstejným způsobem, jako je pravidelně převážena bavlna mezi
-
-Spojenými státy a Evropou. Kurz pro telegrafický převod v B dosáhne bodu
-
-vývozu zlata, protože obyvatelé Aprodávají zlato obyvatelům B, ne proto, že
-
-je jejich platební bilance nepříznivá.
-
 Vše uvedené platí pro jakékoli platby uskutečněné mezi různými místy.
 
 Nehraje žádnou roli, jestli zapojená města patří do stejného nezávislého státu,nebo do různých nezávislých národů. Vládní zásahy však tyto podmínkyznačně změnily. Všechny vlády vytvořily nejrůznější instituce, jež znemožňu-jí obyvatelům daných zemí činit platby mezi oblastmi v jedné zemi za paritnícenu.
@@ -62,3 +23,27 @@ Nezáleží na tom, zda tyto různé druhy peněz existují společně na stejn�
 Změny v kupní síle se ve vztahu k různým statkům a službám neobjevují
 
 ve stejném okamžiku. Uvažujme znovu prakticky velmi významný případinflace pouze v jedné zemi. Zvýšení množství domácích úvěrových peněznebo neplnohodnotných peněz ovlivní nejprve ceny některých statků a slu-žeb. Ceny ostatních statků zůstanou po nějaký čas na stejné úrovni. Směnnýkurz mezi domácí měnou a zahraničními měnami je určován na devizovéburze, trhu organizovaném a řízeném podle pravidel a obchodních zvykůburzy cenných papírů.
+
+Obchodníci na tomto zvláštním trhu jsou při předví-dání budoucích změn rychlejší než zbytek lidí. V důsledku toho odráží ceno-vá struktura devizového trhu nový peněžní vztah dříve než ceny mnohýchstatků a služeb. Jakmile domácí inflace začne jakkoli ovlivňovat ceny někte-rých statků a dlouho předtím, než se její dopady na většinu cen statků a slu-žeb vyčerpají, ceny zahraničních měn porostou až do bodu odpovídajícíhokonečnému stavu domácích cen a mzdových sazeb.
+
+Tato skutečnost byla vykládána zcela mylně. Lidé si nebyli schopni uvědo-
+
+mit, že nárůst směnných kurzů pouze předvídá pohyb domácích cen statků.Vysvětlovali prudký růst kurzů jako výsledek nepříznivé platební bilance.Tvrdili, že poptávka po zahraniční měně byla zvýšena zhoršením obchodníbilance nebo jiných položek platební bilance, nebo jednoduše špinavými int-rikami části nevlasteneckých spekulantů. Čím vyšší jsou ceny zahraničníchměn, tím více vzrostou domácí ceny dovážených statků. Ceny domácích
+
+41001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 410
+
+výrobků musí udělat totéž, protože jinak by jejich nízká úroveň přiměla pod-
+
+nikatele, aby je stáhli z domácí spotřeby a prodali se ziskem v zahraničí.
+
+Je jednoduché ukázat omyly obsažené v této rozšířené doktríně. Pokud
+
+nebyl nominální důchod domácích obyvatel zvýšen inflací, budou nuceniomezit svoji spotřebu buď dovážených, nebo domácích výrobků. V prvním pří-padě by se snížily dovozy, ve druhém by se zvýšily vývozy. Tak by se obchod-ní bilance vrátila zpět k tomu, co merkantilisté nazývají příznivým stavem.
+
+Jsou-li merkantilisté zahnáni do úzkých, nemohou jinak než připustit, že
+
+je tato úvaha přesvědčivá. Ale, jak říkají, týká se pouze obchodu za normál-ních podmínek. Nebere prý v úvahu takovou situaci, ve které země musídovážet nezbytně nutné statky, jako jsou například potraviny nebo základnísuroviny. Dovoz těchto statků nemůže být zredukován pod určité minimum.Jsou dováženy bez ohledu na to, jakou cenu je za ně nutné zaplatit.
+
+Pokudnemůže být zahraniční měna nutná pro jejich dovoz obstarána odpovídajícímobjemem vývozu, obchodní bilance se stává nepříznivou a směnné kurzy ros-tou stále výše.
+
+Tento argument je stejně klamný jako ostatní merkantilistické představy.

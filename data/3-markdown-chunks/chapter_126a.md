@@ -49,3 +49,5 @@ to opětovného oživení známého úsloví madame de Pompadour après nous le
 déluge , po nás potopa – využitého v nejvážnější krizi západní civilizace. Bude
 
 se muset ukázat, jak byl tento slogan vítaný pro vlády a strany, jejichž politi-ky směřovaly ke spotřebovávání duchovního i materiálního kapitálu zdědě-ného po dřívějších generacích.
+
+6.

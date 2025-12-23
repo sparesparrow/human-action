@@ -1,6 +1,3 @@
-
-Teorém časové preference musí být demonstrován dvojím způsobem. Nej-
-
 prve pro případ prostého spoření, při němž si lidé musí vybrat mezi bezpro-střední spotřebou určitého množství statků a pozdější spotřebou stejnéhomnožství. A dále pro případ kapitalistického spoření, při němž je nutné volitmezi dnešní spotřebou určitého množství statků a pozdější spotřebou buďvětšího množství, nebo statků schopných poskytnout uspokojení, jež je –odhlédnuto od časového rozdílu – hodnoceno výše. Důkaz byl podán pro obapřípady. Žádný jiný případ není myslitelný.
 
 Je možné hledat psychologické porozumění problému časové preference.

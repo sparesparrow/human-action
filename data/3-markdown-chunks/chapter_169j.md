@@ -1,30 +1,3 @@
-
-Tento text je tvořen několika částmi. Část prvá popisuje vývoj mengerov-
-
-ského přístupu k teorii cen až do první světové války, kdy dosáhla svéhovrcholu z pohledu mezinárodního vlivu. Druhá část zachycuje překvapivě
-
-7951Pozornost ekonomů se k teorii cen (dnes označované jako „mikroekonomie“) obrá-
-
-tila po marginalistické revoluci (1871). Teorie cen je tak základem moderní ekono-mie (pozn. překl.).02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 795
-
-prudký úpadek toho přístupu a nabízí jeho čtyři možná vysvětlení, včetně
-
-dvou základních teoretických nedostatků, jež nebyly dvěma prvními gene-racemi mengerovců vyřešeny. Misesův osamocený boj za oživení menge-rovského přístupu, započatý v polovině 30. let a vrcholící s vydáním Lidského
-
-jednání v roce 1949, je obsahem třetí části. V této části je také předložen alter-
-
-nativní pohled na tvrzení, že rakouská ekonomie byla na vrcholu v polovině30. let, kdy byla náhle a tragicky pohřbena „keynesovskou lavinou“.
-
-Mengerovská tradice před první světovou válkou
-
-Abychom plně docenili význam Misesova příspěvku, je nutné zevrubně pro-
-
-zkoumat směr vývoje čisté ekonomické teorie od počátku 70. let 19. století ažpo 30. léta století dvacátého. Z marginalistické revoluce v 70. letech vycházejítři navzájem rozdílné přístupy k teorii cen. Léon Walras se pokoušel vysvětlitutváření cen podobným způsobem, jako to v případě jiných jevů činí astrono-mie a klasická mechanika. Explicitně formuloval „stav trhu jako všeobecnýproblém statické rovnováhy popsané soustavou rovnic“ (Ingrao a Israel 1990,str. 92).
-
-Walrasův koncept všeobecné rovnováhy byl sice nepochybně systema-tický, ovšem také bezčasový a mechanický, a tudíž neschopný vytvořit teoriivysvětlující cenové procesy skutečného světa, tedy současné, a nutně nerovno-vážné, peněžní ceny generované tržními procesy v minulosti.
-
-Naproti tomukoncept dílčí rovnováhy vytvořený Alfredem Marshallem obsahoval zavádějícípokus o zajištění realističnosti v ekonomické teorii tím, že namísto analýzyzákladních příčin cenových a nákladových jevů pomocí spotřebitelových volebpřijal povrchní zájem klasických ekonomů o podnikatele.
-
 Tento přístup, nahony vzdálený zajištění větší realističnosti, vedl ke zkoumání tvorby jednotli-vých izolovaných cen, čímž došlo k ignorování nebo bagatelizaci všeobecnévzájemné závislosti mezi všemi hodnotami a cenami ve skutečné ekonomice.
 
 Mengerův přístup se značně odlišoval jak od Walrasova, tak od Marshal-

@@ -69,3 +69,7 @@ plynoucí ekonomiky je míra čistého úroku jednotná. V celém systému exist
 Předpokladem rovnoměrně plynoucí ekonomiky jsou neutrální peníze.
 
 Protože však peníze nemohou být nikdy neutrální, vznikají specifické pro-blémy.
+
+Pokud se mění peněžní vztah – tj. poměr mezi poptávkou a nabídkou
+
+peněz za účelem jejich držení v podobě hotovosti –, jsou ovlivněny ceny všechstatků a služeb. Tyto změny však neovlivňují ceny různých statků a služeb vestejném okamžiku a ve stejné míře.

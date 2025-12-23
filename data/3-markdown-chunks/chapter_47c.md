@@ -1,16 +1,3 @@
-
-V učení Karla Marxe a jeho následovníků je nedostatek pouze historickou
-
-kategorií. Je to rys pravěké historie lidstva, který bude navždy zlikvidován, ažse zruší soukromé vlastnictví. Jakmile lidstvo uskuteční krok z říše nutnosti
-
-21501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 215
-
-do říše svobody1, a tím dosáhne „vyšší fáze komunistické společnosti“, nasta-
-
-ne hojnost a v důsledku toho bude možné dát „každému podle jeho potřeb“.2
-
-V obrovské záplavě marxistických spisů není ani nejmenší zmínka o mož-nosti, že by komunistická společnost ve své „vyšší fázi“ mohla čelit nedo-statku přírodních výrobních faktorů. Fakt o zbytečnosti práce je odčarovántvrzením, že pracovat – samozřejmě za komunismu – už nebude námahou,ale radostí, „první životní potřebou“.
-
 3Nepříjemné zkušenosti z ruského
 
 „experimentu“ jsou interpretovány tak, že jsou způsobeny nepřátelstvímkapitalistů, skutečností, že socialismus v jediné zemi ještě není dokonalý,a proto dosud nebyl schopen zavést svou „vyšší fázi“, a nově také válkou.
@@ -58,3 +45,9 @@ Imaginární konstrukt je koncepční představa posloupnosti událostí, které
 se logicky odvíjejí z prvků jednání použitého při jejím utváření. Je plodemdedukce, ve své podstatě odvozeným od základní kategorie jednání, aktemupřednostňování a odmítání. Při tvorbě takového imaginárního konstruktu seekonom nezabývá otázkou, zda zobrazuje či nezobrazuje podmínky skuteč-nosti, kterou chce analyzovat. Nestará se ani o otázku, zda takový systém,jaký jeho imaginární konstrukt předpokládá, může či nemůže být považovánza systém, který skutečně existuje a funguje.
 
 Dokonce i imaginární konstruk-ty, které jsou nepředstavitelné, samy sobě odporující a neuskutečnitelné,mohou poskytovat užitečné, dokonce nepostradatelné služby pro porozumě-ní realitě, jestliže ekonom ví, jak je správně použít.
+
+Metoda imaginárních konstruktů je opodstatněna svým úspěchem. Praxe-
+
+ologie nemůže – jako přírodní vědy – zakládat své učení na laboratorníchexperimentech a na smyslovém vnímání vnějších objektů. Musela si vyvinoutmetody, které jsou zcela odlišné od metod fyziky a biologie. Bylo by vážnýmomylem hledat analogie k imaginárním konstruktům v oblasti přírodníchvěd. Praxeologické imaginární konstrukty nemohou být nikdy konfrontoványse žádnou zkušeností s vnějšími věcmi a nikdy nemohou být z pohledu tako-vé zkušenosti hodnoceny.
+
+Jejich funkcí je sloužit člověku při zkoumání,v němž se nemůže spolehnout na své smysly. Při porovnávání imaginárníchkonstruktů se skutečností si nemůžeme klást otázku, zda odpovídají zku-šenosti a náležitě popisují empirická data.

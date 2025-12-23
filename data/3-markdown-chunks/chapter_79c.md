@@ -1,5 +1,4 @@
-
-Změny kupní síly peněz vyvolávají změnyv rozložení bohatství mezi různými členy společnosti. Z pohledu lidí, již sechtějí na takových změnách obohatit, se může zdát zásoba peněz nedostateč-ná nebo přebytečná, a tato jejich touha může vyústit v politiky způsobujícívýkyvy kupní síly vyvolané hotovostí. Avšak služby, které peníze vykonávají,nemohou být ani vylepšeny, ani posíleny úpravami nabídky peněz. Může seobjevit přebytek nebo nedostatek peněz v držbě jednotlivce.
+Avšak služby, které peníze vykonávají,nemohou být ani vylepšeny, ani posíleny úpravami nabídky peněz. Může seobjevit přebytek nebo nedostatek peněz v držbě jednotlivce.
 
 Tento stav všakmůže být napraven zvýšením nebo snížením spotřeby. (Člověk ovšem nesmí
 
@@ -46,3 +45,7 @@ mi hotovostí –, platí také ve vztahu k malým změnám, i když jejich důs
 Pojmy inflacionismus a deflacionismus, zastánce inflace a zastánce defla-
 
 ce, označují politické programy usilující o inflaci a deflaci ve smyslu velkýchzměn kupní síly vyvolaných hotovostí.
+
+Významová revoluce, která je jedním z charakteristických rysů našich dnů,
+
+změnila i tradiční význam slov inflace a deflace. To, co dnes mnozí lidé nazý-vají inflací nebo deflací, již není oním velkým zvýšením nebo snížením nabíd-ky peněz, ale jejím neúprosným důsledkem, všeobecnou tendencí k růstunebo poklesu cen statků a mzdových sazeb. Tato inovace není v žádném pří-padě neškodná.

@@ -1,18 +1,3 @@
-
-Již jsme si vysvětlili, v jakém ohledu můžeme nazývat zlepšení kvality
-
-nebo zvýšení množství výrobků hospodářským pokrokem. Pokud použijemetoto měřítko na různé fáze cyklických výkyvů hospodářství, musíme nazývatboom úpadkem a depresi pokrokem. Boom představuje plýtvání zdroji pro-
-
-51401_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 514
-
-střednictvím mylného investování vzácných výrobních faktorů a snižuje
-
-dostupnou zásobu prostřednictvím nadměrné spotřeby; jeho domnělé výho-dy jsou zaplaceny ochuzením. Deprese je oproti tomu návratem k poměrům,v nichž jsou všechny výrobní faktory použity při nejlepším možném uspoko-jení nejnaléhavějších potřeb spotřebitelů.
-
-Někdy můžeme vidět zoufalé snahy najít v boomu nějaký pozitivní přís-
-
-pěvek k hospodářskému pokroku. Byla zdůrazňována role, kterou hrajevynucené spoření při podporování kapitálové akumulace. Tento argument jeplaný. Již bylo ukázáno, že je velmi sporné, zda vynucené spoření můžedosáhnout více než jen vyvážit pouhou část spotřeby kapitálu způsobené bo-omem. Kdyby byli zastánci údajných prospěšných důsledků vynuceného spo-ření důslední, museli by podporovat i fiskální systém dotující bohaté z danílidí s nízkým příjmem.
-
 Vynucené spoření dosažené tímto způsobem by zajis-tilo čistý nárůst objemu dostupného kapitálu bez současného vyvolání spo-třeby kapitálu v ještě větším objemu.
 
 Zastánci úvěrové expanze dále zdůrazňovali, že některé z mylných investic
@@ -44,3 +29,13 @@ Pokud nemohou být výrobky prodány a pracovníci nemohou najít práci,
 jedinou příčinou je to, že požadují příliš vysoké ceny nebo mzdy. Ten, kdochce prodat své zásoby nebo svoji schopnost pracovat, musí snižovat svénároky, dokud nenajde nějakého kupce. Takový je zákon trhu. Tímto způso-bem trh směruje aktivity každého jednotlivce do těch oborů, v nichž mohounejlépe přispět k uspokojení potřeb zákazníků. Mylné investice v doběboomu špatně umístily nepřevoditelné výrobní faktory do některých oborůna úkor jiných, v nichž byly potřebné naléhavěji.
 
 To představuje nepoměrv alokaci nepřevoditelných faktorů v různých průmyslových odvětvích. Tentonepoměr může být napraven jen akumulací nového kapitálu a jeho užitímv těch odvětvích, kde je potřebný nejnaléhavěji. To je však pomalý proces.Zatímco probíhá, není možné plně využít výrobní kapacity některých podni-ků, které postrádají komplementární výrobní zařízení.
+
+Je zbytečné namítat, že existuje i nevyužitá kapacita podniků vyrábějících
+
+statky stojící na počátku výrobních procesů. Bývá tvrzeno, že pokles prodejetěchto statků nemůže být vysvětlen nepoměrem kapitálového vybavení růz-ných odvětví; mohou být používány a jsou nezbytné pro mnoho různýchužití. I toto je chyba. Pokud ocelárny a železárny, měděné doly a pily nemo-hou být využity naplno, důvodem může být jen to, že na trhu není dostatekkupujících, kteří chtějí kupovat jejich celý výstup za ceny kryjící nákladyjejich stávající produkce.
+
+Protože se variabilní náklady mohou skládat pouzez cen ostatních výrobků a mezd, a totéž platí pro ceny ostatních výrobků, uve-dená situace vždy znamená, že jsou mzdové sazby příliš vysoké na to, abyvšichni, kdo chtějí pracovat, našli práci a aby bylo využito nepřevoditelnéhozařízení v plné míře, určené požadavkem, aby nespecifické kapitálové statkya práce nebyly odnímány z užití, v nichž naplňují naléhavější potřeby.
+
+Z podmínek zhroucení boomu existuje pouze jedna cesta zpět k situaci,
+
+v níž postupující kapitálová akumulace zabezpečuje plynulé zlepšováníhmotného blaha: čisté úspory musí naakumulovat kapitálové statky potřebnék harmonickému rozvoji všech odvětví výroby, které kapitál vyžadují.

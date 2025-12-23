@@ -277,4 +277,3 @@ Smíšené hospodářství, nemožnost, 238—239,
 641viz také Narušené tržní hospodářství,
 
 Zásahy, Politika třetí cesty
-

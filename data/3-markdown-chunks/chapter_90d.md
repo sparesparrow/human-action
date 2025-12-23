@@ -1,17 +1,4 @@
-
-Na druhou stranu však ne každé užití kapitá-lových statků naakumulovaných pomocí dodatečných úspor vyžaduje výrob-ní proces, u kterého je doba výroby ode dneška až po získání výrobku delšínež u dříve využívaných procesů. Je možné, že lidé po uspokojení svých nej-naléhavějších potřeb nyní požadují statky, které mohou být vyrobenyv poměrně krátkém období.
-
-Důvodem, proč nebyly takové statky vyráběnydříve, není to, že by byla potřebná doba výroby považována za příliš dlouhou,ale to, že existovala naléhavější užití potřebných výrobních faktorů.
-
-Pokud chce někdo tvrdit, že každý nárůst nabídky dostupných kapitálových
-
-statků vede k prodloužení doby výroby a doby čekání, argumentuje následují-cím způsobem: Pokud jsou ajiž dříve vyrobené statky a bstatky vyrobené
-
-v novém procesu, zahájeném pomocí zvýšení zásoby kapitálových statků, jezřejmé, že lidé museli na aabčekat déle než na asamotné. Aby bylo možné
-
-vyrobit aib, nebylo nutné získat jen kapitálové statky nezbytné pro výrobu a,
-
-ale také statky potřebné pro výrobu b. Pokud by člověk vydal na zvýšení oka-
+Pokud by člověk vydal na zvýšení oka-
 
 mžité spotřeby zásoby uspořené pro obživu najímaných pracovníků potřeb-ných na výrobu b, mohl by dosáhnout uspokojení některých potřeb dříve.
 

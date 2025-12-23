@@ -47,3 +47,7 @@ ské a nejlépe to slouží vašemu prospěchu. Musí se jim říkat: pokud ukoj
 a šílenství sadismu vás může potěšit, ale jsou neslučitelné s bezpečím
 
 a dostatkem, o něž také nechcete přijít.
+
+Praxeologie jako věda nemůže zasahovat do individuálního práva vybrat si
+
+a jednat.

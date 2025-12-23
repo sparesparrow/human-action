@@ -1,7 +1,4 @@
-
-Veřejné mínění, vlády a zákonodárci i daňové zákony hledí na vybavení
-
-podniku jako na zdroj trvalého příjmu. Věří, že podnikatel, který pomocí roč-ních odpisů vytváří řádné rezervy na údržbu kapitálu, bude vždy v situaci,aby měl rozumný výnos z kapitálu investovaného do trvanlivých výrobníchstatků. Skutečné podmínky jsou ale odlišné. Výrobní celek – například pod-
+Věří, že podnikatel, který pomocí roč-ních odpisů vytváří řádné rezervy na údržbu kapitálu, bude vždy v situaci,aby měl rozumný výnos z kapitálu investovaného do trvanlivých výrobníchstatků. Skutečné podmínky jsou ale odlišné. Výrobní celek – například pod-
 
 31701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 317
 
@@ -60,3 +57,5 @@ Základní chyba obsažená v takovémto uvažování byla ukázána výše.
 7Zku-
 
 šenost hospodářských dějin je vždy zkušeností komplexních jevů. Nikdynemůže zprostředkovat vědomosti toho typu, jaké experimentátor získáváz laboratorního pokusu. Statistika je metoda pro prezentaci historických sku-tečností týkajících se cen a dalších důležitých dat o lidském jednání. Není toekonomie a nemůže přinést ekonomické teorémy a teorie. Cenová statistikaje ekonomickou historií.
+
+Pochopení, že zůstane-li vše ostatní stejné, pak růstpoptávky musí vést k růstu cen, není odvozeno ze zkušenosti. Nikdo nikdynemohl a nikdy nebude moct pozorovat změny jedné ekonomické veličiny,když všechny ostatní zůstanou stejné. Nic takového jako kvantitativní eko-nomie neexistuje. Všechny ekonomické veličiny, které známe, jsou dataz ekonomické historie.

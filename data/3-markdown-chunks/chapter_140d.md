@@ -1,15 +1,4 @@
-
-62402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 624
-
-XXVI. NEMOŽNOST EKONOMICKÉ KALKULACE
-
-ZA SOCIALISMU
-
-1. Problém
-
-Ředitel chce postavit dům. K tomu existuje mnoho metod, které může pou-
-
-žít. Každá z nich nabízí – z pohledu ředitele – určité výhody a nevýhody probudoucí využití budovy a různou výslednou dobu, po niž budova může slou-žit. Každá z těchto metod vyžaduje jiné náklady stavebního materiálu a prácea stavba trvá jinou dobu. Kterou metodu by měl ředitel vybrat? Položky růz-ného materiálu a různého druhu vynaložené práce nemůže převést na spo-lečného jmenovatele. Proto je nemůže porovnat.
+Každá z těchto metod vyžaduje jiné náklady stavebního materiálu a prácea stavba trvá jinou dobu. Kterou metodu by měl ředitel vybrat? Položky růz-ného materiálu a různého druhu vynaložené práce nemůže převést na spo-lečného jmenovatele. Proto je nemůže porovnat.
 
 Nemůže přiřadit konkrétníčíselné vyjádření ani době čekání (období stavby), ani době, po niž budebudova sloužit. Krátce řečeno, při srovnávání nákladů, které mají být vyna-loženy, a zisků, které mají vyplynout, se nemůže opřít o žádné aritmetickéoperace. Plány jeho architektů vypočítávají obrovské množství různých na-turálních položek. Odkazují na fyzikální a chemické vlastnosti různých mate-riálů a na fyzickou produktivitu různých strojů, nástrojů a postupů.
 
@@ -44,3 +33,13 @@ Avšak jediným důvodem, proč je dnes – i kdyžmožná ne někdy v budoucnu 
 Je pravda, že socialisté namítají, že ekonomická kalkulace není neomylná.
 
 Říkají, že kapitalisté někdy udělají ve svých výpočtech chyby. Samozřejmě žese to stává a vždy se to stávat bude, neboť veškeré lidské jednání směřuje dobudoucna a budoucnost je vždy nejistá. I ty nejpečlivěji vypracované plányjsou zmařeny, jestliže se očekávání ohledně budoucnosti zhroutí. To je všakzcela jiný problém. Dnes kalkulujeme z pohledu našich dnešních znalostía našeho dnešního předvídání budoucích podmínek.
+
+Nezabýváme se problé-mem, jestli ředitel bude nebo nebude schopen předvídat budoucí podmínky.Myslíme na to, že ředitel nemůže kalkulovat z pohledu svých současnýchhodnotových soudů a svého současného očekávání budoucích podmínek, ať
+
+62602_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 626
+
+už jsou jakékoli. Když dnes investuje do konzerváren, může se stát, že změna
+
+chutí spotřebitelů nebo hygienických zásad týkajících se zdravotní vhodnostikonzervovaných potravin jednoho dne z jeho investice udělá špatnou investi-ci. Ale jak může dnes zjistit, jak postavit a zařídit konzervárnu nejhospo-
+
+dárněji?

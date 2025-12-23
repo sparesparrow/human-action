@@ -1,7 +1,4 @@
-
-Podmínky v Asii a Africe jsou víceméně stejné. Tyto zaostalé národy dostá-
-
-vají vymoženosti pro boj s nemocemi a na jejich prevenci hotové ze Západu.Je pravda, že v některých z těchto zemí směřuje dovezený cizí kapitál a sou-časně i osvojení cizích technologických postupů poměrně malým domácímkapitálem ke zvýšení pracovního výkonu na hlavu, a tak ke vzniku tendenceke zlepšování průměrné životní úrovně. To však dostatečně nevyvažuje opač-ný trend, který plyne z poklesu úmrtnosti, jenž není provázen odpovídajícím
+To však dostatečně nevyvažuje opač-ný trend, který plyne z poklesu úmrtnosti, jenž není provázen odpovídajícím
 
 60002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 600
 
@@ -38,3 +35,11 @@ Záměrné přizpůsobení porodnosti zásobám materiálních možností blaho-
 bytu je nezbytnou podmínkou lidského života a jednání, civilizace a každéhozlepšení bohatství a blahobytu. Zda je odepření si soulože jedinou prospěš-nou antikoncepční metodou, je otázka, která musí být rozhodnuta z pohledutělesné a duševní hygieny. Je nesmyslné tuto otázku komplikovat odkazy naetická pravidla, která byla vytvořena v dobách, jež byly konfrontovány s jiný-mi problémy. Praxeologie se však nezajímá o teoretická hlediska tohoto pro-blému.
 
 Musí pouze vyslovit skutečnost, že kde není omezení potomstva, tamnemůže existovat civilizace ani zlepšení životní úrovně.
+
+Socialistické společenství by muselo regulovat porodnost úřední kontro-
+
+lou. Muselo by usměrňovat sexuální život svých chráněnců v nemenší mířenež všechny ostatní oblasti jejich jednání. V tržním hospodářství má každýjednotlivec spontánní zájem na tom, aby neplodil děti, které by nemohlvychovat bez podstatného snížení životní úrovně své rodiny. Tak je zastavenrůst počtu obyvatel nad optimální velikost, která je určena zásobou dostup-ného kapitálu a stavem technických znalostí. Zájmy každého jedince se sho-dují se zájmy všech ostatních jedinců.
+
+Ti, kdo bojují proti regulaci porodnosti, chtějí omezit prostředek, který je
+
+nepostradatelný pro zachování mírové spolupráce lidí a dělby práce ve spo-lečnosti.

@@ -1,13 +1,4 @@
-
-69802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 698
-
-XXXI. MANIPULACE S MĚNOU A ÚVĚRY
-
-1. Vláda a peníze
-
-Prostředky směny a peníze jsou produkty trhu. Věc se stává prostředkem
-
-směny či penězi, když s ní lidé provádějí tržní transakce. Vlády vedou k zása-hům do měnových záležitostí stejné pohnutky jako v případě směn jiných,tedy když je například třeba rozhodnout, zda nesplnění smluvních povinnos-tí jedné ze stran směny zakládá či nezakládá důvod použití síly ze stranyvlády. Upustí-li obě strany zároveň ve stejném okamžiku od plnění svých vzá-jemných povinností, obyčejně nedochází k žádnému sporu, jenž by vedljednu ze stran k zahájení soudního přezkoumání.
+Vlády vedou k zása-hům do měnových záležitostí stejné pohnutky jako v případě směn jiných,tedy když je například třeba rozhodnout, zda nesplnění smluvních povinnos-tí jedné ze stran směny zakládá či nezakládá důvod použití síly ze stranyvlády. Upustí-li obě strany zároveň ve stejném okamžiku od plnění svých vzá-jemných povinností, obyčejně nedochází k žádnému sporu, jenž by vedljednu ze stran k zahájení soudního přezkoumání.
 
 Jestliže ovšem jedna zestran (či strany obě) dočasně své povinnosti přestanou plnit, stává se, že je věcpředána soudu, aby rozhodl, jakým způsobem má ke splnění smlouvy dojít.Je-li součástí peněžní plnění, je třeba rozhodnout, jaký význam mají peněžnísmluvní ujednání mít.
 
@@ -34,3 +25,13 @@ Ovšem i tyto vlády se často z nevědomosti čidiletantství uchylovaly k opat
 Kov, který byl v porovnání s okamžitým stavem kolísajícíhotržního směnného poměru mezi zlatem a stříbrem v zákonem stanovenémpevném poměru nadhodnocený, v domácím oběhu převládal, zatímco druhýz kovů vymizel. Vláda nakonec od svých marných pokusů upustila a smířilase s monometalismem. Politika nákupů stříbra, kterou Spojené státy provo-zovaly po řadu desetiletí, nebyla v podstatě nástrojem měnové politiky.
 
 Šlopouze o mechanismus zvyšování cen stříbra přinášející prospěch vlastníkůmstříbrných dolů, jejich zaměstnancům a státům, v nichž se tyto doly nacháze-ly. Byla to jen špatně maskovaná dotace. Její měnový význam spočíval pouzev tom, že tato dotace byla financovaná vydáváním dodatečných dolarovýchstátovek, jejichž povaha zákonného platidla se nijak zásadně neliší od ban-kovek Federálního rezervního systému, přestože se na nich dosti nesmyslněpíše „stříbrný certifikát“.
+
+Hospodářské dějiny nám ale ukazují i případy dobře prováděných a úspěš-
+
+ných měnových politik, kdy jediným záměrem vlád bylo zajistit v jejich
+
+70002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 700
+
+zemích hladce fungující měnový systém. Liberalismus laissez faire nezrušil
+
+tradiční vládní výsadu ražby mincí. V rukou liberálních vlád byla ale zcelazměněna povaha tohoto státního monopolu. Tyto vlády zavrhly myšlenkuvyužívat jej jako nástroj intervencionistických politik. Monopol ražby nebylvyužíván kvůli fiskálním účelům či k tomu, aby zvýhodňoval některé skupinylidí na úkor jiných.

@@ -1,11 +1,4 @@
-
-3. Kalkulující jednání
-
-Všechny praxeologické kategorie jsou věčné a neměnné, protože jsou jedi-
-
-nečně určeny logickou strukturou lidské mysli a přirozenými podmínkamilidské existence. Jak v jednání, tak v teoretizování o jednání se člověk nemů-že ani osvobodit od těchto kategorií, ani jít za ně. Takové jednání, které sekategoriálně liší od jednání vymezeného těmito kategoriemi, není pro člově-ka ani možné, ani myslitelné. Člověk nikdy nemůže pochopit něco, co byneznamenalo ani jednat, ani nejednat.
-
-Neexistuje historie jednání; neexistujevývoj, který by vedl od nejednání k jednání; mezi jednáním a nejednánímneexistují žádné přechodné stavy. Je možné pouze jednat, nebo nejednat.A pro každé konkrétní jednání platí přísně všechno to, co je kategoriálněustanovené s ohledem na jednání všeobecně.
+Je možné pouze jednat, nebo nejednat.A pro každé konkrétní jednání platí přísně všechno to, co je kategoriálněustanovené s ohledem na jednání všeobecně.
 
 Každé jednání může využívat ordinální čísla. Pro použití kardinálních čísel
 
@@ -62,3 +55,23 @@ a vzdal bych se Falstaffa . Pokud nazvu vstupenku na Aidu písmenem a, vstu-
 penku na Falstaffa písmenem ba vstupenku na Traviatu písmenem c, mohu
 
 říct: dávám přednost apřed babpřed c.
+
+Bezprostředním cílem jednání je často získání počitatelné a měřitelné záso-
+
+by hmotných věcí. Pak si jednající člověk musí vybrat mezi počitatelnýmimnožstvími; dává například přednost 15 rpřed 7 p; pokud by si však měl
+
+vybrat mezi 15 ra8 p, mohl by dát přednost 8 p. Tento stav věcí můžeme
+
+vyjádřit tvrzením, že si 15 rcení méně než 8 p, ale více než 7 p. To je rovno-
+
+18101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 181
+
+cenné s tvrzením, že dává přednost apřed babpřed c. Dosadíme-li 8 pza a,
+
+15 rza ba7 pza c, nezmění se ani smysl tvrzení, ani skutečnost, kterou popi-
+
+suje. Neumožňuje to však počítat s kardinálními čísly. Neotvírá to pole eko-nomické kalkulaci a mentálním operacím na takové kalkulaci založeným.
+
+2. Barterový konstrukt základní teorie hodnoty a cen
+
+Rozvinutí ekonomické teorie je heuristicky závislé na logických procesech

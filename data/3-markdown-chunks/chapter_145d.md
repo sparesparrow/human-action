@@ -1,13 +1,4 @@
-
-Stejně jako proti jiným druhům formalismu a legálního dogmatismu je
-
-i zde třeba zdůraznit, že jediným důvodem existence zákonů a společenskéhoaparátu nátlaku a donucení je zajištění hladkého fungování společenské koo-perace. Je očividné, že je v moci vlády nařídit maximální ceny a uvěznit čipopravit všechny, kteří budou prodávat či kupovat za vyšší cenu. Otázkou alezůstává, zda taková politika může nebo nemůže dosáhnout cílů, kvůli kterýmse vláda k této politice uchýlila. Máme zde před sebou zcela praxeologickýa ekonomický problém.
-
-Ani filozofie práva, ani politická věda nám k jehovyřešení nemůže nijak přispět.
-
-Problém intervencionismu není problémem správného vymezení „přiroze-
-
-ných“, „spravedlivých“ či „náležitých“ funkcí státu a vlády. Problém zní takto:Jak systém intervencionismu funguje? Může dosáhnout těch cílů, jichž lidé,kteří se k němu uchýlili, dosáhnout chtějí?
+Může dosáhnout těch cílů, jichž lidé,kteří se k němu uchýlili, dosáhnout chtějí?
 
 64602_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 646
 
@@ -52,3 +43,11 @@ fungování intervencionismu v konečném důsledku směřuje k odstranění jeh
 Podle široce sdíleného názoru je možné, a to i při neexistenci vládních zása-
 
 hů do fungování podniků, odchýlit fungování tržního hospodářství od podoby,kterou by mělo v situaci, kdy by rozhodujícím faktorem bylo jen dosahovánízisku. Obhájci společenské reformy, která má spočívat v respektování princi-pů křesťanství či požadavků „pravé“ morálky, tvrdí, že tržní chování lidís dobrými úmysly by mělo také vést svědomí.
+
+Kdyby byli všichni lidé připra-veni starat se nejen o svůj zisk, ale také o své náboženské a morální povinnosti,nebylo by k prosazení správných věcí třeba vládního nátlaku a donucení. Nenítedy prý nutná reforma vlády a zákonů, ale morální očista člověka, návratk přikázáním Páně a pravidlům morálního chování, zavržení neřestí lakotya sobectví. Poté bude snadné usmířit soukromé vlastnictví výrobních prostřed-ků se spravedlností, čestností a poctivostí.
+
+Katastrofické dopady kapitalismutak budou odstraněny bez poškození individuální svobody a podnikavosti.Lidé sesadí molocha kapitalismu, aniž by na trůn posadili stát.
+
+Arbitrární hodnotové soudy, jež nalézáme u základů těchto názorů, pone-
+
+cháme pro tento okamžik stranou. Je nepodstatné, z čeho tito kritici kapita-lismus obviňují. Jejich omyly a nepochopení se netýkají toho nejdůležitějšího.Důležitá je ale myšlenka vybudování společenského systému na dvojakémzákladě – soukromém vlastnictví a morálních principech omezujících využí-vání soukromého vlastnictví.

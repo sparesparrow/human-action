@@ -1,18 +1,3 @@
-
-Koncept ekonomické rovnosti ovládaných, které byli tyto národy a jejich
-
-vládci oddáni, nebyl přesně definován. Přes tuto vágnost se ale lišil zásadnímzpůsobem v jednom ohledu; v úplném zavržení nahromadění velkého majet-ku v rukou jakéhokoli jedince. Vládci totiž považovali bohaté lidi za ohroženísvého politického postavení.
-
-Všichni, jak vládci, tak ovládaní, byli přesvědče-ni, že žádný člověk nemůže nahromadit nadbytečné prostředky jinak, nežtak, že připraví jiné o to, co by jim mělo po právu patřit, a že bohatství něko-lika zámožných lidí je příčinou chudoby většiny ostatních. Pozice bohatýchpodnikatelů byla ve všech orientálních zemích nesmírně ošemetná. Byli vydá-váni na milost úředníků. Ani četné úplatky je nedokázaly ochránit před kon-fiskací.
-
-Veškerý lid zajásal, kdykoli se majetný podnikatel stal obětí závistia nenávisti úředníků.
-
-Tento odpor k penězům zastavil civilizační pokrok na Východě a uvrhl
-
-masy na hranici hladu. Jelikož nedocházelo k akumulaci kapitálu, nemohlodocházet k technologickým zdokonalením. Kapitalismus přišel na Východjako cizí dovezená ideologie, vnucená cizími armádami a námořnictvemv podobě koloniální dominance nebo extrateritoriální správy. Tyto násilnézpůsoby zcela jistě nepředstavovaly správné prostředky ke změně tradiciona-listické mentality orientálních národů.
-
-Uznání této skutečnosti ale nijaknemění platnost tvrzení, že to bylo odmítání kapitálové akumulace, ježodsoudilo stovky milionů Asiatů k chudobě a hladu.
-
 Koncept rovnosti, se kterým přicházejí naši dnešní propagandisté blaho-
 
 bytu, je pouhou kopií asijské myšlenky rovnosti. Přestože je ve všech ostat-ních ohledech velmi neurčitá, je zcela konkrétní ve svém odporu k velkýmmajetkům. Staví se proti velkému podnikání a velkému bohatství. Obhajujerůzná opatření k omezení růstu velikosti podniků a zvýšení rovnosti pro-střednictvím konfiskačního zdanění příjmů a jmění. A využívá závisti nero-zumných mas.
@@ -48,3 +33,21 @@ I když člověkpozději uspořenou sumu spotřeboval, nedocházelo tím ke sni�
 Dnes existuje snaha nutit banky a pojišťovny investovat více a více do vlád-
 
 ních dluhopisů. Fondy institucí sociálního zabezpečení sestávají zcela z náro-ků na veřejný dluh. Dokud je veřejné zadlužení způsobeno výdaji na běžnouspotřebu, úspory jednotlivců nevedou k akumulaci kapitálu. Zatímco v neo-mezované tržní ekonomice se úspory, kapitálová akumulace a investiceshodují, v intervencionistickém hospodářství mohou být úspory občanů pro-mrhány vládou. Jednotlivec omezuje současnou spotřebu, aby se zaopatřil nabudoucnost.
+
+Touto aktivitou přispívá svým podílem k dalšímu hospodářské-mu rozvoji společnosti a zlepšení životní úrovně ostatních lidí. Na scéně se ale
+
+75702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 757
+
+objevuje vláda a ničí příznivé dopady činnosti jednotlivců. Nic než tento
+
+příklad nevyvrací lépe klišé zastánců blahobytu, kteří staví do protikladusobeckého a omezeného jedince, kterému jde výlučně o okamžité uspokojenía který nebere ohledy na blahobyt ostatních lidí a trvalé zájmy společnosti,a daleko do budoucna hledící dobrotivou vládu, jež se neustále soustřeďuje napodporu trvalého blaha celé společnosti.
+
+Zastánci blahobytu přicházejí s dvěma námitkami. Zaprvé, že motivem jed-
+
+notlivce je sobectví, zatímco vláda je vedena dobrými úmysly. Přijměme protento okamžik, že jednotlivci se podobají ďáblu, zatímco vládci spíše andělům.V životě a realitě však nejsou rozhodující úmysly, ale výsledky, přestože Kanttvrdil opak. Existence a rozvoj společnosti jsou možné právě díky skutečnosti,že mírová spolupráce v podmínkách dělby práce slouží dlouhodobě nejlépesobeckým zájmům jednotlivců.
+
+Skvělé výsledky tržní společnosti byly dosaže-ny tím, že veškeré její fungování spočívá právě na tomto principu.
+
+Druhá výtka připomíná, že v systému blahobytu soukromá akumulace
+
+kapitálu a investice jsou nahrazeny vládou prováděnou akumulací a vládnímia veřejnými investicemi. Odkazuje se na skutečnost, že ne všechny fondy,které si vláda v minulosti vypůjčila, byly utraceny na běžné výdaje.

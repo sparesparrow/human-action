@@ -65,3 +65,7 @@ stylu Schumpetera.
 20Popis a kritiku Hayeka v tomto jeho období a některých současných hayekovců jako„přibližně-rovnovážných“ teoretiků lze najít v Salerno (1993, str. 127—28; 1994,str. 116—23).
 
 21Hayek (1992, str. 127) charakterizoval jeho knihu jako „po mnoho let nejdůkladněj-ší a nejuspokojivější dílo dostupné k tomuto tématu“.
+
+22Dle Hayeka ( ibid., str. 147):
+
+Když byly tyto eseje poprvé publikovány, označily proměnu autora dříveznámého zejména pro jeho teorii peněz a úvěru a kritickou analýzu soci-alismu z ekonoma v úzkém slova smyslu ve všeobecného teoretika a filo-zofa společnosti.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 808

@@ -1,4 +1,3 @@
-
 Významným důsledkem této situace bylo, že když čtvrtá generace rakous-
 
 ké školy ihned po první světové válce přišla na Vídeňskou univerzitu, zcelanevyhnutelně si její členové začali brousit své teoretické zuby na Wieserovýcha Schumpeterových dílech. Wieser byl, řečeno Hayekovými slovy, „grand-seig-

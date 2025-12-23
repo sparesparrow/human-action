@@ -1,6 +1,3 @@
-
-Ovlivňujíobjem vyplacených mezd; pokud zvyšují cenu, kterou musí zaměstnavatelzaplatit za jednotku výkonu nad potenciální tržní sazbu, vytvářejí institucio-nální nezaměstnanost. Sociální zabezpečení nenařizuje zaměstnavatelůmutratit více za najímanou práci. Omezuje příjemce mezd ohledně utraceníjejich celkového důchodu. Bere pracovníkovi svobodu uspořádat si svojidomácnost podle svých vlastních rozhodnutí.
-
 To, jestli takový systém sociálního zabezpečení představuje dobrý či špat-
 
 ný přístup, je ve své podstatě politickou otázkou. Někdo se může pokusit

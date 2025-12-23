@@ -1,23 +1,4 @@
-
-Z pohledu inzerenta jsou náklady vyvolané reklamou součástí celkového
-
-účtu výrobních nákladů. Obchodník vydává peníze za reklamu, pokuda nakolik očekává, že výsledný nárůst prodeje zvýší celkový čistý výnos.V tomto ohledu neexistuje žádný rozdíl mezi náklady na reklamu a všemiostatními výrobními náklady. Jsou činěny pokusy rozlišovat mezi výrobnímia prodejními náklady. Říká se, že růst výrobních nákladů zvyšuje nabídku,zatímco růst prodejních nákladů (včetně nákladů na reklamu) zvyšujepoptávku.
-
-27To je chyba. Všechny výrobní náklady jsou vydávány se záměrem
-
-zvýšit poptávku. Jestliže výrobce cukrovinek použije lepší suroviny, usilujeo nárůst poptávky, stejně jako když zavede atraktivnější obaly, udělá svéobchody lákavější nebo když utratí víc za reklamu. Když se zvyšuje výrobnícena na jednotku výrobku, úmyslem je vždy zvýšení poptávky. Jestližeobchodník chce zvýšit nabídku, musí navýšit celkové výrobní náklady, cožčasto vede ke snížení výrobních nákladů na jednotku výstupu.
-
-14. „Volkswirtschaft“
-
-Tržní hospodářství jako takové nebere ohled na politické hranice. Jeho
-
-hřištěm je celý svět.
-
-Termín Volkswirtschaft byl dlouho používán německými zastánci vládní
-
-všemohoucnosti. Teprve mnohem později začali Britové a Francouzi mluvito„British economy“ a„l’économie francaise“ jako o hospodářstvích, která se liší
-
-od ekonomik jiných národů. Avšak ani angličtina, ani francouzština nevytvo-řily ekvivalent k pojmu Volkswirtschaft . S moderním trendem národního plá-
+Avšak ani angličtina, ani francouzština nevytvo-řily ekvivalent k pojmu Volkswirtschaft . S moderním trendem národního plá-
 
 nování a národní soběstačnosti se doktrína obsažená v tomto německém
 
@@ -58,3 +39,31 @@ soběstačně na úrovni, která není nižší než úroveň jakéhokoli jinéh
 Myšlenka Volkswirtschaft je tak nejradikálnějším popřením všech principů
 
 tržního hospodářství. A právě tato myšlenka v uplynulém desetiletí udávalasměr hospodářským politikám víceméně všech národů. Právě prosazovánítéto myšlenky přineslo našemu století strašné války a může rozdmýchat ještězhoubnější války v budoucnosti.
+
+Od raných počátků lidských dějin spolu bojovaly tyto dva protikladné
+
+principy tržního hospodářství a Volkswirtschaft . Vláda, tj. společenský aparát
+
+nátlaku a donucení, je nutnou podmínkou mírové spolupráce. Tržní hospo-dářství se neobejde bez policejní síly, která chrání jeho hladký chod hrozbounásilí nebo jeho použitím proti těm, kteří porušují mír. Avšak nepostradatel-
+
+29501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 295
+
+ní správci a jejich ozbrojení nohsledi jsou vždy v pokušení použít své zbraně
+
+k ustavení vlastní totalitní vlády. Pro ambiciózní krále a generalissimy jevýzvou již pouhá existence nějaké oblasti života jednotlivců, která není pod-řízena státní kontrole. Vládci, místodržící a generálové nikdy nejsou liberálnísami od sebe. Stávají se liberálními pouze tehdy, když jsou k tomu donuceniobčany.
+
+Problémy, které byly vyvolány plány socialistů a intervencionistů, se bude-
+
+me zabývat v dalších částech této knihy. Zde musíme pouze odpovědět naotázku, zda kterákoli z podstatných vlastností Volkswirtschaft je či není sluči-
+
+telná s tržním hospodářstvím. Zastánci myšlenky Volkswirtschaft totiž nepo-
+
+važují svůj plán pouze za model pro ustavení budoucího společenskéhopořádku. Vidí problém tak, že to, co odlišuje jeden Volkswirtschaft od všech
+
+ostatních, nejsou, jak by se nás snažili přesvědčit ekonomové, pouze politic-ké instituce. Rozlišování mezi domácím obchodem a zahraničním obchodemnevytvářejí obchodní a migrační bariéry zavedené vládními zásahy do podni-kání, ani legislativní rozdíly a rozdíly v ochraně, kterou jednotlivcům posky-tují soudy a tribunály.
+
+Tato odlišnost, říkají, je naopak nutným výsledkemskutečné podstaty věcí, neřešitelného faktoru; ideologie ji nemůže odstranita plodí své důsledky, ať už si jí jsou správci a soudci ochotni všimnout nebone. Tak se jim Volkswirtschaft zdá být přirozenou skutečností, zatímco celo-
+
+světové ekumenické společenství lidí, světové hospodářství (Weltwirtschaft) ,
+
+je pouze neskutečným přeludem falešných teorií, je to plán, který má zničitcivilizaci.

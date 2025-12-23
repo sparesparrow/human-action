@@ -55,3 +55,7 @@ z práce tak nemůže ani zmírnit, ani odstranit újmu z práce. Stejně tak ne
 Lidé nepodstupují újmu z práce kvůli radosti, jež je s prací spojená, ale
 
 kvůli zprostředkovanému uspokojení. Ve skutečnosti radost z práce do znač-né míry předpokládá, že daná práce způsobuje újmu.
+
+Zdroji radosti z práce jsou:1. Očekávání prací zprostředkovaného uspokojení, očekávání požitku z je-
+
+jího úspěchu a výnosu. Tvrdě pracující člověk se dívá na svoji práci jako naprostředek dosažení cílů, o něž usiluje, a pokrok jeho práce ho těší jako při-blížení se tomuto cíli. Jeho radost je předzvěstí zprostředkovaného uspokoje-ní.

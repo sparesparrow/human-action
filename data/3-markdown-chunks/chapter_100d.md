@@ -1,9 +1,4 @@
-
-Podnikatelé nezačnou rozšiřovat své podni-kání pomocí levných úvěrů nabízených bankami, protože nemohou očekávatzvýšení svých výnosů. Tuto skutečnost je nutné zdůraznit, protože vysvětlujeselhání „pumpujících“ opatření New Dealu i ostatní události třicátých let.
-
-Boom může trvat pouze tak dlouho, dokud úvěrová expanze pokračuje
-
-stále rychlejším tempem. Boom skončí, jakmile přestanou být na úvěrový trhvrhána další množství fiduciárních prostředků. Netrval by však navždy, anikdyby inflace a úvěrová expanze pokračovaly do nekonečna. Jednou by nara-zil na hranice bránící neomezené expanzi oběžného úvěru. Nastala by jehozávěrečná fáze a zhroucení celého měnového systému.
+Boom skončí, jakmile přestanou být na úvěrový trhvrhána další množství fiduciárních prostředků. Netrval by však navždy, anikdyby inflace a úvěrová expanze pokračovaly do nekonečna. Jednou by nara-zil na hranice bránící neomezené expanzi oběžného úvěru. Nastala by jehozávěrečná fáze a zhroucení celého měnového systému.
 
 Podstatou měnové teorie je poznání, že hotovostí vyvolané změny v peněž-
 
@@ -40,3 +35,17 @@ byly za daného stavu tržních dat považovány za výnosné. Systém se pohybo
 míry, do jaké by to umožnila poptávka spotřebitelů a dostupné množství
 
 nespecifických hmotných faktorů a práce. Další rozšíření výroby je možnépouze tehdy, je-li objem kapitálových statků zvýšen dodatečnými úsporami,tj. vyrobeným, ale nespotřebovaným přebytkem. Typickým znakem boomuzpůsobeného úvěrovou expanzí je to, že tyto dodatečné kapitálové statkynejsou dostupné. Kapitálové statky potřebné pro rozšíření podnikatelskýchaktivit musí být staženy z ostatních odvětví.
+
+Celkovou nabídku kapitálových statků dostupnou před začátkem úvěrové
+
+expanze můžeme označit jako p; celkový objem spotřebních statků, jenž
+
+může být s užitím pza určité časové období uvolněn pro spotřebu bez dopa-
+
+du na další výrobu, jako g. Nyní podnikatelé, podníceni úvěrovou expanzí,
+
+zahájí výrobu dodatečného množství g3statků stejného druhu, jako jsou stat-
+
+ky již užívané ve výrobě, a množství g4statků druhu, jenž nebyl dříve vyrá-
+
+běn vůbec.

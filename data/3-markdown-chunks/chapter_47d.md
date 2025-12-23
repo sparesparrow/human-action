@@ -1,9 +1,4 @@
-
-Metoda imaginárních konstruktů je opodstatněna svým úspěchem. Praxe-
-
-ologie nemůže – jako přírodní vědy – zakládat své učení na laboratorníchexperimentech a na smyslovém vnímání vnějších objektů. Musela si vyvinoutmetody, které jsou zcela odlišné od metod fyziky a biologie. Bylo by vážnýmomylem hledat analogie k imaginárním konstruktům v oblasti přírodníchvěd. Praxeologické imaginární konstrukty nemohou být nikdy konfrontoványse žádnou zkušeností s vnějšími věcmi a nikdy nemohou být z pohledu tako-vé zkušenosti hodnoceny.
-
-Jejich funkcí je sloužit člověku při zkoumání,v němž se nemůže spolehnout na své smysly. Při porovnávání imaginárníchkonstruktů se skutečností si nemůžeme klást otázku, zda odpovídají zku-šenosti a náležitě popisují empirická data. Musíme se ptát, jestli jsou před-poklady našeho konstruktu totožné s podmínkami těch jednání, o nichž sichceme učinit představu.
+Musíme se ptát, jestli jsou před-poklady našeho konstruktu totožné s podmínkami těch jednání, o nichž sichceme učinit představu.
 
 21701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 217
 
@@ -40,3 +35,15 @@ popisují údajnou katastrofu způsobenou svobodným obchodem. Samozřejměnení
 Je pravda, že ekonomové odvodili ze svých zkoumání závěr, že cíle,
 
 k jejichž dosažení námahou, prací a za pomoci hospodářské politiky je větši-na lidí – dokonce prakticky všichni lidé – odhodlána, mohou být nejlépeuskutečněny tam, kde vládní nařízení nekladou překážky systému nenarušo-vaného trhu. Jenže toto není předem daný názor vycházející z nedostatečné-ho zájmu o působení vládních zásahů do podnikání. Naopak, je to výsledekpečlivého nezaujatého prozkoumání všech stránek intervencionismu.
+
+Také je pravda, že klasičtí ekonomové a jejich následovníci obvykle nazý-
+
+vali systém nenarušovaného tržního hospodářství „přirozeným“ a vládní vmě-šování do tržních jevů „umělým“ a „rušivým“. Avšak i tato terminologie bylavýsledkem toho, že pečlivě prozkoumali problémy intervencionismu. Bylov souladu s významovými zvyky té doby, když říkali, že nežádoucí stav spo-lečenských věcí je „proti přírodě“.
+
+Teismus a deismus osvícenského věku hleděly na zákonitost přírodních
+
+jevů jako na výplod rozhodnutí Prozřetelnosti. Když osvícenští filozofovéobjevili, že zákonitost jevů převažuje i v lidském jednání a ve vývoji společ-nosti, byli připraveni interpretovat to rovněž jako důkaz otcovské péče Stvo-řitele světa. To byl skutečný obsah principu předurčené harmonie, jak hovykládali někteří ekonomové.
+
+4Sociální filozofie paternalistického despotis-
+
+mu kladla důraz na božské poslání králů a autokratů, kteří jsou předurčenivládnout národům.

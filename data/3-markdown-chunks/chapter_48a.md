@@ -45,3 +45,5 @@ Dalo by se to nazvat prostě okrádáním bohatých, aby mohli být obdarovánic
 Tvrdí se, že fyziologické potřeby všech lidí jsou stejného druhu a že tato stej-
 
 nost poskytuje normu pro měření stupně jejich objektivního uspokojení. Kdyžněkdo vyjadřuje takové názory a doporučuje použití takových kritérií při říze-ní vládní politiky, navrhuje tím, aby se s lidmi zacházelo tak, jak chovatel zachá-zí se svým dobytkem. Reformátoři ale dělají chybu, protože si neuvědomují, ženeexistuje žádný univerzální princip stravování, který by platil pro všechny lidi.Který z mnoha principů si člověk zvolí, to závisí čistě na cílech, jichž chcedosáhnout.
+
+Chovatel dobytka nekrmí krávy proto, aby byly šťastné, ale abydosáhl cílů, jež jim přidělil ve svých plánech. Může dávat přednost většímumnožství mléka, nebo masa, nebo něčeho jiného. Jaký typ lidí chtějí šlechtitelélidí vypěstovat – atlety, nebo matematiky?

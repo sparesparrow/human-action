@@ -1,7 +1,4 @@
-
-12. Abychom postřehli důvod, který byl motivací promonopolní politiky
-
-současných vlád, je nutné dívat se na ni jako na jednotný jev. Z katalaktické-ho pohledu nejsou tyto monopoly stejné. Smluvní kartely, do nichž podnika-telé vstupují využívajíce výhod z pobídek, které jim přinášejí ochranná cla,
+Smluvní kartely, do nichž podnika-telé vstupují využívajíce výhod z pobídek, které jim přinášejí ochranná cla,
 
 33417Sbírku těchto smluv vydala roku 1943 Mezinárodní organizace práce pod názvem
 
@@ -70,3 +67,5 @@ musí to brát monopolista v úvahu oproti výnosům, které lze očekávat z om
 To, co se snaží říct lidé, kteří obviňují úspory z velkosériové výroby z šíře-
 
 ní monopolních cen, je, že efektivita velkosériové výroby ztěžuje nebo dokon-ce znemožňuje malým podnikům, aby mohly úspěšně konkurovat. Velképodniky věří, že se mohou beztrestně uchýlit k monopolním cenám, protožemalé firmy nejsou schopny jejich monopol napadnout.
+
+Je jistě pravda, žev mnoha oborech zpracovatelského průmyslu by bylo bláhové vstupovat natrh s výrobky malých zaostávajících podniků, které mají vysoké náklady.Moderní přádelna bavlny se nemusí obávat konkurence staromódních pře-slic; jejími konkurenty jsou jiné víceméně náležitě vybavené přádelny.

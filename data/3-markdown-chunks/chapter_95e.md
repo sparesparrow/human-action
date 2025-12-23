@@ -1,4 +1,3 @@
-
 V takovém světě dokonalých technologických znalostí průkopník sestavu-
 
 je plán A, podle něhož má být v malebné, ale obtížně dostupné horské oblas-

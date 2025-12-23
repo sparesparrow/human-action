@@ -1,4 +1,3 @@
-
 Protože je tvrzení, že nepřímá směna a peníze byly vytvořeny nařízením
 
 nebo smlouvou občanů, považováno za záznam historických událostí, je úko-lem historiků odhalit jeho nepravdivost. Protože je předkládáno pouze jakovýrok o historii, nemůže žádným způsobem ovlivnit katalaktickou teoriipeněz a její vysvětlení vzniku nepřímé směny. Kdyby bylo zamýšleno jakovýrok o lidském jednání a společenských událostech, je nepoužitelné, proto-že neříká nic o jednání.

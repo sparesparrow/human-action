@@ -1,18 +1,3 @@
-
-Výroba každého jednotlivého produk-tu vyžaduje zaměstnání pracovníků schopných vykonávat jistý druh práce. Jeabsurdní ospravedlňovat nezohlednění tohoto poznatku odkazem na to, že sehlavní poptávka po práci a nabídka práce týkají nekvalifikované práce, kte-rou může vykonávat každý zdravý člověk, a že kvalifikovaná práce, práce lidís jistými vrozenými schopnostmi a zvláštním tréninkem je spíše výjimkou.Není třeba zkoumat, zda takové podmínky existovaly ve vzdálené minulosti
-
-11901_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 119
-
-či zda i pro primitivní příslušníky kmene byla nerovnost vrozených a získa-
-
-ných schopností pracovat hlavním faktorem při hospodaření s prací. Přizkoumání podmínek civilizovaných národů je přehlížení rozdílů v kvalitěvykonávané práce nepřípustné. Práce, kterou jsou různí lidé schopni vyko-návat, se liší, protože lidé se odlišní již rodí a dovednosti, které v průběhuživota získají, jejich odlišnosti dále posilují.
-
-Když mluvíme o nespecifickém charakteru lidské práce, samozřejmě
-
-netvrdíme, že je veškerá lidská práce stejné kvality. Chceme pouze ukázat, žerozdíly v druzích práce, které je třeba k výrobě různých komodit, jsou většínež rozdíly ve vrozených schopnostech lidí. (Zde se nezabýváme kreativnímvýkonem génia. Práce génia přesahuje sféru běžného lidského jednání a jejako dar osudu lidstvu.
-
-6Rovněž nebereme zřetel na institucionální bariéry,
-
 jež brání některým lidem v přístupu k jistým zaměstnáním a vzdělání, které-ho je pro ně třeba.) Vrozená nerovnost různých jednotlivců neruší zoologic-kou jednotu a homogenitu druhu člověk do takové míry, aby dělila nabídkupráce do nespojitých oddílů. Potenciální nabídka práce dostupná pro výkonkaždého zaměstnání tak převyšuje skutečnou poptávku po této práci. Nabíd-ku každého typu specializované práce lze zvýšit stažením pracovníků z jinýchodvětví a jejich tréninkem.
 
 Množství uspokojení potřeb není v žádném odvět-ví výroby trvale omezené vzácností lidí schopných vykonávat zvláštní úkoly.Vzácnost specialistů se může objevit pouze v krátkém období. V dlouhémobdobí může být odstraněna kvalifikací lidí, kteří vykazují požadované vro-zené schopnosti.
@@ -60,3 +45,17 @@ zůstává nevyužito.
 Lze si představit podmínky ve světě, v nichž by všechny hmotné výrobní
 
 faktory byly plně využity tak, že by neexistovala možnost zaměstnat veškerélidi, či veškeré lidi do té míry, do jaké jsou ochotni pracovat. V takovém světěje práce dostatek, růst nabídky práce nemůže přidat k celkovému množstvíprodukce nic. Pokud předpokládáme, že všichni lidé mají stejnou schopnosta vůli pracovat, a pokud zanedbáme újmu z práce, pak by práce v takovémsvětě nebyla ekonomickým statkem.
+
+Kdyby byl tento svět socialistickým spo-lečenstvím, považoval by se nárůst populace za zvýšení počtu nečinných spo-třebitelů. Pokud by se jednalo o tržní společnost, nepostačovaly by mzdyk zamezení hladovění. Kdokoli by hledal práci, byl by ochoten pracovat zalibovolně nízkou mzdu, i kdyby nepostačovala k zachování života. Rád byalespoň na chvíli oddálil smrt hladem.
+
+Nemá smysl zabývat se paradoxy této hypotézy a diskutovat o problémech
+
+takového světa. Náš svět je jiný. Práce je vzácnější než hmotné výrobní fak-tory. V tuto chvíli se nezabýváme problémem optimální populace. Zabývámese pouze faktem, že existují hmotné výrobní faktory, které zůstávají ladem,protože je vyžadované práce třeba při uspokojování naléhavějších potřeb.V našem světě není dostatek, nýbrž nedostatek lidské síly, a existují nevyuži-té hmotné výrobní faktory, tj. půda, nerostné zdroje a dokonce i továrnya zařízení.
+
+1218Při volné mobilitě práce by bylo plýtváním zlepšovat neúrodnou půdu, pokud obdě-
+
+laná plocha není natolik úrodná, aby pokryla celkové náklady činnosti.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 121
+
+Tento stav věcí by se mohl změnit takovým nárůstem populace, že by byly
+
+plně využity všechny hmotné výrobní faktory potřebné pro výrobu jídlanezbytného – v přísném smyslu slova – k zachování lidského života. Dokudvšak tomu tak není, nemůže se to změnit žádným zlepšením technologickýchmetod výroby.

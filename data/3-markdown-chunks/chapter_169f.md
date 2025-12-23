@@ -1,11 +1,4 @@
-
-Kdyby bylo veřejné vzdělávání efektivnější, než ve skutečnosti je, politické
-
-strany by velmi usilovaly o získání kontroly nad školským systémem, abymohly určit způsob, jakým se o těchto věcech bude učit. Obecné vzdělání hrajeovšem pouze méně významnou úlohu při formování politického, sociálníhoa ekonomického myšlení dorůstající generace. Vliv tisku, rozhlasu a společen-ského prostředí je mnohem větší než vliv učitelů a učebnic. Propaganda círk-ví, politických stran a zájmových skupin překonává vliv škol, ať již vyučujícokoli.
-
-Člověk často velmi rychle zapomíná, co se ve škole naučil, a je přede-vším neustále formován společenským prostředím, ve kterém se pohybuje.
-
-6. Ekonomie a občan
+Ekonomie a občan
 
 Ekonomie nesmí být vyhoštěna do přednáškových síní a statistických
 
@@ -54,3 +47,11 @@ jených složek. Dle jejich názoru je kritériem pravdivosti doktríny skutečn
 Nemá smysl věnovat se rozporům a nekonzistentnostem této doktríny
 
 netolerance a pronásledování odpůrců. Svět nikdy v minulosti neměl takdobře vytvořený systém propagandy a útisku, jaký vytvořily dnešní vlády,strany a zájmové skupiny. Celá tato konstrukce se ale zhroutí jako domečekz karet, jakmile bude napadena mocnou ideologií.
+
+Nejen v zemích ovládaných barbarskými a neobarbarskými despoty, ale
+
+i v tzv. západních demokraciích je studium ekonomie dnes v podstatě posta-veno mimo zákon. Veřejná diskuse ekonomických problémů přehlíží téměřzcela to, co ekonomové říkali v posledních dvou stech letech. S cenami, mzda-mi a úrokovými mírami se zachází, jako kdyby jejich určení nebylo předmě-tem žádného zákona. Vlády se pokoušejí nařizovat a vynucovat maximálníceny komodit stejně jako minimální mzdy.
+
+Státníci nabádají podnikatele, abysnížili své zisky, snížili ceny a zvýšili mzdy, jako kdyby tyto věci závisely nachvályhodných záměrech jedinců. V otázkách mezinárodních ekonomickýchvztahů se lidé lehkovážně uchylují k nejnaivnějším omylům merkantilismu.Najde se jen málo těch, kdo by si byli vědomi vad všech těchto populárníchteorií, či si uvědomovali, proč politiky na nich založené nutně povedou kekatastrofě.
+
+To jsou smutné věci.

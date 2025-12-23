@@ -1,28 +1,3 @@
-
-Jestliže vláda tyto zdroje vyplýtváať již tak, že je utratí na běžné výdaje, nebo na mylné investice, procesakumulace kapitálu, jenž zahájili jednotlivci tvorbou svých úspor a v němžpokračovaly banky a pojišťovny, když uskutečnily své investice, je zastaven.Odlišnosti mezi těmito dvěma způsoby nám mohou pomoci uvědomit si, kdeje problém:
-
-V neomezované tržní ekonomice uspoří Jan sto dolarů a uloží si je ve své
-
-spořitelně. Jestliže si dobře vybere banku, která obezřetně peníze půjčujea investuje, je výsledkem přírůstek kapitálu, který zvýší mezní produktivitupráce. Část takto vytvořeného přebytku se vrací k Janovi ve formě úroku. Jest-liže si Jan vybere banku špatně a svých sto dolarů svěří bance, která zkra-chuje, nedostane nic.
-
-V případě vládních zásahů do tvorby úspor a investic uspoří Pavel v roce
-
-1940 sto dolarů, které zaplatí do národní sociální pojišťovny.
-
-6Na oplátku
-
-získá pohledávku, která je v podstatě nepodmíněným vládním dluhopisem.Utratí-li vláda těchto sto dolarů formou běžných výdajů, nevzniká žádnýdodatečný kapitál, a tedy ani nedochází k žádnému přírůstku produktivitypráce. Vládní dluhopis je účtem vystaveným budoucím daňovým poplatní-kům. V roce 1970 jistý Petr bude muset splnit vládní příslib, ačkoli on sámnemá žádný užitek z toho, že Pavel v roce 1940 uspořil sto dolarů.
-
-Zde vidíme, že se nemusíme dívat do Sovětského svazu, abychom pocho-
-
-pili, jakou úlohu dnes hrají veřejné finance. Populární tvrzení, že veřejný dluhnepředstavuje žádné břímě, neboť „si ho dlužíme sami sobě“, je zcela mylné.
-
-7596Nezáleží na tom, zda těchto sto dolarů platí Pavel sám nebo zda povinnost odvést
-
-tyto prostředky ukládá zákon zaměstnavateli. Srov. výše, str. 538—539.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 759
-
-Pavel z roku 1940 sám sobě nic nedluží. Je to Petr z roku 1970, kdo dluží Pav-
-
 lovi z roku 1940. Celý systém je jen vyvrcholením krátkozrakého uvažování.Politici v roce 1940 řeší své problémy tak, že je přesunou na politiky roku 1970.V tu dobu budou už politici roku 1940 buď mrtví, nebo z nich budou staří poli-tici užívající si svého skvělého výdobytku, státního penzijního systému.
 
 Báchorky zastánců školy blahobytu o možnosti získat něco zdarma doklá-
@@ -54,3 +29,15 @@ jsou-li k tomu dotlačeni argumenty ekonomů, že poklesu průměrné životní�
 nomics of Welfare a mnohé jeho články. Kritiku myšlenek profesora Pigoua lze najít
 
 vH a y e k , Profits, Interest, and Investment (Londýn, 1939), str. 83–134.
+
+8Srov. F. H. Knight, „Professor Mises and the Theory of Capital“, Economica , VIII
+
+(1941), str. 409—427.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 760
+
+Jádro věci leží právě v působení sobectví. V systému nerovnosti toto sobec-
+
+tví nutí člověka spořit a vždy své úspory investovat způsobem, který nejlépeuspokojí nejnaléhavější potřeby spotřebitelů. V systému rovnosti tento motivmizí. Omezení spotřeby v bezprostřední budoucnosti je citelným strádáním,ránou sobeckým individuálním cílům. Přírůstek dostupného zboží někdy vevzdálené budoucnosti, jenž je v důsledku krátkodobého strádání očekáván,není pro průměrného člověka tak dobře viditelný.
+
+Pozitivní efekty jsou navícv systému veřejné akumulace kapitálu tak rozptýleny, že člověku jen stěží při-padnou jako dostatečná kompenzace za problémy, které musí podstoupitdnes. Škola blahobytu lehkovážně předpokládá, že očekávání sklizně plodůdnešních úspor rovnoměrně celou budoucí generací způsobí, že každý začnevíce spořit.
+
+Podléhají tak obdobě Platónovy iluze, že když zabráníme rodičůmvědět, kdo jsou jejich děti, zahoří rodičovskou láskou ke všem mladým lidem.Bylo by užitečné, kdyby si stoupenci školy blahobytu vzali k srdci Aristotelo-vu poznámku, že výsledkem bude spíše to, že všichni rodiče budou vůči všemdětem stejně lhostejní.

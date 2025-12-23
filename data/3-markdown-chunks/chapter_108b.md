@@ -1,6 +1,3 @@
-
-V civilizovaných zemích je to jiné. Zde pracovník pohlíží na nezaměstna-
-
 nost jako na zlo. Rád by se mu vyhnul, pokud tomu není nutné obětovat pří-liš mnoho. Volí mezi zaměstnaností a nezaměstnaností stejným způsobemjako v případě všech jiných jednání a voleb: zvažuje argumenty pro a proti.Pokud si vybere nezaměstnanost, je tato nezaměstnanost tržním jevem, jehožpodstata není odlišná od ostatních tržních jevů objevujících se v měnícím setržním hospodářství. Tento druh nezaměstnanosti můžeme nazývat trhemvytvořenou či katalaktickou nezaměstnaností .
 
 Různé úvahy vedoucí člověka k tomu, že se rozhodne pro nezaměstnanost,
@@ -44,3 +41,7 @@ Ke katalaktickému tlaku projevovanému prostřed-nictvím mzdového systému ex
 Je pravda, že v mzdovém systému si jednotlivec nemůže zvolit trvalou
 
 nezaměstnanost. Právo na neomezenou zahálku by mu však neposkytl anižádný jiný myslitelný společenský systém. To, že se člověk nemůže vyhnoutpodstupování újmy z práce, není výsledkem žádného společenského zřízení.Jde o nevyhnutelnou přirozenou podmínku lidského života a chování.
+
+Není vhodné označovat katalaktickou nezaměstnanost metaforou vypůjče-
+
+nou z mechaniky, tedy jako „frikční“ nezaměstnanost. V imaginárním kon-struktu rovnoměrně plynoucí ekonomiky žádná nezaměstnanost neexistuje,protože jsme tento konstrukt na takovém předpokladu založili. Nezaměstna-nost je jevem měnícího se hospodářství.

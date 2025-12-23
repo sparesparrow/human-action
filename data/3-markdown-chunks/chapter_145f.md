@@ -1,23 +1,4 @@
-
-Tržní ekonomika se stává chaotickou právě tehdy, když je odstraněna
-
-vláda soukromého vlastnictví, které tito reformátoři znevažují a označují zasobecké. Dobře fungující společenský řád nelze vytvořit tak, že budeme nutitlidi naslouchat hlasu svého svědomí a nahrazovat snahu o dosažení ziskuohledy na veřejné blaho. Člověku nestačí říci, aby nekupoval na nejlevnějším
-
-trhu a neprodával na nejdražším trhu. Nestačí mu říci, aby neusiloval o zisk
-
-anesnažil se vyhnout ztrátám. Je třeba vytvořit jednoznačná pravidla, která by
-
-sloužila člověku jako vodítko v každé konkrétní situaci.
-
-64902_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 649
-
-Reformátoři říkají: Podnikatel je bezohledný a sobecký, když využije svého
-
-postavení a prodává za nižší ceny než jeho méně efektivní konkurent, a tímho přinutí odejít z podnikání. Jak by se měl ale „altruistický“ podnikatelchovat? Neměl by za žádných okolností prodávat za méně než žádný z jehokonkurentů? Nebo snad existují jisté okolnosti, kdy by toto mělo být umož-něno?
-
-Na druhou stranu reformátoři říkají: Podnikatel je bezohledný a sobecký,
-
-když využije situace na trhu a požaduje tak vysoké ceny, že si chudí lidénemohou dovolit zboží koupit. Co by měl ale „správný“ podnikatel dělat? Mělby své zboží rozdávat zadarmo? Ať totiž zvolí jakkoli nízkou prodejní cenu,vždy se najdou lidé, kteří za ni nebudou schopni nakoupit vůbec nebo nebu-dou moci nakoupit tolik, kolik by mohli za cenu nižší. Jakou skupinu lidí,kteří chtějí výrobek koupit, tedy může podnikatel z nákupu vyloučit?
+Jakou skupinu lidí,kteří chtějí výrobek koupit, tedy může podnikatel z nákupu vyloučit?
 
 Na tomto místě není nutné zabývat se důsledky odchýlení výše ceny od
 
@@ -56,3 +37,13 @@ Oni nazývají „spravedlivým“ takové cho-vání, které je slučitelné s 
 Koncept spravedlivých cen a mezd je však vnímán jinými lidmi než fi-
 
 lozofy velmi odlišně. Když nefilozof hovoří o spravedlivé ceně, myslí tím to,že udržení této ceny zvyšuje nebo alespoň nesnižuje jeho vlastní příjmya postavení ve společnosti. Nespravedlivou cenou nazývá pak každou cenu,která jeho bohatství a postavení ohrožuje. Je „spravedlivé“, když ceny jímprodávaného zboží a služeb více a více rostou a když ceny toho, co nakupuje,více a více klesají. Pro zemědělce se tak jakkoli vysoká cena pšenice nezdábýt nespravedlivá.
+
+Pro člověka pracujícího za mzdu totéž platí o mzdovésazbě. Zemědělec ale okamžitě jakýkoli pokles ceny pšenice označuje zaporušení pozemských i nadpozemských zákonů a lidé pracující za mzdu připoklesu mzdových sazeb zorganizují rebelii. Tržní společnost ale nemá žádnýjiný prostředek k přizpůsobení výroby měnícím se podmínkám než fun-gování trhu.
+
+Změny cen přimějí lidi omezit výrobu věcí, které nejsou přílišnutně požadovány, a rozšířit výrobu těch věcí, po nichž je spotřebitelskápoptávka intenzivnější. Absurdita veškerých pokusů stabilizovat ceny spočí-vá právě v tom, že stabilizace by zabránila jakýmkoli dalším zdokonaleníma vyústila ve strnulost a stagnaci. Flexibilita cen věcí a mzdových sazeb jenástrojem přizpůsobení, zdokonalení a pokroku.
+
+Lidé, kteří zavrhují změnycen a mezd jako nespravedlivé a kteří volají po zachování toho, čemu oni samiříkají spravedlivé, ve skutečnosti bojují s úsilím zlepšit ekonomické podmín-ky života.
+
+Není nic nespravedlivého na tom, že po dlouhou dobu můžeme pozorovat
+
+tendenci k ustavení takových cen zemědělských produktů, jež vedly k odcho-du značné části populace ze zemědělství a jejího zapojení se do zpracovatel-ského průmyslu. Nebýt tohoto vývoje, devadesát či více procent obyvatelstvaby stále pracovalo v zemědělství a zpracovatelský průmysl by byl o svůj roz-voj připraven. Veškeré vrstvy obyvatelstva, včetně zemědělců, by na tom bylyhůře.

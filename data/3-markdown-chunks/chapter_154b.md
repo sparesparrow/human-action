@@ -1,4 +1,3 @@
-
 Odborům se prakticky ve všech zemích podařilo získat privilegium uchy-
 
 lovat se k násilnému jednání. Vláda se vzdala ve prospěch odborů jednézákladní charakteristiky státu – výlučné moci a práva využívat nátlakua donucení. Formálně samozřejmě nebyly zrušeny ani změněny zákony, kterépovažují za kriminální čin užití násilí ze strany občanů (s výjimkou případusebeobrany). Násilí odborů je však široce tolerováno. Odbory v podstatěmohou každému zabránit silou v činnostech, které nerespektují odborářskánařízení ohledně mzdových sazeb a ostatních pracovních podmínek.

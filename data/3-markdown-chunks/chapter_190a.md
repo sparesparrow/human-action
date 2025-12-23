@@ -177,4 +177,3 @@ Užitek, mezní, 107—114
 viz také Hodnota/hodnoty
 
 Užití, hodnota, subjektivní vs. objektivní,
-

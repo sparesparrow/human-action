@@ -1,0 +1,129 @@
+{
+  "chapter": "ESPEAK_AUDIO-chapter_165b",
+  "input_file": "data/4-markdown-chunks-optimized/ESPEAK_AUDIO-chapter_165b-OPTIMIZED.md",
+  "mode": "all",
+  "timestamp": 1766496336.1960216,
+  "variants": [
+    {
+      "name": "piper_cs_CZ-jirka-medium_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "natural",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_cs_CZ-jirka-medium_natural.wav",
+      "file_size_bytes": 29983298,
+      "duration_seconds": 339.945805,
+      "generation_time": 68.47112226486206,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-low_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-low",
+      "preset": "natural",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_cs_CZ-jirka-low_natural.wav",
+      "file_size_bytes": 30283372,
+      "duration_seconds": 343.348005,
+      "generation_time": 53.91935658454895,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "natural",
+      "params": {
+        "preset": "natural",
+        "length_scale": 1.0,
+        "noise_scale": 0.667,
+        "noise_w": 0.8
+      },
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_cs_CZ-jirka-medium_natural.wav",
+      "file_size_bytes": 29983298,
+      "duration_seconds": 339.945805,
+      "generation_time": 71.20249485969543,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_clear",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "clear",
+      "params": {
+        "preset": "clear",
+        "length_scale": 1.0,
+        "noise_scale": 0.5,
+        "noise_w": 0.7
+      },
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_cs_CZ-jirka-medium_clear.wav",
+      "file_size_bytes": 29845058,
+      "duration_seconds": 338.378458,
+      "generation_time": 70.20987701416016,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_expressive",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "expressive",
+      "params": {
+        "preset": "expressive",
+        "length_scale": 1.0,
+        "noise_scale": 0.8,
+        "noise_w": 0.9
+      },
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_cs_CZ-jirka-medium_expressive.wav",
+      "file_size_bytes": 30100034,
+      "duration_seconds": 341.269342,
+      "generation_time": 72.32059288024902,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_fast",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "fast",
+      "params": {
+        "preset": "fast",
+        "length_scale": 1.2,
+        "noise_scale": 0.6,
+        "noise_w": 0.8
+      },
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_cs_CZ-jirka-medium_fast.wav",
+      "file_size_bytes": 34292290,
+      "duration_seconds": 388.80059,
+      "generation_time": 77.08020567893982,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_slow",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "slow",
+      "params": {
+        "preset": "slow",
+        "length_scale": 0.8,
+        "noise_scale": 0.5,
+        "noise_w": 0.7
+      },
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_cs_CZ-jirka-medium_slow.wav",
+      "file_size_bytes": 25590338,
+      "duration_seconds": 290.139002,
+      "generation_time": 62.72482109069824,
+      "success": true
+    },
+    {
+      "name": "piper_default",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/ESPEAK_AUDIO-chapter_165b/piper_default.wav",
+      "file_size_bytes": 30004802,
+      "duration_seconds": 340.189615,
+      "generation_time": 70.5994234085083,
+      "success": true
+    }
+  ]
+}

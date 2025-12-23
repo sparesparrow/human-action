@@ -1,7 +1,4 @@
-
-Alternativou k systému, v němž jsou hodnotové soudy jednotlivců rozho-
-
-dující pro vedení výrobních procesů, je autokratická diktatura. Pak rozhodu-jí samotné hodnotové soudy diktátora, i když jsou úplně stejně subjektivníjako soudy jiných lidí.
+Pak rozhodu-jí samotné hodnotové soudy diktátora, i když jsou úplně stejně subjektivníjako soudy jiných lidí.
 
 Člověk určitě není dokonalou bytostí. Jeho lidské slabosti zamořují všech-
 

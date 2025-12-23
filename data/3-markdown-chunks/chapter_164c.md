@@ -1,4 +1,3 @@
-
 Tito britští liberálové a jejich souputníci na kontinentu si uvědomili, že
 
 trvalý mír nemůže zajistit pouhá vláda lidu, ale vláda lidu v podmínkách ne-omezovaného laissez faire . Podle jejich názoru byl nutnou podmínkou za-
@@ -42,3 +41,7 @@ Je to válka rolníků obdělávajících chudoupůdu proti vládám, které jim
 Z uznání této skutečnosti neplyne, že vítězné války by tyto neduhy, o kte-
 
 rých agresoři hovoří, skutečně odstranily. Tyto konflikty ohledně životnědůležitých věcí mohou být vymýceny pouze prostřednictvím všeobecnéhoa bezpodmínečného nahrazení současných myšlenek údajného neusmiřitel-ného antagonismu mezi různými sociálními, politickými, náboženskými,jazykovými a rasovými skupinami lidstva filozofií vzájemné spolupráce.
+
+Je marné vkládat naděje do smluv, konferencí a takových byrokratických
+
+institucí, jako je Společnost národů či Organizace spojených národů.

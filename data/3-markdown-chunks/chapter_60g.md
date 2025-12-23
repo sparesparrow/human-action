@@ -1,8 +1,3 @@
-
-Společnost může klidně ponechat péči o nejlepší možné využití kapitálo-
-
-vých statků na jejich majitelích. Když se pouštějí do konkrétních projektů,dávají tito majitelé v sázku vlastní majetek, bohatství a společenské postavení.Mají dokonce větší zájem na úspěchu svých podnikatelských aktivit než spo-lečnost jako celek. Pro společnost jako celek znamená promarnění kapitáluinvestovaného do určitého projektu pouze ztrátu malé části jejích celkovýchfinančních prostředků; pro majitele to znamená mnohem víc, většinou ztrátuveškerého jmění.
-
 Pokud však manažer dostane naprosto volnou ruku, je všejiné. Když spekuluje, riskuje cizí peníze. Vidí vyhlídky nejistého podnikuz jiného úhlu než člověk, který je zodpovědný za ztráty. Právě je-li odměňovánpodílem na zisku, začíná příliš riskovat, protože se nepodílí také na ztrátách.
 
 Mylný dojem, že řízení je souhrnem podnikatelských činností a že řízení
@@ -36,3 +31,19 @@ Dostá-vá informace o minulém stavu věcí od odborníků v oblasti práva, st
 Společenské funkce elity manažerů nejsou pro fungování tržního hospo-
 
 dářství o nic postradatelnější než funkce elity vynálezců, technologů, inžený-rů, konstruktérů, vědců a experimentátorů. V řadách manažerů slouží mnohoz nejlepších lidí věci hospodářského pokroku. Úspěšní manažeři jsou odmě-ňováni vysokými platy a často podílem na hrubém zisku podniku. Mnozíz nich se v průběhu své kariéry sami stanou kapitalisty a podnikateli. Mana-žerská funkce je však jiná než funkce podnikatelská.
+
+Je vážnou chybou ztotožňovat podnikání s managementem jako v oblíbe-
+
+né antitezi o „managementu“ a „pracovní síle“. Tato záměna je samozřejmě
+
+28101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 281
+
+záměrná. Je vytvořena s úmyslem zastřít skutečnost, že se funkce podnikate-
+
+lů zcela liší od funkcí manažerů, kteří se starají o méně důležité detaily připrovozování podniků. Struktura podniku, alokace kapitálu do různýchvýrobních odvětví a firem, velikost a obor podnikání každého podniku neboobchodu se považují za dané skutečnosti a mlčky se předpokládá, že vzhle-dem k nim nebudou provedeny žádné změny. Jediným úkolem je pokračovatdále ve staré rutině.
+
+V takovém neměnném světě samozřejmě nejsou potřebainovátoři ani průkopníci; celkový součet zisků je vyvážen celkovým součtemztrát. K rozbití falešných představ této teorie stačí srovnat strukturu americ-kého hospodářství v roce 1960 se stavem z roku 1940.
+
+Ale i v neměnném světě by bylo nesmyslné poskytnout „pracovní síle“
+
+podíl na řízení, jak to požaduje oblíbené heslo. Uskutečnění takového poža-davku by vedlo k syndikalismu.

@@ -1,7 +1,4 @@
-
-V tomto smyslu nehraje žádnou roli, zda kapitalista „uteče“ k jiné domácí
-
-investici nebo k investici v zahraničí. Jedním z hlavních cílů devizové regula-ce je zabránit odlivu kapitálu do zahraničí. Tato regulace nicméně můžezabránit majitelům domácích investic pouze v tom, aby včasnou směnou svédomácí investice, považované za riskantní, za bezpečné zahraniční investiceomezili své ztráty.
+Tato regulace nicméně můžezabránit majitelům domácích investic pouze v tom, aby včasnou směnou svédomácí investice, považované za riskantní, za bezpečné zahraniční investiceomezili své ztráty.
 
 46401_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 464
 
@@ -40,3 +37,5 @@ Podle obecného mínění je cosi nežádoucího ve všech možných stránkách
 burzovních transakcí. Pokud ceny rostou, spekulanti jsou kritizováni zanadměrné zisky a za přivlastňování toho, co právem náleží ostatním. Pokudceny klesají, spekulanti jsou kritizováni za ničení národního bohatství. Ziskyspekulantů jsou hanlivě označovány za olupování a okrádání zbytku národa.Je naznačováno, že právě tyto zisky jsou příčinou chudoby veřejnosti. Zcelaběžně se rozlišuje mezi nečestnou odměnou makléřů a zisky výrobců, kteřínespekulují, ale zásobují zákazníky.
 
 I ti, kdo píší o finančních záležitostech,si nejsou schopni uvědomit, že burzovní transakce nevytvářejí ani zisky, aniztráty, ale jsou pouze dovršením zisků a ztrát pocházejících z obchodu a výro-by. Tyto zisky a ztráty, přímý důsledek toho, zda nakupující veřejnost schva-luje nebo neschvaluje v minulosti provedené investice, jsou prostřednictvímburzy zviditelněny. Změny na burze neovlivňují veřejnost.
+
+Naopak, strukturacen na trzích cenných papírů je určována reakcí veřejnosti na způsob, jakýminvestoři uspořádali výrobní aktivity. V konečném důsledku je to názor spo-třebitelů, jenž způsobuje růst nebo pokles cen cenných papírů. Ti, kdo nespo-ří a neinvestují, nedosáhnou díky změnám burzovních kotací ani zisku, aniztráty.

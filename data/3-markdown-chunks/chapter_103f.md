@@ -1,13 +1,4 @@
-
-Je zbytečné namítat, že existuje i nevyužitá kapacita podniků vyrábějících
-
-statky stojící na počátku výrobních procesů. Bývá tvrzeno, že pokles prodejetěchto statků nemůže být vysvětlen nepoměrem kapitálového vybavení růz-ných odvětví; mohou být používány a jsou nezbytné pro mnoho různýchužití. I toto je chyba. Pokud ocelárny a železárny, měděné doly a pily nemo-hou být využity naplno, důvodem může být jen to, že na trhu není dostatekkupujících, kteří chtějí kupovat jejich celý výstup za ceny kryjící nákladyjejich stávající produkce.
-
-Protože se variabilní náklady mohou skládat pouzez cen ostatních výrobků a mezd, a totéž platí pro ceny ostatních výrobků, uve-dená situace vždy znamená, že jsou mzdové sazby příliš vysoké na to, abyvšichni, kdo chtějí pracovat, našli práci a aby bylo využito nepřevoditelnéhozařízení v plné míře, určené požadavkem, aby nespecifické kapitálové statkya práce nebyly odnímány z užití, v nichž naplňují naléhavější potřeby.
-
-Z podmínek zhroucení boomu existuje pouze jedna cesta zpět k situaci,
-
-v níž postupující kapitálová akumulace zabezpečuje plynulé zlepšováníhmotného blaha: čisté úspory musí naakumulovat kapitálové statky potřebnék harmonickému rozvoji všech odvětví výroby, které kapitál vyžadují. Musíbýt zabezpečeny kapitálové statky chybějící v odvětvích, jež byla běhemboomu zanedbána. Mzdové sazby musí klesnout; lidé musí dočasně omezit
+Musíbýt zabezpečeny kapitálové statky chybějící v odvětvích, jež byla běhemboomu zanedbána. Mzdové sazby musí klesnout; lidé musí dočasně omezit
 
 51601_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 516
 
@@ -54,3 +45,17 @@ Zastánci úvěrové expanze argumentují, že je třeba většího objemu fiduc
 árních prostředků. Potom budou podniky pracovat na plný výkon, zásobybudou prodány za cenu, kterou jejich vlastníci považují za uspokojivou,a nezaměstnaní získají práci za mzdy, které považují za dostatečné.
 
 Tato velmirozšířená doktrína naznačuje, že zvýšení cen vyvolané dodatečnými fiduciár-ními prostředky by ve stejném okamžiku a do téže míry ovlivnilo i všechnyostatní statky a služby, zatímco majitelé přebytečných zásob a nezaměstnanípracovníci by se spokojili s těmi nominálními cenami a mzdami, které –samozřejmě zbytečně – požadují dnes.
+
+Pokud by k tomuto mělo dojít, reálnéceny a reálné mzdy získané těmito majiteli a pracovníky by klesly – v pomě-ru k cenám ostatních statků a služeb – na tu úroveň, na kterou musí klesnoutkvůli nalezení kupce nebo zaměstnavatele.
+
+Průběh boomu není zásadně ovlivněn skutečností, že před jeho začátkem
+
+existuje nevyužitá kapacita, přebytečné neprodané zásoby a nezaměstnanípracovníci. Předpokládejme, že existují nevyužité kapacity měděných dolů,neprodané zásoby mědi, nezaměstnaní dělníci měděných dolů. Cena mědi jena úrovni, při níž se těžba v některých dolech nevyplatí; jejich pracovníci jsoupropouštěni; existují spekulanti, kteří odkládají prodeje svých zásob.
+
+K tomu,aby byly doly znovu ziskové, aby pracovníci měli znovu práci a hromady mědibylo možné prodat, aniž by byla její cena stlačena pod výrobní náklady, jetřeba dosáhnout přírůstku pobjemu dostupných kapitálových statků, jenž
+
+bude dostatečný k zajištění odpovídajícího následného růstu investic a veli-kosti výroby a spotřeby, které povedou k odpovídajícímu zvýšení poptávky pomědi. Pokud však k tomuto přírůstku pnedojde a podnikatelé klamaní úvěro-
+
+vou expanzí i přesto jednají, jako kdyby byl pskutečně dostupný, podmínky
+
+na trhu s mědí jsou po dobu trvání růstu takové, jako kdyby bylo pk zásobě

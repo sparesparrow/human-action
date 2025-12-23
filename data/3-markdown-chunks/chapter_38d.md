@@ -1,4 +1,3 @@
-
 Dějiny myšlenek a myšlení jsou rozpravou, která se vede z generace na
 
 generaci. Myšlení pozdější doby vyrůstá z myšlení dřívější doby. Bez pomocipodnětů by byl intelektuální proces nemožný. Spojitost lidského vývoje, setípro potomky a sklízení na polích vymýcených a obdělaných předky, se proje-vuje také v dějinách vědy a idejí. Od svých praotců jsme nezdědili pouzezásobu výrobků různých druhů zboží, která je zdrojem našeho materiálníhobohatství; stejně jsme zdědili i ideje a myšlenky, teorie a technologie, jimžnaše myšlení vděčí za svou produktivitu.

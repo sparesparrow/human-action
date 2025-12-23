@@ -1,7 +1,4 @@
-
-Veřejnost se na lobbyisty dívá podezíravě a viní je z bezútěšných dopadů
-
-intervencionistické legislativy. Kořen zla však spočívá hlouběji. Filozofienejrůznějších zájmových skupin pronikla do legislativních sborů. Dnes
+Dnes
 
 77902_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 779
 
@@ -54,3 +51,7 @@ je uskutečněna a přináší zisk, má přesně tu vlastnost, že většinu li
 Podnikatelé a kapitalisté vydávají napospas svůj vlastní hmotný blahobyt,
 
 jsou-li zcela přesvědčeni o správnosti svých plánů. Nikdy by se nerozhodlivzít svůj ekonomický život do svých rukou proto, že jim to poradil nějakýexpert. Neznalí lidé, kteří působí na akciových a komoditních burzách nazákladě doporučení expertů, o své peníze přijdou, ať už mají svou inspiracia „důvěrné“ informace odkudkoli.
+
+Rozumní podnikatelé-obchodníci si jsou plně vědomi nejistoty budouc-
+
+nosti. Uvědomují si, že ekonomové neprodukují žádné spolehlivé informaceo budoucnosti; že poskytují pouze jistý výklad statistických dat týkajících seminulosti.

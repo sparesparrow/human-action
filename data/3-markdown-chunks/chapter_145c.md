@@ -1,8 +1,3 @@
-
-Stát a vláda nejsou cíli, ale prostředky. Způsobovat zlo lidem činí přímé
-
-potěšení pouze sadistům. Vlády se uchylují k nátlaku a donucení proto, abyzajistily hladké fungování konkrétního systému organizace společnosti. Sféry,ve kterých jsou nátlak a donucení používány, a obsah zákonů, které je třebavynutit za pomoci policejního aparátu, jsou podmíněny druhem přijatéhospolečenského řádu. Jelikož stát a vláda jsou určeny k zajištění bezpečnéhofungování společenského systému, vymezení funkcí vlády je nutné přizpůso-bit těmto požadavkům.
-
 Jediným měřítkem hodnocení zákonů a způsobůjejich vynucování je to, zda jsou či nejsou účinné při zajišťování společenské-ho řádu, jehož fungování mají zachovat.
 
 Koncept spravedlnosti má význam pouze tehdy, odkazuje-li na konkrétní
@@ -42,3 +37,13 @@ vláda neměla regulovat ceny a neměla trestat lidi, kteří cenové stropy ner
 Je jen na legislativci,aby systém soukromého vlastnictví výrobních prostředků nahradil jakýmkolijiným systémem, stejně jako je v jeho moci nahradit národní hymnu zvolenouněkdy v minulosti hymnou jinou. Pravidlo car tel est notre bon plasir je jedinou
 
 zásadou tvůrce práva.
+
+Stejně jako proti jiným druhům formalismu a legálního dogmatismu je
+
+i zde třeba zdůraznit, že jediným důvodem existence zákonů a společenskéhoaparátu nátlaku a donucení je zajištění hladkého fungování společenské koo-perace. Je očividné, že je v moci vlády nařídit maximální ceny a uvěznit čipopravit všechny, kteří budou prodávat či kupovat za vyšší cenu. Otázkou alezůstává, zda taková politika může nebo nemůže dosáhnout cílů, kvůli kterýmse vláda k této politice uchýlila. Máme zde před sebou zcela praxeologickýa ekonomický problém.
+
+Ani filozofie práva, ani politická věda nám k jehovyřešení nemůže nijak přispět.
+
+Problém intervencionismu není problémem správného vymezení „přiroze-
+
+ných“, „spravedlivých“ či „náležitých“ funkcí státu a vlády. Problém zní takto:Jak systém intervencionismu funguje?

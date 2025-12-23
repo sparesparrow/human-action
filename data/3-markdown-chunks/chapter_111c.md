@@ -1,7 +1,4 @@
-
-Náš předpoklad, že tato opatření neovlivní nabídku hmotných výrobních
-
-faktorů, ale není přípustný. Zkrácení pracovní doby, omezení noční prácea zaměstnání určitých skupin lidí naruší využití části dostupného zařízení a jeobdobou snížení nabídky kapitálu. Výsledné zesílení vzácnosti kapitálovýchstatků může zcela zvrátit případný růst mezní produktivity práce vzhledemk mezní produktivitě kapitálových statků.
+Výsledné zesílení vzácnosti kapitálovýchstatků může zcela zvrátit případný růst mezní produktivity práce vzhledemk mezní produktivitě kapitálových statků.
 
 Pokud zároveň s nuceným zkrácením pracovní doby úřady či odbory zaká-
 
@@ -42,3 +39,5 @@ Pokud občas vývoj průmyslu předstihlo, rychlé zvý-šení bohatství znovu 
 Pojem „sociální výhody“ je zcela zavádějící. Pokud zákon nutí zaměstnan-
 
 ce pracovat maximálně čtyřicet hodin za týden, i když ten by dával přednostpráci čtyřicet osm hodin týdně, nebo pokud nutí zaměstnavatele zaplatit urči-té výdaje ve prospěch zaměstnance, neupřednostňuje pracovníky na úkorzaměstnavatelů. Ať už jsou ustanovení sociálních zákonů jakákoli, jejichzátěž nakonec dopadne na zaměstnance, nikoli na zaměstnavatele.
+
+Ovlivňujíobjem vyplacených mezd; pokud zvyšují cenu, kterou musí zaměstnavatelzaplatit za jednotku výkonu nad potenciální tržní sazbu, vytvářejí institucio-nální nezaměstnanost. Sociální zabezpečení nenařizuje zaměstnavatelůmutratit více za najímanou práci. Omezuje příjemce mezd ohledně utraceníjejich celkového důchodu. Bere pracovníkovi svobodu uspořádat si svojidomácnost podle svých vlastních rozhodnutí.

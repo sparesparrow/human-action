@@ -1,5 +1,4 @@
-
-Je jistě pravda, žev mnoha oborech zpracovatelského průmyslu by bylo bláhové vstupovat natrh s výrobky malých zaostávajících podniků, které mají vysoké náklady.Moderní přádelna bavlny se nemusí obávat konkurence staromódních pře-slic; jejími konkurenty jsou jiné víceméně náležitě vybavené přádelny. Tovšak neznamená, že mají možnost prodávat za monopolní ceny. I mezi vel-kými podniky je konkurence.
+Tovšak neznamená, že mají možnost prodávat za monopolní ceny. I mezi vel-kými podniky je konkurence.
 
 Jestliže při prodeji výrobků velkých podnikůpřevažují monopolní ceny, důvodem jsou buď patenty, nebo monopol navlastnictví dolů nebo jiných zdrojů surovin, nebo kartely založené na clech.
 
@@ -42,3 +41,31 @@ ného vybavení nebude jevit úplně ztraceným. Přináší skromný výnos, to
 Tento podnik nyní prodává za monopolní ceny a dosahuje monopolních
 
 výnosů, ačkoli celkový investovaný kapitál vynáší jen málo ve srovnání s tím,co by byli investoři vydělali, kdyby investovali do jiných průmyslových oborů.Podnik odnímá z trhu služby, které by mohla poskytovat nevyužitá výrobníkapacita jeho trvanlivého vybavení, a daří se mu lépe, než kdyby vyráběl naplnou kapacitu. Vzpírá se příkazům veřejnosti. Veřejnost by byla v lepší situ-aci, kdyby se byli investoři vyhnuli chybě a nezakonzervovali část svého kapi-tálu do výroby p.
+
+Avšak poté, co tuto nenapravitelnou chybu udělali, je tomu
+
+tak, že veřejnost chce dostat víc pa je připravena platit za něj tolik, kolik teď
+
+činí teoretická konkurenční tržní cena, totiž s. V současné situaci neschvalu-
+
+33701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 337
+
+je jednání podniku, které stahuje určité množství variabilního kapitálu z vyu-
+
+žití pro výrobu p. Tato částka jistě nezůstane nevyužita. Odchází do jiných
+
+oborů podnikání a vyrábí zde něco jiného, konkrétně m. Avšak v současných
+
+podmínkách by spotřebitelé před zvýšením dostupného množství výrobkumdali přednost zvýšení dostupného množství p. Důkazem je, že v nepřítom-
+
+nosti monopolistického omezení výrobní kapacity p, jak je tomu za daných
+
+podmínek, by výnosnost výroby množství qprodávaného za cenu sbyla tak
+
+vysoká, že by se vyplatila víc než zvýšení množství vyráběného výrobku m.
+
+Tento případ má dva charakteristické rysy. Zaprvé, monopolní ceny place-
+
+né kupujícími jsou stále nižší, než kolik by činily celkové náklady výroby p,
+
+pokud by byly plně započteny všechny vklady investorů.

@@ -37,3 +37,19 @@ v podmínkách dělby práce soutěž mezi těmi, kdo chtějí získat tentýž 
 Proto-že průměrné výrobní náklady mohou být sníženy velkosériovou výrobou,soutěž mezi těmi, kdo touží získat stejnou komoditu, přináší zlepšení v situ-aci jednotlivých konkurentů. Skutečnost, že nejen několik, ale velký početlidí touží získat komoditu c, ji umožňuje vyrábět úsporným postupem; pak si
 
 ji mohou dovolit všichni lidé se skromnými prostředky. Stejně se někdy můžestát, že cenová diskriminace umožní dosáhnout uspokojení potřeby, která byv její nepřítomnosti zůstala neuspokojená.
+
+Ve městě žije pmilovníků hudby, z nichž každý by byl ochoten zaplatit 2 $
+
+za recitál virtuóza. Takový koncert však vyžaduje vyšší náklady než 2 pdola-
+
+rů, a proto nemůže být uskutečněn. Je-li však možná diskriminace vstupného
+
+35201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 352
+
+azppřátel hudby je jich nochotno vydat po 4 $, pak bude možné recitál usku-
+
+tečnit, pokud částka 2 ( n+p ) bude dostatečná. Potom nlidí utratí za vstupné
+
+po 4 $ a (p – n) lidí po 2 $, a vzdají se uspokojení nejméně naléhavé potřeby,
+
+kterou by byli uspokojili, kdyby nedali přednost návštěvě recitálu. Každáosoba v publiku se má lépe, než by se měla, kdyby nemožnost cenové diskri-minace zabránila v představení.

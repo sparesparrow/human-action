@@ -1,22 +1,3 @@
-
-Žádnésubtilní filozofické argumenty nemohou nikdy zabránit zdravému člověkuv zahájení jednání, které – jak se domnívá – může uspokojit jeho potřeby.Možná je pravda, že v nejhlubších zákoutích lidské duše je touha po neruše-ném klidu a nečinnosti pouhé vegetativní existence. U žijících lidí jsou tytotužby, ať jsou jakékoli, převáženy touhou jednat a zlepšit si podmínky vlast-ního života. Jakmile zvítězí síly odevzdanosti, člověk umírá; nestane se z nějrostlina.
-
-Je pravda, že praxeologie a ekonomie neříkají člověku, zda by si měl
-
-uchovat život, či se ho zříci. Život sám a všechny neznámé síly, jež mu dávajívzniknout a udržují jeho plamen, jsou konečnou daností a jako takové senacházejí za sférou lidské vědy. Předmětem zkoumání praxeologie je pouzezákladní manifestace lidského života, totiž jednání.
-
-2. Ekonomie a hodnotové soudy
-
-Zatímco mnozí lidé kritizují ekonomii za její neutralitu ohledně hodnoto-
-
-vých soudů, jiní lidé ji obviňují z toho, že se do nich údajně pouští. Někteřítvrdí, že ekonomie musí nutně vyjadřovat hodnotové soudy, a není protoopravdu vědeckou, jelikož kritérium vědy je její hodnotová indiference. Jiní
-
-79002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 790
-
-tvrdí, že dobrá ekonomie by měla a mohla být nestranná a že pouze špatní
-
-ekonomové se proti tomuto postulátu prohřešují.
-
 Sémantické zmatení při debatách o tomto problému vzniká kvůli nepat-
 
 řičnému užívání slov mnohými ekonomy. Ekonom zkoumá, zda opatřeníamůže přinést výsledek p, k jehož naplnění je doporučováno, a zjistí, že
@@ -56,3 +37,17 @@ Na to ekonomie odpovídá následovně:
 o to, čemu se říká materiální blahobyt. Ekonomie, jako součást obecnějšíteorie o lidském jednání, se zabývá veškerým lidským jednáním, tj. lidskouúčelovou snahou o dosažení zvolených cílů, ať je již těmito cíli cokoli. Jenesmyslné používat koncept racionality či iracionality k posuzování zvolených
 
 cílů. Iracionálními můžeme nazvat konečné danosti, totiž takové věci, kterénaše myšlení nemůže ani zkoumat, ani redukovat na jiné v konečném důsled-ku dané věci. Pak je každý konečný cíl zvolený jakýmkoli člověkem iracio-nální. Není ani více, ani méně racionální usilovat o bohatství jako Krésus nežusilovat o chudobu, jako to dělá buddhistický mnich.
+
+2. Kritici mají termínem racionální cíle na mysli úsilí o dosažení materiální-
+
+ho blahobytu a vyšší životní úrovně. Je otázkou, zda je či není ve skutečnostipravdivé jejich tvrzení, že lidé obecně, a dnešní lidé zvláště, jsou hnáni spíšepřáním dosáhnout mýtů a snů než snahou zlepšit svůj materiální blahobyt.I když by žádná inteligentní bytost nemohla nezodpovědět tuto otázku správ-ně, není třeba se tímto zabývat. Ekonomie totiž neříká nic ve prospěch mýtůči proti nim.
+
+Ve vztahu k doktríně odborů, doktríně úvěrové expanze a všempodobným doktrínám, pokud se samy prezentují jako mýty a jsou podporo-vány jako mýty svými zastánci, zachovává naprostou neutralitu. Zabývá setěmito teoriemi, pouze pokud jsou považovány doktrínami za prostředky, ježjsou vhodné k dosažení konkrétních cílů. Ekonomie netvrdí, že teorie odbo-rů je špatným mýtem. Říká pouze, že jde o nevhodný prostředek ke zvýšenímzdových sazeb všech lidí, kteří chtějí za mzdu pracovat.
+
+Nechává na kaž-dém, aby se rozhodl, zda je uskutečnění odborářského mýtu důležitější nežvyhnutí se nutným důsledkům politiky odborů.
+
+V tomto smyslu můžeme říci, že ekonomie je apolitická a nepolitická,
+
+ačkoli je základem politiky a všech typů politického jednání. Můžeme navíctvrdit, že je zcela neutrální ve vztahu ke všem hodnotovým soudům, jelikožvždy mluví o prostředcích a nikdy o volbě konečných cílů.
+
+3.

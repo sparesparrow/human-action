@@ -1,17 +1,4 @@
-
-Výrobní vztah, spotřební vztah a substituční vztah jsou zvláštní vztahy cen
-
-omezeného množství statků. Od těchto zvláštních vztahů je třeba odlišitobecný vztah cen všeho zboží a služeb. Tento obecný vztah je důsledkemtoho, že pro každý druh uspokojení potřeb je vedle různých víceméně speci-fických faktorů nutný jeden vzácný faktor, který můžeme – přes kvalitativnírozdíly v jeho schopnosti vyrábět – v hranicích, které byly přesně definoványvýše,
-
-26nazývat nespecifickým faktorem, a tímto faktorem je práce.
-
-V hypotetickém světě, v němž jsou všechny výrobní faktory naprosto spe-
-
-cifické, by lidské jednání působilo na mnoha různých polích uspokojovánípotřeb navzájem nezávisle. To, co v našem skutečném světě spojuje různéoblasti uspokojování potřeb, je existence obrovského množství nespecific-kých faktorů, které se hodí pro využití k dosažení různých cílů a které se
-
-35426Srov. výše, str. 118—121.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 354
-
-mohou do určité míry zastupovat. Skutečnost, že onen jeden faktor, práce, je
+Skutečnost, že onen jeden faktor, práce, je
 
 na jedné straně nutný pro každý druh výroby a na druhé straně je v rámci defi-novaných hranic nespecifický, přináší obecnou spojitost všech lidských čin-ností. Spojuje proces tvorby cen do jednoho celku, v němž na sebe všechnasoukolí navzájem působí. Proto je trh zřetězením vzájemně nezávislých jevů.
 
@@ -44,3 +31,19 @@ Kapitál může být uchovánjako zdroj příjmu, je-li spotřeba jeho produktů
 Změny v tržních datech mohou zmařit každou snahu o zachování zdroje
 
 příjmu na věky. Průmyslové zařízení bude najednou zastaralé, když se změnípoptávka nebo když bude nahrazeno něčím lepším. Pole bude najednounepotřebné, bude-li v dostatečném množství dána k dispozici úrodnější půda.Zručnost a dovednost při výkonu určitého konkrétního druhu práce ztratísvou schopnost přinášet odměnu, jestliže nová móda nebo nové výrobnímetody zúží možnost jejich využití.
+
+Úspěchkaždého zaopatření do nejistébudoucnosti závisí na správnosti očekávání, na jehož základě bylo uděláno.Žádný příjem nemůže být zajištěn proti změnám, které nebyly správně před-vídány.
+
+Stejně není proces tvorby cen ani druhem rozdělování. Jak jsme již ukáza-
+
+li, v tržním hospodářství neexistuje nic, na co by se pojem rozdělování dalpoužít.
+
+14. Ceny a výroba
+
+Proces tvorby cen na nenarušovaném trhu usměrňuje výrobu tam, kde nej-
+
+lépe slouží potřebám spotřebitelů, jež se projevují na trhu. Pouze v případěmonopolních cen mají monopolisté sílu kvůli vlastnímu prospěchu odvéstv omezeném rozsahu výrobu z tohoto oboru jinam.
+
+Ceny určují, který výrobní faktor by měl být použit a který by měl být
+
+ponechán bez využití. Specifické výrobní faktory se používají pouze tehdy,když neexistuje cennější využití komplementárních nespecifických faktorů.Existují technologické návody, půda i nepřevoditelné kapitálové statky,jejichž schopnost vyrábět zůstává nevyužita, protože jejich využití by zname-nalo plýtvání tím nejvzácnějším ze všech faktorů, prací.

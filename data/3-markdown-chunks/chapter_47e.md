@@ -1,15 +1,4 @@
-
-Také je pravda, že klasičtí ekonomové a jejich následovníci obvykle nazý-
-
-vali systém nenarušovaného tržního hospodářství „přirozeným“ a vládní vmě-šování do tržních jevů „umělým“ a „rušivým“. Avšak i tato terminologie bylavýsledkem toho, že pečlivě prozkoumali problémy intervencionismu. Bylov souladu s významovými zvyky té doby, když říkali, že nežádoucí stav spo-lečenských věcí je „proti přírodě“.
-
-Teismus a deismus osvícenského věku hleděly na zákonitost přírodních
-
-jevů jako na výplod rozhodnutí Prozřetelnosti. Když osvícenští filozofovéobjevili, že zákonitost jevů převažuje i v lidském jednání a ve vývoji společ-nosti, byli připraveni interpretovat to rovněž jako důkaz otcovské péče Stvo-řitele světa. To byl skutečný obsah principu předurčené harmonie, jak hovykládali někteří ekonomové.
-
-4Sociální filozofie paternalistického despotis-
-
-mu kladla důraz na božské poslání králů a autokratů, kteří jsou předurčenivládnout národům. Liberálové ostře odpověděli, že fungování nenarušované-ho trhu, na němž je spotřebitel – tedy každý občan – svrchovaným pánem,přináší uspokojivější výsledky než výnosy pomazaných vládců. Pozorujte, jakfunguje tržní systém, říkali, a objevíte i v něm prsty Boží.
+Liberálové ostře odpověděli, že fungování nenarušované-ho trhu, na němž je spotřebitel – tedy každý občan – svrchovaným pánem,přináší uspokojivější výsledky než výnosy pomazaných vládců. Pozorujte, jakfunguje tržní systém, říkali, a objevíte i v něm prsty Boží.
 
 Spolu s imaginárním konstruktem čistého tržního hospodářství vypracovali
 
@@ -52,3 +41,13 @@ Tvrdit, že člověk, který je postaven před možnost získat více nebo mén�
 žádný další předpoklad. Vyšší cena pro prodávajícího znamená lepší uspoko-jení jeho potřeb. Totéž se vztahuje mutatis mutandis na kupce. Částka, kterou
 
 uspoří při koupi daného zboží, mu umožní utratit víc za uspokojení jinýchpotřeb. Nakupovat na nejlevnějším trhu a prodávat na tom nejdražším není –pokud budou ostatní věci stejné – jednáním, které by předpokládalo jakékolizvláštní předpoklady týkající se motivů a mravních zásad toho, kdo jedná. Jeto pouze nutný důsledek jakéhokoli jednání v podmínkách tržní směny.
+
+22001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 220
+
+Ve svém postavení obchodníka je člověk sluhou spotřebitelů, který je nucen
+
+vyhovět jejich přáním. Nemůže se oddávat svým vlastním nápadům a před-stavám. Ale nápady a představy jeho spotřebitelů, jsou-li tito spotřebitelépřipraveni za ně zaplatit, jsou pro něj nejvyšším zákonem. Své chování musípřizpůsobit poptávce ze strany spotřebitelů. Jestliže spotřebitelé, bez smyslupro krásu, dávají přednost ošklivým a vulgárním věcem, musí je proti svémupřesvědčení takovými věcmi zásobovat.
+
+5Pokud spotřebitelé nechtějí platit za
+
+domácí výrobky vyšší cenu než za výrobky ze zahraničí, musí, pokud jsou lev-nější, nakupovat zahraniční výrobky. Zaměstnavatel nemůže poskytovat výho-dy na úkor spotřebitelů. Nemůže platit vyšší mzdové sazby, než jaké určil trh,pokud kupující nejsou ochotni platit úměrně vyšší ceny za statky vyrobenév podnicích, v nichž jsou vyšší mzdové sazby než v jiných podnicích.

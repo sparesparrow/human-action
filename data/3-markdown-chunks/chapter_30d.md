@@ -1,7 +1,4 @@
-
-Kvantita a kvalita jsou kategoriemi vnějšího světa. Pro jednání získávají
-
-význam pouze nepřímo. Jelikož má každá věc jen omezený účinek, jsouněkteré věci považované za vzácné a berou se jako prostředky. Protože jsouúčinky, které věci mohou způsobit, různé, rozlišuje jednající člověk rozličnétřídy věcí. Protože prostředky stejné kvantity a kvality vždy produkují stejnémnožství účinků ve stejné kvalitě, nerozlišuje jednání mezi konkrétními spe-cifickými množstvími homogenních prostředků. To však neznamená, že při-
+To však neznamená, že při-
 
 10701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 107
 
@@ -60,3 +57,7 @@ Až později objevili, že onen zjevný paradox byl výsledkem chybného for-
 mulování daného problému. Hodnocení a volby, které dávají vzniknoutsměnným poměrům na trhu, se nevztahují na zlato aželezo . Jednající člověk
 
 není v pozici, kdy by musel volit mezi veškerým zlatem a veškerým železem.
+
+Rozhoduje se v konkrétním čase za konkrétních podmínek mezi přesněomezeným množstvím zlata a přesně omezeným množstvím železa. Jeho roz-hodnutí o volbě mezi 100 uncemi zlata a 100 tunami železa vůbec nezáleží narozhodnutí, které by učinil, kdyby se dostal do vysoce nepravděpodobné situ-ace volby mezi veškerým zlatem a veškerým železem.
+
+Jediné, na čem v jehokonkrétní volbě záleží, je, zda za současných podmínek považuje přímé činepřímé uspokojení ze 100 uncí zlata za větší či menší než přímé či nepříméuspokojení, které by mohl získat ze 100 tun železa.

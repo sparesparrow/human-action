@@ -1,4 +1,3 @@
-
 Společnost je mnohem víc než pomíjivé spojení uzavřené zakonkrétním účelem a zanikající, jakmile je jeho účel dosažen, dokonce i kdyžjsou partneři připraveni obnovit ho, pokud by se objevila příležitost.
 
 Růst produktivity, který přináší dělba práce, je zřejmý, kdykoli je nerov-
@@ -58,3 +57,7 @@ jící intenzifikaci spolupráce lidí. Představíme si, jaká pobídka přimě
 Abychom pochopili, proč člověk nezůstal samotářem, který by jakozvířata slídil po potravě a úkrytu pouze pro sebe a nanejvýš ještě pro svéhomanžela či manželku a nesamostatné potomky, nemusíme se opírat o zázrač-ný zásah božstva nebo o prázdnou hypostazi vrozeného nutkání ke sdru-žování. Nejsme ani nuceni předpokládat, že se izolovaní jednotlivci neboprimitivní hordy jednoho dne zavázali smlouvou, že vytvoří společenské svaz-ky.
 
 Faktorem, který přivedl primitivní společnost a denní práci k jejich ros-toucí intenzifikaci, je lidská činnost, která je povzbuzována proniknutím dopodstaty vyšší produktivity práce dosažené při dělbě práce.
+
+Ani historie, ani etnologie, ani žádný jiný obor vědění nemohou poskyt-
+
+nout popis evoluce, která vedla od stád a hejn nelidských předků člověkak primitivním, ale již vysoce rozrůzněným společenským skupinám, o nichžzískáváme informace z vykopávek, z nejstarších historických dokumentů a zezpráv objevitelů a cestovatelů, kteří navštívili primitivní kmeny.

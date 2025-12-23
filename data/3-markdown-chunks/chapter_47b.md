@@ -1,5 +1,4 @@
-
-Aleje-li tomu tak, pak není přípustné vyloučit ze sféry „ekonomického“ jednáníta jednání, která odstraňují nespokojenost přímo bez zprostředkování který-mikoli hmotnými a viditelnými věcmi. Rada lékaře, výklad učitele, recitálumělce a jiné osobní služby nejsou o nic méně předmětem studia ekonomienež architektovy plány na stavbu budovy, vědcův vzorec na výrobu chemickésloučeniny a spisovatelův příspěvek k vydání knihy.
+Rada lékaře, výklad učitele, recitálumělce a jiné osobní služby nejsou o nic méně předmětem studia ekonomienež architektovy plány na stavbu budovy, vědcův vzorec na výrobu chemickésloučeniny a spisovatelův příspěvek k vydání knihy.
 
 Předmětem katalaxie jsou všechny tržní jevy se všemi svými kořeny,
 
@@ -40,3 +39,15 @@ věda. To, co se dnes pod nálepkou ekonomie učí na většině univerzit, je p
 Ten, kdo zpochybňuje existenci ekonomie, fakticky popírá, že blahobyt lidí
 
 je narušován jakýmkoli nedostatkem vnějších faktorů. Tím říká, že by sikaždý mohl užívat dokonalého uspokojení všech svých přání, pokud by senějaké reformě podařilo překonat jisté překážky, které zapříčinily nevhodnéinstituce vytvořené člověkem. Příroda je štědrá, marnotratně zahrnuje lidstvosvými dary. Mohly by tu být rajské podmínky pro neomezené množství lidí.Nedostatek je umělý výtvor zavedené praxe. Odstranění takové praxe byvedlo k nadbytku.
+
+V učení Karla Marxe a jeho následovníků je nedostatek pouze historickou
+
+kategorií. Je to rys pravěké historie lidstva, který bude navždy zlikvidován, ažse zruší soukromé vlastnictví. Jakmile lidstvo uskuteční krok z říše nutnosti
+
+21501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 215
+
+do říše svobody1, a tím dosáhne „vyšší fáze komunistické společnosti“, nasta-
+
+ne hojnost a v důsledku toho bude možné dát „každému podle jeho potřeb“.2
+
+V obrovské záplavě marxistických spisů není ani nejmenší zmínka o mož-nosti, že by komunistická společnost ve své „vyšší fázi“ mohla čelit nedo-statku přírodních výrobních faktorů. Fakt o zbytečnosti práce je odčarovántvrzením, že pracovat – samozřejmě za komunismu – už nebude námahou,ale radostí, „první životní potřebou“.

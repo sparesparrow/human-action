@@ -55,3 +55,5 @@ Odbory se například snaží o omezenínabídky práce prostřednictvím antiim
 Základ odborářské doktríny je obsažen v heslu vykořisťování . Podle teorie
 
 vykořisťování, kterou zastávají odbory a jež se liší od marxistického přístupu,je práce jediným zdrojem bohatství a výdaje na práci jedinými skutečnýmináklady. Veškeré příjmy z prodeje výrobků by tak po právu měly náležet pra-covníkům. Manuální pracovník tedy má spravedlivý nárok na „celý produktpráce“. Kapitalistický způsob výroby ale pracovníkovi způsobuje bezpráví,neboť dovoluje, aby si majitelé půdy, kapitalisté a podnikatelé přivlastnili částzaměstnancova příjmu.
+
+Ta část, kterou získávají tito parazité, se nazývá neza-sloužený příjem.

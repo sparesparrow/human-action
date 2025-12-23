@@ -1,7 +1,4 @@
-
-Rozumní podnikatelé-obchodníci si jsou plně vědomi nejistoty budouc-
-
-nosti. Uvědomují si, že ekonomové neprodukují žádné spolehlivé informaceo budoucnosti; že poskytují pouze jistý výklad statistických dat týkajících seminulosti. Názory ekonomů na budoucnost představují pro kapitalisty a pod-nikatele pouze pochybné domněnky. Jsou podezíraví a nenechají se snadnonapálit. Jelikož se ale poměrně správně domnívají, že je užitečné znát veške-rá data, která mohou na jejich podnikání mít nějaký dopad, čtou novinya časopisy, které předpovědi poskytují.
+Názory ekonomů na budoucnost představují pro kapitalisty a pod-nikatele pouze pochybné domněnky. Jsou podezíraví a nenechají se snadnonapálit. Jelikož se ale poměrně správně domnívají, že je užitečné znát veške-rá data, která mohou na jejich podnikání mít nějaký dopad, čtou novinya časopisy, které předpovědi poskytují.
 
 Aby náhodou neopominuly nějakýzdroj dostupných informací, velké podniky zaměstnávají oddělení ekonomůa statistiků.
 
@@ -50,3 +47,5 @@ V jednom okamžiku nikdy nežilo více než pár lidí, jejichž práce něčím
 zásadním do ekonomie přispěla. Počet kreativních lidí je v ekonomii stejněmalý jako v jiných oblastech poznávání. Kromě toho mnozí kreativní ekono-mové ekonomii nevyučují. Tisíce učitelů ekonomie jsou ale poptávány uni-verzitami a vysokými školami. Akademická tradice vyžaduje, aby každýz nich prokázal své kvality publikováním originálních příspěvků, nikolipouze kompilací učebnic a učebních textů.
 
 Akademická reputace a mzda uči-tele závisí více na množství jeho publikací než na schopnosti vyučovat. Pro-fesor se nemůže vyhnout publikování knih. Necítí-li své místo v ekonomii,píše o hospodářských dějinách nebo deskriptivní ekonomii. Aby ale poténeztratil tvář, musí tvrdit, že problémy, kterými se zabývá, jsou skutečnýmiekonomickými problémy, a nikoli problémy hospodářských dějin.
+
+Musídokonce předstírat, že jeho příspěvky náleží nejen do jediného legitimníhooboru ekonomických studií, že pouze ony jsou empirické, induktivní a vědec-ké, zatímco pouhé deduktivní vývody teoretiků „od zeleného stolu“ jsouprázdnými spekulacemi.

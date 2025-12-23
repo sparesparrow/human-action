@@ -1,13 +1,4 @@
-
-Mnoho současných univerzit se ale nestalo semeništi socialismu kvůli situaci
-
-vládnoucí na katedrách ekonomie, ale kvůli poznatkům předávaným studentům
-
-78402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 784
-
-na ostatních katedrách. Na katedrách ekonomie lze stále najít alespoň nějaké
-
-ekonomy a i ostatním učitelům mohou být známy některé výhrady vznášenéproti uskutečnitelnosti socialismu. Situace je odlišná v případě mnoha učitelůfilozofie, historie, literatury, sociologie a politických věd. Tito lidé interpretujíhistorii na základě vulgarizované verze dialektického materialismu. Dokonce i ti,kdo vášnivě útočí na marxismus kvůli jeho materialismu a ateismu, jsou pod vli-vem myšlenek obsažených v Komunistickém manifestu a programu Komunis-tické internacionály.
+Situace je odlišná v případě mnoha učitelůfilozofie, historie, literatury, sociologie a politických věd. Tito lidé interpretujíhistorii na základě vulgarizované verze dialektického materialismu. Dokonce i ti,kdo vášnivě útočí na marxismus kvůli jeho materialismu a ateismu, jsou pod vli-vem myšlenek obsažených v Komunistickém manifestu a programu Komunis-tické internacionály.
 
 Hospodářské deprese, masovou nezaměstnanost, inflaci,válku a chudobu vysvětlují jako zla, jež kapitalismus nutně obsahuje, a nazna-čují, že tyto jevy mohou vymizet, pouze když se zbavíme i kapitalismu.
 
@@ -54,3 +45,11 @@ Máme zde jasný problém a nic nezískáme, když strčímehlavu do písku.
 Na střední škole a dokonce i na vysoké škole představuje předávání histo-
 
 rických a ekonomických znalostí v podstatě indoktrinaci. Větší část studentůnení zcela jistě dostatečně vyspělá, aby si mohla vytvořit vlastní názor nazákladě kritického posouzení učitelova vylíčení dané situace.
+
+Kdyby bylo veřejné vzdělávání efektivnější, než ve skutečnosti je, politické
+
+strany by velmi usilovaly o získání kontroly nad školským systémem, abymohly určit způsob, jakým se o těchto věcech bude učit. Obecné vzdělání hrajeovšem pouze méně významnou úlohu při formování politického, sociálníhoa ekonomického myšlení dorůstající generace. Vliv tisku, rozhlasu a společen-ského prostředí je mnohem větší než vliv učitelů a učebnic. Propaganda círk-ví, politických stran a zájmových skupin překonává vliv škol, ať již vyučujícokoli.
+
+Člověk často velmi rychle zapomíná, co se ve škole naučil, a je přede-vším neustále formován společenským prostředím, ve kterém se pohybuje.
+
+6.

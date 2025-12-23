@@ -1,50 +1,53 @@
-
-Kdyby byly obě tyto podmínky vždy a bez výjimky splněny, každé zvýšení
-
-nákladů o zvydané na zvýšení množství mnějaké komodity gby bylo využi-
-
-to k uspokojení potřeb, které jsou považovány za méně naléhavé než nejmé-ně naléhavá potřeba z těch, které již byly uspokojeny množstvím m, jež bylo
-
-k dispozici už předtím. Současně by zvýšení o zvyžadovalo využití výrobních
-
-faktorů, které by musely být staženy z využití pro uspokojení jiných potřeb,které jsou považovány za naléhavější než ty, jejichž uspokojení bylo pominutokvůli výrobě mezní jednotky m. Na jedné straně by mezní hodnota uspokoje-
-
-ní ze zvýšení dostupného množství gpoklesla. Na druhé straně by vzrostla
-
-mezní újma nákladů potřebných na výrobu dodatečného množství g:výrobní
-
-faktory by byly vyňaty z takového využití, v němž by mohly uspokojit nalé-havější potřeby. Výroba se musí zastavit v bodě, v němž mezní užitečnost pří-růstku již nevyváží mezní nárůst újmy z nákladů.
-
-Tyto dvě podmínky jsou často přítomné, ale neplatí to obecně bez výjimky.
-
-Existuje mnoho komodit mezi statky všech řádů, jejichž hmotná strukturanení homogenní a které proto nejsou dokonale dělitelné.
-
-Bylo by samozřejmě možné důmyslnou hrou se slovíčky odčarovat odchyl-
-
-ku od první z výše uvedených podmínek. Můžeme říct: půlka auta není auto.Jestliže se k půlce auta přidá čtvrtka auta, nezvýší se dostupné množství; tepr-ve úplný výrobní proces, který dá vznik celému autu, vyprodukuje jednotkua způsobí nárůst dostupného „množství“. Takový výklad se však mine cílem.
-
-31001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 310
-
-Musíme se totiž vyrovnat s problémem, že ne každý nárůst nákladů úměrně
-
-zvyšuje objektivní užitnou hodnotu, fyzickou schopnost věci poskytovaturčitou službu. Různé přírůstky výdajů přinášejí různé výsledky. Existujípřírůstky, jejichž vydání zůstane bez užitku, pokud nepřidáme další přírůst-ky v určitém množství.
-
-Na druhé straně – a toto je odchylka od druhé podmínky – nevyžaduje
-
-nárůst fyzického objemu výroby vždy úměrný nárůst nákladů, dokonce nemu-sí vyžadovat vůbec žádné dodatečné náklady. Může se stát, že náklady vůbecnerostou nebo že jejich nárůst zvyšuje objem produkce více než úměrně,neboť mnohé výrobní prostředky nejsou homogenní ani dokonale dělitelné. Toje jev, který podnikání zná jako nadřazenost výroby ve velkém rozsahu. Eko-nomové mluví o zákonu rostoucích výnosů nebo klesajících nákladů.
-
-Uvažujme – jako případ A– situaci, v níž žádný výrobní faktor není doko-
-
-nale dělitelný a v níž plné využití produktivních služeb poskytnutých každýmdalším nedělitelným prvkem každého faktoru vyžaduje plné využití dalšíchnedělitelných prvků každého z ostatních komplementárních faktorů.
-
-Pakv každém souboru výrobních činitelů může být každý prvek – každý stroj,každý pracovník, každý kousek surovin – plně využit tehdy a jen tehdy, jest-liže jsou také pro výrobu plně využity všechny služby ostatních prvků.V těchto mezích nevyžaduje výroba části maximálního dosažitelného objemuvýroby vyšší náklady než výroba nejvyššího možného objemu.
-
-Můžeme téžříct, že soubor o minimální velikosti vždy vyprodukuje stejné množství výrob-ků; je nemožné produkovat menší množství výrobků, i kdyby pro část pro-dukce nebylo použití.
-
-Uvažujme – jako případ B– situaci, v níž jedna skupina výrobních činite-
-
-lů (p)je pro všechny praktické účely dokonale dělitelná. Na druhé straně
-
-mohou být nedokonale dělitelné faktory děleny tak, že plné využití služebposkytovaných každým dalším nedělitelným prvkem jednoho faktoru vyža-duje plné využití dalších nedělitelných prvků ostatních nedokonale dělitel-ných komplementárních faktorů. Potom nárůst produkce souboru dalšíchnedělitelných faktorů z částečného na úplnější využití jejich výrobní kapaci-ty vyžaduje pouze nárůst množství p– dokonale dělitelných faktorů. Člověk
+Člověk
 
 se však musí mít na pozoru, aby nepropadl omylu, že to nutně vyvolá poklesprůměrných výrobních nákladů. Je pravda, že v rámci souboru nedokonaledělitelných faktorů je nyní každý z nich lépe využit, že proto výrobní nákla-dy, pokud jsou vyvolány spoluprací těchto faktorů, zůstávají nezměněny a žepodíly připadající na jednotku výstupu klesají. Na druhé straně však nárůstvyužití dokonale dělitelných výrobních faktorů může být dosažen pouze tím,že jsou vyňaty z jiného užití.
+
+Hodnota těchto ostatních užití roste, zůstane-livše ostatní stejné, s tím, jak se zmenšují; cena těchto dokonale dělitelnýchfaktorů má tendenci růst s tím, jak se jich více používá pro lepší využití
+
+31101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 311
+
+výrobní kapacity souboru příslušných, dále nedělitelných faktorů. Úvahy
+
+o našem problému se nesmějí omezovat na případ, v němž je dodatečnémnožství podňato jiným podnikům, které vyrábějí tentýž výrobek méně efek-
+
+tivně, a nutí tyto podniky, aby omezily objem své výroby. Je jasné, že v tomtopřípadě – konkurence mezi více a méně efektivními podniky vyrábějícímitentýž výrobek ze stejných surovin – průměrné výrobní náklady v rozrůstají-cím se podniku klesají. Obecnější prozkoumání tohoto problému vede k jiné-mu výsledku. Jsou-li jednotky pvyňaty z jiných užití, v nichž by byly využity
+
+pro výrobu jiného zboží, objevuje se trend k růstu ceny těchto jednotek. Tentotrend může být vyvážen náhodnými tendencemi působícími opačným smě-rem; občas může být tak slabý, že jsou jeho důsledky zanedbatelné. Je to všakvždy přítomno a je možné, že to ovlivňuje uspořádání nákladů.
+
+Nakonec uvažujme – jako případ C– stav věcí, v němž mohou být různé
+
+nedokonale dělitelné výrobní faktory děleny pouze tak, že – za daných trž-ních podmínek – žádná velikost, která může být vybrána pro jejich zapojenído výrobního souboru, neumožňuje kombinaci, v níž plné využití výrobníkapacity jednoho faktoru umožňuje plné využití výrobní kapacity ostatníchnedokonale dělitelných faktorů. Praktický význam má pouze tento případ C,
+
+kdežto případy AaBnehrají v reálném podnikání prakticky žádnou roli. Cha-
+
+rakteristickým rysem případu Cje, že se utváření výrobních nákladů mění
+
+nerovnoměrně. Jsou-li všechny nedokonale dělitelné faktory využity méněnež na plnou kapacitu, má rozšíření výroby za následek pokles průměrnýchvýrobních nákladů, pokud tento výsledek nezvrátí ceny, které musí být zapla-ceny za dokonale dělitelné faktory. Jakmile je však dosažena plná kapacitavyužití jednoho z nedokonale dělitelných faktorů, další rozšiřování výrobyvede k náhlému prudkému nárůstu nákladů.
+
+Pak se opět objeví trendk poklesu průměrných výrobních nákladů a působí tak dlouho, dokud neníznovu dosaženo plného využití kapacity některého z nedokonale dělitelnýchfaktorů.
+
+Pokud se nic jiného nemění, pak čím více roste výroba určitého zboží, tím
+
+musí být odňato víc výrobních faktorů nasazených jinde, kde by byly využityk výrobě jiného zboží. Proto – zůstane-li vše ostatní stejné – roste s růstemobjemu výroby průměrná výrobní cena. Tento obecný zákon je však částečněpotlačen jevem, že ne všechny výrobní faktory jsou dokonale dělitelné, a žepokud mohou být děleny, nejsou dělitelné tak, aby plné využití jednohoz nich vedlo k plnému využití ostatních nedokonale dělitelných faktorů.
+
+Plánující podnikatel stojí vždy před otázkou: do jaké míry převýší očeká-
+
+vané ceny výrobků očekávané náklady? Má-li podnikatel vzhledem k danémuprojektu stále plnou svobodu rozhodování, protože ještě neučinil žádnounepřevoditelnou investici k jeho uskutečnění, jsou pro něj důležité průměrnénáklady. Má-li však už určité zájmy v příslušném oboru podnikání, dívá se na
+
+31201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 312
+
+projekt z úhlu dodatečných nákladů, které musí být vynaloženy. Ten, kdo již
+
+vlastní ne zcela využitý soubor výrobních faktorů, nebere v úvahu průměrnévýrobní náklady, ale mezní náklady. Bez ohledu na částku, kterou již vynalo-žil na nepřevoditelné investice, ho zajímá pouze otázka, zda výnosy z prode-je dodatečného množství výrobků převýší či nepřevýší dodatečné nákladyvyvolané jeho výrobou. Dokonce i kdyby celá částka investovaná do nepřevo-ditelných výrobních zařízení musela být odepsána jako ztráta, podnikatelpokračuje ve výrobě, pokud očekává rozumný
+
+4přebytek výnosů nad součas-
+
+nými náklady.
+
+Vzhledem k časté chybě je třeba zdůraznit, že pokud nejsou splněny pod-
+
+mínky pro vznik monopolních cen, pak podnikatel nemá možnost zvyšovatsvůj čistý výnos omezováním výroby pod hranici odpovídající poptávce spo-třebitelů. Tímto problémem se však budeme zabývat později v 6. oddílu.
+
+To, že výrobní faktor není dokonale dělitelný, nemusí vždy znamenat, že
+
+může být vytvořen a využit pouze v jednom objemu. V některých případechtomu tak samozřejmě může být. Zpravidla je však možné rozsah těchto fak-torů měnit. Pokud se mezi různými rozsahy, které jsou u takového faktoru –např.

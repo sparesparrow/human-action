@@ -1,4 +1,3 @@
-
 Pro problémy nákladového účetnictví je nepodstatné, zda firma kapitál
 
 investovaný do svého podnikání vlastní, nebo zda si jeho větší či menší částpůjčila a musí dostát podmínkám úvěrové smlouvy, která přísně určuje úro-kovou míru a data splatnosti úroků i jistiny. Výrobní náklady zahrnují pouzeúroky z kapitálu, který ještě existuje a pracuje v podniku. Nezahrnuje úrokyz kapitálu, který byl v minulosti promrhán špatnými investicemi nebo ne-efektivním prováděním běžné podnikatelské činnosti.
@@ -40,3 +39,7 @@ Může zdvojnáso-bit roční produkci a prodat ji za cenu, která (kromě pokry
 Kdyby podnikatel v kalkulaci uvažoval s roční částkouodpisů jako s pevným prvkem, musel by zdvojnásobení výroby považovat zanerentabilní, protože dodatečné výnosy zaostávají za dodatečnými náklady.Nepřistoupil by na rozšíření výroby za technické optimum.
 
 Avšak podnikatelpočítá jinak, i když v účetnictví může odpisovat každý rok stejnou částku.Jestli podnikatel dá či nedá přednost zlomku současné hodnoty částky odpi-sů v devátém roce před technologickou službou, kterou mu stroj můžeposkytnout devátý rok, závisí na jeho názoru na budoucí stav trhu.
+
+Veřejné mínění, vlády a zákonodárci i daňové zákony hledí na vybavení
+
+podniku jako na zdroj trvalého příjmu.

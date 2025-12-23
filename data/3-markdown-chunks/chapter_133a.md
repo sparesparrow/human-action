@@ -35,3 +35,7 @@ Situace je ještě jasnější, když předpokládáme, že náhodou došlo k ob
 preventivního opatření a že jeho praktické využití nevyžaduje ani velkouinvestici kapitálu, ani značné běžné výdaje. Samozřejmě, moderní lékařskývýzkum a ještě více jeho využití pohlcují obrovské množství kapitálu a práce.Jsou plodem kapitalismu. V nekapitalistickém prostředí by nikdy nevznikly.Dříve však existovaly případy, které měly jiný charakter.
 
 Metoda očkováníproti neštovicím nebyla výsledkem drahého laboratorního výzkumu a – ve svépůvodní primitivní formě – mohla být aplikována s nepatrnými náklady. Jakýby býval výsledek očkování proti neštovicím, kdyby se bylo stalo běžnýmv předkapitalistické zemi, kde neexistovala regulace porodnosti? Očkování bytam zvýšilo počet obyvatel, aniž by vzrostla obživa, a tak by bylo zhoršiloživotní úroveň. Nebylo by požehnáním, ale prokletím.
+
+Podmínky v Asii a Africe jsou víceméně stejné. Tyto zaostalé národy dostá-
+
+vají vymoženosti pro boj s nemocemi a na jejich prevenci hotové ze Západu.Je pravda, že v některých z těchto zemí směřuje dovezený cizí kapitál a sou-časně i osvojení cizích technologických postupů poměrně malým domácímkapitálem ke zvýšení pracovního výkonu na hlavu, a tak ke vzniku tendenceke zlepšování průměrné životní úrovně.

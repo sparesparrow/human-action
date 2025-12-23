@@ -59,3 +59,11 @@ a tato kampaň dosáhla výrazného úspěchu. Mnozí zahraniční autoři nadš
 ska zdůrazňovaly, že jsou pevně oddány ctnostným myšlenkám korporativis-mu. Papežská encyklika Quadragesimo anno (1931) obsahovala pasáž, která
 
 mohla – ale nemusela – být vyložena jako schválení korporativismu. V kaž-dém případě však je skutečností, že katoličtí autoři podporovali tento výkladv knihách, jež byly vydány se souhlasem církevních autorit.
+
+Ani italští fašisté, ani vlády Rakouska a Portugalska se však nikdy vážně
+
+nepokusili nastolit korporativistickou utopii. Italové označili rozličné institu-ce nálepkou korporativistická a změnili profesorské stolce politické ekonomie
+
+na economia politica e corporativa . Nikdy ale nepřišel okamžik, kdy by byl uve-
+
+den do praxe tak často zmiňovaný základní prvek korporativismu – samo-správa různých odvětví obchodu a průmyslu. Fašistická vláda lpěla prvotněna stejných principech hospodářské politiky, které přijaly všechny dnešnívlády s výjimkou čistě socialistických vlád – intervencionismu.

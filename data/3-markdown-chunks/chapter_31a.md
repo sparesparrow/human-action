@@ -57,3 +57,13 @@ noty přisuzované jedné jednotce a. Vlastník 100 klád si může postavit sru
 který jej ochrání před deštěm lépe než pláštěnka. Pokud je však k dispozicijen méně než 100 klád, může z nich postavit pouze podlážku, která jej ochrá-ní před vlhkostí půdy. Při vlastnictví 95 klád by byl ochoten vzdát se pláštěn-ky, aby získal dodatečných 5 klád. Při vlastnictví 10 klád by nebyl ochotenvzdát se pláštěnky ani za 10 klád. Člověk, jehož úspory dosahují 100 dolarů,nemusí chtít vzít práci za odměnu 200 dolarů.
 
 Pokud však má naspořeno2000 dolarů a velmi touží koupit si věc, kterou nelze pořídit za méně než 2100dolarů, může rád stejnou práci vzít i za 100 dolarů. To vše je v dokonalémsouladu se správně formulovaným zákonem mezního užitku, podle nějž hod-nota závisí na užitku očekávaných služeb. Nic takového jako rostoucí mezníužitek neexistuje.
+
+Zákon mezního užitku nelze směšovat ani s Bernoulliho doktrínou de men-
+
+sura sortis , ani s Weberovým-Fechnerovým zákonem. V jádru Bernoulliho pří-
+
+nosu byla známá a nikdy nezpochybňovaná fakta, že lidé chtějí uspokojit vícenaléhavou potřebu dříve, než uspokojí potřebu méně naléhavou, a že bohatší
+
+11201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 112
+
+lidé mohou své potřeby uspokojit lépe než lidé chudí.

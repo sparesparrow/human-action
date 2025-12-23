@@ -1,12 +1,3 @@
-
-Už se nezabývá jednáním lidí, ale bezduchýmmechanismem, který je tajemně uváděn do chodu silami, jež nejsou přístup-né další analýze. V imaginárním konstruktu rovnoměrně plynoucí ekonomi-ky samozřejmě není místo pro podnikatelskou činnost. Matematický ekonomproto ze svých úvah podnikatele vyloučil. Nepotřebuje tohoto iniciátora pohy-bů a otřesů, jehož nikdy neustávající zásahy brání imaginárnímu systému,aby dosáhl stavu dokonalé rovnováhy a statických podmínek. Nenávidí hojako rušivý prvek.
-
-Ceny výrobních faktorů jsou z pohledu matematickéhoekonoma určovány průsečíkem dvou křivek, nikoli lidským jednáním.
-
-Navíc když si matematický ekonom kreslí své nákladové a cenové křivky,
-
-nevidí, že omezení nákladů a cen na homogenní veličiny předpokládá použitíspolečného média směny. Tak vytváří iluzi, že je možné uchýlit se ke kalku-laci nákladů a cen dokonce i bez společného jmenovatele směnných poměrůvýrobních faktorů.
-
 Výsledkem je, že z děl matematických ekonomů vychází imaginární kon-
 
 strukt socialistického společenství jako uskutečnitelný systém spolupráce nazákladě dělby práce, jako plnohodnotná alternativa k hospodářskému systému

@@ -1,7 +1,4 @@
-
-Čistý úrok je kategorií lidského jednání. Působí při každém ohodnocení
-
-vnějších věcí a nemůže nikdy zmizet. Pokud by se někdy měly poměry vrátitdo stavu blízkého konci prvního křesťanského tisíciletí, kdy někteří lidé vě-řili, že se blíží konec světa, lidé by se přestali zaopatřovat pro své budoucísvětské potřeby. Výrobní faktory by se v jejich očích staly zbytečnými a bez-cennými. Diskont budoucích statků oproti současným statkům by nezmizel.Naopak, vzrostl by nade všechny meze.
+Pokud by se někdy měly poměry vrátitdo stavu blízkého konci prvního křesťanského tisíciletí, kdy někteří lidé vě-řili, že se blíží konec světa, lidé by se přestali zaopatřovat pro své budoucísvětské potřeby. Výrobní faktory by se v jejich očích staly zbytečnými a bez-cennými. Diskont budoucích statků oproti současným statkům by nezmizel.Naopak, vzrostl by nade všechny meze.
 
 Na druhou stranu, zmizení čistéhoúroku by znamenalo, že se lidé vůbec nezajímají o to, zda budou jejich potře-by uspokojeny v bližších obdobích budoucnosti. Znamenalo by to, že dávajípřed jedním jablkem dostupným dnes, zítra, za rok nebo za deset let, před-nost dvěma jablkům dostupným za tisíc nebo deset tisíc let.
 

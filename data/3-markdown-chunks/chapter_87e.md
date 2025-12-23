@@ -1,7 +1,4 @@
-
-Podmínky, v nichž musí jednat moderní člověk kapitalistického Západu,
-
-jsou odlišné od těch, v nichž žili a jednali jeho primitivní předci. Díky jejichprozřetelné péči máme k dispozici rozsáhlé zásoby výrobních prostředků(kapitálových statků nebo vyrobených výrobních faktorů) a spotřebníchstatků. Naše činnost je uzpůsobena na delší dobu zaopatření, protože jsme
+Díky jejichprozřetelné péči máme k dispozici rozsáhlé zásoby výrobních prostředků(kapitálových statků nebo vyrobených výrobních faktorů) a spotřebníchstatků. Naše činnost je uzpůsobena na delší dobu zaopatření, protože jsme
 
 43501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 435
 
@@ -38,3 +35,5 @@ Tento spor o univerzální platnost časové preference není schopen vysvět-
 lit, proč člověk vždy neinvestuje sumu 100 dolarů dostupných dnes, i když byse těchto 100 dolarů během jednoho roku zvýšilo na 104 dolary. Je zřejmé, žese tento člověk rozhodl dnes spotřebovat sumu 100 dolarů na základě hod-notového soudu, podle nějž je 100 dolarů v současnosti více než 104 dolarydostupné za rok. Avšak i kdyby si vybral, že bude těchto 100 dolarů investo-vat, neznamená to, že by dával přednost pozdějšímu uspokojení před dneš-ním.
 
 Znamená to, že hodnotí 100 dolarů dnes méně než 104 dolary za rok.Právě díky podmínkám kapitalistické ekonomiky, v níž instituce umožňujíinvestovat i ty nejmenší obnosy, je každý dnes utracený cent důkazem vyšší-ho ohodnocení současného uspokojení v porovnání s pozdějším.
+
+Teorém časové preference musí být demonstrován dvojím způsobem. Nej-

@@ -1,7 +1,4 @@
-
-Kupní síla peněz je určována poptávkou a nabídkou, stejně jako v případě
-
-cen všech prodejných statků a služeb. Vzhledem k tomu, že jednání vždy mířík uspokojivějšímu stavu věcí v budoucnu, ten, kdo zvažuje získání nebo vzdá-ní se peněz, se především zajímá o jejich budoucí kupní sílu a budoucí struk-turu cen. K závěru o kupní síle peněz v budoucnosti nemůže ovšem dospětjinak než pohledem na její vývoj v bezprostřední minulosti. Právě tento faktzásadně odlišuje určení kupní síly peněz od určení vzájemných směnnýchpoměrů mezi různými prodejnými statky a službami.
+K závěru o kupní síle peněz v budoucnosti nemůže ovšem dospětjinak než pohledem na její vývoj v bezprostřední minulosti. Právě tento faktzásadně odlišuje určení kupní síly peněz od určení vzájemných směnnýchpoměrů mezi různými prodejnými statky a službami.
 
 U posledně jmenova-ných nemohou aktéři zvažovat nic jiného než jejich význam pro budoucíuspokojení potřeb. Pokud je k prodeji nabídnut nový výrobek, o kterémnikdy předtím neslyšeli, jak se to stalo například před několika desetiletímis rozhlasovými přijímači, jediná věc, která hraje roli pro jednotlivce, je, zdatento nový přístroj poskytne lepší uspokojení potřeb, než lze očekávat od stat-ků, kterých je nutné se kvůli jeho nákupu vzdát.
 
@@ -34,3 +31,7 @@ Touto emisí zamýšlí zaplatit nákup zboží a služeb nebo splatit své dluh
 K tomuto poklesu cen statků nakupovaných daňo-vými poplatníky ovšem nedojde, pokud se zvýší množství peněz, jež má vládak dispozici, aniž by se snížilo množství peněz v rukách veřejnosti. Cenyněkterých statků – jmenovitě těch, které vláda kupuje – se zvýší okamžitě,zatímco ceny ostatních se pro tuto chvíli nezvýší. Ale proces pokračuje. Ti,kdo prodávají statky poptávané vládou, si nyní mohou koupit více než před-tím. Ceny věcí, jež tito lidé kupují ve větším množství, stoupnou také.
 
 Růst sešíří od jedné skupiny statků a služeb k ostatním, dokud nevzrostou všechnyceny a mzdové sazby. Zvýšení cen různých statků a služeb proto neproběhneve stejném okamžiku.
+
+Když nakonec v důsledku zvýšení množství peněz vzrostly všechny ceny,
+
+jejich růst nebude mít na různé statky a služby stejný dopad, neboť procesrůstu cen měl různý dopad na hmotné postavení různých lidí. Jak procespokračuje, někteří lidé se těší z vyšších cen statků nebo služeb, které prodá-vají, zatímco ceny věcí, které kupují, se ještě nezvýšily, nebo se zvýšilyv menší míře.

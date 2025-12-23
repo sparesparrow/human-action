@@ -55,3 +55,5 @@ rivalitu mezi zvířaty, která se projevuje při hledání potravy. Tento jev m
 skou soutěží , tj. se snahou jednotlivce získat co nejvýhodnější postavení v systé-
 
 mu spolupráce ve společnosti. Jelikož budou vždy existovat postavení, kterálidé oceňují výše než jiná, budou o ně lidé stále usilovat a snažit se předstih-nout své konkurenty. Společenská soutěž je proto přítomna v každém před-stavitelném uspořádání organizace společnosti.
+
+Chceme-li uvažovat o stavuvěcí, v němž společenská soutěž neexistuje, musíme zkonstruovat obraz soci-alistického systému, v němž nejvyššímu vůdci v úsilí přidělit každému jehomísto a úlohu ve společnosti nepomáhají žádné ambice podřízených. Jed-notlivci jsou naprosto lhostejní a nežádají o konkrétní funkce.

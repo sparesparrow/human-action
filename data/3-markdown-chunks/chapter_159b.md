@@ -1,9 +1,4 @@
-
-71702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 717
-
-Vládní úřad regulující obchod se zahraničními měnami zároveň dále tvr-
-
-došíjně vyhlašuje, že směnné kurzy „ve skutečnosti“ nevzrostly, že se obcho-duje za oficiální kurz a prodává dovozcům devizy za oficiální kurz. Kdybybyla tato politika skutečně prováděna, představovala by v podstatě platbubonusů dotčeným obchodníkům. Ti by vlastně získávali prodejem dovážené-ho zboží na domácím trhu od vlády dary. Vláda se proto uchyluje k dalšímunouzovému opatření.
+Kdybybyla tato politika skutečně prováděna, představovala by v podstatě platbubonusů dotčeným obchodníkům. Ti by vlastně získávali prodejem dovážené-ho zboží na domácím trhu od vlády dary. Vláda se proto uchyluje k dalšímunouzovému opatření.
 
 Buď zvyšuje dovozní cla, nebo uvaluje na dovozce daně,nebo nějakým jiným způsobem zatěžuje jejich nákupy zahraničních měn.
 
@@ -46,3 +41,13 @@ Vláda by tedy měla prá-vem tento přebytek privilegovaných skupin vyvlastnit
 V tržní ekonomice ale tento údajný dualismus dvou oddělených procesů,
 
 výroby a rozdělování, neexistuje. Probíhá zde pouze jediný proces. Statkynejsou nejprve vyrobeny a následně rozdělovány. Neexistuje nic jako při-vlastnění si části nikým nevlastněných statků. Výrobky vznikly jako něčívlastnictví. Chce-li je někdo rozdělovat, musí je nejprve zkonfiskovat. Provládní aparát nátlaku a donucení není samozřejmě problém uchýlit se ke kon-fiskaci a vyvlastnění. To však nedokazuje, že je na těchto postupech možnévybudovat trvalý ekonomický systém.
+
+71902_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 719
+
+Když Vikingové opustili komunitu soběstačných rolníků, kterou nejdříve
+
+vydrancovali, přeživší oběti začaly pracovat, obdělávat půdu a opětovněbudovat. Když se piráti po několika letech vrátili, opět našli věci, které mohlirolníkům sebrat. Kapitalismus ale nedokáže snášet takovéto opakující se pre-dátorské nájezdy. Jeho kapitálová akumulace a investice jsou založeny naočekávání, že k takovémuto vyvlastňování nebude docházet. Pakliže totoočekávání neexistuje, lidé budou raději kapitál spotřebovávat, než aby hoochraňovali pro někoho, kdo jim ho vyvlastní.
+
+A právě v tomto spočívá omylveškerých plánů, jejichž cílem je spojení soukromého vlastnictví s opakova-ným vyvlastňováním.
+
+2.

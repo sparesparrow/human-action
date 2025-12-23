@@ -1,4 +1,3 @@
-
 dlouhodobých zájmů jednotlivců, společenských skupina národů ideologií nesmiřitelného třídního střetu a mezinárodních konfliktů.Lidé spolu navzájem bojují, protože jsou přesvědčeni, že vyhlazení a likvida-ce nepřátel je jediným prostředkem, jak hájit vlastní prospěch.
 
 2. Společenské důsledky darwinismu. Škola sociálního darwinismu říká, že

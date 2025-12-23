@@ -1,4 +1,3 @@
-
 První otázkou, kterou musí katala-xie položit s ohledem na změny celkového množství peněz dostupného v trž-ním systému, je, jak takové změny ovlivní chování různých jednotlivců.Moderní ekonomie se neptá, jakou hodnotu má „železo“ nebo „chléb“, alejakou hodnotu má určitý kus železa nebo chleba pro jednajícího jednotlivcev určitém čase na určitém místě. Stejný postup je nutné použít i v případěpeněz. Rovnice směny není v souladu se základními principy ekonomickéhomyšlení.
 
 Jde o návrat k myšlení z dob, kdy lidé nebyli schopni pochopit pra-xeologické jevy, protože propadli holistickým konceptům. Rovnice směny jestejně neplodná, jako byly spekulace minulých věků o všeobecné hodnotě„železa“ nebo „chleba“.

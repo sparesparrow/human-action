@@ -1,17 +1,4 @@
-
-2. Kritici mají termínem racionální cíle na mysli úsilí o dosažení materiální-
-
-ho blahobytu a vyšší životní úrovně. Je otázkou, zda je či není ve skutečnostipravdivé jejich tvrzení, že lidé obecně, a dnešní lidé zvláště, jsou hnáni spíšepřáním dosáhnout mýtů a snů než snahou zlepšit svůj materiální blahobyt.I když by žádná inteligentní bytost nemohla nezodpovědět tuto otázku správ-ně, není třeba se tímto zabývat. Ekonomie totiž neříká nic ve prospěch mýtůči proti nim.
-
-Ve vztahu k doktríně odborů, doktríně úvěrové expanze a všempodobným doktrínám, pokud se samy prezentují jako mýty a jsou podporo-vány jako mýty svými zastánci, zachovává naprostou neutralitu. Zabývá setěmito teoriemi, pouze pokud jsou považovány doktrínami za prostředky, ježjsou vhodné k dosažení konkrétních cílů. Ekonomie netvrdí, že teorie odbo-rů je špatným mýtem. Říká pouze, že jde o nevhodný prostředek ke zvýšenímzdových sazeb všech lidí, kteří chtějí za mzdu pracovat.
-
-Nechává na kaž-dém, aby se rozhodl, zda je uskutečnění odborářského mýtu důležitější nežvyhnutí se nutným důsledkům politiky odborů.
-
-V tomto smyslu můžeme říci, že ekonomie je apolitická a nepolitická,
-
-ačkoli je základem politiky a všech typů politického jednání. Můžeme navíctvrdit, že je zcela neutrální ve vztahu ke všem hodnotovým soudům, jelikožvždy mluví o prostředcích a nikdy o volbě konečných cílů.
-
-3. Ekonomické poznání a lidské jednání
+Ekonomické poznání a lidské jednání
 
 Svoboda člověka volit a jednat je omezena třemi způsoby. Zaprvé existují
 
@@ -50,3 +37,29 @@ vrcholný úspěch rakouské ekonomické školy. Je vyvrcholením přístupu k t
 ném skupinou brilantních ekonomů v generaci mezi Mengerem a Misesem.Mezi ně patří zejména Eugen von Böhm-Bawerk, J. B. Clark, Phillip H. Wick-steed, Frank A. Fetter a Herbert J. Davenport. Z důvodů, které později vysvět-lím, začal bohužel mengerovský přístup po první světové válce upadat, ažv polovině 30. let takřka zcela vymizel. Misesův výjimečný příspěvek v knizeLidské jednání posloužil k znovuoživení tohoto přístupu a k jeho rozpracování
 
 do systematické teorie tvorby cen.
+
+Tento text je tvořen několika částmi. Část prvá popisuje vývoj mengerov-
+
+ského přístupu k teorii cen až do první světové války, kdy dosáhla svéhovrcholu z pohledu mezinárodního vlivu. Druhá část zachycuje překvapivě
+
+7951Pozornost ekonomů se k teorii cen (dnes označované jako „mikroekonomie“) obrá-
+
+tila po marginalistické revoluci (1871). Teorie cen je tak základem moderní ekono-mie (pozn. překl.).02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 795
+
+prudký úpadek toho přístupu a nabízí jeho čtyři možná vysvětlení, včetně
+
+dvou základních teoretických nedostatků, jež nebyly dvěma prvními gene-racemi mengerovců vyřešeny. Misesův osamocený boj za oživení menge-rovského přístupu, započatý v polovině 30. let a vrcholící s vydáním Lidského
+
+jednání v roce 1949, je obsahem třetí části. V této části je také předložen alter-
+
+nativní pohled na tvrzení, že rakouská ekonomie byla na vrcholu v polovině30. let, kdy byla náhle a tragicky pohřbena „keynesovskou lavinou“.
+
+Mengerovská tradice před první světovou válkou
+
+Abychom plně docenili význam Misesova příspěvku, je nutné zevrubně pro-
+
+zkoumat směr vývoje čisté ekonomické teorie od počátku 70. let 19. století ažpo 30. léta století dvacátého. Z marginalistické revoluce v 70. letech vycházejítři navzájem rozdílné přístupy k teorii cen. Léon Walras se pokoušel vysvětlitutváření cen podobným způsobem, jako to v případě jiných jevů činí astrono-mie a klasická mechanika. Explicitně formuloval „stav trhu jako všeobecnýproblém statické rovnováhy popsané soustavou rovnic“ (Ingrao a Israel 1990,str. 92).
+
+Walrasův koncept všeobecné rovnováhy byl sice nepochybně systema-tický, ovšem také bezčasový a mechanický, a tudíž neschopný vytvořit teoriivysvětlující cenové procesy skutečného světa, tedy současné, a nutně nerovno-vážné, peněžní ceny generované tržními procesy v minulosti.
+
+Naproti tomukoncept dílčí rovnováhy vytvořený Alfredem Marshallem obsahoval zavádějícípokus o zajištění realističnosti v ekonomické teorii tím, že namísto analýzyzákladních příčin cenových a nákladových jevů pomocí spotřebitelových volebpřijal povrchní zájem klasických ekonomů o podnikatele.

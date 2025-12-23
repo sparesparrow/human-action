@@ -1,7 +1,4 @@
-
-Pokud se mění peněžní vztah – tj. poměr mezi poptávkou a nabídkou
-
-peněz za účelem jejich držení v podobě hotovosti –, jsou ovlivněny ceny všechstatků a služeb. Tyto změny však neovlivňují ceny různých statků a služeb vestejném okamžiku a ve stejné míře. Výsledné změny v bohatství a důchodurůzných jednotlivců mohou pozměnit data určující výši čistého úroku.Výsledná výše míry čistého úroku, k jejímuž ustavení systém po změnáchv peněžním vztahu směřuje, již není tou výslednou mírou, k níž směřovalpředtím.
+Výsledné změny v bohatství a důchodurůzných jednotlivců mohou pozměnit data určující výši čistého úroku.Výsledná výše míry čistého úroku, k jejímuž ustavení systém po změnáchv peněžním vztahu směřuje, již není tou výslednou mírou, k níž směřovalpředtím.
 
 Hybná síla peněz tak má schopnost vyvolat trvalé změny v konečnémíře čistého úroku a neutrálního úroku.
 
@@ -52,3 +49,7 @@ dlužník, pouze pokud mu právní a institucionální rámec umožní vynutit s
 Podnikatelská složka je přítomna ve všech druzích půjček. Je obvyklé roz-
 
 lišovat mezi spotřebou či spotřebním úvěrem na jedné straně a výrobním čipodnikatelským úvěrem na druhé straně. Charakteristickým znakem prvníuvedené skupiny je skutečnost, že umožňuje dlužníkovi utratit očekávanébudoucí tržby. Získáním nároku na část těchto budoucích tržeb se věřitelv podstatě stává podnikatelem. Nejistota výsledku jeho půjčky spočívá v neji-stotě těchto budoucích tržeb.
+
+Dále je obvyklé rozlišovat mezi soukromými a veřejnými úvěry, tj. mezi
+
+úvěry vládě a jejím součástem. Nejistota obsažená v těchto úvěrech se týkásvětské moci. Říše se mohou rozpadnout a vlády mohou být svrženy revolu-cionáři, kteří nejsou ochotni převzít odpovědnost za dluhy vytvořené jejichpředchůdci. Kromě toho již bylo zdůrazněno, že ve všech druzích dlouhodo-bých úvěrů vládě existuje cosi zásadně špatného.

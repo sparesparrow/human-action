@@ -402,6 +402,7 @@ class VoiceVariantComparer:
 
 
 def main():
+    """Main entry point for voice variant comparison script."""
     parser = argparse.ArgumentParser(
         description="Compare voice variants with audio players and analysis",
         formatter_class=argparse.RawDescriptionHelpFormatter,

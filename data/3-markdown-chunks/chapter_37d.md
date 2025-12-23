@@ -1,9 +1,4 @@
-
-Vzájemná sexuální přitažlivost muže a ženy tkví ve zvířecí podstatě člově-
-
-ka a je nezávislá na myšlení a teoretizování. Může být nazývána původní,vegetativní, instinktivní nebo mystickou; nebude vadit, jestliže budeme meta-foricky tvrdit, že dělá ze dvou bytostí jednu. Můžeme ji nazývat mystickýmspojením dvou těl, společenstvím. Avšak ani soulož, ani to, co ji předcházía následuje, nevede ke spolupráci ve společnosti a ke společenskému způso-bu života. Zvířata se také spojují při páření, ale nevytvořila žádné společen-ské vztahy.
-
-Rodinný život není pouhým produktem sexuálního styku. To, žerodiče a děti žijí společně, tak jak to dělají v rodině, je bezpochyby přirozenéa nutné. Vztah páření nemusí vést ke vzniku rodinné organizace. Lidská rodi-na je výsledek myšlení, plánování a jednání. To je právě ta skutečnost, kterárodinu podstatně odlišuje od takových živočišných seskupení, jež kvůlipodobnosti nazýváme rodinami zvířat.
+To je právě ta skutečnost, kterárodinu podstatně odlišuje od takových živočišných seskupení, jež kvůlipodobnosti nazýváme rodinami zvířat.
 
 Mystická zkušenost se společenstvím nebo pospolitostí není zdrojem spo-
 
@@ -46,3 +41,11 @@ proti lidem – na rozdíl od boje proti šelmám – neměly být překročeny.
 nesmiřitelnou nenávistí a nad zuřivým vyhlazováním a zkázou začal převa-žovat společenský prvek. Vynořila se myšlenka, že každý lidský protivník byměl být považován za potenciálního partnera při budoucí spolupráci a že bytato skutečnost neměla být při provádění vojenských operací přehlížena.Válka již nebyla považována za normální stav mezilidských vztahů. Lidépoznali, že mírová spolupráce je nejlepší prostředek, jak vést boj o biologicképřežití.
 
 Dokonce můžeme říct, že jakmile si lidé uvědomili, že je výhodnějšíporažené zotročit než je zabít, válečníci, i když stále bojovali, začali myslet nanásledky, na mír. Zotročení bylo v podstatě prvním krokem ke spolupráci.
+
+Převaha názoru, že dokonce ani ve válce nelze každé jednání považovat za
+
+přípustné, že existují legitimní a nedovolené válečné činy, že existují zákony,tj. společenské vztahy, které jsou nade všemi národy, dokonce i nad těmi, ježspolu zrovna bojují, dala nakonec vzniknout Velké společnosti zahrnujícívšechny lidi a všechny národy. Různá regionální společenství byla sdruženado jedné ekumenické společnosti.
+
+Válčící strany, které nevedou válku divoce na způsob šelem, ale podle „lid-
+
+ských“ a společenských válečných pravidel, se vzdávají použití určitých niči-vých metod, aby dosáhly stejných ústupků ze strany protivníků. Dokud jsoutaková pravidla dodržována, existují mezi válčícími stranami společenskévztahy. Nepřátelské činy nejsou samy o sobě pouze nespolečenské, ale jsouprotispolečenské.

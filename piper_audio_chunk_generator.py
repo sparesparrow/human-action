@@ -28,7 +28,8 @@ class PiperAudioChunkGenerator:
     Piper is optimized for devices like Raspberry Pi with excellent Czech support.
     """
 
-    def __init__(self, input_dir, output_dir, model_name="cs_CZ-jirka-medium", language="cs", keep_wav=True, upsample=True):
+    def __init__(self, input_dir, output_dir, model_name="cs_CZ-jirka-medium", language="cs", keep_wav=True, upsample=True,
+                 length_scale=1.0, noise_scale=0.667, noise_w=0.8):
         """
         Initialize the Piper TTS audio generator.
 
@@ -39,6 +40,9 @@ class PiperAudioChunkGenerator:
             language: Language code for TTS (default: cs for Czech).
             keep_wav: If True, keep WAV files instead of converting (lossless quality, recommended)
             upsample: If True, upsample 22050 Hz to 44100 Hz when converting (improves quality)
+            length_scale: Speech speed multiplier (0.8-1.2, default 1.0)
+            noise_scale: Stability/variation level (0.3-0.8, default 0.667)
+            noise_w: Phoneme width variation (0.5-1.0, default 0.8)
         """
         self.input_dir = Path(input_dir)
         # Organize output by engine: create piper subdirectory
@@ -49,9 +53,42 @@ class PiperAudioChunkGenerator:
         self.keep_wav = keep_wav  # Option to keep WAV for maximum quality
         self.upsample = upsample  # Option to upsample for better quality
 
+        # Voice synthesis parameters for quality control
+        self.length_scale = length_scale  # Speech speed
+        self.noise_scale = noise_scale    # Stability/variation
+        self.noise_w = noise_w           # Phoneme width
+
+        # Define parameter presets for different voice styles
+        self.presets = {
+            'natural': {
+                'length_scale': 1.0,
+                'noise_scale': 0.667,
+                'noise_w': 0.8
+            },
+            'clear': {
+                'length_scale': 1.0,
+                'noise_scale': 0.5,
+                'noise_w': 0.7
+            },
+            'expressive': {
+                'length_scale': 1.0,
+                'noise_scale': 0.8,
+                'noise_w': 0.9
+            },
+            'fast': {
+                'length_scale': 1.2,
+                'noise_scale': 0.6,
+                'noise_w': 0.8
+            },
+            'slow': {
+                'length_scale': 0.8,
+                'noise_scale': 0.5,
+                'noise_w': 0.7
+            }
+        }
+
         # Ensure output directory exists
         self.output_dir.mkdir(parents=True, exist_ok=True)
-        
 
         # Piper paths
         self.piper_binary = self._find_piper_binary()
@@ -103,6 +140,54 @@ class PiperAudioChunkGenerator:
             self._download_piper_model()
 
         logger.info("Piper TTS initialized successfully")
+
+    def apply_preset(self, preset_name: str):
+        """
+        Apply a parameter preset for different voice styles.
+
+        Args:
+            preset_name: Name of the preset ('natural', 'clear', 'expressive', 'fast', 'slow')
+        """
+        if preset_name not in self.presets:
+            logger.warning(f"Unknown preset '{preset_name}', available: {list(self.presets.keys())}")
+            return
+
+        preset = self.presets[preset_name]
+        self.length_scale = preset['length_scale']
+        self.noise_scale = preset['noise_scale']
+        self.noise_w = preset['noise_w']
+
+        logger.info(f"Applied preset '{preset_name}': length_scale={self.length_scale}, "
+                   f"noise_scale={self.noise_scale}, noise_w={self.noise_w}")
+
+    def set_parameters(self, length_scale=None, noise_scale=None, noise_w=None):
+        """
+        Manually set synthesis parameters.
+
+        Args:
+            length_scale: Speech speed multiplier (0.8-1.2)
+            noise_scale: Stability/variation level (0.3-0.8)
+            noise_w: Phoneme width variation (0.5-1.0)
+        """
+        if length_scale is not None:
+            self.length_scale = max(0.5, min(2.0, length_scale))  # Clamp to reasonable range
+        if noise_scale is not None:
+            self.noise_scale = max(0.1, min(1.0, noise_scale))
+        if noise_w is not None:
+            self.noise_w = max(0.1, min(1.5, noise_w))
+
+    def get_current_parameters(self) -> Dict[str, float]:
+        """
+        Get current synthesis parameter values.
+
+        Returns:
+            Dictionary with current parameter values
+        """
+        return {
+            'length_scale': self.length_scale,
+            'noise_scale': self.noise_scale,
+            'noise_w': self.noise_w
+        }
 
     def _download_piper_model(self):
         """Download Piper voice model from HuggingFace."""
@@ -205,13 +290,18 @@ class PiperAudioChunkGenerator:
             logger.error(f"Failed to download {file_type} from {url}: {e}")
             raise
 
-    def synthesize_chunk(self, input_file: Path, speaker_wav: Optional[str] = None) -> Optional[Path]:
+    def synthesize_chunk(self, input_file: Path, speaker_wav: Optional[str] = None,
+                        length_scale: Optional[float] = None, noise_scale: Optional[float] = None,
+                        noise_w: Optional[float] = None) -> Optional[Path]:
         """
         Synthesize a single chunk using Piper TTS.
 
         Args:
             input_file: Path to markdown file to synthesize.
             speaker_wav: Optional speaker WAV file for voice cloning (Piper doesn't support this).
+            length_scale: Optional speech speed override (0.8-1.2)
+            noise_scale: Optional stability override (0.3-0.8)
+            noise_w: Optional phoneme width override (0.5-1.0)
 
         Returns:
             Path to the generated audio file.
@@ -230,8 +320,8 @@ class PiperAudioChunkGenerator:
             return None
 
         try:
-            # Use Piper command-line interface
-            self._synthesize_with_piper_cli(text, output_file)
+            # Use Piper command-line interface with parameter overrides
+            self._synthesize_with_piper_cli(text, output_file, length_scale, noise_scale, noise_w)
             logger.info(f"Successfully generated: {output_file.name}")
             return output_file
 
@@ -242,7 +332,9 @@ class PiperAudioChunkGenerator:
                 output_file.unlink()
             return None
 
-    def _synthesize_with_piper_cli(self, text: str, output_file: Path):
+    def _synthesize_with_piper_cli(self, text: str, output_file: Path,
+                                  length_scale: Optional[float] = None, noise_scale: Optional[float] = None,
+                                  noise_w: Optional[float] = None):
         """Synthesize text using Piper command-line interface."""
         model_file = self.models_dir / f"{self.model_name}.onnx"
 
@@ -258,7 +350,12 @@ class PiperAudioChunkGenerator:
             piper_output_file = output_file
             needs_conversion = False
 
-        # Piper command
+        # Use parameter overrides or instance defaults
+        final_length_scale = length_scale if length_scale is not None else self.length_scale
+        final_noise_scale = noise_scale if noise_scale is not None else self.noise_scale
+        final_noise_w = noise_w if noise_w is not None else self.noise_w
+
+        # Piper command with configurable parameters
         # Note: Piper outputs 22050 Hz mono by default (model limitation)
         # We optimize quality parameters for best output
         cmd = [
@@ -266,9 +363,9 @@ class PiperAudioChunkGenerator:
             "--model", str(model_file),
             "--output_file", str(piper_output_file),
             "--espeak_data", "/usr/lib/x86_64-linux-gnu/espeak-ng-data",
-            "--length_scale", "1.0",  # Normal speed (1.0 = default)
-            "--noise_scale", "0.667",  # Default noise (lower = more stable)
-            "--noise_w", "0.8"  # Phoneme width noise (default)
+            "--length_scale", str(final_length_scale),  # Speech speed
+            "--noise_scale", str(final_noise_scale),    # Stability/variation
+            "--noise_w", str(final_noise_w)             # Phoneme width
         ]
 
         try:
@@ -406,12 +503,15 @@ class PiperAudioChunkGenerator:
             logger.error(f"FFmpeg audio enhancement failed: {e}")
             raise
 
-    def process(self, directory=None) -> List[Path]:
+    def process(self, directory=None, length_scale=None, noise_scale=None, noise_w=None) -> List[Path]:
         """
         Process all markdown files in the input directory.
 
         Args:
             directory: Optional override for input directory.
+            length_scale: Optional speech speed override for all files
+            noise_scale: Optional stability override for all files
+            noise_w: Optional phoneme width override for all files
 
         Returns:
             List of paths to generated audio files.
@@ -421,7 +521,7 @@ class PiperAudioChunkGenerator:
 
         output_files = []
         for input_file in input_files:
-            output_file = self.synthesize_chunk(input_file)
+            output_file = self.synthesize_chunk(input_file, None, length_scale, noise_scale, noise_w)
             if output_file:
                 output_files.append(output_file)
 
@@ -452,19 +552,38 @@ def process_markdown_file(file_path, output_dir, **kwargs) -> tuple[bool, str]:
             model_name = piper_config.get("model", "cs_CZ-jirka-medium")
             keep_wav = piper_config.get("keep_wav", True)  # Default to True for best quality
             upsample = piper_config.get("upsample", True)  # Default to True for better quality
+
+            # Get synthesis parameters from config or kwargs
+            length_scale = kwargs.get('length_scale', piper_config.get('length_scale', 1.0))
+            noise_scale = kwargs.get('noise_scale', piper_config.get('noise_scale', 0.667))
+            noise_w = kwargs.get('noise_w', piper_config.get('noise_w', 0.8))
+
+            # Apply preset if specified
+            preset = kwargs.get('preset')
         except Exception:
             # Fallback to default if config loading fails
             model_name = "cs_CZ-jirka-medium"
             keep_wav = True  # Default to WAV for maximum quality
             upsample = True
+            length_scale = kwargs.get('length_scale', 1.0)
+            noise_scale = kwargs.get('noise_scale', 0.667)
+            noise_w = kwargs.get('noise_w', 0.8)
+            preset = kwargs.get('preset')
 
         generator = PiperAudioChunkGenerator(
             input_dir=str(Path(file_path).parent),
             output_dir=str(output_dir),
             model_name=model_name,
             keep_wav=keep_wav,
-            upsample=upsample
+            upsample=upsample,
+            length_scale=length_scale,
+            noise_scale=noise_scale,
+            noise_w=noise_w
         )
+
+        # Apply preset if specified
+        if preset:
+            generator.apply_preset(preset)
         result = generator.process()
         success = len(result) > 0
         message = f"Generated {len(result)} audio files with Piper" if success else "Failed to generate audio with Piper"

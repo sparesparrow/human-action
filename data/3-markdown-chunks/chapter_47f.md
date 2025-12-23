@@ -1,14 +1,3 @@
-
-22001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 220
-
-Ve svém postavení obchodníka je člověk sluhou spotřebitelů, který je nucen
-
-vyhovět jejich přáním. Nemůže se oddávat svým vlastním nápadům a před-stavám. Ale nápady a představy jeho spotřebitelů, jsou-li tito spotřebitelépřipraveni za ně zaplatit, jsou pro něj nejvyšším zákonem. Své chování musípřizpůsobit poptávce ze strany spotřebitelů. Jestliže spotřebitelé, bez smyslupro krásu, dávají přednost ošklivým a vulgárním věcem, musí je proti svémupřesvědčení takovými věcmi zásobovat.
-
-5Pokud spotřebitelé nechtějí platit za
-
-domácí výrobky vyšší cenu než za výrobky ze zahraničí, musí, pokud jsou lev-nější, nakupovat zahraniční výrobky. Zaměstnavatel nemůže poskytovat výho-dy na úkor spotřebitelů. Nemůže platit vyšší mzdové sazby, než jaké určil trh,pokud kupující nejsou ochotni platit úměrně vyšší ceny za statky vyrobenév podnicích, v nichž jsou vyšší mzdové sazby než v jiných podnicích.
-
 Jinak je tomu u člověka v postavení toho, kdo utrácí svou výplatu. Má
 
 plnou svobodu dělat to, co má nejraději. Může rozdávat almužny. Může se,motivován různými teoriemi a předsudky, stavět proti zboží určitého původunebo zdroje a dávat před – technologicky – lepšími nebo levnějšími výrobkypřednost horším nebo dražším.

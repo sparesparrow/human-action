@@ -1,7 +1,4 @@
-
-Tvrdí se, že pojem prostého stavu klidu je neuspokojivý. Lidé říkají, že se
-
-vztahuje pouze na určení cen statků, jejichž určitá zásoba je již k dispozici,a neříká nic o vlivu, jaký tyto ceny mají na výrobu. Tato námitka je nepodlože-ná. Zásady obsažené v pojmu prostého stavu klidu platí pro všechny obchodybez výjimky. Je pravda, že kupci výrobních faktorů vstoupí ihned do výrobya velice rychle se vrátí na trh, aby prodali své výrobky a nakoupili, co potře-bují pro vlastní spotřebu a pro pokračování výrobního procesu. To všaknezbavuje naše schéma platnosti.
+Zásady obsažené v pojmu prostého stavu klidu platí pro všechny obchodybez výjimky. Je pravda, že kupci výrobních faktorů vstoupí ihned do výrobya velice rychle se vrátí na trh, aby prodali své výrobky a nakoupili, co potře-bují pro vlastní spotřebu a pro pokračování výrobního procesu. To všaknezbavuje naše schéma platnosti.
 
 Toto schéma totiž netvrdí, že stav klidubude trvat. Období klidu určitě zmizí, jakmile se změní okamžité podmínky,na jejichž základě klid nastal.
 
@@ -42,3 +39,11 @@ Nejsme v situaci, že bychomdopředu věděli, kolik času bude muset uplynout. 
 Ekonomové často dělají chybu, že zanedbávají prvek času. Vezměme
 
 například spory týkající se vlivu změn množství peněz. Někteří lidé se zabý-vali pouze jejich dlouhodobými důsledky, tj. konečnými cenami a konečnýmstavem klidu. Jiní viděli pouze krátkodobý vliv, tj. ceny v okamžiku, kterýnásleduje po změně skutečností. Obě skupiny se mýlily a jejich závěry bylypostupně vyvraceny. Mohli bychom citovat mnoho dalších případů, kdy došloke stejnému omylu.
+
+Imaginární konstrukt konečného stavu klidu se vyznačuje tím, že věnuje
+
+plnou pozornost změně, k níž dochází v časové posloupnosti událostí.V tomto ohledu se liší od imaginárního konstruktu rovnoměrně plynoucí eko-
+
+nomiky , který je charakterizován vyloučením změn daných hodnot a časové-
+
+ho prvku.

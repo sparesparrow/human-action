@@ -1,4 +1,3 @@
-
 Čím je určitý výrobní proces bližší svému konečnému cíli, tím těsnější je
 
 spojení mezi meziprodukty a tímto cílem. Železo má méně specifickou pova-hu než železné trubky a železné trubky jsou méně specifické než železné sou-části určitého stroje. Změna výrobního procesu je vždy tím obtížnější, čímdále zašel a čím blíže je svému konci – vzniku spotřebních statků.
@@ -42,3 +41,9 @@ Kapitalisté a podnikatelé při vydávání peněz za nákup určitých výrobn
 faktorů hodnotí statky výhradně z pohledu očekávaného budoucího stavutrhu. Platí ceny přizpůsobené budoucím podmínkám, které dnes odhadují.Chyby učiněné v minulosti při výrobě dnes dostupných kapitálových statkůkupujícího nezatěžují; dopadají pouze na prodávajícího. V tomto smyslu dělápodnikatel, kupující za peníze kapitálové statky pro budoucí výrobu, zaminulostí tlustou čáru. Jeho podnikatelské snahy nejsou ovlivněny minulýmizměnami hodnocení a cen výrobních faktorů, které získává.
 
 Pouze v tomtosmyslu lze říci, že majitel hotovosti vlastní likvidní fondy a je svobodný.
+
+6. Vliv minulosti na jednání
+
+Čím dále pokročila akumulace kapitálových statků, tím větším problémem
+
+se stává jejich převoditelnost. Primitivní metody zemědělců a řemeslníkůminulých dob mohly být snadněji přizpůsobeny novým úkolům než moderníkapitalistické metody. Avšak právě moderní kapitalismus musí čelit náhlýmzměnám podmínek.

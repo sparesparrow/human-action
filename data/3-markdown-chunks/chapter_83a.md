@@ -47,3 +47,7 @@ omluvitelný, kdyby bylo jeho cílem odstranění tohoto neuspokojivého stavua 
 Celkový objem peněz a peněžních substitutů je uchováván jednotlivci
 
 a firmami jako držená hotovost. Podíl každého z nich je určován meznímužitkem. Každý chce držet určitou část svého celkového bohatství ve forměhotovosti. Zbavuje se přebytečné hotovosti tím, že zvyšuje své nákupy,a nedostatek hotovosti řeší zvýšením prodejů. Všeobecně rozšířená termino-logie zaměňující poptávku po držbě hotovosti za poptávku po bohatství a pro-dejných statcích nesmí ekonoma splést.
+
+Co platí ve vztahu k jednotlivcům a firmám, není o nic méně pravdivé ve
+
+vztahu ke každému součtu objemu hotovosti držené určitým množstvím jed-notlivců a firem. Není důležité, jaký počet jednotlivců a firem považujeme zacelek.

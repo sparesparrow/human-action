@@ -1,16 +1,3 @@
-
-Člověk společenský na rozdíl od člověka žijícího v autar-
-
-kii musí nutně upravit svůj původní biologický nezájem o blahobyt lidí vnějeho vlastní rodiny. Své konání musí přizpůsobit požadavkům společenské
-
-74702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 747
-
-spolupráce a pohlížet na úspěch ostatních lidí jako na nutnou podmínku
-
-vlastního úspěchu. Z tohoto pohledu je možné popsat cíl společenské koope-race jako dosažení největší spokojenosti největším počtem lidí. Málokdo byse pokoušel vyvracet tuto definici nejvíce žádoucího stavu a tvrdit, že není
-
-dobré vidět co největší počet lidí těšících se co největšímu možnému štěstí.Veškeré útoky proti tomuto Benthamovu tvrzení se soustředily na nejasnostiči nedorozumění ohledně konceptu štěstí; nijak se však nestavily proti postu-látu, že dobru, ať již znamená cokoli, by se mělo těšit největší možné množ-ství lidí.
-
 Když ovšem vyložíme koncept blahobytu tímto způsobem, ztrácí jakýkoli
 
 konkrétní význam. Lze jej pak použít k ospravedlnění jakéhokoli typu spole-čenské organizace. Někteří zastánci černošského otroctví také tvrdili, žeotroctví je nejlepším prostředkem, jak černochům zajistit spokojenost, a dnesmnozí bílí jižané upřímně věří, že přísná segregace nepřináší o nic menší pro-spěch barevným než údajně přináší bílým.
@@ -52,3 +39,11 @@ ní Paraguaye. Nemusíme se ale zabývat podstatou takovéhoto systému spole-č
 Základní slabinou takové společnosti je to, že rostoucí počet obyvatel
 
 nutně vede ke zvyšující se chudobě. Je-li půda zemřelého statkáře rozdělenamezi jeho děti, stane se velikost pozemku časem příliš malá na to, aby mohlaposkytovat dostatečnou úrodu k přežití rodiny. Každý je tak sice vlastníkempůdy, ale každý je také velmi chudý. Podmínky, které jsme mohli pozorovatv rozsáhlých oblastech Číny, nám ukazují smutný obrázek bídy lidí obdě-lávajících malé pozemky. Alternativou k tomuto vývoji je vznik velké masyproletariátu, který půdu nevlastní.
+
+Vzniká tak ohromná mezera oddělujícívyděděné chudáky od statkářů, jimž byl osud nakloněn. Jsou třídou vyvrhe-lů, jejichž samotná existence vytváří ve společnosti neřešitelný problém.Marně se pídí po obživě. Společnost pro ně nemá upotřebení. Žijí v bídě.
+
+Když v dobách před vznikem moderního kapitalismu hovořili státníci, filo-
+
+zofové a právníci o chudých a o problémech chudoby, měli na mysli právě tytonadpočetné chudáky. Laissez faire a jeho odnož, industrialismus, přeměnily
+
+zaměstnatelné chudé na příjemce mezd. Ve svobodné tržní společnosti jsoulidé s vyššími a lidé s nižšími příjmy. Nenajdeme zde ale lidi, kteří jsou siceochotni a schopni pracovat, ale nemohou najít pravidelné zaměstnání, jelikožve společenském systému výroby pro ně není místo. Liberalismus a kapitalis-mus byly ale i ve dnech své největší slávy omezeny na relativně malá územízápadní a střední Evropy, Severní Ameriky a Austrálie.

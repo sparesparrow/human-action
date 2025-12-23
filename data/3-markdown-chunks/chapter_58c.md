@@ -1,4 +1,3 @@
-
 V takové rovnoměrně plynoucí ekonomice neexistuje peněžní zisk anipeněžní ztráta, protože – pokud nebereme v úvahu rozdíly, které vznikajíkvůli vyššímu hodnocení současných statků než budoucích statků – součetcen všech komplementárních faktorů, které jsou potřebné pro výrobu, sepřesně rovná ceně výrobku.
 
 V proměnlivém skutečném světě se neustále objevují rozdíly mezi součtem

@@ -1,5 +1,4 @@
-
-Nyní je možné využít pouze menší část z těchto dostup-ných zcela specifických faktorů; a zvýší se tedy množství faktorů, které ne-budou využívány. Je-li ale nabídka těchto zcela specifických faktorů takomezená, že při cenách neomezovaného trhu byla jejich celá zásoba využívá-na, existuje prostor, v rámci něhož vládní zásah neomezí nabídku danéhovýrobku. Maximální cena neomezuje výrobu, dokud úplně nevyčerpá rentumezního dodavatele zcela specifického výrobního faktoru.
+Je-li ale nabídka těchto zcela specifických faktorů takomezená, že při cenách neomezovaného trhu byla jejich celá zásoba využívá-na, existuje prostor, v rámci něhož vládní zásah neomezí nabídku danéhovýrobku. Maximální cena neomezuje výrobu, dokud úplně nevyčerpá rentumezního dodavatele zcela specifického výrobního faktoru.
 
 Každopádně alevede k rozdílu mezi poptávkou a nabídkou daného výrobku.
 

@@ -1,19 +1,4 @@
-
-Iluze, že ve společnosti založené na veřejném vlastnictví výrobních pro-
-
-středků je možné racionální uspořádání řízení hospodářství, vděčí za svůjpůvod teorii hodnoty klasických ekonomů a za svou vytrvalost selhání mnoha
-
-1866Srov. Friedrich von Wieser, Der natürliche Wert (Vídeň, 1889), str. 60, pozn. 3.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 186
-
-moderních ekonomů, že důkladně, až do nejzazších důsledků nepromysleli
-
-základní zásadu subjektivistické teorie. A tak byly socialistické utopie vytvá-řeny a udržovány chybami myšlenkových škol, které marxisté odmítali jako„ideologické převlečení sobeckých třídních zájmů vykořisťující buržoazie“.Ve skutečnosti umožnila rozkvět socialistických myšlenek právě pochybenítěchto škol. Tato skutečnost jasně ukazuje prázdnotu marxistického učenío „ideologiích“ i jeho moderní odnože, sociologie poznání.
-
-3. Problém ekonomické kalkulace
-
-Jednající člověk používá znalosti, které mu poskytují přírodní vědy, pro
-
-rozvoj technologie, aplikované vědy o možném jednání v oblasti vnějšíchpodmínek. Technologie ukazuje, čeho by se mohlo dosáhnout, kdyby tohoněkdo dosáhnout chtěl, a jak by se toho mohlo dosáhnout za předpokladu, žeby lidé byli připraveni využít naznačené prostředky. S pokrokem přírodníchvěd zaznamenává pokrok i technologie; mnozí by raději řekli, že si touha pozlepšení technologických metod vynutila pokrok přírodních věd. Kvantifika-ce přírodních věd přenesla kvantifikaci i do technologií.
+S pokrokem přírodníchvěd zaznamenává pokrok i technologie; mnozí by raději řekli, že si touha pozlepšení technologických metod vynutila pokrok přírodních věd. Kvantifika-ce přírodních věd přenesla kvantifikaci i do technologií.
 
 Moderní technologieje v podstatě praktický druh kvantitativní předpovědi výsledku možnéhojednání. S rozumným stupněm přesnosti se počítají výsledky plánovanéhojednání, a počítají se proto, aby jednání mohlo být upraveno tak, aby přines-lo určitý výsledek.
 
@@ -36,3 +21,19 @@ Pro pojem subjektivní užitné hodnoty, pro výlučně lidský úhel pohledua p
 Pro řešení tako-vých problémů je technologie nevhodná, stejně jako její početní a měřicímetody.
 
 Technologie říká, jak by daný cíl mohl být dosažen za využití různýchprostředků, které mohou být použity společně v různých kombinacích, nebojak by bylo možno pro určité účely využít různých dostupných prostředků.Ale je v koncích, má-li někomu říct, jaké postupy by si měl vybrat z neko-nečného množství různých představitelných a možných výrobních postupů.Jednající člověk chce vědět, jak musí dostupné prostředky využít, aby dosáhlnejlepšího možného – nejekonomičtějšího – odstranění nespokojenosti, kte-rou pociťuje.
+
+Technologie mu ale neposkytuje nic víc než tvrzení o příčinnýchvztazích mezi vnějšími věcmi. Říká například, že 7 a+ 3 b+ ... + xnmusí dát
+
+8 P. Ačkoli však zná hodnotu přiřazenou jednajícím člověkem různým stat-
+
+kům prvního řádu, nedokáže rozhodnout, jestli tento nebo jakýkoli jiný vzo-rec z nekonečného množství podobně sestavených vzorců nejlépe slouží prodosažení cílů, o něž jednající člověk usiluje. Dovednost v oblasti technikymůže stanovit, jak je třeba postavit most, aby překlenul řeku v daném místěa unesl určitou zátěž.
+
+Ale nedokáže odpovědět na otázku, zda by stavba tako-vého mostu odčerpala hmotné faktory výroby a práce z nějakého užití,v němž by mohly uspokojit potřeby, které jsou pociťovány naléhavěji. Nedo-káže říct, jestli by ten most měl být vůbec stavěn, či nikoli, kde by měl býtpostaven, jakou by měl mít nosnost pro dopravu břemen a která z mnohamožností pro jeho stavbu by měla být vybrána.
+
+Technologická kalkulace můžeposkytnout vztahy mezi různými třídami prostředků pouze do té míry, v jakése mohou navzájem zastoupit při úsilí dosáhnout konečného cíle. Jednání jeale nuceno odkrýt vztahy mezi všemi prostředky, jakkoli si mohou být nepo-dobny, bez ohledu na otázku, zda se mohou při plnění stejných služeb navzá-jem zastoupit, či nikoli.
+
+Technologie a úvahy, které jsou z ní odvozeny, by nebyly pro jednajícího
+
+člověka k přílišnému užitku, kdyby do jejich schémat nebylo možné zavést
+
+18801_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 188

@@ -1,9 +1,4 @@
-
-Pokud však génius
-
-12412Vůdci [Führers] nejsou pionýry. Vedou lidi po trase, kterou vytyčili pionýři. Pionýři
-
-prosekávají cesty končinami, které byly dosud nepřístupné, a nemohou se starato to, zda je chce někdo následovat. Vůdce vede lidi k cíli, kterého chtějí dosáhnout.
+Vůdce vede lidi k cíli, kterého chtějí dosáhnout.
 
 13Zdá se, že neexistuje žádný anglický překlad této básně. Kniha Douglase Yatese(Franz Grillparzer, a Critical Biography, Oxford, 1946), I, str. 57, podává stručné anglic-
 
@@ -58,3 +53,7 @@ Ani fakt, že část potenciálu práce může zůstat nevyužita, ji neodlišuj
 Nazýváme ji tvůrčí, protoženedokážeme vystopovat změny způsobené lidským jednáním hlouběji než dobodu, kde narážíme na zásah rozumu řídícího lidskou činnost. Produkce nenínic fyzického, hmotného a externího, je to duchovní a intelektuální jev. Jejínutné podmínky nejsou lidská práce a vnější přírodní síly a věci, nýbrž roz-hodnutí mysli použít tyto faktory jako prostředky k dosažení cílů. Produktnevytváří samotná námaha a úsilí, ale fakt, že je tato námaha vedena rozu-mem.
 
 Pouze lidská mysl má schopnost odstranit nespokojenost.
+
+Materialistická metafyzika marxistů tyto věci zcela převrací. „Výrobní síly“
+
+nejsou hmotné. Produkce je duchovní, intelektuální a ideologický jev. Je tometoda, kterou člověk vedený rozumem používá pro co nejlepší odstraněnínespokojenosti.

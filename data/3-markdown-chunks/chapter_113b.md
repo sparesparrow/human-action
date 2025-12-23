@@ -1,5 +1,4 @@
-
-Podporují tlak odborůa údajně prodělnické zákonodárství. Radikalismus jejich zásahů ničí v samémzárodku všechny snahy o vytvoření domácího průmyslu. Jejich tvrdošíjný dog-matismus žene do záhuby indické a čínské kuli, mexické peony a miliony dal-ších lidí, zoufale bojujících na pokraji smrti hladem.
+Jejich tvrdošíjný dog-matismus žene do záhuby indické a čínské kuli, mexické peony a miliony dal-ších lidí, zoufale bojujících na pokraji smrti hladem.
 
 8. Vliv tržních změn na mzdové sazby
 
@@ -48,3 +47,7 @@ Mzdy jsou cenami placenými za výrobní faktor, lidskou práci. Stejně jako
 v případě všech ostatních cen komplementárních výrobních faktorů je jejichvýše určena v konečném důsledku cenami výrobků, očekávanými v okamži-ku prodeje a nákupu práce. Nezáleží na tom, zda vykonavatel práce prodávásvé služby zaměstnavateli, který je spojuje s hmotnými výrobními faktory a seslužbami ostatních lidí, nebo zda se do těchto kombinačních úkonů pouštísám na vlastní účet a vlastní riziko. Konečná cena práce je pro oba případystejná v celém tržním systému.
 
 Mzdové sazby jsou vždy rovny ceně úplnéhoproduktu práce. Rozšířené heslo „právo pracovníků na úplný produkt práce“bylo nesmyslnou formulací požadavku, aby byly spotřební statky rozdělová-ny výhradně mezi pracovníky a nic nebylo ponecháno pro podnikatelea vlastníky hmotných výrobních faktorů. Výrobky však nemohou být ze žád-ného úhlu pohledu posuzovány pouze jako výsledek práce. Jsou výsledkemúčelné kombinace práce a hmotných výrobních faktorů.
+
+V měnícím se hospodářství převládá tendence k přesnému přizpůsobování
+
+tržních mzdových sazeb úrovni konečných mzdových sazeb. Toto přizpůso-bování vyžaduje určitý čas. Délka období přizpůsobení záleží na čase nutnémk vyškolení pro výkon nové práce a k přesunu pracovníků do nového bydliš-tě. Dále závisí na subjektivních faktorech, jako jsou obeznámenost pracovní-ků s podmínkami a vyhlídkami na trhu práce.

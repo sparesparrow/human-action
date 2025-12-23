@@ -1,6 +1,3 @@
-
-Srovnání takových naturálních cena naturálních nákladů je neproveditelné. Že si prodávající cení zboží, kteréhose zbavuje, méně než zboží, které za něj ve směně obdrží, že se prodávajícía kupující liší v subjektivním hodnocení směňovaného zboží, a že se podni-katel pustí do projektu pouze tehdy, když očekává, že za produkci získá stat-ky, kterých si cení výše než statků, jež vynaloží na výrobu této produkce, tovše víme už na základě praxeologického rozumění.
-
 Právě tato apriorní znalostnám umožňuje předvídat chování podnikatele, který se může uchýlit k eko-nomické kalkulaci. Ale matematický ekonom podvádí sám sebe, když před-stírá, že pominutím jakékoli zmínky o penězích se zabývá těmito problémyv obecnější rovině. Je marné zkoumat případy nedokonalé dělitelnosti výrob-ních faktorů bez toho, abychom se odvolali na ekonomickou kalkulaciv peněžních jednotkách.
 
 Takový výzkum se nikdy nemůže dostat dál než keznalostem, které jsou již k dispozici; totiž že každý podnikatel chce vyráběttakové zboží, jehož prodej mu přinese výnos, kterého si cení víc než celkové-ho souboru statků, jež vynaložil na jeho výrobu. Avšak pokud neexistujenepřímá směna a pokud není obecně používán žádný prostředek směny,může uspět – za předpokladu, že správně odhadl budoucí stav trhu – pouzetehdy, když je obdařen nadlidským rozumem.
@@ -34,3 +31,21 @@ Mezi ekonomickými prvky však žádné takovépevné vazby neexistují. Rovnice
 Zdravé ekonomické úvahy nesmějí nikdy zapomenout na tyto dva základ-
 
 ní principy teorie hodnoty: zaprvé, hodnocení, které vede k jednání, vždyznamená upřednostňování a upozaďování; nikdy neznamená rovnost neboindiferenci. Zadruhé, neexistuje žádný jiný prostředek, jak srovnávat hodno-cení prováděná různými jedinci nebo hodnocení uskutečněná stejným jedin-cem v různých okamžicích, než zjistit, jestli seřadili příslušné možnosti vždyve stejném pořadí, nebo nikoli.
+
+V imaginárním konstruktu rovnoměrně plynoucí ekonomiky se všechny
+
+výrobní faktory využívají tak, že každý z nich poskytuje ty nejcennější služby.Neexistuje žádná myslitelná a možná změna, která by zlepšila stav uspokoje-ní; žádný faktor se nevyužívá pro uspokojení potřeby a, jestliže toto využití
+
+zabraňuje uspokojení potřeby b, které je považováno za cennější než uspo-
+
+kojení a. Je samozřejmě možné popsat tento nereálný stav alokace zdrojů
+
+diferenciálními rovnicemi a graficky ho znázornit křivkami. Ale takové pro-středky neříkají nic o tržním procesu. Pouze určují fiktivní situaci, v níž bytržní proces přestal pracovat. Matematičtí ekonomové pomíjejí celé teoretic-ké vysvětlení tržního procesu a místo toho věnují svoji pozornost pomocné-mu pojmu, který ztrácí jakýkoli smysl, pokud se použije mimo souvislost,v níž byl vytvořen.
+
+Ve fyzice se setkáváme se změnami, které se objevují v různých smyslo-
+
+vých jevech. V posloupnosti takových změn objevujeme zákonitosti a tato
+
+32201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 322
+
+pozorování nás vedou k vytvoření fyzikální vědy.

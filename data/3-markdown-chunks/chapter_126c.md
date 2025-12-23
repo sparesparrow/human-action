@@ -1,4 +1,3 @@
-
 Teprve když byla země osídlena hustěji a již nebyla k dispozicipro přivlastnění nezabraná prvotřídní půda, začali lidé považovat takovékořistnické metody za marnotratné. V té době vznikla instituce soukroméhovlastnictví půdy. Lidé začali ornou půdou a pak krok za krokem přidávalipastviny, lesy a loviště ryb. Nově kolonizovali země v zámoří. Zejména roz-
 
 5889Viz výše, str. 572—573.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 588

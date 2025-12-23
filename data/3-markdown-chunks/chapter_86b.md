@@ -1,7 +1,4 @@
-
-Je zjevné, že problémy, na které inflacionistická doktrína poukazuje,
-
-nemohou být vyřešeny pomocí učení o historické zkušenosti. Je nade všipochybnost, že historie cenového vývoje ukazuje více méně neustálý, ačkoliobčas na krátké období přerušený, vzestupný trend. Je pochopitelně nemož-né prokázat tuto skutečnost jinak než porozuměním dějinám. Katalaktickápřesnost nemůže být aplikována na historické otázky. Snahy některých his-toriků a statistiků vysledovat změny v kupní síle cenných kovů během uply-nulých staletí a měřit je jsou zbytečné.
+Je nade všipochybnost, že historie cenového vývoje ukazuje více méně neustálý, ačkoliobčas na krátké období přerušený, vzestupný trend. Je pochopitelně nemož-né prokázat tuto skutečnost jinak než porozuměním dějinám. Katalaktickápřesnost nemůže být aplikována na historické otázky. Snahy některých his-toriků a statistiků vysledovat změny v kupní síle cenných kovů během uply-nulých staletí a měřit je jsou zbytečné.
 
 Jak již bylo ukázáno, veškeré snahyměřit velikost ekonomických veličin jsou založeny na zcela chybných před-pokladech a ukazují neznalost základních principů jak ekonomie, tak histo-rie. Ovšem historie nám může pomocí svých specifických metod říci dostk tomu, abychom si mohli být jisti tvrzením, že kupní síla peněz po staletívykazovala klesající tendenci. Na tomto závěru se všichni shodují.
 
@@ -42,3 +39,13 @@ Průměrný obchodník odpoví na tuto otázku kladně. Život a jednání v pro
 středí pomalého, ale neustálého poklesu kupní síly peněžní jednotky jsoupovažovány za normální, nezbytné a prospěšné. Jednoduše si nedokáže před-stavit jinou situaci. Spojuje představu rostoucích cen a zisků na jedné straněa klesajících cen a ztrát na straně druhé. Jeho přesvědčením neotřese ani sku-tečnost, že lze spekulovat i na pokles ceny a že největší zisky byly vydělányprávě „medvědy“.
 
 Říká, že to jsou pouze spekulativní transakce lidí toužícíchpo zisku z klesajících cen statků, které již byly vyrobeny a jsou k dispozici.Tvůrčí inovace, nové investice a využití nových technologických metod vyža-dují motivaci vyvolanou očekáváním rostoucích cen.
+
+Tento názor je neobhajitelný. Ve světě rostoucí kupní síly peněžní jednot-
+
+ky by se způsob myšlení každého jednotlivce přizpůsobil této situaci, stejnějako si každý v našem současném světě zvykl na klesající kupní sílu peněžníjednotky. Dnes je každý ochoten považovat růst svého nominálního nebo
+
+42101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 421
+
+peněžního důchodu za zlepšení své hmotné situace. Pozornost lidí se sou-
+
+středí spíše na růst nominálních mzdových sazeb a peněžního vyjádřeníbohatství než na zvýšení nabídky statků. Ve světě rostoucí kupní síly peněž-ní jednotky by se zajímali spíše o pokles životních nákladů. To by zvýraznilofakt, že hospodářský pokrok spočívá především ve stále větší dostupnostivěcí, které činí život příjemnějším.

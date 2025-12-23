@@ -1,4 +1,3 @@
-
 Ve skutečnostinepřistupuje k předmětu svého výzkumu neovlivněn tím, čím pohrdá jakoteorií. Na každém kroku sběru údajně ryzích skutečností, při pořádání těch-to informací a v závěrech, které z nich vyvozuje, je veden zmatenými a pře-kroucenými zbytky povrchních ekonomických učení, která vytvořili břídilovéve stoletích, jež předcházela rozpracování ekonomické vědy, a která byla jiždávno vyvrácena.
 
 Analýza problémů tržního hospodářství, jediného modelu lidského jedná-

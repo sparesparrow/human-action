@@ -1,17 +1,4 @@
-
-Skutečnost, že ne každé technologické zlepšení je okamžitě použito ve
-
-všech možných užitích, je stejně jasná jako to, že ne všichni vyhazují svá staráauta nebo staré oblečení okamžitě poté, co se na trhu objeví lepší auto nebo
-
-45501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 455
-
-přijdou do módy nové vzory. Ve všech těchto případech jsou lidé motivováni
-
-vzácností dostupných statků.
-
-Je sestrojen nový stroj, výkonnější než ty používané před ním. To, zda
-
-továrny, vybavené méně výkonnými stroji, tyto stroje nahradí novým mode-lem i přesto, že jsou stále použitelné, záleží na stupni nadřazenosti novéhostroje. Ekonomicky rozumné bude sešrotovat staré vybavení pouze tehdy,postačuje-li nadřazenost nového k tomu, aby vynahradila nutné dodatečnévýdaje. Nechť pje cena nového stroje, qje cena, za kterou lze tento stroj pro-
+Ekonomicky rozumné bude sešrotovat staré vybavení pouze tehdy,postačuje-li nadřazenost nového k tomu, aby vynahradila nutné dodatečnévýdaje. Nechť pje cena nového stroje, qje cena, za kterou lze tento stroj pro-
 
 dat do sběru, ajsou náklady na výrobu jedné jednotky produktu starým stro-
 
@@ -54,3 +41,7 @@ Pravda je, že založení nedospělého odvětví je z ekonomického pohledu
 výhodné pouze tehdy, je-li nadřazenost nového umístění tak významná, ževyvažuje nevýhody plynoucí z opuštění nepřevoditelných nebo nepřemísti-telných kapitálových statků investovaných ve stávajících podnicích. Pokudtomu tak je, nové podniky budou schopny úspěšně konkurovat starým bezjakékoli vládní pomoci. Pokud tomu tak není, je poskytnutá ochrana plýtvá-ním, byť je pouze dočasná a umožňuje novému průmyslu obstát v pozdějšímobdobí.
 
 Clo se tak v podstatě rovná dotaci, kterou jsou nuceni platit spotře-bitelé jako kompenzaci za užití vzácných výrobních faktorů při nahrazenístále použitelného vybavení určeného ke sešrotování a odebrání těchto vzác-ných faktorů z jiných užití, v nichž by mohly přinést služby, které jsou spo-třebiteli hodnoceny více. Spotřebitelé jsou připraveni o příležitost uspokojiturčité potřeby, protože potřebné kapitálové statky jsou nasměrovány do výro-by statků jim dostupných již při neexistenci cla.
+
+U všech odvětví existuje univerzální tendence přesouvat se do těch míst,
+
+v nichž jsou možnosti výroby největší. V nenarušované tržní ekonomice jetato tendence oslabena kvůli zvažování nepřevoditelnosti vyžadovaných kapi-tálových statků. Historický prvek nedává starým odvětvím trvalou převahu.Pouze brání plýtvání pocházejícímu z investic vedoucích k nevyužití kapacitystále použitelných výrobních zařízení na jedné straně a omezením objemukapitálových statků dostupných pro naplnění neuspokojených potřeb na stra-ně druhé.

@@ -33,3 +33,5 @@ takové vměšování se detaily by bylo přinejmenším zbytečné, pokud by ne
 Jinak je tomu ve veřejné správě, při správě vládních záležitostí. V této
 
 oblasti není rozhodování úředníků a jejich podřízených pomocníků omezenoohledem na zisk a ztrátu. Kdyby jim jejich nejvyšší nadřízený – nezáleží natom, je-li to svrchovaný lid nebo svrchovaný despota – ponechal volné ruce,vzdal by se v jejich prospěch vlastní nadřazenosti.
+
+Tito úředníci by se stalinezodpovědnými činiteli a jejich moc by nahradila moc lidu nebo despoty.Dělali by to, co by je těšilo, a nikoli to, co by po nich chtěli jejich nadřízení.Aby se zabránilo takovým koncům a oni byli donuceni sloužit vůli svých nad-řízených, je nutné dát jim podrobné pokyny, které budou v každém směruusměrňovat jejich jednání. Pak bude jejich povinností vypořádat se se všemizáležitostmi v přísném souladu s těmito pravidly a nařízeními.

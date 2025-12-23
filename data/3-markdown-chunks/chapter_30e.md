@@ -1,7 +1,4 @@
-
-Rozhoduje se v konkrétním čase za konkrétních podmínek mezi přesněomezeným množstvím zlata a přesně omezeným množstvím železa. Jeho roz-hodnutí o volbě mezi 100 uncemi zlata a 100 tunami železa vůbec nezáleží narozhodnutí, které by učinil, kdyby se dostal do vysoce nepravděpodobné situ-ace volby mezi veškerým zlatem a veškerým železem.
-
-Jediné, na čem v jehokonkrétní volbě záleží, je, zda za současných podmínek považuje přímé činepřímé uspokojení ze 100 uncí zlata za větší či menší než přímé či nepříméuspokojení, které by mohl získat ze 100 tun železa. Nevyjadřuje akademickýči filozofický soud týkající se „absolutní“ hodnoty zlata a železa; neurčuje,zda je zlato či železo důležitější pro lidstvo; nespekuluje jako autor knih o filo-zofii historie či o etických principech.
+Nevyjadřuje akademickýči filozofický soud týkající se „absolutní“ hodnoty zlata a železa; neurčuje,zda je zlato či železo důležitější pro lidstvo; nespekuluje jako autor knih o filo-zofii historie či o etických principech.
 
 Pouze volí mezi dvěma uspokojeními,která nemůže mít současně.
 
@@ -58,3 +55,13 @@ gie. Stejně tak se nemusí k psychologickému myšlení a argumentům uchylo-
 vat, aby je dokázala. Jestliže řekneme, že akty volby nezávisí na hodnotě při-
 
 suzované celým třídám potřeb, ale na hodnotách přisuzovaných konkrétnímpotřebám bez ohledu na třídu, do níž by mohly patřit, nic k našemu poznánínepřidáváme ani je neukotvujeme v nějakém základnějším či obecnějšímpoznání. Tento způsob vyjadřování pomocí tříd potřeb dává smysl, pouzepokud si pamatujeme roli, kterou hrál v historii ekonomického myšlení údaj-ný paradox hodnoty.
+
+Carl Megner a Böhm-Bawerk museli používat termíntřída potřeb, aby vyvrátili námitky, které vznášeli ti, kdo považovali chléb za
+
+hodnotnější než hedvábí , protože třída „potřeb uspokojení hladu“ je důležitěj-
+
+ší než třída „potřeb luxusního oblékání“.
+
+2Dnes je koncept „třídy potřeb“
+
+zcela zbytečný. Nemá žádný význam pro jednání, a tedy ani pro teorii hod-noty. Může navíc snadno svést k chybám a zmatkům. Konstrukce pojmůa klasifikace jsou mentálními nástroji. Získávají význam a smysl pouze v kon-textu teorií, v nichž jsou použity.

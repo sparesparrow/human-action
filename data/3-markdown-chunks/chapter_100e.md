@@ -1,17 +1,4 @@
-
-Celkovou nabídku kapitálových statků dostupnou před začátkem úvěrové
-
-expanze můžeme označit jako p; celkový objem spotřebních statků, jenž
-
-může být s užitím pza určité časové období uvolněn pro spotřebu bez dopa-
-
-du na další výrobu, jako g. Nyní podnikatelé, podníceni úvěrovou expanzí,
-
-zahájí výrobu dodatečného množství g3statků stejného druhu, jako jsou stat-
-
-ky již užívané ve výrobě, a množství g4statků druhu, jenž nebyl dříve vyrá-
-
-běn vůbec. Pro výrobu g3je potřebný objem p3kapitálových statků a pro
+Pro výrobu g3je potřebný objem p3kapitálových statků a pro
 
 výrobu g4zásoba p4. Avšak vzhledem k našim předpokladům se objem
 
@@ -62,3 +49,13 @@ vysvětlují některé rysy boomu. Banky čelí zvýšené poptávce po úvěrec
 Banky věří tomu, že učinily vše proto, aby zastavily „nezdravé“ spekulace, když půjčují za méně příznivých pod-mínek. Myslí si, že ti, kdo je kritizují za rozdmýchávání plamenů šílenstvíboomu na trhu, se mýlí. Nejsou schopny pochopit, že vrháním dalších a dal-ších fiduciárních prostředků na trh ve skutečnosti boom podněcují. Je toprávě pokračující zvyšování nabídky fiduciárních prostředků, které vytváří,živí a urychluje boom.
 
 Stav hrubých tržních úrokových měr je pouze výsled-kem tohoto zvyšování. Pokud se chce člověk dozvědět, zda dochází k úvěro-vé expanzi, musí se podívat na vývoj nabídky fiduciárních prostředků, nikolina aritmetickou výši úrokových měr.
+
+Je obvyklé popisovat boom jako nadměrné investování. Dodatečné investo-
+
+vání je nicméně možné pouze do té míry, v níž existuje dostupná dodatečnázásoba kapitálových statků. Jelikož, na rozdíl od nuceného spoření, boom sámo sobě nevede k omezení, ale spíše ke zvýšení spotřeby, nezajišťuje více kapi-tálových statků pro nové investice. Podstatou boomu způsobeného úvěrovouexpanzí není nadměrné investování, ale investování ve špatných odvětvích,tj. mylné investování. Podnikatelé využívají dostupnou zásobu r + p1 + p2,
+
+jako kdyby mohli využít zásobu r + p1 + p2 + p3 + p4 . Začínají rozšiřovat své
+
+investice v rozsahu, v jakém dostupné kapitálové statky nepostačují. Jejichplány jsou z tohoto důvodu neuskutečnitelné. Dříve nebo později se musejízhroutit. Nevyhnutelný konec úvěrové expanze zviditelňuje chyby, kterýchse dopustili.
+
+Existují podniky, které nelze využívat, protože není dostatekjiných podniků, nutných k výrobě komplementárních výrobních faktorů;podniky, jejichž výrobky nelze prodat, protože spotřebitelé chtějí kupovatjiné statky, jež však nejsou vyráběny v dostatečném množství; podniky,v jejichž výstavbě nelze pokračovat ani ji dokončit, protože je zjevné, že se tonevyplatí.

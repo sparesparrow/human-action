@@ -15,8 +15,12 @@ from pathlib import Path
 from typing import Dict, List, Any, Optional
 import yaml
 
+# Add project root to Python path to enable imports
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 # Reuse the PiperVoiceLister from list_piper_voices.py
-from list_piper_voices import PiperVoiceLister
+from scripts.list_piper_voices import PiperVoiceLister
 
 # Setup logging
 logging.basicConfig(

@@ -57,3 +57,9 @@ Je to metaforické vyjádření. Většina metafor používaných v běžné ře
 myšlenkově spojuje abstraktní objekt s jiným objektem, který lze přímo ucho-pit smysly. To však není nutným znakem metaforického jazyka, nýbrž jendůsledkem faktu, že konkrétní je nám zpravidla bližší než abstraktní. Jelikožse metafory snaží o vysvětlení něčeho málo známého tím, že to přirovnajík něčemu známějšímu, povětšinou spočívají ve ztotožnění něčeho abstraktní-ho se známější konkrétní věcí.
 
 Specifickým znakem našeho případu je, že sejedná o pokus osvětlit komplikovaný stav věcí za pomoci analogie vypůjčenéz odvětví vyšší matematiky, pravděpodobnostního počtu. Jak se tak stává, jetato matematická disciplína populárnější než analýza epistemologické pod-staty rozumění.
+
+Používat měřítko logiky na kritiku metaforického jazyka nemá smysl. Ana-
+
+logie a metafory vždy kulhají a jsou logicky neuspokojivé. Je obvyklé hledatnějaké základní tertium comparationis . Ale ani to není v případě naší metafory
+
+možné.

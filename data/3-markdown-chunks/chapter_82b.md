@@ -1,9 +1,4 @@
-
-39901_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 399
-
-Když se podíváme zpět na dějiny posledních dvou století, nemůžeme
-
-nerozpoznat, že chyby spáchané liberalismem při řešení problémů bankov-nictví byly pro tržní hospodářství smrtelnou ranou. Nebyl vůbec žádnýdůvod, proč v bankovnictví opouštět principy svobodného podnikání. Větši-na liberálních politiků prostě kapitulovala před odporem lidu vůči půjčovánípeněz a přijímání úroku. Nebyli schopni pochopit, že úroková míra je tržníjev, kterým nemůže být ad libitum manipulováno úřady nebo jinými instituce-
+Větši-na liberálních politiků prostě kapitulovala před odporem lidu vůči půjčovánípeněz a přijímání úroku. Nebyli schopni pochopit, že úroková míra je tržníjev, kterým nemůže být ad libitum manipulováno úřady nebo jinými instituce-
 
 mi. Uvěřili, že snížení úrokové míry je prospěšné a že úroková expanze jesprávným prostředkem k dosažení levných peněz. Nic nepoškodilo věc libe-ralismu více než téměř pravidelný návrat fází horečnatého boomu a drama-tických kolapsů býčích trhů, následovaných dlouhodobými hospodářskýmidepresemi. Veřejné mínění začalo být přesvědčeno, že tyto události jsouv podmínkách nenarušovaného tržního hospodářství nevyhnutelné.
 
@@ -42,3 +37,7 @@ Pokud ovšem přetrvávají pochybnosti o jejich prvotřídní kva-litě, lidé 
 Tuto otázku můžeme lépe objasnit prozkoumáním podmínek bankovnictví
 
 v kontinentální Evropě. Tam byly obchodní banky zbaveny všech omezenítýkajících se objemu šekovatelných vkladů. Proto byly schopny poskytovatoběžný úvěr a provádět úvěrovou expanzi stejnými metodami jako bankyv anglosaských zemích. Veřejnost však nebyla připravena považovat takovébankovní vklady za peněžní substituty. Pokud člověk obdržel šek, zpravidlasi ho ihned nechal vyplatit, a tedy vybral peníze z banky.
+
+Pro obchodní bankytak bylo téměř nemožné půjčovat – kromě zanedbatelných částek – připsá-ním prostředků na účet dlužníka. Jakmile dlužník vystavil šek, pro banku topředstavovalo výběr z příslušného účtu. Pouze velké podniky považovalyvklady za peněžní substituty. Ačkoli se centrální banky ve většině těchto zemínemusely podřizovat žádným právním omezením ohledně přijímání vkladů,nemohly je použít jako prostředek úvěrové expanze velkého rozsahu, protožepočet klientely pro vklady byl příliš malý.
+
+Bankovky byly prakticky jedinýmnástrojem oběžného úvěru a úvěrové expanze.

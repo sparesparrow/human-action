@@ -1,9 +1,4 @@
-
-76210Pokusy zodpovědět tuto otázku v naší době inflace a úvěrové expanze pomocí sta-
-
-tistik jsou marné.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 762
-
-4. Nejistota
+Nejistota
 
 Vágní myšlenka jistoty stojí za úvahami zastánců konceptu blahobytu,
 
@@ -48,3 +43,7 @@ Institucionální nezaměstnanost byla nevyhnutelným výsledkem politikystanovo
 V jednom ohledu se ale současní obhájci principu blahobytu liší od větši-
 
 ny starších socialistických škol a reformních učení. Nehovoří již o konceptusociální spravedlnosti, podle jejíchž arbitrárních pouček by lidé měli jednat,i kdyby důsledky tohoto jednání měly být katastrofické. Souhlasí s utilitárníargumentací. Nestaví se proti principu, že jediným měřítkem hodnocení spo-lečenského systému je hodnocení jeho schopnosti uskutečnit cíle, o něž jed-nající lidé usilují.
+
+Jakmile se ale pustí do zkoumání fungování tržního hospodářství, zapome-
+
+nou na svá zdravá východiska. Přicházejí s několika metafyzickými principya předem tržní ekonomiku zavrhují, protože je s těmito principy v rozporu.Zadními vrátky vnášejí do analýzy myšlenku absolutního standardu morálky,kterou zprvu nevpustili hlavním vchodem. Když se snaží bojovat proti chu-době, nerovnosti a nejistotě, postupně přijímají veškeré omyly starších socia-listických a intervencionistických škol. Stále více a více zabředávají do roz-porů a absurdit.

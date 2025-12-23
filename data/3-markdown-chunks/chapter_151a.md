@@ -51,3 +51,5 @@ Existovali a existují zastánci regulace cen, kteří tvrdí, že chtějí zach
 tržní hospodářství. Otevřeně se vyslovují v tom smyslu, že vlády stanovujícíceny, mzdy a úrokové míry mohou pomocí vyhlášek dosáhnout svých cílů,aniž by zcela odstranily trh a soukromé vlastnictví výrobních prostředků.Dokonce tvrdí, že regulace cen je nejlepším či jediným způsobem k zachová-ní systému soukromého podnikání a zabránění nastolení socialismu.
 
 Velmi jepobuřuje, když někdo pochybuje o správnosti jejich doktríny a ukazuje, ženemají-li se věci z pohledu vlády a intervencionistických doktrinářů zhoršit,musí regulace cen vyústit v socialismus. Na svou obranu tvrdí, že nejsou anisocialisty, ani komunisty a že jejich cílem je ekonomická svoboda, a nikolitotalitarismus.
+
+Je nutné se zabývat právě argumenty těchto intervencionistů.

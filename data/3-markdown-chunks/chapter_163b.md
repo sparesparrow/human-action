@@ -1,11 +1,4 @@
-
-Ani italští fašisté, ani vlády Rakouska a Portugalska se však nikdy vážně
-
-nepokusili nastolit korporativistickou utopii. Italové označili rozličné institu-ce nálepkou korporativistická a změnili profesorské stolce politické ekonomie
-
-na economia politica e corporativa . Nikdy ale nepřišel okamžik, kdy by byl uve-
-
-den do praxe tak často zmiňovaný základní prvek korporativismu – samo-správa různých odvětví obchodu a průmyslu. Fašistická vláda lpěla prvotněna stejných principech hospodářské politiky, které přijaly všechny dnešnívlády s výjimkou čistě socialistických vlád – intervencionismu. Pozdějipostupně fašistická vláda přešla k německému systému socialismu, tj. úplnékontrole hospodářských činností státem.
+Pozdějipostupně fašistická vláda přešla k německému systému socialismu, tj. úplnékontrole hospodářských činností státem.
 
 Základní myšlenkou jak cechovního socialismu, tak korporativismu je to,
 

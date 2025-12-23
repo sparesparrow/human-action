@@ -1,7 +1,4 @@
-
-Materialistická metafyzika marxistů tyto věci zcela převrací. „Výrobní síly“
-
-nejsou hmotné. Produkce je duchovní, intelektuální a ideologický jev. Je tometoda, kterou člověk vedený rozumem používá pro co nejlepší odstraněnínespokojenosti. To, co naše podmínky odlišuje od podmínek našich předků,kteří žili před tisíci či dvaceti tisíci lety, není nic hmotného, ale něco duchov-ního. Hmotné změny jsou důsledkem změn duchovních.
+To, co naše podmínky odlišuje od podmínek našich předků,kteří žili před tisíci či dvaceti tisíci lety, není nic hmotného, ale něco duchov-ního. Hmotné změny jsou důsledkem změn duchovních.
 
 Produkce je změna daného podle plánu rozumu. Tyto plány – předpisy,
 
@@ -64,3 +61,7 @@ společnosti je „vědomí druhu“.
 1Jiní zastávají názor, že by žádný společenský
 
 systém neexistoval, kdyby nebylo „smyslu pro pospolitost nebo pro sounále-žitost“.
+
+2Lze souhlasit za předpokladu, že tyto poněkud vágní a nejednoznač-
+
+né termíny jsou správně interpretovány.

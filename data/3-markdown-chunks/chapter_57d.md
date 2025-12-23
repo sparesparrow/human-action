@@ -1,4 +1,3 @@
-
 Hlavním zájmem mnoha autorů devatenáctého a dvacátého století bylo
 
 zkreslit a překroutit tento očividný stav věcí. Říkali, že dělníci jsou vydáni namilost zaměstnavatelům. Je sice pravda, že zaměstnavatel má právo propustitsvého zaměstnance. Pokud však toto právo využije jen pro svůj rozmar,poškodí své vlastní zájmy. Znevýhodní sám sebe, když se zbaví lepšího člo-věka, aby přijal někoho méně výkonného. Trh nikomu přímo nebrání, abynezpůsoboval o své vůli škodu svým spoluobčanům; pouze takové chovánítrestá.
@@ -42,3 +41,7 @@ A navíc znamená bohatství provšechny.
 Tato učení dokázala triumfovat, protože se nesetkala s účinnou racionální
 
 kritikou. Někteří ekonomové odvedli výtečnou práci při demaskování jejichomylů a rozporů. Veřejnost však ekonomické teorie ignoruje. Argumenty,které proti socialismu předkládají průměrní politici a autoři, jsou buď hloupé,nebo irelevantní. Nemá cenu trvat na údajném „přirozeném“ právu jednotliv-ců vlastnit majetek, jestliže jiní lidé tvrdí, že nejdůležitějším „přirozeným“právem je rovnost příjmu. Takové spory nemohou být nikdy rozhodnuty.
+
+Jezbytečné kritizovat nepodstatné, doprovodné rysy socialistického programu.Socialismus se nedá vyvrátit tím, že budeme útočit na postoj socialistů
+
+26101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 261

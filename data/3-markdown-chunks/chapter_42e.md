@@ -1,24 +1,3 @@
-
-Bezprostředním cílem jednání je často získání počitatelné a měřitelné záso-
-
-by hmotných věcí. Pak si jednající člověk musí vybrat mezi počitatelnýmimnožstvími; dává například přednost 15 rpřed 7 p; pokud by si však měl
-
-vybrat mezi 15 ra8 p, mohl by dát přednost 8 p. Tento stav věcí můžeme
-
-vyjádřit tvrzením, že si 15 rcení méně než 8 p, ale více než 7 p. To je rovno-
-
-18101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 181
-
-cenné s tvrzením, že dává přednost apřed babpřed c. Dosadíme-li 8 pza a,
-
-15 rza ba7 pza c, nezmění se ani smysl tvrzení, ani skutečnost, kterou popi-
-
-suje. Neumožňuje to však počítat s kardinálními čísly. Neotvírá to pole eko-nomické kalkulaci a mentálním operacím na takové kalkulaci založeným.
-
-2. Barterový konstrukt základní teorie hodnoty a cen
-
-Rozvinutí ekonomické teorie je heuristicky závislé na logických procesech
-
 počítání do takové míry, že ekonomové přehlédli základní problém ekono-mické kalkulace. Byli náchylní brát ekonomickou kalkulaci jako samozřej-most; neviděli, že to není konečná danost, ale sekundární záležitost, kterávyžaduje redukci na jednodušší jevy. Ekonomickou kalkulaci špatně pocho-pili. Považovali ji za kategorii veškerého lidského jednání a ignorovali skuteč-nost, že je to pouze kategorie tkvící v jednání za zvláštních podmínek.
 
 Byli siplně vědomi faktu, že meziosobní směna, a v důsledku toho také tržní směnaovlivněná zprostředkováním všeobecným prostředkem směny – penězi,a tedy cenami, je zvláštní vlastností určitého stavu hospodářské organizacespolečnosti, který neexistoval v primitivních civilizacích a pravděpodobněmůže zaniknout v dalším průběhu historických změn.
@@ -60,3 +39,11 @@ Vážným omylem, který měl svůj původ a vytrvalost v chybné interpretaci
 tohoto fiktivního konstruktu, byl předpoklad, že prostředek směny je pouzeneutrálním faktorem. Podle tohoto názoru bylo jediným rozdílem mezi pří-mou a nepřímou směnou to, že pouze v nepřímé směně byl použit prostředeksměny. Tvrdilo se, že vnesení peněz do transakce neovlivnilo hlavní rysyobchodu. Nebyla sice ignorována skutečnost, že se v běhu historie objevilyobrovské proměny v kupní síle peněz a že tyto výkyvy často prudce otřáslycelým systémem směny.
 
 Věřilo se však, že takové události byly výjimečnýmiskutečnostmi, jež způsobila nevhodná politika. Jenom „špatné“ peníze, říka-lo se, mohou způsobit takové zmatky. Lidé navíc chybně vysvětlovali příčinya důsledky těchto poruch. Mlčky předpokládali, že se změna kupní síly obje-vuje ve vztahu k veškerému zboží a službám ve stejnou chvíli a ve stejném roz-sahu.
+
+To je samozřejmě názor, k němuž bajka o neutralitě peněz nutně vede.Celá teorie katalaxie, domnívali se, může být rozpracována za předpokladu,že existuje pouze přímá směna. Jakmile bude vytvořena, potom jediná věc,kterou bude třeba udělat, je „jednoduše“ dosadit do systému zásad týkajícíchse přímé směny peněžní termíny. Toto závěrečné zkompletování katalaktic-kého systému však nebylo považováno za příliš důležité.
+
+Nepředpokládalo se,že by mohlo ve struktuře ekonomického učení cokoli podstatného změnit.V tehdejších představách bylo hlavním úkolem ekonomie studium přímésměny. To, co vedle toho zbývalo udělat, bylo v nejlepším případě pouzevyšetřit problémy se „špatnými“ penězi.
+
+Ve shodě s tímto názorem ekonomové chybně nekladli správný důraz na
+
+problémy nepřímé směny. Jejich pojetí monetárních problémů bylo povrchní;mělo pouze volnou vazbu na hlavní část jejich zkoumání tržního procesu.Zhruba na počátku dvacátého století byly problémy nepřímé směny celkemvzato vykázány na podřadné místo.

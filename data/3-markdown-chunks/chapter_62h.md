@@ -1,32 +1,3 @@
-
-Od raných počátků lidských dějin spolu bojovaly tyto dva protikladné
-
-principy tržního hospodářství a Volkswirtschaft . Vláda, tj. společenský aparát
-
-nátlaku a donucení, je nutnou podmínkou mírové spolupráce. Tržní hospo-dářství se neobejde bez policejní síly, která chrání jeho hladký chod hrozbounásilí nebo jeho použitím proti těm, kteří porušují mír. Avšak nepostradatel-
-
-29501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 295
-
-ní správci a jejich ozbrojení nohsledi jsou vždy v pokušení použít své zbraně
-
-k ustavení vlastní totalitní vlády. Pro ambiciózní krále a generalissimy jevýzvou již pouhá existence nějaké oblasti života jednotlivců, která není pod-řízena státní kontrole. Vládci, místodržící a generálové nikdy nejsou liberálnísami od sebe. Stávají se liberálními pouze tehdy, když jsou k tomu donuceniobčany.
-
-Problémy, které byly vyvolány plány socialistů a intervencionistů, se bude-
-
-me zabývat v dalších částech této knihy. Zde musíme pouze odpovědět naotázku, zda kterákoli z podstatných vlastností Volkswirtschaft je či není sluči-
-
-telná s tržním hospodářstvím. Zastánci myšlenky Volkswirtschaft totiž nepo-
-
-važují svůj plán pouze za model pro ustavení budoucího společenskéhopořádku. Vidí problém tak, že to, co odlišuje jeden Volkswirtschaft od všech
-
-ostatních, nejsou, jak by se nás snažili přesvědčit ekonomové, pouze politic-ké instituce. Rozlišování mezi domácím obchodem a zahraničním obchodemnevytvářejí obchodní a migrační bariéry zavedené vládními zásahy do podni-kání, ani legislativní rozdíly a rozdíly v ochraně, kterou jednotlivcům posky-tují soudy a tribunály.
-
-Tato odlišnost, říkají, je naopak nutným výsledkemskutečné podstaty věcí, neřešitelného faktoru; ideologie ji nemůže odstranita plodí své důsledky, ať už si jí jsou správci a soudci ochotni všimnout nebone. Tak se jim Volkswirtschaft zdá být přirozenou skutečností, zatímco celo-
-
-světové ekumenické společenství lidí, světové hospodářství (Weltwirtschaft) ,
-
-je pouze neskutečným přeludem falešných teorií, je to plán, který má zničitcivilizaci.
-
 Je pravda, že jednotlivci při svém jednání, ve své funkci výrobců a spotře-
 
 bitelů, jako prodávající a kupující, nedělají žádný rozdíl mezi domácíma zahraničním trhem. Rozlišují místní obchod od obchodování se vzdáleněj-šími místy, pokud hrají roli přepravní náklady. Pokud zásahy vlády, jako jsoucla, činí mezinárodní obchody dražšími, vezmou tuto skutečnost v úvahu,stejně jako zohlední přepravní náklady. Clo na kaviár nemá žádný jiný úči-nek, než jaké by mělo zvýšení přepravních nákladů.
@@ -52,3 +23,31 @@ Ale i když nějaká vláda uspěje v tom, že učiní bariéry oddělující je
 trh od zahraničních trhů nepřekonatelnými a zavede tak dokonalou národnísoběstačnost, nevytvoří Volkswirtschaft . Tržní hospodářství, které je dokonale
 
 soběstačné, zůstane přesto tržním hospodářstvím; vytvoří uzavřený a izo-lovaný katalaktický systém. Skutečnost, že jeho obyvatelé přicházejí o vý-hody, které by jim přinesla mezinárodní dělba práce, je jednoduše datemjejich hospodářských podmínek. Teprve když se taková izolovaná země staneotevřeně socialistickou, přemění tržní hospodářství na Volkswirtschaft .
+
+Lidé jsou fascinováni neomerkantilistickou propagandou a používají fráze,
+
+které jsou v rozporu s principy, podle nichž řídí svá jednání, i se všemi cha-rakteristickými rysy společenského řádu, v němž žijí. Již dávno začali Britovénazývat továrny a statky, které se nacházejí ve Velké Británii, a dokonce i ty,které se nacházejí v državách, v Indii a v koloniích, „naše“. Pokud ale člověkzrovna nechtěl ukazovat své vlastenecké nadšení a udělat dojem na jiné lidi,nechtěl platit za výrobky z „našich“ továren vyšší cenu než za výrobkyz „cizích“ továren.
+
+Dokonce i kdyby se takto choval, označení továren, kterése nacházejí uvnitř politických hranic jeho národa, za „naše“ by nebylo nále-žité. V jakém smyslu mohl Londýňan – před zestátněním – nazývat uhelnédoly v Anglii, které nevlastnil, „našimi“ doly a doly v Porúří „cizími“ doly? Aťkoupil „britské“ nebo „německé“ uhlí, vždy musel zaplatit plnou tržní cenu.Tím, kdo kupuje šampaňské z „Francie“, není „Amerika“. Je to vždy konkrét-ní Američan, který ho kupuje od konkrétního Francouze.
+
+Dokud je ještě ponechán nějaký prostor pro jednání jednotlivců, dokud
+
+existuje soukromé vlastnictví a směna zboží a služeb mezi jednotlivci, neexi-stuje žádný Volkswirtschaft . Teprve když jsou volby jednotlivců nahrazeny
+
+úplnou vládní kontrolou, objeví se Volkswirtschaft jako něco skutečného.
+
+29701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 297
+
+01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 298
+
+XVI. CENY
+
+1. Proces tvorby cen
+
+Při příležitostném uskutečnění barteru, v němž člověk, který se obvykle
+
+neuchyluje k obchodování s jinými lidmi, smění zboží, jež se obvykle nepro-dává, je směnný poměr stanoven pouze v širokém rozpětí. Katalaxie, teoriesměnných poměrů a cen, nemůže určit, v jakém bodě v rámci tohoto rozpětíse konkrétní poměr ustálí. Jediné, co může ohledně takových směn tvrdit, je,že se mohou uskutečnit pouze tehdy, když každá strana hodnotí to, co obdr-ží, výše než to, čeho se zbaví.
+
+Opakování jednotlivých aktů směny vytváří ve společnosti založené na
+
+soukromém vlastnictví krok za krokem trh spolu s rozvojem dělby práce. Jakse postupně stává pravidlem vyrábět pro spotřebu jiných lidí, musí členovéspolečnosti prodávat a kupovat. Mnohonásobně opakovaná realizace směnya nárůst počtu lidí, kteří nabízejí nebo požadují tytéž statky, zužují rozpětímezi hodnocením stranami těchto obchodů.

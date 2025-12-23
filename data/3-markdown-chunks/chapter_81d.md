@@ -1,6 +1,3 @@
-
-Nikdy nepo-chopila, že jí doporučované nápravné opatření, tedy přísné zákonné omezeníobjemu bankovek vydaných nad rámec rezerv měnového kovu, nebylo jedi-ným možným. Nikdy se nezabývala myšlenkou svobodného bankovnictví.Druhým selháním měnové školy byla neschopnost rozpoznat, že vklady,k nimž lze vypisovat šeky, jsou peněžními substituty, případně fiduciárnímiprostředky, pokud jejich objem převyšuje rezervy držené bankou, a v důsled-ku toho stejně jako bankovky prostředkem úvěrové expanze.
-
 Pochopení toho-to rozdílu, tedy skutečnosti, že tyto vklady jsou peněžním substitutem stejnějako bankovky, bylo jedinou zásluhou bankovní školy. Kromě tohoto bodubyly však veškeré teorie bankovní školy nepodložené. Byla vedena rozporu-plnou myšlenkou neutrality peněz; snažila se zamítnout kvantitativní teoriipeněz odkazem na deus ex machina , na tak často zmiňované hromadění peněz,
 
 a špatně pochopila otázky úrokové míry.

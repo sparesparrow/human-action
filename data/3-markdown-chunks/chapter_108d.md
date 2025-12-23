@@ -1,15 +1,4 @@
-
-6. Pokud úřady poskytnou každému zaměstnanému dělníkovi, jehož
-
-výdělky zaostávají za určitou minimální úrovní, příspěvek zvyšující jeho pří-jem na toto minimum, není míra mzdových sazeb ovlivněna přímo. Nepřímoby mohlo dojít k poklesu mzdových sazeb v důsledku toho, že by tento
-
-53802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 538
-
-systém přiměl hledat práci i ty, kdo dříve nepracovali, a tím způsobit zvýšení
-
-nabídky práce.7
-
-6. Mzdy a holé přežití
+Mzdy a holé přežití
 
 Život primitivního člověka byl nekonečným bojem s nedostatkem příro-
 
@@ -44,3 +33,9 @@ Koncept fyziologického životního minima, na které se odkazuje „železný
 zákon mzdový“ a který je znovu a znovu předkládán nejrůznějšími demagogy,nemá pro katalaktickou teorii určení mzdových sazeb žádný význam. Vyššíproduktivita práce vykonávané v souladu s principy společenské dělby práceoproti snahám izolovaných jednotlivců, díky níž se práceschopné dospěléosoby nemusí obávat hladovění, jež denně hrozilo jejich předchůdcům, je jed-ním ze základů, na kterých spočívá společenská spolupráce.
 
 V kapitalistickémspolečenství nehraje životní minimum žádnou katalaktickou roli.
+
+Pojem fyziologického životního minima navíc postrádá přesnost a vědec-
+
+kou pečlivost, které mu lidé přisuzují. Primitivní člověk, přizpůsobený pod-mínkám lidské existence vhodným spíše pro zvířata, by dokázal přežíti v podmínkách nesnesitelných pro jeho elegantní potomky zhýčkané ka-pitalismem. Neexistuje nic jako fyziologicky a biologicky určené životní mi-nimum, platné pro každý exemplář živočišného druhu homo sapiens . Stejně
+
+neudržitelná je představa určitého množství kalorií potřebných k zachovánízdraví a plodnosti člověka a dalšího určitého množství nutného k nahrazeníprací vynaložené energie. Odkaz na chov dobytka a vivisekce morčat ekono-mům při jejich úsilí o porozumění otázkám účelového lidského jednání nepo-máhá.

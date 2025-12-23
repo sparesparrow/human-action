@@ -1,0 +1,20 @@
+whisper:
+  model: base  # base, small, medium, large
+  device: cpu  # cpu, cuda
+  
+output:
+  directory: ./output
+  formats:
+    - txt
+    - srt
+    - json
+    - vtt
+  
+download:
+  temp_dir: ./temp
+  audio_format: mp3
+  audio_quality: 192
+  
+cleanup:
+  remove_temp_files: true
+

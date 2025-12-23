@@ -51,3 +51,7 @@ Vypadá to, jako by monopolní ceny byly kapitolou katalaxie, pro niž se mate-m
 Ke konkurenčním cenám nemůže matematika poskytnout nic víc než
 
 matematický popis různých rovnovážných stavů a podmínek v imaginárnímkonstruktu rovnoměrně plynoucí ekonomiky. Nemůže říct nic o jednáních,která by nakonec ustavila tyto rovnováhy a tento rovnoměrně plynoucísystém, pokud by se neobjevily žádné nové změny.
+
+V teorii monopolních cen se matematika dostává o něco blíž k realitě jed-
+
+nání. Ukazuje, jak by monopolista mohl najít optimální monopolní cenu,pokud by měl k dispozici všechna potřebná data. Monopolista však tvarpoptávkové křivky nezná. To, co zná, jsou pouze body, v nichž se poptávkovéa nabídkové křivky v minulosti navzájem protínaly.

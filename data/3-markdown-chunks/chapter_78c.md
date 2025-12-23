@@ -1,8 +1,3 @@
-
-Když nakonec v důsledku zvýšení množství peněz vzrostly všechny ceny,
-
-jejich růst nebude mít na různé statky a služby stejný dopad, neboť procesrůstu cen měl různý dopad na hmotné postavení různých lidí. Jak procespokračuje, někteří lidé se těší z vyšších cen statků nebo služeb, které prodá-vají, zatímco ceny věcí, které kupují, se ještě nezvýšily, nebo se zvýšilyv menší míře.
-
 Jiní lidé jsou v nešťastném postavení, protože prodávají statkya služby, jejichž ceny se ještě nezvýšily, nebo se zvýšily v menší míře než cenystatků, které musí kupovat pro každodenní potřebu. Pro první skupinu lidí ješířící se růst cen požehnáním, pro druhou skupinu pohromou. Vedle toho
 
 37301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 373
@@ -40,3 +35,5 @@ Jejich výdaje v rámci běžné produkce jejich dolů nezpůsobí žádnoutržn
 Je však nutné povšimnout si toho, co stojí proti tomuto argumentu – v roz-
 
 víjející se ekonomice, v níž roste počet obyvatel, a dělba práce a její důsle-dek – odvětvová specializace – se prohlubují, převládá sklon ke zvyšovánípoptávky po penězích. Dodateční lidé vstupující na scénu chtějí také držeturčitý objem hotovosti. Rozsah hospodářské soběstačnosti, tj. výroba propotřeby vlastní domácnosti, se zmenšuje a lidé se stávají závislejšími na trhu;to je obecně donutí ke zvýšení objemu držené hotovosti.
+
+Proto se tendencek růstu cen vycházející z toho, co se nazývá „normální“ produkce zlata, stře-tává s tendencí k poklesu cen, vyvolanou zvýšenou poptávkou po držbě hoto-vosti. Navzájem se však plně nevyrovnají. Oba procesy proběhnou a vyústív narušení stávajících společenských podmínek, někteří lidé díky nim zbo-hatnou, jiní naopak zchudnou.

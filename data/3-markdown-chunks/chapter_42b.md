@@ -1,4 +1,3 @@
-
 Základní vlastností těchto kategorií lidského jednání je, že jsou nepo-
 
 chybné a absolutní a nepřipouštějí žádné stupňování. Je zde jednání, či zdejednání není, buď dojde ke směně, nebo k ní nedojde; vše, co se vztahujek jednání a směně jako takové, je dáno, nebo to není dáno, v každém jedno-tlivém případě podle toho, zda zde jednání a směna existují, či neexistují.Stejně ostré a jasné jsou hranice mezi autistickou směnou a meziosobní smě-nou.
@@ -44,3 +43,13 @@ V rámci smluvní společnosti směňují jednotliví členové určitá množst
 zboží a služeb určité kvality. Když si člověk vybírá své podrobení v hegemo-nickém společenstvu, nedává ani nedostává nic, co je určité. Včleňuje se dosystému, v němž musí poskytovat neurčité služby a obdrží to, co mu je ředi-tel ochoten vyhradit. Je vydán na milost ředitele. Pouze ředitel má svoboduvolby.
 
 Pro strukturu celého systému není důležité, je-li ředitelem jednotlivecnebo organizovaná skupina jednotlivců, direktoriát, ani jestli jde o šílenéhosobeckého tyrana či dobrotivého otcovského despotu.
+
+Rozdíl mezi těmito dvěma druhy spolupráce ve společnosti je společný
+
+všem společenským teoriím. Ferguson ho popsal jako rozpor mezi váleč-nickými národy a obchodnickými národy;
+
+2Saint-Simon jako rozpor mezi
+
+1772Srov. Adam Ferguson, An Essay on the History of Civil Society (nové vyd., Basilej,
+
+1789), str.

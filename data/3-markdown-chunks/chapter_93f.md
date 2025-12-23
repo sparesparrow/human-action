@@ -1,11 +1,4 @@
-
-6. Firma se uchyluje ke zjevnému uplácení nebo podléhá skrytému vydírá-
-
-ní tím, že platí za neužitečný patent úředníkům, inženýrům nebo jiným vliv-ným osobám v podnicích nebo institucích, které jsou jejími stávajícími nebopotenciálními zákazníky.
-
-Pokud je vynález ve srovnání se starými postupy tak nadřazený, že je kvůli
-
-němu staré vybavení zastaralé a je bezpodmínečně nutné ho okamžitě nahra-dit novými stroji, uskuteční se tato změna bez ohledu na to, zda je majitelempatentu vlastník starého vybavení nebo nezávislá firma. Úvahy v opačnémsmyslu jsou založeny na předpokladu, že nikoli pouze investor a jeho právní-ci, ale také všichni ostatní, kteří již v dané oblasti výroby působí nebo jsoupřipraveni do ní vstoupit, pokud k tomu budou mít příležitost, vůbec nejsouschopni rozpoznat význam nového vynálezu.
+Úvahy v opačnémsmyslu jsou založeny na předpokladu, že nikoli pouze investor a jeho právní-ci, ale také všichni ostatní, kteří již v dané oblasti výroby působí nebo jsoupřipraveni do ní vstoupit, pokud k tomu budou mít příležitost, vůbec nejsouschopni rozpoznat význam nového vynálezu.
 
 Vynálezce prodává svá právastaré firmě za pakatel, protože o ně nikdo jiný nestojí. A tato stará firma jetaktéž příliš hloupá na to, aby si všimla výhody, kterou by jí využití tohotovynálezu mohlo přinést.
 
@@ -42,3 +35,11 @@ Proti výhodám přesunu do míst nabízejících lepší fyzikálnímožnosti m
 Stupeň převoditelnosti a dostupná nabídka kapitálových statků tak ovliv-
 
 ňují veškerá rozhodnutí o výrobě a spotřebě. Čím je stupeň převoditelnostimenší, tím více je oddáleno provedení technologického zlepšení. Přesto byvšak bylo absurdní označovat tento zpožďující efekt za iracionální a bránícípokroku. Zvažovat při plánování jednání všechny očekávané výhody a nevý-hody a poměřovat je s jinými je projevem racionality. Nikoli střízlivě uvažujícípodnikatel, ale fantazírující technokrat by měl být obviňován z nepochopenískutečnosti.
+
+Technologické zlepšení nezpomaluje nedokonalá převoditelnostkapitálových statků, ale jejich vzácnost. Nejsme dost bohatí na to, abychom
+
+46001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 460
+
+se mohli vzdát služeb, které mohou být poskytnuty ještě použitelnými statky.
+
+Dostupná zásoba kapitálových statků nezadržuje pokrok; naopak, jdeo nezbytnou podmínku jakéhokoli pokroku a zlepšení. Dědictví minulosti,ztělesněné nabídkou kapitálových statků, je naším bohatstvím a nejdůle-žitějším prostředkem dalšího rozšiřování blahobytu. Je pravda, že bychom sednes měli lépe, kdyby naši předci i my sami v našich minulých jednáních lépeodhadli podmínky, v nichž musíme jednat dnes.

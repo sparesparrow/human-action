@@ -1,7 +1,4 @@
-
-Nyní však pokles úrokových měr podnikatelovu kalkulaci zkresluje. Ačko-
-
-li se objem kapitálových statků nezvýšil, kalkulace využívá dat použitelnýchpouze v případě, že by k tomuto zvýšení došlo. Výsledek takových kalkulacíje proto zavádějící. Některé projekty se díky nim zdají výnosné a uskutečni-
+Některé projekty se díky nim zdají výnosné a uskutečni-
 
 49501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 495
 
@@ -44,3 +41,9 @@ mu boomu nemohlo dojít a že zvýšení nabídky peněz (v širším smyslu) je
 Avšak i v tomto omezeném smyslu je učení nepeněžních teorií prázdné. Je
 
 zjevné, že každá úvěrová expanze musí vést k výše popsanému boomu. Tatovlastnost úvěrové expanze nemusí dojít naplnění pouze tehdy, dojde-li k její-mu současnému vyrovnání jinou událostí. Pokud například banky provádějíúvěrovou expanzi a očekává se, že vláda daněmi zcela odčerpá „nadměrné“zisky podnikatelů, nebo že zastaví další postup úvěrové expanze okamžitě,jakmile se „pumpování peněz do ekonomiky“ projeví v rostoucích cenách,nemusí k žádnému boomu dojít.
+
+Podnikatelé nezačnou rozšiřovat své podni-kání pomocí levných úvěrů nabízených bankami, protože nemohou očekávatzvýšení svých výnosů. Tuto skutečnost je nutné zdůraznit, protože vysvětlujeselhání „pumpujících“ opatření New Dealu i ostatní události třicátých let.
+
+Boom může trvat pouze tak dlouho, dokud úvěrová expanze pokračuje
+
+stále rychlejším tempem.

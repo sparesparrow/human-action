@@ -1,7 +1,4 @@
-
-Kdyby samozvaní moralisté nebyli zaslepeni závistí, nezabývali by se zis-
-
-kem, aniž by se současně zabývali jeho logickým důsledkem, ztrátou. Ne-přecházeli by mlčky skutečnost, že nutnými podmínkami hospodářskéhopokroku jsou činy těch, jejichž úspory vedou k akumulaci dodatečnýchkapitálových statků, a zlepšovatelů, a že využití těchto podmínek pro usku-tečnění hospodářského pokroku provádějí podnikatelé. Zbytek lidí k růstunepřispívá, ale čerpá prospěch z rohu hojnosti, z něhož na ně prší díky půso-bení jiných lidí.
+Zbytek lidí k růstunepřispívá, ale čerpá prospěch z rohu hojnosti, z něhož na ně prší díky půso-bení jiných lidí.
 
 Co bylo řečeno o rostoucím hospodářství, může být mutatis mutandis pou-
 
@@ -50,3 +47,7 @@ Morální odsouzení zisku
 Zisk je dosahován přizpůsobením využití lidských a hmotných výrobních
 
 faktorů změnám podmínek. Právě ti, kteří mají z tohoto přizpůsobování pro-spěch tím, že se perou o příslušné výrobky, nabízejí a platí za ně ceny, kterépřevyšují náklady vynaložené prodávajícím, vytvářejí zisk. Podnikatelský zisknení „odměna“ poskytovaná spotřebitelem dodavateli, který ho obsloužil lépenež loudaví rutinéři. Je to výsledek dychtivosti kupujících nabídnout více nežostatní, kteří se stejně horlivě snaží získat podíl na omezené nabídce.
+
+Podnikové dividendy se lidově nazývají ziskem. Ve skutečnosti představu-
+
+jí úrok z investovaného kapitálu plus tu část zisku, která není investovánazpět do podniku. Pokud podnik není úspěšný, buď nejsou vypláceny žádnédividendy, nebo obsahují pouze úroky z celého kapitálu nebo jeho části.

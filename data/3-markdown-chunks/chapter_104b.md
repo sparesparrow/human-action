@@ -1,4 +1,3 @@
-
 Podnikatelé jsou nicméně zpravidla prozřetelnější než tato doktrína před-
 
 pokládá. Snaží se přizpůsobit objem své výroby očekávané velikosti poptávkyspotřebitelů. Pekaři berou v úvahu to, že hospodyně potřebují koupit bochníkchleba každý den, a výrobci rakví berou v úvahu to, že celkový roční prodejrakví nemůže být vyšší než počet lidí, kteří v daném období zemřou. Průmy-sl vyrábějící stroje počítá s průměrnou „životností“ svých výrobků stejně jakokrejčí, obuvníci, výrobci automobilů, rozhlasových přijímačů, ledniček a sta-vební firmy.
@@ -44,3 +43,13 @@ po využití svého názoru na budoucí strukturu trhu pro obchodní operace sli
 Impulzem pro jeho jed-nání je to, že oceňuje výrobní faktory a budoucí ceny statků, které z nichmohou být vyrobeny, jinak než ostatní lidé. Pokud přináší současná cenovástruktura vysoké zisky těm, kdo dnes dané statky prodávají, jejich výroba serozšíří pouze tehdy, věří-li podnikatelé, že tyto výhodné tržní podmínkybudou trvat dost dlouho na to, aby se nové investice vyplatily. Pokud to pod-nikatelé neočekávají, ani velmi vysoké zisky stávajících podniků nepovedouk expanzi.
 
 Právě tato zdráhavost kapitalistů a podnikatelů investovat v těchvýrobních procesech, jež považují za neziskové, je silně kritizována lidmi,kteří nerozumějí fungování tržního hospodářství. Technokraticky založeníinženýři si stěžují, že nadvláda ziskového motivu brání hojnému zásobováníspotřebitelů statky, které by jim mohla poskytnout dnešní úroveň technolo-gických znalostí. Demagogové se bouří proti chamtivým úmyslům kapitalistůudržovat nedostatek.
+
+Uspokojivé vysvětlení hospodářských cyklů nemůže být postaveno na sku-
+
+tečnosti, že jednotlivé firmy nebo skupiny firem špatně odhadují budoucí stav
+
+52319Je pozoruhodné, že tento pojem je užíván jak k označení promýšlení a následné akce
+
+průkopníků a podnikatelů, tak i ryze akademických úvah teoretiků, které přímonevedou k žádnému jednání.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 523
+
+trhu a kvůli tomu činí mylné investice.

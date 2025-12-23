@@ -1,8 +1,3 @@
-
-Vědecká teorie vyvinutá sociální filozofií racionalismu a liberalismu osm-
-
-náctého století a moderní ekonomií se neuchyluje k žádnému zázračnémuzásahu nadlidských sil. Každý krok, v němž jednotlivec nahrazuje izolovanoučinnost koordinovanou činností, vede k okamžitému a viditelnému zlepšeníjeho podmínek. Výhody, které vyplývají z pokojné spolupráce a dělby práce,jsou univerzální. Okamžitě přinášejí užitek všem generacím, a ne pouzepotomkům. Protože to, co jednotlivec musí obětovat ve prospěch společnosti,mu větší výhody bohatě vynahradí.
-
 Jeho oběť je pouze zdánlivá a dočasná;vzdává se menšího zisku, aby později sklidil větší. Žádné rozumné bytosti senemůže stát, že by neviděla tuto zřejmou skutečnost. Když se spolupráce lidízvyšuje, protože se rozšiřuje oblast, v níž existuje dělba práce, nebo když sezesiluje právní ochrana a zajištění míru, je incentivem touha všech zaintere-sovaných, aby si každý zlepšil své vlastní podmínky.
 
 Tím, že usiluje o svévlastní – správně chápané – zájmy, přispívá jednotlivec ke zvyšování spolu-práce ve společnosti a k mírovým kontaktům. Společnost je produktem lid-ského jednání, tj. člověk se snaží, aby v co možná největší míře odstranilnespokojenost.
@@ -38,3 +33,9 @@ myslitelně patří ke každému systému s heteronomní etikou. Boží zákony 
 Myšlenkatolerance vzhledem k odlišným názorům jiných lidí mohla zapustit kořenyteprve tehdy, když liberální doktríny zlomily kouzlo univerzalismu. Ve světleutilitaristické filozofie se již společnost a stát nejeví jako instituce k udrženísvětového pořádku, které z důvodů, jež jsou lidské mysli skryté, slouží bož-stvu, i když to zjevně zraňuje sekulární zájmy mnoha nebo dokonce naprostévětšiny těch, kteří dnes žijí.
 
 Společnost a stát jsou pro všechny lidi naopakzákladními prostředky k dosažení cílů, ke kterým směřují o své vlastní vůli.
+
+1313Mnozí ekonomové, mezi nimi Adam Smith a Bastiat, věřili v Boha. Proto na skuteč-
+
+nostech, které objevili, obdivovali prozíravou péči „velkého Ředitele Přírody“. Ateis-tičtí kritikové jim tento přístup vyčítají. Tito kritici si však neuvědomují, že vysmívá-ní se odkazům na „neviditelnou ruku“ nezbavuje základní učení racionalistickéa utilitaristické sociální filozofie platnosti.
+
+Je třeba pochopit, že máme následujícíalternativu: Buď je sdružování lidský proces, protože nejlépe slouží cílům zapojenýchjedinců a samotní jedinci mají schopnost uvědomit si výhody, které získávají z při-způsobení se životu ve spolupráci lidí. Nebo nějaká vyšší bytost nakazuje zpěčujícímse lidem, aby se podřídili zákonu a společenským autoritám.

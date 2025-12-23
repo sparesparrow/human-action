@@ -1,5 +1,4 @@
-
-Ta část, kterou získávají tito parazité, se nazývá neza-sloužený příjem. Pracovníci proto správně usilují o postupné zvýšení mezd dotakové výše, kdy nakonec nezbude nic, z čeho by mohla žít třída zahálčivýcha společensky neužitečných vykořisťovatelů. Při sledování tohoto cíle odboryvyvolávají zdání, že jen pokračují v boji vedeném předchozími generacemi zaosvobození otroků a nevolníků a zrušení cel, dávek, desátků a roboty, jež bylyuvaleny na rolníky a odváděny majitelům půdy z řad šlechty.
+Pracovníci proto správně usilují o postupné zvýšení mezd dotakové výše, kdy nakonec nezbude nic, z čeho by mohla žít třída zahálčivýcha společensky neužitečných vykořisťovatelů. Při sledování tohoto cíle odboryvyvolávají zdání, že jen pokračují v boji vedeném předchozími generacemi zaosvobození otroků a nevolníků a zrušení cel, dávek, desátků a roboty, jež bylyuvaleny na rolníky a odváděny majitelům půdy z řad šlechty.
 
 Dělnické hnutíje bojem za svobodu a rovnost a usiluje o uznání nezadatelných práv člověka.Není pochyb o konečném vítězství, neboť se jedná o nevyhnutelný trendvývoje dějin spočívající v odstranění všech třídních privilegií a nastolení vlády
 
@@ -70,3 +69,7 @@ možnost expanze. Tato úvaha také vyvrací veškerá tvrzení o „technologic
 Stroje a nástroje neslouží primárně k úspoře práce, ale slouží jako prostře-
 
 dek k nárůstu výstupu na jednotku vstupu. Jako nástroje k úspoře práce senám jeví pouze z pohledu jednoho dotčeného odvětví. Z pohledu spotřebitelůa společnosti jako celku se však jeví jako prostředky ke zvýšení produktivitylidského úsilí. Zvyšují nabídku a umožňují spotřebovávat více materiálníchstatků a užívat více volného času. O tom, kterých statků budou lidé spotře-bovávat více a o kolik více si lidé budou užívat volného času, rozhodnou jejichhodnotové soudy.
+
+Využití více strojů či lepších strojů je možné pouze tehdy, je-li dostupný
+
+požadovaný kapitál.

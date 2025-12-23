@@ -1,10 +1,3 @@
-
-Pokud by se někdo cítil dotčen touto termi-nologií, protože užití slov jako svoboda a donucení může vést k narušeníobjektivního pojednání o daném problému, může si stejně dobře zvolit jinépojmy. Můžeme nahradit pojem svobodná práce písmenem Fa pojem nucená
-
-práce písmenem C. Volba pojmů neovlivní rozhodující otázku. To, na čem
-
-záleží, je: Jaký druh podnětu může přimět člověka podstoupit újmu z práce,pokud jeho vlastní uspokojení potřeb nezávisí přímo ani – do zjevné míry –nepřímo na množství a kvalitě jeho výkonu?
-
 Předpokládejme v zájmu naší diskuse, že mnoho pracovníků, možná
 
 dokonce i většina z nich, bude dobrovolně a svědomitě usilovat o nejlepšímožné naplnění úkolů svěřených jim jejich nadřízenými. (Zanedbejme sku-tečnost, že určení úkolů uložených různým jednotlivcům by v socialistickémspolečenství narazilo na neřešitelné problémy.) Jak však nakládat s těmi, kdojsou při provádění určených povinností líní a lehkomyslní? Neexistuje žádnýjiný způsob než je potrestat.

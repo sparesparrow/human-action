@@ -1,7 +1,4 @@
-
-Neblahým důsledkem této situace je to, že naivní mysl nedokáže nahléd-
-
-nout realitu věcí, kterými se ekonomie zabývá. V lidských očích je „reálné“všechno to, co člověk nemůže změnit a čemu musí přizpůsobit své jednání,chce-li dosáhnout svých cílů. Poznání reality je smutnou zkušeností. Učí nás,kde leží meze uspokojení našich přání. Člověk se jen neochotně podvolujepoznatku, že existují věci, celý komplex veškerých kauzálních vztahů mezijevy, jež jeho toužebná přání nemohou změnit. Naše smysly ovšem mluví sro-zumitelným jazykem. Nemá smysl přít se o experimenty.
+Člověk se jen neochotně podvolujepoznatku, že existují věci, celý komplex veškerých kauzálních vztahů mezijevy, jež jeho toužebná přání nemohou změnit. Naše smysly ovšem mluví sro-zumitelným jazykem. Nemá smysl přít se o experimenty.
 
 Realitu experimen-tálně ustavených faktů nelze zpochybňovat.
 
@@ -54,3 +51,7 @@ myšlenky mohou přivodit. Výhrady často vznášené proti racionalismu kla-si
 Dnes se stalo módou hanět ty myslitele, kteří kritizovali víru liberálních
 
 filozofů v obyčejného člověka. Burke a Haller, Bonald a de Maistre ale věno-vali pozornost základnímu problému, jejž liberálové opomněli. V hodnocenímas si zachovávali větší realismus než jejich protivníci.
+
+Konzervativní myslitelé samozřejmě podléhali iluzi, že by mohl být zacho-
+
+ván tradiční systém paternalistické vlády a strnulost ekonomických institucí.Obdivovali starý režim, který přinesl lidem prosperitu a dokonce i zhumani-zoval válku. Neuvědomovali si ale, že právě tyto skutečnosti přivodily zvýše-ní počtu obyvatel, a tím vytvořily nadbytek obyvatel, pro které ve starémsystému ekonomických omezení nebylo místo.

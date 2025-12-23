@@ -1,9 +1,4 @@
-
-1Konečný dopad na výši reálných mzdových
-
-6671Podnikatelské zisky a ztráty nejsou touto legislativou dotčeny, jelikož zcela závisejí
-
-na více či méně úspěšném přizpůsobení výroby měnícím se podmínkám trhu. Tyovlivňuje pracovní zákonodárství pouze jako faktor způsobující změnu.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 667
+Tyovlivňuje pracovní zákonodárství pouze jako faktor způsobující změnu.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 667
 
 sazeb nejrůznějších skupin příjemců mezd závisí na konkrétní situaci v kaž-
 
@@ -44,3 +39,7 @@ To, že životní úroveň průměrného amerického pracujícího je nesrovnate
 ně lepší než životní úroveň průměrného hindského pracovníka, že pracovnídoba je ve Spojených státech kratší a že jsou děti posílány do školy, a ne dotováren, není výdobytkem vlády a zákonů této země. Je to výsledek skuteč-nosti, že výše investovaného kapitálu na zaměstnance je mnohem vyšší nežv Indii a následně je také vyšší mezní produktivita práce. To není zásluhou„sociálních politik“, ale jedná se o výsledek laissez faire metod využívaných
 
 v minulosti, které nebránily rozvoji kapitalismu. Proto, chtějí-li Asiaté zlepšitživot svých lidí, musí přijmout politiky laissez faire .
+
+Chudoba je v Asii a jiných zaostalých zemích způsobena stejnými příčina-
+
+mi, které sužovaly životy lidí v počátcích západního kapitalismu.

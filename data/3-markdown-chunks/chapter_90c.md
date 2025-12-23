@@ -1,15 +1,4 @@
-
-Nemá smysl diskutovat o údajné produktivitě kapitálových statků. Rozdíl
-
-mezi cenou kapitálového statku, například stroje, a součtem cen komple-mentárních primárních výrobních faktorů nutných pro jeho reprodukci exis-tuje pouze kvůli časovému rozdílu. Ten, kdo použije stroj, je blíže cíli výroby.Doba výroby je v jeho případě kratší, než je tomu u konkurenta, který musízačít od začátku. Nákupem stroje kupuje původní výrobní faktory vynalože-né na jeho výrobu plus čas, tj. čas, o který je zkrácena doba výroby.
-
-Hodnota času, tj. časová preference či vyšší hodnocení uspokojení potřeb
-
-v bližších obdobích budoucnosti v porovnání se vzdálenějšími, je nezbytnýmprvkem lidského jednání. Určuje každou volbu a každé jednání. Neexistuje
-
-4437Tyto úvahy vyvrací námitky vznesené proti teorii časové preference Frankem
-
-H. Knightem v jeho článku „Capital, Time and the Interest Rate“, Economica , n. s., I,
+Knightem v jeho článku „Capital, Time and the Interest Rate“, Economica , n. s., I,
 
 str. 257—286.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 443
 
@@ -48,3 +37,17 @@ musí učinit. Na stejný statek může být pohlíženo jako na kapitálový st
 Zvýšení množství dostupných kapitálových statků je nutnou podmínkou
 
 pro zavedení procesů s delší dobou výroby, a tedy i delší dobou čekání. Pokudchce člověk dosáhnout cílů, které jsou časově vzdálenější, musí se rozhod-nout pro delší dobu výroby, protože není možné dosáhnout těchto cílů v krat-ším období výroby. Pokud chce zvolit způsoby výroby, u nichž je množstvívýstupu na jednotku vynaloženého vstupu vyšší, musí prodloužit dobu výro-by. Procesy s nižším výstupem na jednotku vstupu tak byly vybrány jen proto,že vyžadují kratší dobu výroby.
+
+Na druhou stranu však ne každé užití kapitá-lových statků naakumulovaných pomocí dodatečných úspor vyžaduje výrob-ní proces, u kterého je doba výroby ode dneška až po získání výrobku delšínež u dříve využívaných procesů. Je možné, že lidé po uspokojení svých nej-naléhavějších potřeb nyní požadují statky, které mohou být vyrobenyv poměrně krátkém období.
+
+Důvodem, proč nebyly takové statky vyráběnydříve, není to, že by byla potřebná doba výroby považována za příliš dlouhou,ale to, že existovala naléhavější užití potřebných výrobních faktorů.
+
+Pokud chce někdo tvrdit, že každý nárůst nabídky dostupných kapitálových
+
+statků vede k prodloužení doby výroby a doby čekání, argumentuje následují-cím způsobem: Pokud jsou ajiž dříve vyrobené statky a bstatky vyrobené
+
+v novém procesu, zahájeném pomocí zvýšení zásoby kapitálových statků, jezřejmé, že lidé museli na aabčekat déle než na asamotné. Aby bylo možné
+
+vyrobit aib, nebylo nutné získat jen kapitálové statky nezbytné pro výrobu a,
+
+ale také statky potřebné pro výrobu b.

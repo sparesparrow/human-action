@@ -1,20 +1,3 @@
-
-Tento pseudoliberalismus je samozřejmě naprostým opakem liberální
-
-doktríny. Liberálové si nemyslí, že většiny jsou božské a neomylné; netvrdí,že pouhá skutečnost, že nějaká politika je obhajována velkým množstvím lidí,je důkazem jejího přínosu pro obecné blaho. Nedoporučují diktaturu většinyani potlačení nesouhlasících menšin. Liberalismus směřuje k politickémuzřízení, které zajišťuje hladké fungování spolupráce ve společnosti a postup-né posilování vzájemných společenských vztahů.
-
-Jeho hlavním cílem jevyhnout se násilným konfliktům, válkám a revolucím, které určitě rozložíspolupráci lidí ve společnosti a uvrhnou lidi zpět do primitivních podmínekbarbarství, kde spolu všechny kmeny a politické orgány donekonečna bojo-valy. Protože dělba práce vyžaduje nerušený mír, směřuje liberalismusk nastolení vládního systému, u něhož je pravděpodobné, že mír udrží, tedydemokracie.
-
-Praxeologie a liberalismus
-
-Liberalismus, jak ho chápalo devatenácté století, je politická doktrína.
-
-Není to teorie, ale aplikace teorií rozvinutých praxeologií, a zejména ekono-mií na jisté problémy lidského jednání v rámci společnosti.
-
-Co se týče hodnot a konečných cílů, o něž jednání usiluje, není liberalis-
-
-mus jako politická doktrína neutrální. Předpokládá, že lidé, nebo alespoňjejich většina, jsou odhodlaní určitých cílů dosáhnout. Dává jim informaceo prostředcích, které jsou k realizaci jejich plánů vhodné. Zastánci liberálníchdoktrín jsou si plně vědomi toho, že jejich učení platí pouze pro lidi, kteří jsouoddáni těmto hodnotícím principům.
-
 Zatímco praxeologie, a tedy také ekonomie, používá termíny štěstí
 
 a odstranění nespokojenosti v čistě formálním smyslu, liberalismus jim přiřa-
@@ -54,3 +37,17 @@ skutečnosti. Devatenácté století bylo nejen stoletím nebývalého pokrokuv 
 spisovatelů, básníků, malířů a sochařů; přineslo revoluci ve filozofii, ekono-
 
 mii, matematice, fyzice, chemii a biologii. Poprvé v dějinách zpřístupnilovelká díla a velké myšlenky prostým lidem.
+
+Liberalismus a náboženství
+
+Liberalismus je založen na čistě racionální a vědecké teorii spolupráce ve
+
+společnosti. Politické postupy, které doporučuje, jsou aplikací systému zna-lostí, které nijak neodkazují na city, intuitivní víru, pro niž nelze poskytnoutlogicky uspokojivý důkaz, mystické zážitky a osobní povědomí o nadpřiroze-ných jevech. V tomto smyslu mu může být přiřazen často chybně chápanýa chybně interpretovaný přívlastek ateistický a agnostický.
+
+Bylo by však váž-nou chybou vyvozovat z toho, že vědy o lidském jednání a politika odvozenáz jejich učení, liberalismus, jsou antiteistické a nepřátelské k náboženství.Jsou v zásadním protikladu ke všem teokratickým systémům. Jsou všaknaprosto neutrální vzhledem k náboženským vírám, které si nečiní nároky nazasahování do správy společenských, politických a ekonomických věcí.
+
+Teokracie je společenský systém, který si pro svou legitimitu činí nárok na
+
+nadpozemský titul. Základním zákonem teokratického režimu je jasnozření,které není přístupné zkoumání rozumem a vysvětlení logickými metodami.Jeho konečnou normou je intuice, která poskytuje mysli subjektivní jistotuo věcech, jež nelze pochopit rozumem a myšlením. Pokud se tato intuice vážena jeden z tradičních systémů učení týkajícího se existence Božského stvoři-tele a Vládce vesmíru, nazýváme ji náboženskou vírou. Pokud se váže na jinýsystém, nazýváme ji metafyzickou vírou.
+
+Systém teokratické vlády protonemusí být založen na některém z velkých historických světových nábožen-ství.

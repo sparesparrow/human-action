@@ -1,15 +1,4 @@
-
-20Žádný obcho-
-
-40520Velmi často byla vlastnost zákonného platidla přisouzena těm bankovkám, které v té
-
-době byly stále ještě peněžními substituty a jako takové ve své směnné hodnotěrovny penězům. V tomto okamžiku nemělo takové nařízení žádný katalaktickývýznam. Nyní však význam získalo, protože trh je za peněžní substituty již nepova-žuje.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 405
-
-dující již s nimi nesmí zacházet odlišně. Vládní nařízení se snaží přinutit
-
-veřejnost, aby zacházela s věcmi odlišné směnné hodnoty tak, jako kdybyměly stejnou směnnou hodnotu. Narušuje cenovou strukturu určenou trhem.Stanovuje minimální cenu úvěrových peněz a maximální cenu komoditníchpeněz (zlata) a cizích měn. To, k čemu dojde, není tím, o co vláda usilovala.Rozdíl ve směnných hodnotách mezi úvěrovými penězi a zlatem nezmizí. Jeli-kož je zakázáno používat mince podle jejich tržní ceny, lidé je nebudou pou-žívat k nákupům a prodejům a splácení dluhů.
-
-Buď je budou držet, nebo jevyvezou. Komoditní peníze z domácího trhu mizí. Špatné peníze, jak říkáGreshamův zákon, vytlačily dobré peníze ze země. Bylo by správnější říci, žepeníze, které vládní nařízení podhodnotilo, zmizely z trhu a nadhodnocenépeníze na něm zůstaly.
+Bylo by správnější říci, žepeníze, které vládní nařízení podhodnotilo, zmizely z trhu a nadhodnocenépeníze na něm zůstaly.
 
 Odliv komoditních peněz tedy není důsledkem nepříznivé platební bilan-
 
@@ -50,3 +39,17 @@ rozšířeným omylům, musíme vědět, jak je interpretovat.
 Je zvykem uvádět odděleně peněžní a nepeněžní položky platební bilance
 
 země. Bilance bývá nazývána příznivou, pokud je dovoz peněz a měnovéhokovu vyšší než vývoz peněz a kovu. Jako nepříznivá bývá nazývána situaceopačná, kdy vývoz peněz a kovu převyšuje jejich dovoz. Tato terminologiepochází z hluboce zakořeněných merkantilistických omylů, bohužel stále pře-žívajících i přes zničující kritiku ze strany ekonomů. Vývoz a dovoz peněza kovu je považován za nezamýšlený důsledek uspořádání nepeněžních polo-žek platební bilance. Tento názor je zcela chybný.
+
+Přebytek vývozu peněza měnového kovu není výsledkem nešťastné shody okolností, která se náro-du přihodí z boží vůle. Je výsledkem skutečnosti, že obyvatelé dané zemězamýšleli omezit objem peněz ve svém držení a místo toho nakupovat statky.Z tohoto důvodu je platební bilance zemí těžících zlato zpravidla „nepřízni-vá“; z tohoto důvodu je „nepříznivá“ i platební bilance země, v níž docházík nahrazování části peněžní zásoby fiduciárními prostředky, dokud tento pro-ces pokračuje.
+
+Není nutné, aby paternalistické úřady přijímaly jakákoli opatření ze stra-
+
+chu, že země ztratí prostřednictvím své nepříznivé platební bilance veškerouzásobu peněz. Situace v tomto případě není odlišná od platební bilance jed-notlivce nebo jejich skupin. Stejně tak se neliší případy platební bilanceměsta nebo okresu a suverénního národa. Žádná vládní intervence, která byzabránila obyvatelům New Yorku utratit všechny své peníze v ostatních čty-řiceti devíti státech Unie, není zapotřebí. Pokud jakýkoli Američan pokládáza důležité držet hotovost, postará se o to sám.
+
+Svým dílem přispěje k udrže-ní přiměřené nabídky peněz ve své zemi. Pokud ovšem o držbu hotovostinestojí nikdo z Američanů, žádné vládní opatření týkající se mezinárodníhoobchodu a úhrady mezinárodních plateb nezabrání odlivu peněz z celkovéamerické peněžní zásoby. Bylo by nutné přistoupit k přísně vynucovanémuzákazu vývozu peněz a měnového kovu.
+
+40701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 407
+
+15. Směnné kurzy mezi oblastmi
+
+Předpokládejme nejprve, že existuje pouze jeden druh peněz.

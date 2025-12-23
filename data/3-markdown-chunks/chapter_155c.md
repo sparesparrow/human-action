@@ -1,13 +1,4 @@
-
-Hospodářské dějiny nám ale ukazují i případy dobře prováděných a úspěš-
-
-ných měnových politik, kdy jediným záměrem vlád bylo zajistit v jejich
-
-70002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 700
-
-zemích hladce fungující měnový systém. Liberalismus laissez faire nezrušil
-
-tradiční vládní výsadu ražby mincí. V rukou liberálních vlád byla ale zcelazměněna povaha tohoto státního monopolu. Tyto vlády zavrhly myšlenkuvyužívat jej jako nástroj intervencionistických politik. Monopol ražby nebylvyužíván kvůli fiskálním účelům či k tomu, aby zvýhodňoval některé skupinylidí na úkor jiných. Vláda se v měnové oblasti snažila o jediné: usnadnita zjednodušit využívání prostředku směny, jenž se díky způsobu, kterýms ním lidé nakládali, stal penězi.
+Vláda se v měnové oblasti snažila o jediné: usnadnita zjednodušit využívání prostředku směny, jenž se díky způsobu, kterýms ním lidé nakládali, stal penězi.
 
 Převažoval názor, že by země měly mít zdra-vé měnové systémy. A toto zdraví znamenalo, že by u standardních mincí – tj.mincí, kterým zákony přiřkly neomezenou úlohu zákonného platidla – mělabýt náležitě ověřena a potvrzena ryzost takovým způsobem, aby bylo snadnéodhalit obrušování, odírání a padělání. Vládní punc neměl žádnou jinoufunkci než ověřit váhu a ryzost obsaženého kovu.
 
@@ -50,3 +41,7 @@ Vzniká totiž tendence k nárů-stu hrubé tržní úrokové míry, jelikož z�
 K opačné situaci – zvýšení dluhu v důsledku měnových opatření – také
 
 dochází, i když jen zřídka. Nikdy ale tato situace nebyla záměrně připravo-vaná jako nástroj, který by měl pomoci věřitelům na úkor dlužníků. Kdykolik ní došlo, jednalo se o nezamýšlený důsledek změn v měnové oblasti, ježbyly z jiného pohledu považovány za neodkladné.
+
+Vláda se v takové situacismířila s dopady na odložené platby buď z toho důvodu, že považovala danáopatření za nevyhnutelná, nebo proto, že předpokládala, že věřitelé a dlužní-ci při sjednávání smluvních podmínek již tyto okolnosti předvídali a náležitěje do smluv zapracovali. Nejlepší příklad nám poskytnou události v Británii po
+
+napoleonských válkách nebo znovu po první světové válce. V obou případechse Británie po konci válek pomocí deflačních politik vrátila k předválečné zlatéparitě libry šterlinků. Byla odmítnuta myšlenka opustit zlatý standard a přejítk systému úvěrových peněz, jenž byl přijat za války, a smířit se se změnoutržního směnného poměru mezi librou a zlatem, ke které již došlo, a přijmouttento poměr jako novou zákonnou paritu.

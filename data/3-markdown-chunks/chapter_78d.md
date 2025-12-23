@@ -1,5 +1,4 @@
-
-Proto se tendencek růstu cen vycházející z toho, co se nazývá „normální“ produkce zlata, stře-tává s tendencí k poklesu cen, vyvolanou zvýšenou poptávkou po držbě hoto-vosti. Navzájem se však plně nevyrovnají. Oba procesy proběhnou a vyústív narušení stávajících společenských podmínek, někteří lidé díky nim zbo-hatnou, jiní naopak zchudnou. Oba ovlivní ceny rozličných statků v různoudobu a v různé míře.
+Oba ovlivní ceny rozličných statků v různoudobu a v různé míře.
 
 Je pravda, že růst cen některých druhů zboží způsobe-ný jedním z uvedených procesů může být nakonec neutralizován druhýmprocesem. Může se stát, že se nakonec některé nebo mnoho cen vrátí na před-chozí úroveň. Konečným důsledkem ale není stejný výsledek, jako kdyby anijeden z procesů vyvolávajících změny v peněžních vztazích neexistoval.
 
@@ -38,3 +37,23 @@ síle peněz objeví ve stejný okamžik a ve stejném rozsahu pro všechny druh
 Není sporu o tom, že ani Hume, ani Mill neuspěli při hledání kladné odpo-
 
 vědi.
+
+9Je tedy možné odpovědět na ni jednoznačně záporně?
+
+3769Srov. Mises, Theory of Money and Credit , str. 140—142.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 376
+
+Představme si dvě rovnoměrně plynoucí ekonomiky AaB. Oba systémy
+
+jsou nezávislé a není mezi nimi žádné propojení. Liší se pouze v tom, že kaž-dému množství peněz mvAodpovídá nmmnožství peněz v B, kde nje větší
+
+nebo menší než 1; předpokládejme, že neexistují žádné odložené platby a žepeníze užívané v obou systémech slouží pouze k peněžním účelům, tj. neexi-stuje žádné nepeněžní užití peněz. V důsledku toho budou ceny v obou systé-mech v poměru 1 : n. Je myslitelné, aby se podmínky v Azměnily tak, že
+
+budou rázem stejné jako podmínky v B?
+
+Odpověď na tuto otázku musí být zjevně záporná. Ten, kdo chce odpovědět
+
+kladně, musí předpokládat, že se každému jednotlivci ve stejné chvíli zjevídeus ex machina , zvýší nebo sníží objem hotovosti v jeho držení n-krát a řekne
+
+mu, že od tohoto okamžiku musí vynásobit číslem nvšechna data, která pou-
+
+žívá při oceňování a kalkulaci. To se nemůže stát jinak než zázrakem.

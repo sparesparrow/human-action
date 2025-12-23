@@ -1,13 +1,4 @@
-
-Pro člověka pracujícího za mzdu totéž platí o mzdovésazbě. Zemědělec ale okamžitě jakýkoli pokles ceny pšenice označuje zaporušení pozemských i nadpozemských zákonů a lidé pracující za mzdu připoklesu mzdových sazeb zorganizují rebelii. Tržní společnost ale nemá žádnýjiný prostředek k přizpůsobení výroby měnícím se podmínkám než fun-gování trhu.
-
-Změny cen přimějí lidi omezit výrobu věcí, které nejsou přílišnutně požadovány, a rozšířit výrobu těch věcí, po nichž je spotřebitelskápoptávka intenzivnější. Absurdita veškerých pokusů stabilizovat ceny spočí-vá právě v tom, že stabilizace by zabránila jakýmkoli dalším zdokonaleníma vyústila ve strnulost a stagnaci. Flexibilita cen věcí a mzdových sazeb jenástrojem přizpůsobení, zdokonalení a pokroku.
-
-Lidé, kteří zavrhují změnycen a mezd jako nespravedlivé a kteří volají po zachování toho, čemu oni samiříkají spravedlivé, ve skutečnosti bojují s úsilím zlepšit ekonomické podmín-ky života.
-
-Není nic nespravedlivého na tom, že po dlouhou dobu můžeme pozorovat
-
-tendenci k ustavení takových cen zemědělských produktů, jež vedly k odcho-du značné části populace ze zemědělství a jejího zapojení se do zpracovatel-ského průmyslu. Nebýt tohoto vývoje, devadesát či více procent obyvatelstvaby stále pracovalo v zemědělství a zpracovatelský průmysl by byl o svůj roz-voj připraven. Veškeré vrstvy obyvatelstva, včetně zemědělců, by na tom bylyhůře. Kdyby byla scholastická doktrína spravedlivé ceny uplatněna v praxi,
+Kdyby byla scholastická doktrína spravedlivé ceny uplatněna v praxi,
 
 65102_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 651
 
@@ -34,3 +25,31 @@ To, jaké svobodě se jedinci těší v rámci společenské spolupráce, je pod
 něno souladem soukromých zisků a veřejného prospěchu. V prostoru, v němžjedinec při usilování o svůj blahobyt přispívá také k blahobytu ostatních lidí– či ho přinejmenším nepoškozuje –, lidé jdoucí svou cestou neohrožují anizachování společnosti ani zájmy jiných lidí. Vzniká panství svobody a indivi-duální iniciativy, prostor v jehož rámci člověk může volit a jednat dle svévlastní úvahy.
 
 Tato sféra svobody, již socialisté a intervencionisté pohrdavěoznačují za „ekonomickou svobodu“, je tím, co umožňuje veškeré tyto pod-mínky, jež jsou obecně nazývány svobodou v rámci systému společenské koo-perace založené na dělbě práce. To je tržní ekonomika či kapitalismus sesvým politickým odrazem (marxisté by museli říci: se svou „nadstavbou“),zastupitelskou vládou.
+
+65202_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 652
+
+Namítá-li někdo, že existuje konflikt mezi snahou o dosažení zisku růz-
+
+ných jedinců či mezi touto snahou jedinců na straně jedné a blahobytem nastraně druhé, nemůže se vyhnout volání po odstranění práva jednotlivců volita jednat. Musí nahradit úsudek občanů nadřazeností centrální komise pláno-vání výroby. Dobrá společnost z jejich pohledu nenabízí prostor svobodnéiniciativě. Vláda jednoduše jen vydává příkazy a všichni jsou přinuceni jeposlouchat.
+
+5. Význam laissez faire
+
+Ve Francii osmnáctého století představovala fráze laissez faire, laissez passer
+
+poučku, do které někteří bojovníci za svobodu shrnovali svůj program. Jejichcílem bylo vytvoření neomezované tržní společnosti. K dosažení tohoto cíleobhajovali zrušení veškerých zákonů bránících tvořivějším a schopnějšímlidem předčit méně tvořivé a méně schopné konkurenty a zákonů omezu-jících pohyb zboží a lidí. Právě tuto myšlenku měla tato známá fráze vy-jadřovat. V naší době prahnoucí po všemocnosti vlády je myšlenka laissez
+
+faire znevažována. Veřejné mínění ji v současnosti považuje za projev morál-
+
+ní zvrhlosti a maximální nevzdělanosti.
+
+Intervencionista vidí pouze dvě možnosti – „automatické síly“ nebo
+
+„záměrné plánování“.
+
+3Z toho vyvozuje, že spoléhání na automatické síly je
+
+zjevná hloupost. Žádný rozumný člověk přece nemůže vážně navrhovat nic-nedělání a ponechání věcí, aby se vyvíjely bez vlivu účelového jednání. Plánjako projev vědomého jednání je pak samozřejmě mnohem více žádoucí nežabsence jakéhokoli plánování. Laissez faire pak tedy v očích intervencionisty
+
+znamená: Ponechte zlo existovat, nepokoušejte se využít rozum k zlepšeníživota lidí.
+
+Těžko bychom objevili větší omyl.

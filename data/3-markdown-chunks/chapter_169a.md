@@ -45,3 +45,7 @@ Není žádných pochyb o tom, že v takto vlivné třídě lidí se budou nach�
 velmi nadaní jedinci, možná i nejvýznačnější lidé naší doby. Filozofie, ježdává podobu jejich činnostem, ale zužuje jejich horizont uvažování. Kvůlivazbě na konkrétní politické strany a zájmové skupiny, jež se snaží získatvýhody, se stávají jednostrannými. Zavírají oči před vzdálenějšími důsledkyjimi navrhovaných politik. Zásadní význam pro ně má pouze krátkodobýzájem skupiny, jíž slouží. Konečným cílem jejich počínání je zařídit svýmklientům výhody na úkor ostatních lidí.
 
 Přesvědčují sami sebe, že osud lid-stva je stejný jako krátkodobý prospěch jejich skupiny. Tuto myšlenku sepokoušejí prodat veřejnosti. Když usilují o vyšší cenu stříbra, obilí nebocukru, vyšší mzdy pro členy svých odborů nebo clo na levnější zahraničnívýrobky, tvrdí, že bojují za vyšší dobro, svobodu a spravedlnost, rozkvět zeměa civilizace.
+
+Veřejnost se na lobbyisty dívá podezíravě a viní je z bezútěšných dopadů
+
+intervencionistické legislativy. Kořen zla však spočívá hlouběji. Filozofienejrůznějších zájmových skupin pronikla do legislativních sborů.

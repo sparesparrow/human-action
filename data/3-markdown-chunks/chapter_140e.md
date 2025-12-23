@@ -1,14 +1,3 @@
-
-Nezabýváme se problé-mem, jestli ředitel bude nebo nebude schopen předvídat budoucí podmínky.Myslíme na to, že ředitel nemůže kalkulovat z pohledu svých současnýchhodnotových soudů a svého současného očekávání budoucích podmínek, ať
-
-62602_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 626
-
-už jsou jakékoli. Když dnes investuje do konzerváren, může se stát, že změna
-
-chutí spotřebitelů nebo hygienických zásad týkajících se zdravotní vhodnostikonzervovaných potravin jednoho dne z jeho investice udělá špatnou investi-ci. Ale jak může dnes zjistit, jak postavit a zařídit konzervárnu nejhospo-
-
-dárněji?
-
 Některé železniční tratě postavené na přelomu století by se nestavěly,
 
 kdyby tehdy lidé předvídali blížící se pokrok automobilismu a letectví. Ale ti,kdo tehdy stavěli železnice, věděli, které z různých možných alternativ prorealizaci svých plánů si měli vybrat z pohledu svého hodnocení a předvídánía tržních cen jejich doby, v nichž se odráželo hodnocení spotřebitelů. Právětento hluboký pohled bude řediteli chybět. Bude jako námořník na širémmoři, který nezná navigační metody, nebo jako středověký učenec, kterémuje svěřeno řízení lokomotivy.
@@ -52,3 +41,11 @@ co nazývají ekonomickou rovnováhou a statickým stavem. Hledání oporyv imag
 1– nepostradatelným myšlenkovým nástrojem ekonomického uva-
 
 žování. Je však závažnou chybou považovat tento pomocný nástroj za cokolijiného než imaginární konstrukt a přehlížet skutečnost, že nejen nemá svůjprotějšek ve skutečnosti, ale dokonce nemůže být ani důsledně domyšlen aždo konečných logických důsledků. Matematický ekonom, zaslepen předsud-kem, že ekonomie musí být vystavena podle vzoru newtonovské mechanikya může být zkoumána matematickými metodami, zcela chybně interpretujepředmět svých zkoumání.
+
+Už se nezabývá jednáním lidí, ale bezduchýmmechanismem, který je tajemně uváděn do chodu silami, jež nejsou přístup-né další analýze. V imaginárním konstruktu rovnoměrně plynoucí ekonomi-ky samozřejmě není místo pro podnikatelskou činnost. Matematický ekonomproto ze svých úvah podnikatele vyloučil. Nepotřebuje tohoto iniciátora pohy-bů a otřesů, jehož nikdy neustávající zásahy brání imaginárnímu systému,aby dosáhl stavu dokonalé rovnováhy a statických podmínek. Nenávidí hojako rušivý prvek.
+
+Ceny výrobních faktorů jsou z pohledu matematickéhoekonoma určovány průsečíkem dvou křivek, nikoli lidským jednáním.
+
+Navíc když si matematický ekonom kreslí své nákladové a cenové křivky,
+
+nevidí, že omezení nákladů a cen na homogenní veličiny předpokládá použitíspolečného média směny. Tak vytváří iluzi, že je možné uchýlit se ke kalku-laci nákladů a cen dokonce i bez společného jmenovatele směnných poměrůvýrobních faktorů.

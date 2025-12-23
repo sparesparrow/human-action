@@ -1,17 +1,4 @@
-
-Liberalismus a náboženství
-
-Liberalismus je založen na čistě racionální a vědecké teorii spolupráce ve
-
-společnosti. Politické postupy, které doporučuje, jsou aplikací systému zna-lostí, které nijak neodkazují na city, intuitivní víru, pro niž nelze poskytnoutlogicky uspokojivý důkaz, mystické zážitky a osobní povědomí o nadpřiroze-ných jevech. V tomto smyslu mu může být přiřazen často chybně chápanýa chybně interpretovaný přívlastek ateistický a agnostický.
-
-Bylo by však váž-nou chybou vyvozovat z toho, že vědy o lidském jednání a politika odvozenáz jejich učení, liberalismus, jsou antiteistické a nepřátelské k náboženství.Jsou v zásadním protikladu ke všem teokratickým systémům. Jsou všaknaprosto neutrální vzhledem k náboženským vírám, které si nečiní nároky nazasahování do správy společenských, politických a ekonomických věcí.
-
-Teokracie je společenský systém, který si pro svou legitimitu činí nárok na
-
-nadpozemský titul. Základním zákonem teokratického režimu je jasnozření,které není přístupné zkoumání rozumem a vysvětlení logickými metodami.Jeho konečnou normou je intuice, která poskytuje mysli subjektivní jistotuo věcech, jež nelze pochopit rozumem a myšlením. Pokud se tato intuice vážena jeden z tradičních systémů učení týkajícího se existence Božského stvoři-tele a Vládce vesmíru, nazýváme ji náboženskou vírou. Pokud se váže na jinýsystém, nazýváme ji metafyzickou vírou.
-
-Systém teokratické vlády protonemusí být založen na některém z velkých historických světových nábožen-ství. Může to být výsledek metafyzických dogmat, která odmítají všechnatradiční náboženství a vyznání a která jsou hrdá na svůj zdůrazňovaný nená-boženský a nemetafyzický charakter. V naší době se nejmocnější teokratickéstrany staví proti křesťanství a proti všem ostatním náboženstvím, kterávznikla ze židovského monoteismu.
+Může to být výsledek metafyzických dogmat, která odmítají všechnatradiční náboženství a vyznání a která jsou hrdá na svůj zdůrazňovaný nená-boženský a nemetafyzický charakter. V naší době se nejmocnější teokratickéstrany staví proti křesťanství a proti všem ostatním náboženstvím, kterávznikla ze židovského monoteismu.
 
 Jako teokratické je charakterizuje jejichtouha po uspořádání pozemských záležitostí lidstva podle obsahu souborumyšlenek, jejichž platnost nemůže být prokázána logickým myšlením. Tváříse, že jejich vůdci jsou obdařeni znalostmi, které jsou pro zbytek lidstva nedo-stupné a které jsou v rozporu s názory zastávanými těmi, jimž je toto chariz-ma odepřeno. Charizmatickým vůdcům byla svěřena mystická vyšší mocs povinností řídit záležitosti chybujícího lidstva.
 

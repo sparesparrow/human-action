@@ -137,4 +137,3 @@ Oncken, August, 595p
 Oppenheimer, Franz, 68
 
 Organizace spojených národů, 334, 614, 616,
-

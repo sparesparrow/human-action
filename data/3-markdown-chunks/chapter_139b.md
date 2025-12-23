@@ -1,4 +1,3 @@
-
 Je tak naivní, že nevidí, že tento hypotetický vládce státu je pouhým zhmot-něním jeho vlastních subjektivních hodnotových soudů, a lehkovážně simyslí, že objevil bezesporné kritérium dobra a zla. Autorovo vlastní ego, mas-
 
 kováno za dobrotivého otcovského autokrata, je chováno v úctě jako hlasabsolutního mravního zákona.

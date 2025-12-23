@@ -1,7 +1,4 @@
-
-Je zjevné, že si tito ekonomové protiřečí, když se staví proti záměru nepro-
-
-vádět úvěrovou expanzi, a tím odstranit hospodářské fluktuace. Zastáncinaivních inflačních teorií v souladu se svou – samozřejmě naprosto mylnoua rozpornou – teorií považují úvěrovou expanzi za ekonomický všelék. Lidé,kteří nepopírají, že úvěrová expanze způsobí boom, jenž je nevyhnutelnoupodmínkou vzniku deprese, se ale v rozporu se svou vlastní teorií staví protinávrhům úvěrovou expanzi zastavit.
+Lidé,kteří nepopírají, že úvěrová expanze způsobí boom, jenž je nevyhnutelnoupodmínkou vzniku deprese, se ale v rozporu se svou vlastní teorií staví protinávrhům úvěrovou expanzi zastavit.
 
 Jak mluvčí vlády a mocných zájmovýchskupin, tak i zastánci dogmatického „neortodoxního“ přístupu, který ovládl
 

@@ -1,4 +1,3 @@
-
 Továrny mohly vzkvétat přes všechny obtíže ze dvou důvodů. Prvním bylo
 
 učení nové společenské filozofie formulované ekonomy. Ekonomové zničilislávu merkantilismu, paternalismu a restrikcionismu. Vyvrátili pověru, žezařízení a postupy šetřící práci způsobují nezaměstnanost a vrhají všechnylidi do chudoby a zkázy. Laissez faire ekonomové byli pionýry nevídaných
@@ -46,3 +45,7 @@ Mimořádnou skutečností týkající se průmyslové revoluce je to, že zahá
 věk masové výroby pro potřeby mas. Příjemci mezd již nedřou pro blahojiných. Oni sami jsou hlavními spotřebiteli továrních výrobků. Velké podnikyjsou závislé na masové spotřebě. V současné Americe neexistuje jediné odvět-ví velkého podnikání, jež by nesloužilo potřebám nejširších vrstev.
 
 Základ-ním principem kapitalistického podnikání je zaopatřovat běžného člověka.Ve svém postavení spotřebitele je běžný člověk vládcem, který svými nákupynebo zdržením se nákupů rozhoduje o osudu podnikatelských aktivit. V trž-ním hospodářství není jiný způsob nabytí a udržení bohatství než zásobovatmasy nejlepším a nejlevnějším způsobem těmi statky, jež požadují.
+
+Mnozí historici a publicisté, zaslepeni svými předsudky, nebyli schopni
+
+rozpoznat tento základní fakt.

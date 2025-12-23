@@ -185,4 +185,3 @@ Jevons, William Stanley, 70, 109, 434, 439,
 K
 
 Kalkulace
-

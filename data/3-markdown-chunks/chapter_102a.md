@@ -35,3 +35,13 @@ v době přizpůsobení, která již není otupena klamem vzestupu, jeví jako b
 Je samozřejmě pravda, že bydo nich člověk nevložil kapitálové statky, pokud by správně kalkuloval. Nep-řevoditelné z těchto investic jsou zcela jistě promarněny. Avšak protože jsounepřevoditelné, fait accompli , představují nutnost vypořádat se jednáním
 
 s novým problémem. Pokud očekávané tržby, které slibuje prodej jejich výstu-pů, převýší náklady běžného provozu, je ziskové v něm pokračovat. Ačkoliceny, které je ochotna za tyto výstupy utratit kupující veřejnost, nejsou dosta-tečně vysoké na to, aby byla celá nepřevoditelná investice zisková, jsou dosta-tečně vysoké na to, aby byla zisková alespoň část této investice, jakkoli malá.Zbytek investice musí být považován za výdaj bez náhrady, za vyplýtvanýa ztracený kapitál.
+
+Pokud se člověk dívá na tento stav z pohledu spotřebitelů, výsledek je
+
+samozřejmě tentýž. Spotřebitelé by na tom byli lépe, kdyby iluze vytvořenápolitikou snadno dostupných peněz nenalákala podnikatele k plýtvání vzác-
+
+50401_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 504
+
+nými kapitálovými statky jejich investováním pro uspokojení méně naléha-
+
+vých potřeb, a tím k jejich stažení z těch výrobních procesů, v nichž by uspo-kojily naléhavější potřeby. Co se však jednou stalo, nelze změnit.

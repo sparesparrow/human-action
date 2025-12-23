@@ -1,5 +1,4 @@
-
-Lidé často nazývají socialismus náboženstvím. Opravdu je to náboženství
+Opravdu je to náboženství
 
 sebezbožštění. Stát a Vláda, o nichž mluví plánovači, Národ nacionalistů,Společnost marxistů a Lidstvo Comtova pozitivismu jsou jména pro Bohanových náboženství. Všechny tyto modly jsou však pouze jiná jména provlastní vůli jednotlivých reformátorů. Když naduté egopřipisuje svému idolu
 

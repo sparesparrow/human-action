@@ -1,7 +1,4 @@
-
-Zdroji radosti z práce jsou:1. Očekávání prací zprostředkovaného uspokojení, očekávání požitku z je-
-
-jího úspěchu a výnosu. Tvrdě pracující člověk se dívá na svoji práci jako naprostředek dosažení cílů, o něž usiluje, a pokrok jeho práce ho těší jako při-blížení se tomuto cíli. Jeho radost je předzvěstí zprostředkovaného uspokoje-ní. V rámci společenské spolupráce se tato radost projevuje ve spokojenosti zeschopností udržet si postavení ve společenském organismu a poskytovat služ-by, které ostatní lidé oceňují buď tím, že si koupí jejich výsledek, nebo zaplatíza vynaloženou práci.
+V rámci společenské spolupráce se tato radost projevuje ve spokojenosti zeschopností udržet si postavení ve společenském organismu a poskytovat služ-by, které ostatní lidé oceňují buď tím, že si koupí jejich výsledek, nebo zaplatíza vynaloženou práci.
 
 Pracovník se raduje, protože získává sebeúctu a vědomí,že živí sám sebe a svoji rodinu a není závislý na milosti ostatních.
 
@@ -48,3 +45,11 @@ radosti z práce omrzelostí. Radost z práce kategorií 1 a 2 do jisté míry z
 Žádná ideologie, jakkoli působivě zdůrazňovaná a šířená, nemůže ovlivnit
 
 újmu z práce. Není možné ji odstranit nebo zmírnit přesvědčováním nebo hyp-notickou sugescí. Na druhou stranu nemůže být zvýšena žádnými slovy anidoktrínami. Újma z práce je nepodmíněně daný jev. Spontánní a bezstarostnévybíjení energie a životních funkcí v bezcílné svobodě těší každého více nežpřísné omezení účelné námahy. Újma z práce dopadá i na toho, kdo se svépráci věnuje z celého srdce a duše a dokonce i se sebezapřením.
+
+I ten touží poomezení množství práce, pokud se tak může stát bez negativního vlivu na oče-kávané zprostředkované uspokojení a zároveň zažívá radost kategorie 3.
+
+52802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 528
+
+Radost z práce kategorií 1 a 2 a občas i kategorie 3 může být odstraněna
+
+ideologickým vlivem a nahrazena omrzelostí.

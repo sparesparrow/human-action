@@ -1,11 +1,4 @@
-
-To je samozřejmě názor, k němuž bajka o neutralitě peněz nutně vede.Celá teorie katalaxie, domnívali se, může být rozpracována za předpokladu,že existuje pouze přímá směna. Jakmile bude vytvořena, potom jediná věc,kterou bude třeba udělat, je „jednoduše“ dosadit do systému zásad týkajícíchse přímé směny peněžní termíny. Toto závěrečné zkompletování katalaktic-kého systému však nebylo považováno za příliš důležité.
-
-Nepředpokládalo se,že by mohlo ve struktuře ekonomického učení cokoli podstatného změnit.V tehdejších představách bylo hlavním úkolem ekonomie studium přímésměny. To, co vedle toho zbývalo udělat, bylo v nejlepším případě pouzevyšetřit problémy se „špatnými“ penězi.
-
-Ve shodě s tímto názorem ekonomové chybně nekladli správný důraz na
-
-problémy nepřímé směny. Jejich pojetí monetárních problémů bylo povrchní;mělo pouze volnou vazbu na hlavní část jejich zkoumání tržního procesu.Zhruba na počátku dvacátého století byly problémy nepřímé směny celkemvzato vykázány na podřadné místo. Existovala katalaktická pojednání, kteráse monetárními záležitostmi zabývala pouze náhodně a povrchně, a existova-ly knihy o měně a bankovnictví, které se dokonce ani nepokoušely zahrnout
+Existovala katalaktická pojednání, kteráse monetárními záležitostmi zabývala pouze náhodně a povrchně, a existova-ly knihy o měně a bankovnictví, které se dokonce ani nepokoušely zahrnout
 
 1833Viz níže, str. 217—236.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 183
 
@@ -46,3 +39,17 @@ li extenzivní veličiny. Neumožňují myšlenkové uchopení za použití kard
 Tato falešná představa, že hodnoty jsou měřitelné a že jsou skutečně měře-
 
 ny během provádění hospodářských transakcí, byla tak hluboce zakořeněna,že omylu, který z ní vyplynul, padli za oběť dokonce ti nejpřednější ekono-mové. I Friedrich von Wieser a Irving Fisher považovali za nesporné, že musíexistovat něco jako měření hodnoty a že ekonomové musí být schopni určita vysvětlit metodu, pomocí které se taková měření provádějí.
+
+5Většina z méně
+
+významných ekonomů prostě tvrdila, že peníze slouží „jako míra hodnot“.
+
+Nuže, musíme si uvědomit, že ohodnocovat znamená dávat přednost
+
+apřed b. Z logického, epistemologického, psychologického i praxeologického
+
+pohledu existuje jeden jediný model upřednostňování. Tento model nepřed-stavuje to, když dáváme přednost příteli před jinými lidmi, když laik upřed-nostňuje jeden obraz před ostatními obrazy, nebo konzument chléb předkouskem cukroví. Dávat přednost vždy znamená mít rád avíce než bnebo
+
+toužit po avíce než po b. Stejně jako neexistuje žádné kritérium a žádná míra
+
+sexuální lásky, přátelství a porozumění, estetického požitku, neexistuje animíra hodnoty komodit. Jestliže člověk smění dvě libry másla za košili, jediné,co můžeme ohledně této transakce říct, je, že tento člověk – v momentěobchodu a za podmínek, které mu tento okamžik nabízí – dává přednostjedné košili před dvěma librami másla.

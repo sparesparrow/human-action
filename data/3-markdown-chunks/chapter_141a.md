@@ -67,3 +67,7 @@ třebního zboží a že ceny tohoto zboží v penězích jsou určovány na tom
 Nebo můžeme stejně dobře předpokládat, že každému členovi je při-dělen určitý podíl různého spotřebního zboží v naturáliích a že členovémohou toto zboží svobodně směňovat za jiné zboží na trhu, na němž jsouobchody uskutečňovány pomocí obecného prostředku směny, nějakéhodruhu peněz. Charakteristickým rysem socialistického systému však je, ževýrobní statky jsou kontrolovány pouze jednou agenturou, jejímž jménemjedná ředitel, že nejsou ani kupovány, ani prodávány, a že pro ně neexistujíceny.
 
 Pak nemůže být o srovnávání vstupů a výstupů aritmetickými metoda-mi ani řeči.
+
+Netvrdíme, že kapitalistický způsob ekonomické kalkulace zaručuje abso-
+
+lutně nejlepší řešení alokace výrobních faktorů. Taková absolutně dokonalářešení jakéhokoli problému nejsou pro smrtelníky přístupná.

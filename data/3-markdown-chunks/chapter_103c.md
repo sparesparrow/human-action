@@ -1,5 +1,4 @@
-
-Vzájemný vztah mezi nabídkou peněz(v širším smyslu) a úrokovou mírou nikdo neanalyzoval. Členové měnovéškoly se vysmáli různým pokusům o snížení nebo úplné zrušení úrokua označili je za šarlatánství, nikdo je však důkladně nerozebral a neodmítl.Všichni mlčky souhlasili s naivním předpokladem neutrality peněz. Proto bylzanechán volný prostor všem marným snahám vysvětlit krize a hospodářskécykly pomocí teorie přímé směny. Muselo uplynout několik desetiletí, nežbylo toto prokletí zrušeno.
+Muselo uplynout několik desetiletí, nežbylo toto prokletí zrušeno.
 
 Měnová teorie hospodářského cyklu, nebo také teorie hospodářského
 
@@ -52,3 +51,9 @@ Pokud vezme člověk v úvahu všechny tyto skutečnosti, je vystaven poku-
 šení ukončit tuto diskusi v rámci teorie čistého tržního hospodářství a přesu-nout ji do analýzy intervencionismu, vládního vměšování do tržních jevů. Jenade vši pochybnost, že úvěrová expanze je jednou z hlavních otázek inter-vencionismu. Správné místo pro analýzu zmíněných problémů není teorieintervencionismu, ale teorie čistého tržního hospodářství. Pro problém, kte-rým se musíme zabývat, je klíčový vztah mezi nabídkou peněz a úrokovoumírou.
 
 Důsledky úvěrové expanze jsou pouze částí tohoto problému.
+
+Vše výše uvedené bylo řečeno ve vztahu k dopadům jakéhokoli zvýšení
+
+nabídky skutečných peněz, jestliže tato dodatečná nabídka dosáhne úvěrové-ho trhu v rané fázi svého přílivu do tržního systému. Pokud tato dodatečnánabídka zvýší množství peněz nabízených k vypůjčení v okamžiku, kdy ještěnebyly ovlivněny ceny statků a peněžní vztah, její důsledky jsou stejné jakov případě úvěrové expanze. Ve své analýze problému úvěrové expanze zavr-šuje katalaxie pojednání o teorii peněz a úroku.
+
+Nepřímo vyvrací letité omylytýkající se úroku a boří nereálné plány na „zrušení“ úroku pomocí peněžnínebo úvěrové reformy.

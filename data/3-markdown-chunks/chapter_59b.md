@@ -1,4 +1,3 @@
-
 Kdyby všichni podnikatelé dokázali správně předvídat budoucí stav trhu,
 
 neexistovaly by ani zisky, ani ztráty. Ceny všech výrobních faktorů by již dnesbyly plně uzpůsobeny zítřejším cenám výrobků. Při pořizování výrobních fak-torů by podnikatel nesměl vydat (s příslušnými náklady na rozdíl mezi cena-mi současných statků a budoucích statků) menší částku, než mu kupujícípozději zaplatí za výrobky. Podnikatel může vytvořit zisk pouze tehdy, kdyžpředvídá budoucí podmínky správněji než jiní podnikatelé.

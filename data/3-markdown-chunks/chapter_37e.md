@@ -1,11 +1,4 @@
-
-Převaha názoru, že dokonce ani ve válce nelze každé jednání považovat za
-
-přípustné, že existují legitimní a nedovolené válečné činy, že existují zákony,tj. společenské vztahy, které jsou nade všemi národy, dokonce i nad těmi, ježspolu zrovna bojují, dala nakonec vzniknout Velké společnosti zahrnujícívšechny lidi a všechny národy. Různá regionální společenství byla sdruženado jedné ekumenické společnosti.
-
-Válčící strany, které nevedou válku divoce na způsob šelem, ale podle „lid-
-
-ských“ a společenských válečných pravidel, se vzdávají použití určitých niči-vých metod, aby dosáhly stejných ústupků ze strany protivníků. Dokud jsoutaková pravidla dodržována, existují mezi válčícími stranami společenskévztahy. Nepřátelské činy nejsou samy o sobě pouze nespolečenské, ale jsouprotispolečenské. Je nevhodné definovat termín „společenské vztahy“ tako-vým způsobem, aby zahrnoval jednání, jež směřuje ke zničení jiných lidí a kezmaření jejich jednání.
+Je nevhodné definovat termín „společenské vztahy“ tako-vým způsobem, aby zahrnoval jednání, jež směřuje ke zničení jiných lidí a kezmaření jejich jednání.
 
 8Kde jsou jedinými vztahy mezi lidmi ty, které jsou
 
@@ -42,3 +35,15 @@ Biologie neposkytuje žádnounormu pro hodnocení změn, které se objevují u �
 Umožnila člověku nedat se v boji proti všem ostatnímživým bytostem, jak proti velkým šelmám, tak proti ještě škodlivějším mik-robům; znásobila lidské prostředky obživy; průměrného člověka nechalavyrůst, stal se díky ní bystřejším a všestrannějším a prodloužila se průměrnádélka jeho života; civilizace umožnila člověku nesporné ovládnutí země; zná-sobil se počet obyvatel a životní úroveň se zvedla tak vysoko, jak se o tom pra-věkým primitivním obyvatelům jeskyň nikdy ani nesnilo.
 
 Je pravda, že tentovývoj potlačil rozvinutí určitých dovedností a vloh, které kdysi bývaly užiteč-né v boji o přežití a ve změněných podmínkách ztratily svou důležitost. Nadruhé straně rozvinula jiné schopnosti a dovednosti, které jsou nepostrada-telné pro život ve společnosti. Biologický a evoluční pohled se však nesmí zby-tečně šťourat v takových změnách.
+
+Neboť tvrdá pěst a bojovnost primitivníhočlověka byly stejně užitečné, jako je pro moderního člověka schopnost býtzručný v aritmetice a znát dobře pravopis. Je naprosto svévolné a zcela jistěproti biologické normě nazývat přirozenými a odpovídajícími lidské povazepouze ty vlastnosti, které byly užitečné pro primitivního člověka, a zatracovat
+
+15201_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 152
+
+jako známky úpadku a biologické degenerace schopnosti a dovednosti, které
+
+jsou nezbytně nutné pro civilizovaného člověka. Radit lidem, aby se vrátilik tělesným a duševním vlastnostem svých prehistorických předků, není o nicrozumnější než žádat je, aby se zřekli vzpřímeného držení těla a nechali sizase narůst ocas.
+
+Stojí za zaznamenání, že lidé, kteří nejvíce vychvalovali znamenitost divoš-
+
+ských pudů našich barbarských praotců, byli tak křehcí, že jejich těla by nevy-držela požadavky „života v nebezpečí“. Nitzsche byl dokonce ještě před svýmpsychickým zhroucením tak neduživý, že snesl jedině podnebí Engadinskéhoúdolí a některých italských oblastí.

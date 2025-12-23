@@ -1,5 +1,4 @@
-
-Stejná byla i politika těch vláda centrálních bank, které přijaly měnový systém obecně známý pod jménemstandard zlaté devizy. Jediný rozdíl oproti „ortodoxnímu“ nebo klasickémuzlatému standardu, existujícímu ve Velké Británii od počátku dvacátých letdevatenáctého století až do vypuknutí první světové války a v jiných zemích,se týká používání zlatých mincí na domácím trhu.
+Jediný rozdíl oproti „ortodoxnímu“ nebo klasickémuzlatému standardu, existujícímu ve Velké Británii od počátku dvacátých letdevatenáctého století až do vypuknutí první světové války a v jiných zemích,se týká používání zlatých mincí na domácím trhu.
 
 V podmínkách klasickéhozlatého standardu je část hotovosti v držení obyvatel ve formě zlatých mincía zbytek v peněžních substitutech. V podmínkách standardu zlaté devizy sedržená hotovost skládá výhradně z peněžních substitutů.
 

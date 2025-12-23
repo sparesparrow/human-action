@@ -23,3 +23,9 @@ Bawerkových příspěvků. Právě na jím položených základech mohli pozdě
 Obvykle se podstata teorie časové preference vyjadřuje tvrzením, že exis-
 
 tuje preference současných statků před statky budoucími. Kvůli tomuto způ-sobu vyjádření byli někteří ekonomové zmateni skutečností, že v některýchpřípadech jsou současná užití méně cenná než budoucí užití. Problém vyvo-laný zjevnými výjimkami je však vyvolán pouhým špatným pochopením sku-tečného stavu věcí.
+
+Některé požitky nemohou být získány ve stejný okamžik. Člověk nemůže
+
+v tentýž večer navštívit představení Carmen aHamleta . Při nákupu vstupenek
+
+si musí vybrat mezi těmito dvěma představeními. I když získá vstupenky doobou divadel na stejný večer jako dar, stejně si musí vybrat. O vstupenkách,které odmítne, si může pomyslet: „Právě nyní mě to nezajímá,“ nebo „Kéž byto bylo později.“

@@ -165,4 +165,3 @@ Liberalismus
 definice, 130—133, 136—140, 749filozofie, 153—157, 617—619, 754—755,775—776hospodářské zlepšení a, 7, 136—138praxeologie a, 136—138společenská spolupráce a, 2, 238—241,540—546, 752—754, 772—775svoboda a, 260—265viz také Laissez faire
 
 Licence, 335, 338—340, 458, 532, 553, 594,
-

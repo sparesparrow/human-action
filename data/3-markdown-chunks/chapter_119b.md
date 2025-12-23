@@ -1,5 +1,4 @@
-
-3. Submarginální půda
+Submarginální půda
 
 Služby, které může konkrétní pozemek poskytnout za určité časové obdo-
 

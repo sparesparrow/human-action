@@ -1,37 +1,4 @@
-
-Když podnikatelé připravují své plány, dívají se nejprve na ceny v bezpro-
-
-střední minulosti, které se chybně nazývají současnými cenami. Podnikatelé
-
-samozřejmě nikdy nezavedou tyto ceny do svých kalkulací, aniž by vzaliv úvahu očekávané změny. Ceny v bezprostřední minulosti jsou pro ně pouzevýchozím bodem úvah, které vedou k předpovědi budoucích cen. Minuléceny neovlivňují stanovení budoucích cen. Naopak, je to očekávání budou-cích cen výrobků, které určuje stav cen komplementárních výrobních fak-torů. Stanovení cen nemá, co se týče vzájemných směnných poměrů mezirůznými statky,
-
-2vůbec žádný přímý příčinný vztah s cenami v minulosti. Alo-
-
-kace nepřevoditelných výrobních faktorů mezi různá výrobní odvětví3
-
-a množství kapitálových statků, které jsou k dispozici pro budoucí výrobu,jsou historickými veličinami; v tomto směru působí minulost na formovánítrendu budoucí výroby a na ovlivňování cen v budoucnosti. Samotné cenyvýrobních faktorů jsou však určovány výhradně očekáváním budoucích cenvýrobků. Skutečnost, že lidé včera hodnotili a odhadovali statky jinak, je bez-předmětná.
-
-Spotřebitelé se nestarají o investice provedené s ohledem napodmínky trhu v minulosti a netrápí je etablované zájmy podnikatelů, kapi-talistů, majitelů pozemků a pracovníků, kteří mohou být změnami ve struk-tuře cen poškozeni. Při tvorbě cen nehrají takové city žádnou roli. (To, codotyčné lidi nutí, aby požadovali vládní zásahy, je právě skutečnost, že trhnebere ohled na etablované zájmy.) Ceny v minulosti jsou pro podnikatele,který utváří budoucí výrobu, pouze myšlenkovým nástrojem.
-
-Podnikatelénevytvářejí každý den znova zásadně novou cenovou strukturu ani znovunealokují výrobní faktory do různých odvětví. Pouze přetvářejí to, co jim ode-vzdala minulost, tak, aby to lépe přizpůsobili změněným podmínkám. Kolikz předchozích podmínek zachovají a kolik toho změní, závisí na rozsahu,v jakém došlo ke změně dat.
-
-Ekonomický proces představuje neustálé vzájemné ovlivňování výroby
-
-a spotřeby. Dnešní činnost je svázána s činností v minulosti prostřednictvímtechnologických znalostí, které jsou k dispozici, a množstvím a kvalitou
-
-3072Jinak je tomu u vzájemných směnných poměrů mezi penězi a obchodovatelnými
-
-statky a službami. Srov. níže, str. 372.
-
-3Problémem nepřevoditelných kapitálových statků se zabýváme dále na str. 452—454.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 307
-
-kapitálových statků mezi různými jednotlivci. Je spojena s budoucností
-
-prostřednictvím prapodstaty lidského jednání; jednání vždy směřuje ke zlep-šení budoucích podmínek. K tomu, aby člověk viděl svou cestu v neznáméa nejisté budoucnosti, má k dispozici pouze dva prostředky: zkušenostz minulých událostí a svou schopnost rozumění. Znalosti o minulých cenáchjsou součástí této zkušenosti a současně výchozím bodem rozumění bu-doucnosti.
-
-Kdyby paměť všech minulých cen vymizela, proces tvorby cen by se stal
-
-obtížnějším, ale nikoli nemožným, pokud se týče vzájemných směnnýchpoměrů mezi různými statky. Pro podnikatele by bylo těžší přizpůsobit výro-bu poptávce veřejnosti, ale i tak by to bylo možné udělat. Museli by znovushromáždit všechna data, která potřebují jako základ ke své činnosti. Neu-nikli by chybám, jichž se dnes vyvarují díky zkušenosti, kterou mají k dispo-zici. Na začátku by byly prudší cenové výkyvy, promrhaly by se nějaké výrob-ní faktory, uspokojování potřeb by bylo narušeno.
+Neu-nikli by chybám, jichž se dnes vyvarují díky zkušenosti, kterou mají k dispo-zici. Na začátku by byly prudší cenové výkyvy, promrhaly by se nějaké výrob-ní faktory, uspokojování potřeb by bylo narušeno.
 
 Ale nakonec – poté co byza to draze zaplatili – by lidé opět získali zkušenosti, které jsou k hladkémufungování tržního procesu nutné.
 
@@ -42,3 +9,49 @@ výrobních faktorů, je soutěž podnikatelů, kteří usilují o zisk. Činnos
 Soutěž mezi podnikateli je ve sku-tečnosti soutěží mezi různými možnostmi, které mají lidé k dispozici proodstranění svých obtíží, nakolik je to možné pořízením spotřebního zboží.Rozhodnutí spotřebitelů koupit jednu komoditu a odložit koupi jiné určujeceny výrobních faktorů, které jsou k výrobě těchto komodit potřeba. Soutěžmezi podnikateli odráží ceny spotřebního zboží v utváření cen výrobních fak-torů.
 
 Odráží ve vnějším světě konflikt, který nevyhnutelná omezenost výrob-ních faktorů způsobuje v duši každého jedince. Uvádí v platnost předeslanározhodnutí spotřebitelů ohledně toho, k jakému účelu a do jaké míry by mělybýt použity nespecifické faktory.
+
+Proces tvorby cen je společenský proces. Je výsledkem vzájemného půso-
+
+bení všech členů společnosti. Všichni spolupracují a spolupůsobí, každý vesvé konkrétní roli, kterou si v rámci dělby práce sám vybral. Spoluprací a spo-lupůsobením v soutěži přispívají všichni lidé k dosažení výsledku, tedy ceno-vé struktury trhu, alokace výrobních faktorů do různých oborů požadované-ho uspokojení potřeb a k určení podílu každého jednotlivce. Tyto třizáležitosti nejsou třemi různými věcmi. Jsou to pouze různé stránky jednoho
+
+30801_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 308
+
+nedělitelného jevu, který náš analytický pohled dělí do třech částí. V tržním
+
+procesu jsou uskutečňovány uno actu . Pouze lidé v zajetí socialistických ten-
+
+dencí, kteří se nedokážou oprostit od touhy po socialistických metodách,mluví v souvislosti s tržními jevy o třech různých procesech: o určení cen,řízení výrobního úsilí a rozdělování.
+
+Omezení při tvorbě cen výrobních faktorů
+
+Proces, který utváří ceny výrobních faktorů na základě cen výrobků, může
+
+dosáhnout svých výsledků pouze tehdy, když nejvýše jeden z komplemen-tárních faktorů, jež nelze zaměnit náhradou, má naprosto specifický cha-rakter, tj. nehodí se pro žádné jiné využití. Jestliže výroba produktu vyžadujedva nebo více naprosto specifických faktorů, lze jim přiřadit pouze souhrn-nou cenu. Kdyby byly všechny výrobní faktory naprosto specifické, procestvorby cen by nedával nic víc než souhrnné ceny.
+
+Nedosáhl by ničeho jinéhonež tvrzení podobných tomuto: protože spojení 3 aa5 bdá vznik jedné
+
+jednotce p, rovnají se 3 aa5 bdohromady 1 pa konečná cena 3 a+ 5 bje –
+
+vezmeme-li patřičný ohled na časovou preferenci – rovna konečné ceně1p. Protože podnikatelé, kteří by chtěli použít aabpro jiné účely než pro
+
+výrobu p, o ně nelicitují, je podrobnější určení ceny nemožné. Pouze když se
+
+objeví poptávka po a(nebo po b) ze strany podnikatelů, kteří chtějí a(nebo b)
+
+využít pro jiné účely, objeví se soutěž mezi nimi a podnikateli, kteří majív plánu výrobu p, a vznikne cena pro a(nebo b), jejíž výše určuje také cenu b
+
+(nebo a).
+
+Ve světě, v němž jsou všechny výrobní faktory naprosto specifické, se zále-
+
+žitosti řídí pomocí takových souhrnných cen. V takovém světě by neexistovalproblém alokace výrobních prostředků do různých odvětví uspokojenípotřeb. V našem reálném světě je to jiné. Existuje spousta vzácných výrob-ních prostředků, které mohou být využity pro různé úkoly. Ekonomickýproblém zde zní: jak využít tyto faktory, aby žádná jejich jednotka nebylapoužita na uspokojování méně naléhavých potřeb, pokud by takové využitíbránilo uspokojení naléhavějších potřeb.
+
+Právě to řeší trh při určování cenvýrobních faktorů. Společenská služba poskytovaná tímto řešením není aniv nejmenším narušována tím, že pro faktory, které mohou být použity pouzespolečně, jsou stanoveny pouze souhrnné ceny.
+
+Výrobní faktory, které mohou být ve stejném vzájemném poměru použity
+
+k výrobě různých statků, ale nemají žádné jiné využití, musí být považoványza naprosto specifické faktory. Jsou naprosto specifické ve vztahu k výroběmeziproduktu, který může být použit k různým účelům. Cena tohoto mezi-produktu jim může být přiřazena pouze společně. Není důležité, jestli tentomeziprodukt může být vnímán přímo našimi smysly, nebo jestli je to pouzeneviditelný a nehmotný výsledek jejich společného využití.
+
+30901_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 309
+
+4.

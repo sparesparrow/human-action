@@ -1,11 +1,4 @@
-
-Technologické zlepšení nezpomaluje nedokonalá převoditelnostkapitálových statků, ale jejich vzácnost. Nejsme dost bohatí na to, abychom
-
-46001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 460
-
-se mohli vzdát služeb, které mohou být poskytnuty ještě použitelnými statky.
-
-Dostupná zásoba kapitálových statků nezadržuje pokrok; naopak, jdeo nezbytnou podmínku jakéhokoli pokroku a zlepšení. Dědictví minulosti,ztělesněné nabídkou kapitálových statků, je naším bohatstvím a nejdůle-žitějším prostředkem dalšího rozšiřování blahobytu. Je pravda, že bychom sednes měli lépe, kdyby naši předci i my sami v našich minulých jednáních lépeodhadli podmínky, v nichž musíme jednat dnes. Toto vědomí vysvětlujemnohé jevy naší doby.
+Toto vědomí vysvětlujemnohé jevy naší doby.
 
 Nikterak však nevrhá žádnou vinu na minulost aninedokazuje žádné nedokonalosti neoddělitelně spojené s tržním hospodář-stvím.
 
@@ -50,3 +43,21 @@ ní nechávají vést kapitálovým účetnictvím. Pokud podnikatel použil vý
 Není „automatické“; jenutně výsledkem záměrného jednání a může být zmařeno v důsledku naru-šení výchozích výpočtů nedbalostí, chybou nebo nesprávným posouzenímbudoucích podmínek.
 
 Dodatečný kapitál může být akumulován pouze prostřednictvím úspor, tj.
+
+přebytku výroby nad spotřebou. Úspory mohou spočívat i v omezení spotře-by. Mohou však být získány, bez dalšího omezení spotřeby a bez změny vstu-pu kapitálových statků, zvýšením čisté výroby. K tomuto nárůstu může dojítněkolika způsoby:
+
+1. Přírodní podmínky se staly příhodnějšími. Sklizně jsou bohatší. Lidé
+
+mají přístup k úrodnější půdě a objevili doly přinášející vyšší výnosy na jed-notku vstupů. Pohromy a neštěstí, jejichž opakované výskyty mařily lidskounámahu, jsou méně časté. Epidemie a dobytčí mory ustaly.
+
+2. Lidem se podařilo dosáhnout většího výstupu některých produkčních
+
+procesů bez dalšího investování kapitálových statků a bez dalšího prodlužo-vání doby výroby.
+
+3. Dochází k menšímu narušování výrobních aktivit ze strany institucí.
+
+Ztráty způsobené válkou, revolucemi, stávkami, sabotážemi a ostatními zlo-činy byly omezeny.
+
+46215Srov. Hayek, „The Mythology of Capital“, The Quarterly Journal of Economics , L (1936),
+
+str.

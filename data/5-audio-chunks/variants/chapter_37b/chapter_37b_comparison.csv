@@ -1,0 +1,9 @@
+Variant Name,Engine,Model,Preset,Duration (s),Size (MB),Length Scale,Noise Scale,Noise W,Generation Time (s)
+piper_cs_CZ-jirka-medium_natural,piper,cs_CZ-jirka-medium,natural,1180.950249,99.3346118927002,,,,260.6871781349182
+piper_cs_CZ-jirka-low_natural,piper,cs_CZ-jirka-low,natural,1122.66,94.43158149719238,,,,180.6387357711792
+piper_cs_CZ-jirka-medium_natural,piper,cs_CZ-jirka-medium,natural,1178.210295,99.1041431427002,1.0,0.667,0.8,252.34916949272156
+piper_cs_CZ-jirka-medium_clear,piper,cs_CZ-jirka-medium,clear,1175.075601,98.8404712677002,1.0,0.5,0.7,255.54664087295532
+piper_cs_CZ-jirka-medium_expressive,piper,cs_CZ-jirka-medium,expressive,1183.527664,99.5514087677002,1.0,0.8,0.9,256.9858021736145
+piper_cs_CZ-jirka-medium_fast,piper,cs_CZ-jirka-medium,fast,1353.091383,113.8141040802002,1.2,0.6,0.8,290.2286698818207
+piper_cs_CZ-jirka-medium_slow,piper,cs_CZ-jirka-medium,slow,999.579184,84.0787525177002,0.8,0.5,0.7,219.68472361564636
+piper_default,piper,cs_CZ-jirka-medium,,1178.755964,99.1500415802002,,,,262.3938522338867

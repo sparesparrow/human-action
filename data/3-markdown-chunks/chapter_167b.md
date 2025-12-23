@@ -1,13 +1,4 @@
-
-Intervencionista obhajující další veřejné výdaje si neuvědomuje, že výše
-
-dostupných fondů je omezená. Nechápe, že zvýšení výdajů v jedné oblasti
-
-76802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 768
-
-nutně snižuje jejich výši v jiné oblasti. Domnívá se, že k dispozici je spousta
-
-peněz; že je lze snadno získat z příjmu a majetku bohatých. Doporučuje-livětší dotace školám, jednoduše říká, že by bylo dobré utratit více na vzdělá-ní. Nepokouší se prokázat, že zvýšení rozpočtových výdajů na školství je pro-spěšnější než zvýšení výdajů do jiné oblasti, např. do zdravotnictví. Nikdy hoani nenapadne, že by někdo mohl přijít se smysluplným argumentem na ome-zení veřejných výdajů a snížení daňového zatížení.
+Nepokouší se prokázat, že zvýšení rozpočtových výdajů na školství je pro-spěšnější než zvýšení výdajů do jiné oblasti, např. do zdravotnictví. Nikdy hoani nenapadne, že by někdo mohl přijít se smysluplným argumentem na ome-zení veřejných výdajů a snížení daňového zatížení.
 
 Zastánci snížení rozpočtujsou v jeho očích pouhými zastánci zjevně nespravedlivých třídních zájmůbohatých.
 
@@ -54,3 +45,11 @@ tváří trvalý systém společenské organizace. Je tomu tak ze tří důvodů
 Zaprvé: Restriktivní opatření vždy omezují výstup a množství zboží
 
 dostupného ke spotřebě. Bez ohledu na argumenty vznesené ve prospěchkonkrétních omezení a zákazů samotná tato opatření nemohou nikdy vytvo-řit společenský systém výroby.
+
+Za druhé: Veškeré pokusy o zasahování do tržních jevů nejen nedokážou
+
+dosáhnout cílů, o něž usilují jejich autoři a zastánci, ale vedou ke stavu, kterýsamotní jejich autoři a zastánci hodnotí jako méně žádoucí než stav dřívější,o jehož nápravu usilovali. Chce-li někdo napravit zjevnou nevhodnosta nesmyslnost těchto pokusů přijetím dalšího zásahu či dalších zásahů, musíve svém počínání pokračovat stále dále, až nakonec zcela zničí tržní hospo-dářství a nahradí ho socialismem.
+
+Za třetí: Intervencionismus usiluje o konfiskaci „přebytku“ jedné části oby-
+
+vatel a jeho rozdání jiné části. Jakmile je tento přebytek zcela zkonfiskována vyčerpán, není další pokračování této politiky možné.

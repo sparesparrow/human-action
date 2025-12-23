@@ -51,3 +51,7 @@ ní obecné epistemologie a vědecké metody“. Z Machlupových vlastníchobsá
 466), „je to eko-nomická teorie, která svými ‚schématy‘ či ‚modely‘ a svými ‚teorémy‘ definuje
 
 a popisuje (či konstruuje) podstatné souvislosti“.
+
+16Tyto modely dílčí či všeo-
+
+becné rovnováhy jsou skutečně arbitrárními konstrukcemi, které logickypředcházejí skutečná fakta. Nejsou ale pouhými „apriorními spekulacemi“,protože jsou „vytvořeny s ohledem na tato fakta“. Z Machlupova pohledu je„rozhodující znak“ Schumpeterova metodologického postoje shrnut v násle-dujícím Schumpeterově tvrzení: „Na jednu stranu je naše teorie ve své pod-statě arbitrární , a na tom je vystavěn její systém, její hloubka a její preciznost;

@@ -115,4 +115,3 @@ Spotřebitelé
 monopolní ceny, 348—351reklama a, 292—294suverenita, 56—57, 221, 238—239, 248—250, 274—275, 283—287, 447, 545,582, 612, 652—653, 754—755vládní zásahy, 655—657
 
 Spravedlivá cena, 199, 273, 304, 651—652,
-

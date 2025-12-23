@@ -1,8 +1,3 @@
-
-Konzervativní myslitelé samozřejmě podléhali iluzi, že by mohl být zacho-
-
-ván tradiční systém paternalistické vlády a strnulost ekonomických institucí.Obdivovali starý režim, který přinesl lidem prosperitu a dokonce i zhumani-zoval válku. Neuvědomovali si ale, že právě tyto skutečnosti přivodily zvýše-ní počtu obyvatel, a tím vytvořily nadbytek obyvatel, pro které ve starémsystému ekonomických omezení nebylo místo.
-
 Zavírají oči před růstem třídylidí stojících mimo hranice společenského řádu, o jehož zachování usilují.Nepřišli s žádným řešením nejpalčivějšího problému, s nímž se lidstvo muse-lo potýkat v předvečer „průmyslové revoluce“.
 
 Kapitalismus dal světu to, co potřeboval: vyšší životní úroveň pro neustále
@@ -48,3 +43,13 @@ ných při laboratorních experimentech. Fyzikální a biologické teorie jsous 
 Základ současné experimentální vědytvoří ohromné laboratoře podporované vládami, univerzitami, nadačnímifondy a velkými podniky. Práce v těchto institucích získala podobu profesio-nální rutiny. Většina lidí pracujících na těchto projektech je tvořena technikyzaznamenávajícími skutečnosti, které pionýři, z nichž jsou někteří také expe-rimentátory, jednoho dne použijí jako stavební kameny svých teorií.
 
 Propokrok vědeckých teorií mají výsledky vědce provádějícího a zaznamená-vajícího měření pouze pomocnou úlohu. Jeho objevy přinášejí ale často oka-mžitě výsledky v podobě zlepšení terapeutických postupů a zdokonalenípodnikání.
+
+Lidé přehlížejí zásadní epistemologické rozdíly mezi přírodními vědami
+
+a vědami o lidském jednání a domnívají se, že rozvoji ekonomického pozná-ní by prospělo provádění ekonomického výzkumu pomocí osvědčenýchpostupů institucí provádějících zdravotní, fyzikální či chemický výzkum. Natakzvaný ekonomický výzkum byly vydány značné peněžní částky. Všechnypodporované instituty ale ve skutečnosti zkoumají nedávnou ekonomickouhistorii.
+
+77702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 777
+
+Je určitě chvályhodné podporovat studium hospodářských dějin. Ať již ale
+
+budou závěry takových studií jakkoli poučné, nesmíme je zaměňovat se stu-diem ekonomie.

@@ -75,3 +75,5 @@ ně velká. Na druhou stranu zvýšení dostupného množství Bby nemohlo zvý-
 šit produkci D, pokud současně nevzroste zásoba C. Celý výnos z daného
 
 procesu by byl imputován do C. Bby nemohlo být ekonomickým statkem.
+
+Věcí, která poskytuje takové neomezené služby, je například znalost kauzál-ních vztahů. Formule, předpis, který nám říká, jak připravovat kávu, jakmileje jednou znám, poskytuje neomezenou službu.

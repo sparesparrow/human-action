@@ -47,3 +47,5 @@ kojenost. Vědě o jednání nezáleží na tom, jak lidé tuto nespokojenost kv
 kují z fyziologického, psychologického nebo etického úhlu pohledu. Úlohouekonomie je zabývat se cenami všech komodit, jak jsou skutečně vyžadoványa placeny při obchodech na trhu. Nesmí své studium omezovat na ty ceny,které vyplývají nebo pravděpodobně vyplynou z chování, jež vykazuje posto-je, kterým by psychologie, etika nebo jakýkoli jiný pohled na lidské chovánídaly konkrétní nálepku.
 
 Třídění jednání podle jeho různých motivů může býtdůležité pro psychologii a může poskytovat měřítko pro mravní hodnocení;pro ekonomii je bezvýznamné. Totéž v podstatě platí o snaze omezit oblastpůsobnosti ekonomie na ta jednání, která jsou zaměřena na zajištění lidímateriálními věcmi vnějšího světa. Striktně řečeno, lidé netouží ani tak pohmotných statcích, jako po službách, které jim tyto statky mohou poskyt-nout. Chtějí docílit zvýšení blahobytu, jež jim tyto služby mohou zajistit.
+
+Aleje-li tomu tak, pak není přípustné vyloučit ze sféry „ekonomického“ jednáníta jednání, která odstraňují nespokojenost přímo bez zprostředkování který-mikoli hmotnými a viditelnými věcmi.

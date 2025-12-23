@@ -1,4 +1,3 @@
-
 Je však překrucová-ním pravdy tvrdit, že hlas jednotlivce nemá žádný vliv, protože k rozhodnutíurčitého problému je zapotřebí mnoho tisíců či dokonce milionů hlasů, a žena lidech, kteří nejsou oddáni některé ze stran, ve skutečnosti vůbec nezále-ží.
 
 I kdybychom tento argument pouze pro účely naší diskuse považovali zapravdivý, úsudek, že díky nahrazení demokratických postupů totalitnímiprincipy budou držitelé úřadů opravdovějšími představiteli vůle lidu, nežkdyby vzešli z voleb, představuje non sequitur . Obdobou těchto totalitních
@@ -40,3 +39,7 @@ práce přímo či nepřímo zatěžují kapitalisty, pokud zvyšují mezní pro
 menší podíl z většího koláče. Snížení celkové nabídky práce neovlivňuje
 
 přímo zisky ani úrokovou míru. Ceny hmotných výrobních faktorů klesajía mzdové sazby za jednotku výkonu jednotlivého pracovníka (avšak ne nutnětaké na jednoho zaměstnance) rostou. Ceny produktů rostou též. Jak již bylořečeno, záleží na konkrétní situaci, zda všechny tyto změny povedou ke zlep-šení či zhoršení důchodu průměrného pracovníka.
+
+Náš předpoklad, že tato opatření neovlivní nabídku hmotných výrobních
+
+faktorů, ale není přípustný. Zkrácení pracovní doby, omezení noční prácea zaměstnání určitých skupin lidí naruší využití části dostupného zařízení a jeobdobou snížení nabídky kapitálu.

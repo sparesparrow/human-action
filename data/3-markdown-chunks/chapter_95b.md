@@ -1,4 +1,3 @@
-
 Nyní předpokládejme, že zvýšení množství úvěrových či neplnohodnot-
 
 ných peněz nebo úvěrová expanze vytvoří dodatečné peníze nutné pro zvý-šení objemu hotovosti držené jednotlivci. Potom nastanou nezávisle na sobětři procesy: tendence k poklesu cen statků způsobená zvýšením objemudostupných kapitálových statků a následné rozšíření výrobních aktivit, ten-dence k poklesu cen způsobená růstem poptávky po penězích za účelem zvý-šení držby hotovosti a konečně tendence k růstu cen vyvolaná zvýšenímnabídky peněz (v širším smyslu).

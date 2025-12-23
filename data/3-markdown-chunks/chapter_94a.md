@@ -47,3 +47,7 @@ na omezené převoditelnosti stávajících kapitálových statků. Může však
 Mobilita investorů se projevuje v jevu nazvaném zavádějícím způsobem
 
 odliv kapitálu. Jednotliví investoři mohou opustit investice, které považují zariskantní, za předpokladu, že jsou ochotni přijmout ztrátu diskontovanoutrhem. Mohou se tak bránit proti očekávaným budoucím ztrátám a přesunoutje na ty, kdo jsou ve svých odhadech budoucích cen daných statků méně rea-lističtí. Odliv kapitálu nestahuje nepřevoditelné kapitálové statky z odvětví,do něhož byly investovány. Představuje pouhou změnu vlastnictví.
+
+V tomto smyslu nehraje žádnou roli, zda kapitalista „uteče“ k jiné domácí
+
+investici nebo k investici v zahraničí. Jedním z hlavních cílů devizové regula-ce je zabránit odlivu kapitálu do zahraničí.

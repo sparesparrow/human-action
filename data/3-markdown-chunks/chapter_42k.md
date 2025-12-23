@@ -1,21 +1,4 @@
-
-Jednající jednotlivec buď odhaduje změny, které nastanou bezjeho zásahu, a chce své jednání přizpůsobit tomuto předvídanému stavu věcí;nebo se chce angažovat v projektu, který změní podmínky, i kdyby žádné jinéfaktory změnu nevyvolaly. Minulé ceny jsou pro něj pouhým výchozímbodem ve snaze odhadovat ceny v budoucnosti.
-
-Historici a statistikové se zabývají cenami v minulosti. Praktický člověk se
-
-dívá na ceny v budoucnosti, i kdyby to měla být pouze bezprostřední budouc-nost příští hodiny, dne nebo měsíce. Ceny v minulosti jsou pro něj pouhoupomůckou při předpovídání cen budoucích. Nejen v předběžné kalkulaci
-
-19301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 193
-
-očekávaného výsledku plánovaného jednání, ale o nic méně ani ve snaze
-
-o určení výsledku jeho minulých obchodů ho v prvé řadě zajímají budoucíceny.
-
-V rozvaze a ve výkazu zisků a ztrát je možno výsledky minulého jednání
-
-vidět jako rozdíl mezi peněžním ekvivalentem vlastního kapitálu (celkováaktiva minus celková pasiva) na počátku a na konci vykazovaného obdobía jako rozdíl mezi peněžním ekvivalentem vynaložených nákladů a získanýchhrubých výnosů. Do takových výkazů musí být uveden odhadnutý peněžníekvivalent všech aktiv a pasiv jiných než hotovost.
-
-Tyto položky by měly býtoceněny podle cen, za něž by pravděpodobně mohly být v budoucnu prodá-ny, nebo – což platí obzvlášť v případě zařízení pro výrobní procesy – s ohle-dem na ceny, za které se dle očekávání prodá zboží vyrobené pomocí těchtopoložek. Avšak staré obchodní zvyklosti a ustanovení obchodního a daňové-ho práva zapříčiňují odchylku od zdravých principů účetnictví, které jsouzaměřeny výhradně na co nejvyšší dosažitelný stupeň správnosti.
+Avšak staré obchodní zvyklosti a ustanovení obchodního a daňové-ho práva zapříčiňují odchylku od zdravých principů účetnictví, které jsouzaměřeny výhradně na co nejvyšší dosažitelný stupeň správnosti.
 
 Tyto zvy-klosti a zákony se nezabývají ani tak správností rozvahy a výkazu zisků a ztrátjako sledováním jiných cílů. Obchodní zákony se snaží o takovou metoduúčetnictví, která by nepřímo chránila věřitele před ztrátou. Víceméně směřu-jí k ocenění aktiv pod jejich odhadnutou tržní hodnotou, aby čistý zisk a cel-kový vlastní kapitál vypadaly nižší, než ve skutečnosti jsou.
 
@@ -40,3 +23,21 @@ Co možná nejlépe popisují stav věcí v libo-volně vybrané chvíli, zatím
 Nejsou závislé nabudoucí situaci trhu o nic méně než jakákoli položka zásob nebo zařízení.Numerická přesnost obchodního účetnictví a kalkulace nám nesmí zabránit,abychom si neuvědomili nejistotu a spekulativní charakter jejich položeka všech výpočtů, které jsou na nich založeny.
 
 Avšak tyto skutečnosti nic neubírají na efektivitě ekonomické kalkulace.
+
+Ekonomická kalkulace je tak efektivní, jak jen může být. Žádná reformanemůže její efektivitu zvýšit. Poskytuje jednajícímu člověku všechny služby,které může od číselného vyjádření obdržet. Samozřejmě se nejedná o nástrojna poznání budoucích podmínek s naprostou jistotou a nezbavuje jednáníjeho spekulativního charakteru.
+
+To ale mohou považovat za nedostatek pouzeti, kteří nedokážou vidět skutečnost, že život není přísně nalinkovaný, že sevšechny věci neustále mění a člověk nemá o budoucnosti žádné zaručenézprávy.
+
+Úlohou ekonomické kalkulace není rozšiřovat znalosti lidí o budoucích
+
+podmínkách. Jejím úkolem je uzpůsobit jednání lidí, nakolik je to jen možné,v souladu s jejich současným názorem na uspokojení potřeb v budoucnu. Protento účel potřebuje jednající člověk výpočetní metodu, a výpočty potřebujíspolečného jmenovatele, k němuž budou všechny vstupující položky vztaže-ny. Společným jmenovatelem ekonomické kalkulace jsou peníze.
+
+2. Hranice ekonomické kalkulace
+
+Ekonomická kalkulace nemůže zahrnovat věci, které nejsou prodávány
+
+a kupovány za peníze.
+
+Existují věci, jež nejsou na prodej a pro jejichž získání se musí počítat
+
+s jinými oběťmi než s penězi a bohatstvím v penězích. Ten, kdo se chce vycvi-čit pro velké výkony, musí zapojit mnoho prostředků, z nichž některé mohouvyžadovat peněžní výdaje. Ale základní věci, které musí být pro takové úsilíobětovány, nelze koupit.

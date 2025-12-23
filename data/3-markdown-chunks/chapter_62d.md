@@ -1,8 +1,3 @@
-
-V převážně průmyslových zemích Evropy tak byli protekcionisté prvními,
-
-kdo horlivě tvrdili, že cla na zemědělské výrobky poškozují výhradně zájmyzemědělců v převážně agrárních zemích a obchodníků s obilím. Je jisté, žetyto vývozní zájmy jsou poškozeny také. Je však neméně jisté, že spotřebite-lé v zemi, která přijala celní politiku, ztrácejí spolu s nimi. Musejí platit zapotraviny vyšší ceny.
-
 Samozřejmě, odsekne protekcionista, že to není zátěž.Tvrdí, že dodatečná částka, kterou domácí spotřebitel platí, zvyšuje příjemzemědělců a jejich kupní sílu; celý rozdíl zemědělci utratí za koupi více výrob-ků vyrobených nezemědělskými vrstvami obyvatelstva. Tento logicky chybnýúsudek může být snadno vyvrácen odkazem na dobře známou anekdotuo člověku, který žádá hospodského o dar deseti dolarů; nic by ho to nestálo,protože žebrák slibuje, že celou částku utratí v jeho hospodě.
 
 Avšak přes tovšechno se protekcionistické lži zmocnilo veřejné mínění, a to samo o soběvysvětluje oblibu opatření, která tato lež vyvolala. Mnoho lidí si jednodušeneuvědomuje, že jediným důsledkem ochrany je odvést výrobu z těch míst,v nichž může vyprodukovat více na jednotku kapitálu a práce, do míst,v nichž produkuje méně. Činí lidi chudší, a ne bohatší.
@@ -34,3 +29,17 @@ Všechny politické strany bez výjimky slibují svým stoupencům vyšší reá
 ný příjem. V tomto ohledu není rozdílu mezi nacionalisty a internacionalistya mezi stoupenci tržního hospodářství a zastánci socialismu nebo intervenci-onismu. Pokud strana žádá své stoupence, aby pro její věc přinesli oběti, vždytyto oběti vysvětluje jako nutné dočasné prostředky k dosažení konečnéhocíle, zlepšení materiálního blahobytu svých členů.
 
 Každá strana považuje zazákeřné spiknutí ohrožující její renomé a existenci, jestliže se někdo odvážízpochybnit schopnost jejích projektů zajistit, aby členové skupiny byli bohat-ší. Každá strana hledí se smrtelnou nenávistí na ekonomy, kteří se pouštějí dotakové kritiky.
+
+Všechny druhy politik podporujících výrobce jsou obhajovány na základě
+
+jejich údajné schopnosti zvýšit členům strany životní úroveň. Protekcionis-
+
+29001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 290
+
+mus a hospodářská soběstačnost, nátlak a donucení odborových svazů, pra-
+
+covní zákonodárství, minimální mzdové sazby, veřejné výdaje, úvěrováexpanze, subvence a další nouzové prostředky jsou svými obhájci vždy dopo-ručovány jako nejvhodnější nebo jediné možné prostředky, jak zvýšit reálnýpříjem lidí, o jejichž hlasy se ucházejí. Každý současný státník nebo politikmonotónně říká svým voličům: můj program vás udělá tak zámožnými, nako-lik to jen podmínky dovolují, zatímco program mých protivníků vám přinesenouzi a bídu.
+
+Je pravda, že někteří izolovaní intelektuálové v ezoterických kruzích mluví
+
+jinak. Hlásí prioritu toho, co nazývají věčnými absolutními hodnotami, a vesvých prohlášeních – nikoli ve svém osobním chování – předstírají pohrdánísvětskými a pomíjivými věcmi.

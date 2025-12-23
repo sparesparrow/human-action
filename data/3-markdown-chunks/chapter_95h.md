@@ -1,9 +1,4 @@
-
-5Moderní
-
-ekonomie považuje tuto veličinu za souhrn katalakticky různorodých polo-žek. Přebytek hrubých příjmů nad výdaji, jenž klasičtí ekonomové nazývaliziskem, obsahuje cenu podnikatelovy vlastní práce použité ve výrobním pro-cesu, úrok z investovaného kapitálu a konečně samotný podnikatelský zisk.Pokud nebylo tohoto přebytku při prodeji výrobků vůbec dosaženo, podnika-tel nejen že nezískal samotný podnikatelský zisk, ale ani odpovídající tržníhodnotu své práce, ani úrok z investovaného kapitálu.
-
-4805Srov. R. Whately, Elements of Logic (9. vyd., Londýn, 1848), str. 354 a násl.;
+Whately, Elements of Logic (9. vyd., Londýn, 1848), str. 354 a násl.;
 
 E. Cannan, A History of the Theories of Production and Distribution in English Political
 

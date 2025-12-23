@@ -1,21 +1,4 @@
-
-Touto aktivitou přispívá svým podílem k dalšímu hospodářské-mu rozvoji společnosti a zlepšení životní úrovně ostatních lidí. Na scéně se ale
-
-75702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 757
-
-objevuje vláda a ničí příznivé dopady činnosti jednotlivců. Nic než tento
-
-příklad nevyvrací lépe klišé zastánců blahobytu, kteří staví do protikladusobeckého a omezeného jedince, kterému jde výlučně o okamžité uspokojenía který nebere ohledy na blahobyt ostatních lidí a trvalé zájmy společnosti,a daleko do budoucna hledící dobrotivou vládu, jež se neustále soustřeďuje napodporu trvalého blaha celé společnosti.
-
-Zastánci blahobytu přicházejí s dvěma námitkami. Zaprvé, že motivem jed-
-
-notlivce je sobectví, zatímco vláda je vedena dobrými úmysly. Přijměme protento okamžik, že jednotlivci se podobají ďáblu, zatímco vládci spíše andělům.V životě a realitě však nejsou rozhodující úmysly, ale výsledky, přestože Kanttvrdil opak. Existence a rozvoj společnosti jsou možné právě díky skutečnosti,že mírová spolupráce v podmínkách dělby práce slouží dlouhodobě nejlépesobeckým zájmům jednotlivců.
-
-Skvělé výsledky tržní společnosti byly dosaže-ny tím, že veškeré její fungování spočívá právě na tomto principu.
-
-Druhá výtka připomíná, že v systému blahobytu soukromá akumulace
-
-kapitálu a investice jsou nahrazeny vládou prováděnou akumulací a vládnímia veřejnými investicemi. Odkazuje se na skutečnost, že ne všechny fondy,které si vláda v minulosti vypůjčila, byly utraceny na běžné výdaje. Značnájejich část byla investována do stavby silnic, železnic, přístavů, letišť, elektrá-ren a ostatních veřejných projektů. Další, neméně významná část byla utrace-na na vedení obranných válek, které nesporně nemohly být financovány jinýmzpůsobem.
+Značnájejich část byla investována do stavby silnic, železnic, přístavů, letišť, elektrá-ren a ostatních veřejných projektů. Další, neméně významná část byla utrace-na na vedení obranných válek, které nesporně nemohly být financovány jinýmzpůsobem.
 
 Tato výtka ovšem míří zcela špatným směrem. Klíčové je to, že částúspor jednotlivců je vládou využita k běžné spotřebě a že nic vládě nebrání,aby tuto část zvýšila tak, že na běžnou spotřebu bude věnována suma celá.
 
@@ -48,3 +31,27 @@ Dokoncei Spojené státy se zjevně stále více přibližují této situaci.
 Vezměme si příklad vlády, jež získala kontrolu nad využitím značné části
 
 úspor občanů. Investice státního penzijního systému, soukromých pojišťoven,spořitelen a komerčních bank jsou z velké části určeny úřady a mají podobunákupu veřejného dluhu. Občané stále spoří. Zda jejich úspory ale povedouči nepovedou k akumulaci kapitálu, a zvýší-li tedy množství kapitálovýchstatků použitelných ke zdokonalení výrobního zařízení, tak závisí na způso-bu využití prostředků, jež si vláda půjčila.
+
+Jestliže vláda tyto zdroje vyplýtváať již tak, že je utratí na běžné výdaje, nebo na mylné investice, procesakumulace kapitálu, jenž zahájili jednotlivci tvorbou svých úspor a v němžpokračovaly banky a pojišťovny, když uskutečnily své investice, je zastaven.Odlišnosti mezi těmito dvěma způsoby nám mohou pomoci uvědomit si, kdeje problém:
+
+V neomezované tržní ekonomice uspoří Jan sto dolarů a uloží si je ve své
+
+spořitelně. Jestliže si dobře vybere banku, která obezřetně peníze půjčujea investuje, je výsledkem přírůstek kapitálu, který zvýší mezní produktivitupráce. Část takto vytvořeného přebytku se vrací k Janovi ve formě úroku. Jest-liže si Jan vybere banku špatně a svých sto dolarů svěří bance, která zkra-chuje, nedostane nic.
+
+V případě vládních zásahů do tvorby úspor a investic uspoří Pavel v roce
+
+1940 sto dolarů, které zaplatí do národní sociální pojišťovny.
+
+6Na oplátku
+
+získá pohledávku, která je v podstatě nepodmíněným vládním dluhopisem.Utratí-li vláda těchto sto dolarů formou běžných výdajů, nevzniká žádnýdodatečný kapitál, a tedy ani nedochází k žádnému přírůstku produktivitypráce. Vládní dluhopis je účtem vystaveným budoucím daňovým poplatní-kům. V roce 1970 jistý Petr bude muset splnit vládní příslib, ačkoli on sámnemá žádný užitek z toho, že Pavel v roce 1940 uspořil sto dolarů.
+
+Zde vidíme, že se nemusíme dívat do Sovětského svazu, abychom pocho-
+
+pili, jakou úlohu dnes hrají veřejné finance. Populární tvrzení, že veřejný dluhnepředstavuje žádné břímě, neboť „si ho dlužíme sami sobě“, je zcela mylné.
+
+7596Nezáleží na tom, zda těchto sto dolarů platí Pavel sám nebo zda povinnost odvést
+
+tyto prostředky ukládá zákon zaměstnavateli. Srov. výše, str. 538—539.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 759
+
+Pavel z roku 1940 sám sobě nic nedluží. Je to Petr z roku 1970, kdo dluží Pav-

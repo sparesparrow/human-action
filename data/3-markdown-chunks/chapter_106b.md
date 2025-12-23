@@ -1,4 +1,3 @@
-
 Všechny skupiny si spolu nepřímo konkurují.Pokud je více lidí zaměstnáno v lékařských profesích, jsou lidé staženi z pří-
 
 53002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 530

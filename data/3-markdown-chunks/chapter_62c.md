@@ -1,9 +1,4 @@
-
-12. Jednotlivec a trh
-
-Běžně se metaforicky mluví o automatických a anonymních silách, které
-
-uvádějí do chodu „mechanismus“ trhu. Při použití takových metafor lidésnadno přehlédnou skutečnost, že jediným činitelem, který dává trhu směr
+Při použití takových metafor lidésnadno přehlédnou skutečnost, že jediným činitelem, který dává trhu směr
 
 28701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 287
 
@@ -44,3 +39,7 @@ Skutečnost, že je statek ozna-čen jako dovezený, neovlivňuje jeho prodejnos
 Psychologické kořeny politiky výrobců, jak je dnes praktikována ve všech
 
 částech světa, můžeme vidět v mylných ekonomických teoriích. Tyto teoriekategoricky odmítají, že výsady poskytnuté méně schopným výrobcům zatě-žují spotřebitele. Jejich obhájci tvrdí, že taková opatření jsou škodlivá pouzepro toho, koho diskriminují. Pokud jsou – pod dalším tlakem – donuceni při-pustit, že spotřebitelé jsou poškozeni, jedním dechem tvrdí, že ztráty spotře-bitelů jsou více než vykompenzovány nárůstem v peněžních příjmech, kterýpříslušná opatření nutně přinesou.
+
+V převážně průmyslových zemích Evropy tak byli protekcionisté prvními,
+
+kdo horlivě tvrdili, že cla na zemědělské výrobky poškozují výhradně zájmyzemědělců v převážně agrárních zemích a obchodníků s obilím. Je jisté, žetyto vývozní zájmy jsou poškozeny také. Je však neméně jisté, že spotřebite-lé v zemi, která přijala celní politiku, ztrácejí spolu s nimi. Musejí platit zapotraviny vyšší ceny.

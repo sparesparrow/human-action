@@ -1,21 +1,4 @@
-
-Problémy, o nichž hovoříme, nejsou praxeologické povahy a ekonomie
-
-nám nemůže nabídnout jejich nejlepší možné řešení. Týkají se patologiea psychologie. Mají co do činění s biologickým faktem, že strach z chudoby
-
-75202_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 752
-
-a potupnost vyživování dobročinnými organizacemi hrají významnou úlohu
-
-v uchování fyziologické rovnováhy člověka. Vedou člověka k tomu, aby siuchoval vitalitu, vyhýbal se nemocem a úrazům a co nejrychleji se zotavilz utržených zranění. Zkušenosti systému sociálního zabezpečení, obzvláštěnejstaršího a nejúplnějšího systému německého, jasně ukazují nežádoucídůsledky plynoucí z odstranění těchto motivací.
-
-1Žádná civilizovaná společ-
-
-nost bezcitně nenechávala invalidy zemřít. Nahrazení charitativní pomociprávně vynutitelným nárokem na podporu a výživu se nezdá být v souladus existující lidskou přirozeností. Nikoli metafyzické předsudky, ale otázkypraktického fungování naznačují, že není záhodno zavádět trestně vymaha-telné právo na to, být vyživován.
-
-Krom toho je mylné domnívat se, že přijetí takových zákonů zbaví lidi
-
-v nouzi ponižujícího pocitu spojeného s přijímáním almužny. Čím štědřejší tytozákony budou, tím přísnější musí být jejich fungování. Rozhodování lidí, ježjejich vnitřní hlas přiměl k obdarování lidí v nouzi, je nahrazeno rozhodnutímbyrokratů. Těžko říci, zda tato změna může osud postižených lidí nějak zlepšit.
+Rozhodování lidí, ježjejich vnitřní hlas přiměl k obdarování lidí v nouzi, je nahrazeno rozhodnutímbyrokratů. Těžko říci, zda tato změna může osud postižených lidí nějak zlepšit.
 
 3. Nerovnost
 
@@ -64,3 +47,19 @@ Liberální filozofie útočila na tradiční kastovní systém, jelikož jeho z
 chování nebylo slučitelné s fungováním tržního hospodářství. Usilovala o zru-šení privilegií, protože chtěla otevřít cestu těm lidem, již dokázali vyrábětnejlevnějším způsobem největší množství výrobků nejlepší kvality. V tétosnaze o odstranění privilegií souhlasili utilitaristé a ekonomové s myšlenkamitěch, kdo útočili na privilegia statutu z pozic údajných přirozených práva doktríny rovnosti všech lidí. Obě tyto skupiny svorně zastávaly princip rov-nosti všech lidí před zákonem.
 
 Tento společný postoj však neznamenalodstranění základního rozporu mezi těmito dvěma přístupy.
+
+Podle zastánců školy přirozeného práva jsou si všichni lidé biologicky
+
+rovni, a proto mají nezcizitelné právo na rovný podíl na všech věcech. Prvnítvrzení je zjevně v rozporu se skutečností. Druhé vede při důsledné interpre-taci k takovým absurdnostem, že jeho zastánci raději zcela zavrhují logickoukonzistenci a v konečném důsledku přicházejí k tomu, že každá instituce, aťjiž je jakkoli diskriminující a hanebná, je považovaná za slučitelnou s neza-datelnou rovností všech lidí.
+
+Význační obyvatelé Virginie, jejichž myšlenkypodnítily americkou revoluci, souhlasili s otroctvím černochů. Bolševismus,který je nejdespotičtějším vládním systémem, jaký historie zná, se vydává zasamo zosobnění principu rovnosti a svobody všech lidí.
+
+Liberální zastánci rovnosti před zákonem si byli plně vědomi skutečnosti, že
+
+se lidé nerodí rovni a že právě tato jejich nerovnost vede ke vzniku společenskéspolupráce a civilizace. Rovnost před zákonem nebyla podle jejich názoruvytvořena, aby opravila nevyhnutelné skutečnosti světa a odstranila přírodní
+
+75402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 754
+
+nerovnost. Představovala naopak nástroj k zajištění maximálního prospěchu,
+
+který z ní je možné vyvodit, pro celé lidstvo. Proto by žádné instituce stvořenéčlověkem neměly člověku bránit v dosažení takového postavení, v němž můženejlépe sloužit svým spoluobčanům.

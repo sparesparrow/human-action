@@ -51,3 +51,13 @@ Západní národy dosáhly svého významu právě díky tomu,že dokázaly zkro
 vlastnictví výrobních prostředků byly nezbytnými součástmi v procesu vývojeod bídy primitivního člověka k uspokojivějším podmínkám Evropy a SeverníAmeriky devatenáctého století. V ýchodní Indie, Čína, Japonsko a muslimské
 
 země postrádaly instituce chránící práva jednotlivce. Svévolná vláda pašů,kádíů, rádžů, mandarínů a daimjů úsporám ani investicím velkého rozsahunepřála. Zákonné záruky, účinně chránící jednotlivce před vyvlastněníma zabavením majetku, byly živnou půdou, z níž vyrůstal nevídaný ekonomic-ký rozkvět Západu. Tyto zákony nebyly výsledkem náhody, souhry historic-kých okolností ani geografického prostředí. Byly výsledkem rozumu.
+
+44912Pro marxistický útok na genetiku srov. T. D. Lysenko, Heredity and Variability (New
+
+York, 1945). Kritické zhodnocení tohoto sporu lze nalézt v J. R. Baker, Science and the
+
+Planned State (New York, 1945), str. 71—76.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 449
+
+Nevíme, jakého směru by nabral vývoj dějin Asie a Afriky, pokud by jejich
+
+obyvatelé byli ponecháni sami sobě. Avšak stalo se, že některé z těchto zemíbyly podřízeny evropské správě a ostatní – jako Čína a Japonsko – byly přinu-ceny ukázkou námořní síly otevřít své hranice. Úspěchy západního industri-alismu k nim přišly ze zahraničí.

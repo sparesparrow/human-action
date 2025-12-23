@@ -1,8 +1,3 @@
-
-Není vhodné označovat katalaktickou nezaměstnanost metaforou vypůjče-
-
-nou z mechaniky, tedy jako „frikční“ nezaměstnanost. V imaginárním kon-struktu rovnoměrně plynoucí ekonomiky žádná nezaměstnanost neexistuje,protože jsme tento konstrukt na takovém předpokladu založili. Nezaměstna-nost je jevem měnícího se hospodářství.
-
 Skutečnost, že pracovník propuště-ný kvůli změnám v uspořádání výroby ihned nevyužije jakékoli příležitostizískat jiné místo, ale čeká na vhodnější příležitost, není důsledkem pomaléhopřizpůsobení změněným podmínkám, ale je jedním z faktorů zpomalujícíchtempo tohoto přizpůsobení. Nejde o automatickou reakci na proběhlé změny,nezávislou na vůli a volbách dotčených jednotlivců hledajících práci, alenásledek jejich záměrného jednání. Taková nezaměstnanost je spekulativní,nikoli frikční.
 
 Katalaktická nezaměstnanost nesmí být zaměňována za institucionální
@@ -54,3 +49,15 @@ vi. Pokud nevynahradí kratší pracovní dobu odpovídajícím zvýšením své
 5. Pokud vláda poskytne zaměstnavateli dotaci na zaměstnání určitých
 
 skupin pracovníků, jsou jim vyplacené mzdy zvýšeny o celkový objem tétodotace.
+
+6. Pokud úřady poskytnou každému zaměstnanému dělníkovi, jehož
+
+výdělky zaostávají za určitou minimální úrovní, příspěvek zvyšující jeho pří-jem na toto minimum, není míra mzdových sazeb ovlivněna přímo. Nepřímoby mohlo dojít k poklesu mzdových sazeb v důsledku toho, že by tento
+
+53802_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 538
+
+systém přiměl hledat práci i ty, kdo dříve nepracovali, a tím způsobit zvýšení
+
+nabídky práce.7
+
+6.

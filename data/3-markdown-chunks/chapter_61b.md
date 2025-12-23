@@ -1,5 +1,4 @@
-
-Tito úředníci by se stalinezodpovědnými činiteli a jejich moc by nahradila moc lidu nebo despoty.Dělali by to, co by je těšilo, a nikoli to, co by po nich chtěli jejich nadřízení.Aby se zabránilo takovým koncům a oni byli donuceni sloužit vůli svých nad-řízených, je nutné dát jim podrobné pokyny, které budou v každém směruusměrňovat jejich jednání. Pak bude jejich povinností vypořádat se se všemizáležitostmi v přísném souladu s těmito pravidly a nařízeními. Jejich svoboda
+Jejich svoboda
 
 28301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 283
 

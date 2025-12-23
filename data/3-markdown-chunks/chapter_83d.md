@@ -1,17 +1,4 @@
-
-Přebytek vývozu peněza měnového kovu není výsledkem nešťastné shody okolností, která se náro-du přihodí z boží vůle. Je výsledkem skutečnosti, že obyvatelé dané zemězamýšleli omezit objem peněz ve svém držení a místo toho nakupovat statky.Z tohoto důvodu je platební bilance zemí těžících zlato zpravidla „nepřízni-vá“; z tohoto důvodu je „nepříznivá“ i platební bilance země, v níž docházík nahrazování části peněžní zásoby fiduciárními prostředky, dokud tento pro-ces pokračuje.
-
-Není nutné, aby paternalistické úřady přijímaly jakákoli opatření ze stra-
-
-chu, že země ztratí prostřednictvím své nepříznivé platební bilance veškerouzásobu peněz. Situace v tomto případě není odlišná od platební bilance jed-notlivce nebo jejich skupin. Stejně tak se neliší případy platební bilanceměsta nebo okresu a suverénního národa. Žádná vládní intervence, která byzabránila obyvatelům New Yorku utratit všechny své peníze v ostatních čty-řiceti devíti státech Unie, není zapotřebí. Pokud jakýkoli Američan pokládáza důležité držet hotovost, postará se o to sám.
-
-Svým dílem přispěje k udrže-ní přiměřené nabídky peněz ve své zemi. Pokud ovšem o držbu hotovostinestojí nikdo z Američanů, žádné vládní opatření týkající se mezinárodníhoobchodu a úhrady mezinárodních plateb nezabrání odlivu peněz z celkovéamerické peněžní zásoby. Bylo by nutné přistoupit k přísně vynucovanémuzákazu vývozu peněz a měnového kovu.
-
-40701_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 407
-
-15. Směnné kurzy mezi oblastmi
-
-Předpokládejme nejprve, že existuje pouze jeden druh peněz. Potom pro
+Potom pro
 
 kupní sílu peněz na různých místech platí totéž co pro ceny zboží. Konečnácena bavlny v Liverpoolu nemůže převýšit konečnou cenu v texaském Hous-tonu o více, než činí přepravní náklady. Bude-li cena v Liverpoolu vyšší,obchodníci pošlou bavlnu do Liverpoolu a vyvolají tendenci k návratu kekonečné ceně.
 
@@ -42,3 +29,41 @@ slušnými oblastmi. Je tedy jen technickou otázkou, zda je toto vyrovnání pr
 vatel oblasti A(nebo B) zaplatit obyvateli oblasti B(nebo A), držena v rozpětí
 
 daném náklady přepravy. Nemůže vzrůst nad paritní hodnotu o více, nežkolik činí přepravní náklady (bod vývozu zlata), a nemůže klesnout podnáklady přepravy (bod dovozu zlata).
+
+Může se stát, že se – za nezměněných předpokladů – objeví dočasný
+
+nesoulad mezi platbami z Ado B azBdo A. Poté se lze vyhnout přesunu zlata
+
+mezi těmito oblastmi pouze tím, že dojde k úvěrovým operacím. Pokud můžedovozce, který má dnes zaplatit z oblasti Ado oblasti B, koupit na devizovém
+
+trhu nároky vůči obyvatelům Bsplatné za devadesát dnů, může si ušetřit
+
+náklady spojené s přepravou zlata tím, že si na devadesát dnů vypůjčí sumu,již má zaplatit. Obchodníci na devizovém trhu sáhnou po tomto náhradnímřešení, pokud náklady na půjčení si v oblasti Bnepřevýší náklady na půjčení
+
+si v oblasti Ao více než dvojnásobek nákladů na přepravu zlata. Pokud jsou
+
+přepravní náklady zlata 1/8 procenta, budou ochotni zaplatit za tříměsíčnípůjčku v Bnejvýše o 1 procento (per annum) více, jako úrok odpovídající tako-
+
+vé úrovni úrokové míry na peněžním trhu, při níž – za předpokladu nepří-tomnosti takových požadavků pro platby mezi oblastmi – budou mezi AaB
+
+uskutečněny úvěrové operace.
+
+Tyto skutečnosti je možné vyjádřit tvrzením, že denní stav platební bilan-
+
+ce mezi AaBurčuje denní bod, v němž je – v mezích stanovených bodem
+
+vývozu a bodem dovozu zlata – směnný kurz měn stanoven. Nesmíme ovšemzapomenout, že toto nastane pouze v případě, nezamýšlejí-li obyvatelé AaB
+
+změnit objem hotovosti ve svém držení. Pouze tehdy se totiž lze zcela vyhnoutpřevodu zlata a udržet směnný kurz měn mezi body dovozu a vývozu zlata.Pokud chtějí obyvatelé oblasti Aomezit objem hotovosti ve svém držení a oby-
+
+vatelé oblasti Bho chtějí zvýšit, musí být zlato přepraveno z Ado Ba kurz v B
+
+pro telegrafický převod dosáhne v Abodu vývozu zlata. Potom je posláno
+
+zlato z Ado Bstejným způsobem, jako je pravidelně převážena bavlna mezi
+
+Spojenými státy a Evropou. Kurz pro telegrafický převod v B dosáhne bodu
+
+vývozu zlata, protože obyvatelé Aprodávají zlato obyvatelům B, ne proto, že
+
+je jejich platební bilance nepříznivá.

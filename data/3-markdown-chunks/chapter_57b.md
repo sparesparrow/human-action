@@ -1,9 +1,4 @@
-
-Zabývat se jimi je velký úkol dějepisu naší doby. Ekonomická teorie nemápotřebu podrobně se jimi zabývat. Skutečnost, že existují obchodní bariéry,
-
-25615Vyvrácení módních teorií o nedokonalé a monopolistické konkurenci najde čtenář
-
-v knize F. A. Hayeka Individualism and Economic Order (Chicago, 1948), str. 92—118.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 256
+92—118.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 256
 
 privilegia, kartely, státní monopoly a odborové svazy, je pouhým datem hos-
 

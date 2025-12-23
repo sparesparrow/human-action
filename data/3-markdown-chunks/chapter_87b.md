@@ -1,4 +1,3 @@
-
 Uspořádání světových politických a ekonomických poměrů umožnilo ame-
 
 rické vládě dodržet slib přenechat cizím vládám a centrálním bankám uncizlata po zaplacení třiceti pěti dolarů. Avšak pokračování a zesílení americké„expanzivní“ politiky podstatně zvýšilo výběry zlata a lidé se začínají obávatbudoucích měnových podmínek. Leká je představa dalšího zvýšení poptávkypo zlatě, které by mohlo vyčerpat zásoby zlata Spojených států a přimět jek opuštění současného způsobu nakládání se zlatem.
@@ -52,3 +51,7 @@ každý den je dostupná jedna jednotka.
 Je důležité si uvědomit, že doba výroby stejně jako doba upotřebitelnosti
 
 jsou kategorie lidského jednání, a nikoli koncepty vytvořené filozofy, ekono-my nebo historiky jako myšlenkové nástroje pro jejich výklad událostí. Jsounezbytným prvkem přítomným v každé úvaze, jež předchází a směruje jed-nání. Je nezbytné tento bod zdůraznit, protože Böhm-Bawerk, kterému eko-nomie vděčí za objevení úlohy doby výroby, tomuto rozdílu neporozuměl.
+
+Jednající člověk se nedívá na své poměry očima historika. Nezajímá ho, jak
+
+k současné situaci došlo.

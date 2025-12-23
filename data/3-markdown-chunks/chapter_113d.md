@@ -1,13 +1,4 @@
-
-56002_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 560
-
-Za předpokladu, že neexistují žádné institucionální bariéry bránící či tre-
-
-stající pohyb kapitálových statků, pracovníků a komodit z jednoho místa čioblasti do jiné a že pracovníci jsou lhostejní k tomu, kde žijí a pracují, existu-je tendence k rozmístění populace po zemském povrchu podle fyzické pro-duktivity primárních přírodních výrobních faktorů a podle nemožnosti pře-sunout nepřevoditelné výrobní faktory vynaložené v minulosti. Pokudzanedbáme nákladovou složku, převládá všude na zemském povrchu ten-dence k vyrovnání mzdových sazeb pro tentýž druh práce.
-
-Určitou oblast by bylo možné nazvat relativně přelidněnou, pokud jsou
-
-v ní tržní mzdové sazby plus (kladná nebo záporná) nákladová složka nižšínež standardní sazby, a relativně málo zalidněnou, pokud jsou v ní tržnímzdové sazby plus (kladná nebo záporná) nákladová složka vyšší než stan-dardní sazby. Není však příliš vhodné používat tuto definici uvedenýchpojmů, protože nám nepomáhá vysvětlit skutečné podmínky utváření mzdo-vých sazeb a chování pracovníků. Je vhodnější zvolit jinou definici.
+Není však příliš vhodné používat tuto definici uvedenýchpojmů, protože nám nepomáhá vysvětlit skutečné podmínky utváření mzdo-vých sazeb a chování pracovníků. Je vhodnější zvolit jinou definici.
 
 Oblastmůžeme nazvat relativně přelidněnou, pokud jsou v ní tržní mzdové sazbynižší než standardní sazby zvýšené jak o (kladnou nebo zápornou) vztahovousložku a (kladnou nebo zápornou) nákladovou složku, tedy tam, kdeM<( S+A+C ) . Obdobně lze oblast nazývat relativně málo zalidněnou,
 
@@ -50,3 +41,17 @@ Primitivní člověk nečinil žádný rozdíl mezi vlastnictvím žen, dětí, 
 na straně jedné a vlastnictvím dobytka a neživých věcí na straně druhé. Jak-mile však začne od svých otroků požadovat služby jiné než ty, které mohoubýt vykonány tažnými a přepravními zvířaty, je nucen povolit jim okovy.
 
 Musíse pokusit nahradit motivaci pouhým strachem za motivaci založenou navlastním zájmu otroků; musí se pokusit připoutat k sobě otroka lidskými city.Pokud již otrokovi v útěku nebrání pouze dozor a řetězy a není již nucen pra-covat jen kvůli hrozbě, že bude zbičován, vztah mezi pánem a otrokem semění na společenský vztah. Otrok může, zvláště pokud má stále v pamětišťastnější svobodné doby, truchlit nad svým neštěstím a prahnout po osvobo-zení.
+
+Podřizuje se však tomu, co se mu jeví jako nevyhnutelný stav věcí, a při-způsobí se svému osudu, tak aby ho učinil co nejsnesitelnějším. Otrok sesnaží uspokojit svého pána tím, že se snaží a provádí jemu svěřené úkoly; pánchce povzbudit otrokovu snahu a oddanost rozumným zacházením. Tak vzni-ká mezi pánem a otrokem důvěrný vztah, jenž můžeme vhodně označit zapřátelství.
+
+Zastánci otroctví se možná zcela nemýlili, když tvrdili, že mnoho otroků
+
+bylo se svým postavením spokojeno a neusilovalo o jeho změnu. Někteříjednotlivci, skupiny jednotlivců či dokonce celé národy a rasy měli užitekz bezpečí a bezstarostnosti poskytovaných otroctvím; ti, kterým nevadí poni-žování a pokoření, rádi zaplatí nevelkým množstvím práce za výsadu sdíletvymoženosti domácnosti bohatých lidí; z jejich pohledu mohou být vrtochya špatné nálady pána pouze malým, nebo vůbec žádným zlem.
+
+Podmínky, v nichž se lopotili otroci na velkých farmách a plantážích,
+
+v dolech, dílnách a na galejích, byly samozřejmě velmi odlišné od idylicky
+
+56202_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 562
+
+popisovaného veselého života domácích komorníků, pokojských, kuchařů

@@ -1,33 +1,4 @@
-
-Celá věc ale není tak jednoduchá, jak se může zdát. Opium a morfin jsou
-
-zcela jistě nebezpečné a návykové drogy. Jakmile ale přijmeme princip, že jepovinností vlády ochraňovat jednotlivce proti jejich vlastní hlouposti, ztrá-címe pádný argument proti dalším vládním zásahům. Lze pak snadno argu-mentovat pro zákaz alkoholu a nikotinu. A proč omezovat benevolentnívládní péči pouze na lidská těla? Není snad škoda, kterou může člověk uštěd-řit své mysli a duši, ještě mnohem horší než škoda tělesná?
-
-Proč nezabránitčlověku ve čtení špatných knih a sledování špatných filmů, v prohlížení špat-ných obrazů a soch a v poslouchání špatné hudby? Škoda napáchaná špatný-mi ideologiemi je jistě také jak pro jedince, tak pro celou společnost mnohemzhoubnější než škoda způsobená drogami.
-
-Teď již nehovoříme pouze o domnělých nebezpečích, jež straší pár izolo-
-
-vaných dogmatiků. Je faktem, že žádná paternalistická vláda, ať již dávná čimoderní, se nevyvarovala pokusů o regulování lidské mysli, víry a názorů.Pokud je jednou pošlapána svoboda člověka rozhodovat o své spotřebě, mizíveškeré svobody. Naivní zastánci vládních zásahů do spotřeby se obelhávají,když opomíjejí to, co tak pohrdavě nazývají filozofickým aspektem problému.Nevědomky tak podporují myšlenky, jež stojí za cenzurou, inkvizicí, nábo-ženskou netolerancí a pronásledováním jinověrců.
-
-Zabýváme-li se katalaxií intervencionismu, ponecháváme stranou tyto
-
-politické důsledky přímých vládních zásahů do spotřeby občanů. Zabývámese výlučně těmi akty intervence, jež mají za cíl přinutit podnikatele a kapita-listy využít výrobní prostředky odlišným způsobem, než by učinili v situaci,kdy by byli podřízeni pouze diktátu trhu. Při tomto zkoumání si neklademeotázku, zda je daný zásah dobrý nebo špatný vzhledem k nějakému předem
-
-65602_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 656
-
-danému standardu. Ptáme se pouze, zda může dosáhnout těch cílů, kterých
-
-jeho obhájci, již se k tomuto zásahu uchýlili, dosáhnout chtějí.
-
-Korupce
-
-Analýza intervencionismu by nebyla úplná, kdyby nevzala v úvahu jev
-
-korupce.
-
-Těžko bychom hledali nějaký vládní zásah do fungování tržního procesu,
-
-který by z pohledu dotčených obyvatel nebylo možné označit za konfiskaci čidar. Vždy platí, že jeden člověk nebo skupina získává na úkor jiného člověkači skupiny. V mnoha případech ale škoda napáchaná jedněm lidem neodpo-vídá jakékoli výhodě pro jiné lidi.
+Vždy platí, že jeden člověk nebo skupina získává na úkor jiného člověkači skupiny. V mnoha případech ale škoda napáchaná jedněm lidem neodpo-vídá jakékoli výhodě pro jiné lidi.
 
 Neexistuje nic takového jako spravedlivý a čestný způsob použití té
 
@@ -52,3 +23,17 @@ k rozdělení lidí z pohledu doktríny, jež považuje rovnost bohatství a př
 li, usilovat o přízeň nakupujících a dosáhnout zisku, když se člověku podaří
 
 uspokojit spotřebitele lépe, než se podařilo konkurentům, je – z pohledu ofi-ciální ideologie – sobecké a zavrženíhodné. Pouze lidé, kteří získávají svémzdy od vlády, se kvalifikují jako nesobečtí a ctnostní.
+
+Naneštěstí ale nejsou držitelé úřadů a jejich zaměstnanci anděly. Velmi
+
+rychle zjistí, že jejich rozhodnutí znamenají pro podnikatele buď významnéztráty, nebo – někdy – tučné zisky. Nepochybně existují i byrokraté, kteřínepřijímají úplatky. Jsou ale i takoví, kteří se snaží získat výhodu z jakékoli„jisté“ příležitosti „podělit“ se s těmi, jimž jejich rozhodnutí pomáhá.
+
+V mnoha oblastech správy intervencionistických opatření se prostě klien-
+
+telismu nelze vyhnout. Vezměme si například případ vývozních či dovozníchlicencí. Takováto licence má pro jejího držitele jistou peněžní hodnotu. Komuby měla vláda licenci udělit a komu její přidělení naopak odmítnout? Neexis-tuje žádné objektivní měřítko, které by se dokázalo vyhnout osobnímu zauje-tí a něčímu upřednostnění. Není podstatné, zda dojde či nedojde k přesunupeněz.
+
+Je stejně skandální, když je licence přidělena lidem, kteří poskytlinebo slíbili, že poskytnou jiné hodnotné služby (např. poskytnou politickoupodporu) lidem, jež o licenci rozhodují.
+
+Korupce je běžným výsledkem intervencionismu. Ponechme historikům
+
+a právníkům, aby se těmito problémy zabývali.

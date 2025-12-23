@@ -49,3 +49,9 @@ muka nemají nic společného s významem obecně přisuzovaným slovu práce,v�
 Výdobytky tvůrčího inovátora, jeho myšlenky a teorie, jeho básně, obrazy
 
 a skladby nelze praxeologicky zařadit jako produkty práce. Nejsou výsledkypoužití práce, která mohla být místo toho věnována na produkci jiných věcí.Myslitelé, básníci a umělci někdy nejsou schopni dělat cokoli jiného. Kaž-dopádně čas, který věnují tvůrčím aktivitám, není vzat z užití pro nějaký jinýúčel. Podmínky někdy mohou odsoudit do tvůrčí neplodnosti člověka, kterýby jinak měl schopnosti přinést dosud nevídané věci, mohou mu sebratveškeré jiné alternativy než boj o pouhé fyzické přežití.
+
+Pokud však génius
+
+12412Vůdci [Führers] nejsou pionýry. Vedou lidi po trase, kterou vytyčili pionýři. Pionýři
+
+prosekávají cesty končinami, které byly dosud nepřístupné, a nemohou se starato to, zda je chce někdo následovat.

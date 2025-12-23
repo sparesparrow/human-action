@@ -1,5 +1,4 @@
-
-Peněžní substituty jsou při provádění plateb vydávány a přijímány stejně jakopeníze. Druhotné prostředky směny musí být nejprve směněny za penízenebo za peněžní substituty, pokud je chce člověk použít – nepřímo – pro pla-cení nebo pro zvýšení objemu držené hotovosti.
+Druhotné prostředky směny musí být nejprve směněny za penízenebo za peněžní substituty, pokud je chce člověk použít – nepřímo – pro pla-cení nebo pro zvýšení objemu držené hotovosti.
 
 Nároky používané jako druhotné prostředky směny mají díky tomuto užití
 

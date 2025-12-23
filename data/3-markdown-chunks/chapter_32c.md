@@ -1,12 +1,3 @@
-
-Když se blížíme k optimální kombinacizvyšováním množství jediného faktoru při konstantním množství faktorůostatních, pak mohou jednotkové výnosy variabilního faktoru růst buď pro-porcionálně, nebo dokonce rychleji. Stroj může, je-li obsluhován 2 pracovní-ky, produkovat p, při obsluze 3 pracovníky 3 p, 4 pracovníky 6 p, 5 pracovní-
-
-ky 7 p, 6 pracovníky rovněž 7 p. V takovém případě je optimální výstup na
-
-pracovníka, 6/4, dosahován při obsluze stroje 4 pracovníky, zatímco ostatníkombinace přinášejí ½p, p, 7/5 pa 7/6 p. Pokud například místo 2 zaměst-
-
-náme 3 nebo 4 pracovníky, vzrostou výnosy rychleji, než odpovídá nárůstupracovníků. Nerostou v poměru 2:3:4, nýbrž v poměru 1:3:6. Sledujeme ros-toucí výnosy na pracovníka. Nejedná se však o nic jiného než o převrácenýzákon klesajících výnosů.
-
 11601_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 116
 
 Jestliže se nějaká továrna odchyluje od optimální kombinace používaných
@@ -52,3 +43,11 @@ jemné. Nepracovat se považuje za uspokojivější stav věcí než pracovat. V
 Psychologie a fyziologie se můžou pokoušet tento fakt vysvětlit. Praxeolo-
 
 gie se nemusí zabývat tím, zda se jim to povede, či nikoli. Pro praxeologii jefaktem, že lidé chtějí volný čas, a proto posuzují svou vlastní schopnost způ-sobit účinky s odlišnými pocity, než s jakými posuzují schopnost hmotnýchvýrobních faktorů. Když člověk zvažuje vydání vlastní práce, zkoumá nejento, zda neexistuje nějaký více žádoucí cíl, na jehož dosažení by dané množstvípráce bylo možné použít, ale rovněž zda by nebylo více žádoucí se dalšíhovydávání práce zdržet.
+
+Tuto skutečnost lze vyjádřit i tak, že nazveme dosaho-vání volného času cílem účelové aktivity či ekonomickým statkem prvníhořádu. Při používání této poněkud komplikované terminologie musíme nahlí-žet na volný čas jako na jakýkoli jiný ekonomický statek z pohledu mezníhoužitku. Musíme dovodit, že první jednotka volného času uspokojuje přání,které je preferováno před přáním druhým, druhé před třetím a tak dále.
+
+Obrá-cením tohoto výroku získáme tvrzení, že újma práce pociťovaná pracujícímroste rychlejším tempem než množství vydané práce.
+
+Pro praxeologii je nicméně studium otázky, zda újma z práce roste propor-
+
+cionálně k množství vydané práce či rychleji, zbytečné. (Zda je tento problémdůležitý pro fyziologii a psychologii, můžeme ponechat nerozhodnuté.) Pra-cující každopádně ukončuje práci v okamžiku, kdy nepovažuje užitek z jejíhopokračování za dostatečnou kompenzaci újmy plynoucí z jejího dalšího vy-konávání.

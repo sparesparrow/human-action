@@ -1,7 +1,4 @@
-
-Pro využití rovnic popisujících rovnovážný stav je ale potřeba znalost
-
-odstupňování hodnot spotřebního zboží v tomto rovnovážném stavu. Totoodstupňování je jedním z prvků, jež tyto rovnice považují za známé. Avšakředitel zná pouze své současné hodnocení, a nikoli hodnocení v hypotetickémrovnovážném stavu. Myslí si (na základě svého současného hodnocení), žealokace výrobních faktorů je neuspokojivá, a chce ji změnit. Ale neví nico tom, jaké bude jeho vlastní hodnocení v den, kdy bude dosažena rovnová-ha.
+Myslí si (na základě svého současného hodnocení), žealokace výrobních faktorů je neuspokojivá, a chce ji změnit. Ale neví nico tom, jaké bude jeho vlastní hodnocení v den, kdy bude dosažena rovnová-ha.
 
 Tato hodnocení budou odrážet data plynoucí z postupných změn výroby,které on sám zahájí.
 
@@ -70,3 +67,7 @@ Tento hypotetický budoucí rovnovážný stav se objeví, až budou všechny
 výrobní metody uzpůsobeny hodnocení aktérů a stavu technických znalostí.Pak se bude pracovat v nejvhodnějších místech za pomoci nejvhodnějšíchtechnologií. Dnešní hospodářství je jiné. Funguje s jinými prostředky, kteréneodpovídají rovnovážnému stavu a nelze je vzít v úvahu v systému rovnicpopisujících tento stav v matematických symbolech. Znalost podmínek, kterébudou panovat za rovnováhy, je k ničemu pro ředitele, jehož úkolem je jednatza současných podmínek.
 
 Musí se naučit, jak pracovat co nejhospodárnějis prostředky, jež jsou k dispozici dnes a jsou dědictvím z doby s jiným hod-nocením, jinými technickými znalostmi a jinými informacemi o problémechumístění. Musí vědět, jaký krok má udělat jako další. Pro tuto volbu nepo-skytují rovnice žádnou pomoc.
+
+Předpokládejme, že v izolované zemi, jejíž hospodářské podmínky se sho-
+
+dují s hospodářskými podmínkami střední Evropy poloviny devatenáctéhostoletí, vládne diktátor, který je dokonale obeznámen s dnešní americkoutechnikou. Tento diktátor víceméně ví, k jakému cíli by měl vést hospodářstvízemě, jež je mu svěřena do péče. Avšak ani úplná znalost dnešních americ-kých podmínek by mu nedokázala pomoci, co se týče problému převedenídaného systému pomocí postupných kroků nejvhodnějším a nejvýhodnějšímzpůsobem na cílový systém.

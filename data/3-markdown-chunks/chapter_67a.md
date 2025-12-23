@@ -63,3 +63,9 @@ Významnémísto, jež mají kartely v naší době, je výsledkem intervencioni
 lidstvo čelit, není plodem fungování tržního hospodářství. Je výsledkem
 
 záměrného jednání ze strany vlád. Není – jak vytrubují demagogové –zlem,které je spolu s dalšími neoddělitelně spjato s kapitalismem. Naopak, je toplod politiky, která je ke kapitalismu nepřátelská a je rozhodnuta narušovata ničit jeho chod.
+
+Klasickou zemí kartelů bylo Německo. V posledních desetiletích devate-
+
+náctého století se německá říše vydala cestou rozsáhlého programu Sozialpo-
+
+litik. Záměrem bylo zvýšit příjmy a životní úroveň lidí pracujících za mzdu

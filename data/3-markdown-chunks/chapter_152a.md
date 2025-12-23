@@ -49,3 +49,5 @@ jež je v rozporu s cíli, kvůli kterým byly zavedeny, existují pouze dvě v�
 Maximální cena vede k omezení nabídky, jelikož mezní výrobci trpí ztráta-
 
 mi a musí přestat vyrábět. Nespecifické výrobní faktory jsou užity při výrobějiných výrobků, které nejsou zatíženy cenovými stropy. Využití zcela specific-kých výrobních faktorů klesá. Na neomezovaném trhu by specifické výrobnífaktory byly využity do takové míry, která bude určena nemožností využítnespecifické výrobní faktory (jako komplementární faktory) k uspokojenínaléhavějších potřeb.
+
+Nyní je možné využít pouze menší část z těchto dostup-ných zcela specifických faktorů; a zvýší se tedy množství faktorů, které ne-budou využívány.

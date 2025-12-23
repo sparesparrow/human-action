@@ -65,3 +65,5 @@ možné prodat přiměřené množství, aniž by to mělo na trh s nimi negativ
 pitelně porovnána s určitými vznikajícími riziky. Prodej cenných papírů a tímspíše statků může být uskutečněn se ztrátou. Toto nebezpečí nehrozí u zůstat-ků na bankovních účtech, riziko selhání banky je obvykle zanedbatelné.Proto jsou pohledávky vůči bankám a bankéřům, jež přinášejí úrok a mohoubýt zpeněženy po krátké výpovědní lhůtě, nejrozšířenějšími druhotnými pro-středky směny.
 
 Nesmíme zaměňovat druhotné prostředky směny s peněžními substituty.
+
+Peněžní substituty jsou při provádění plateb vydávány a přijímány stejně jakopeníze.

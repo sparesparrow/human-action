@@ -1,9 +1,4 @@
-
-1313Mnozí ekonomové, mezi nimi Adam Smith a Bastiat, věřili v Boha. Proto na skuteč-
-
-nostech, které objevili, obdivovali prozíravou péči „velkého Ředitele Přírody“. Ateis-tičtí kritikové jim tento přístup vyčítají. Tito kritici si však neuvědomují, že vysmívá-ní se odkazům na „neviditelnou ruku“ nezbavuje základní učení racionalistickéa utilitaristické sociální filozofie platnosti.
-
-Je třeba pochopit, že máme následujícíalternativu: Buď je sdružování lidský proces, protože nejlépe slouží cílům zapojenýchjedinců a samotní jedinci mají schopnost uvědomit si výhody, které získávají z při-způsobení se životu ve spolupráci lidí. Nebo nějaká vyšší bytost nakazuje zpěčujícímse lidem, aby se podřídili zákonu a společenským autoritám. Má jenom minimálnívýznam, zda této vyšší bytosti dáme jméno Bůh, Weltgeist , Osud, Dějiny, Wotan nebo
+Má jenom minimálnívýznam, zda této vyšší bytosti dáme jméno Bůh, Weltgeist , Osud, Dějiny, Wotan nebo
 
 Materiální výrobní síly a jak nazveme její apoštoly, tedy ty, kteří přikazují.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 131
 
@@ -42,3 +37,11 @@ ce na udržení mírových mezilidských vztahů. Avšak pro udržení míru mus
 Liberální sociální doktrína, založená na učení utilitaristické etiky a ekono-
 
 mie, se dívá na problém vztahů mezi vládou a těmi, jimž se vládne, z jinéhoúhlu než univerzalismus a kolektivismus. Liberalismus si uvědomuje, že vlád-ci, kteří vždy tvoří menšinu, nemohou zůstat trvale v úřadu, pokud nejsoupodporováni souhlasem většiny těch, jimž vládnou.
+
+Ať již je systém vládyjakýkoli, základem, na němž je vybudován a na němž také spočívá, je vždynázor těch, jimž se vládne, že poslouchat vládu a být k ní loajální slouží jejichvlastním zájmům lépe než povstání a ustavení jiného režimu. Většina má mocodstranit nepopulární vládu a tuto moc použije, kdykoli začne být přesvěd-čena, že to její vlastní blaho vyžaduje. Občanská válka a revoluce jsou pro-středky, jimiž nespokojené většiny svrhávají vládce a metody vládnutí, jež jimnevyhovují.
+
+V zájmu domácího míru směřuje liberalismus k demokratickévládě. Demokracie proto není revolučním zřízením. Naopak, je to prostředek,který slouží právě k předcházení revolucím a občanským válkám. Poskytujemetodu pro mírové přizpůsobení vlády vůli většiny. Pokud lidé v úřadecha jejich politika již nevyhovují většině národa, budou – v příštích volbách –odstraněni a nahrazeni jinými lidmi hlásícími se k jiné politice.
+
+Princip většinové vlády nebo vlády podle lidí, jak je doporučován libera-
+
+lismem, nesměřuje k převaze těch průměrných, nevzdělaných, ochočenýchbarbarů. Také liberálové věří, že národu by měli vládnout ti, kteří se pro tentoúkol nejlépe hodí.

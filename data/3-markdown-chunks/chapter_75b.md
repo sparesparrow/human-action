@@ -1,5 +1,4 @@
-
-Fakt, že se peníze neopotřebovávají jejich používáním a že mohouposkytovat své služby prakticky po neomezenou dobu, je důležitým faktorempři formování jejich nabídky. To ale nemění nic na skutečnosti, že důvod, pročsi lidé cení peněz, lze vysvětlit stejným způsobem jako to, proč si cení jinýchstatků: poptávkou části těch, kdo jich chtějí získat určité množství.
+To ale nemění nic na skutečnosti, že důvod, pročsi lidé cení peněz, lze vysvětlit stejným způsobem jako to, proč si cení jinýchstatků: poptávkou části těch, kdo jich chtějí získat určité množství.
 
 Ekonomové se pilně snažili vypočítávat faktory, které v rámci celého eko-
 

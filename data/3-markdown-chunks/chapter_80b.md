@@ -1,4 +1,3 @@
-
 39101_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 391
 
 K úvěrové expanzi dochází pouze tehdy, je-li úvěr poskytnut z dodatečně

@@ -1,11 +1,4 @@
-
-Vzniká tak ohromná mezera oddělujícívyděděné chudáky od statkářů, jimž byl osud nakloněn. Jsou třídou vyvrhe-lů, jejichž samotná existence vytváří ve společnosti neřešitelný problém.Marně se pídí po obživě. Společnost pro ně nemá upotřebení. Žijí v bídě.
-
-Když v dobách před vznikem moderního kapitalismu hovořili státníci, filo-
-
-zofové a právníci o chudých a o problémech chudoby, měli na mysli právě tytonadpočetné chudáky. Laissez faire a jeho odnož, industrialismus, přeměnily
-
-zaměstnatelné chudé na příjemce mezd. Ve svobodné tržní společnosti jsoulidé s vyššími a lidé s nižšími příjmy. Nenajdeme zde ale lidi, kteří jsou siceochotni a schopni pracovat, ale nemohou najít pravidelné zaměstnání, jelikožve společenském systému výroby pro ně není místo. Liberalismus a kapitalis-mus byly ale i ve dnech své největší slávy omezeny na relativně malá územízápadní a střední Evropy, Severní Ameriky a Austrálie. Ve zbytku světa stále
+Ve zbytku světa stále
 
 74902_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 749
 
@@ -48,3 +41,15 @@ ni vydělat.
 Problém invalidity je specifickým problémem lidské civilizace a společ-
 
 nosti. Zmrzačená zvířata rychle hynou. Buď zemřou hlady, nebo padnou zaoběť svým nepřátelům. Divoši neměli slitování s těmi, kdo nedosahovaliobvyklých kvalit. Mnohé kmeny praktikovaly takové barbarské způsobyjejich vyhlazování, ke kterým se v naší době uchýlili nacisté. Samotná exi-stence relativně velkého počtu invalidů ale je, jakkoli je to paradoxní, typic-kým znakem civilizace a materiálního blahobytu.
+
+Péče o ty jedince, kterým se nedostává vlastních prostředků k přežití
+
+a není o ně postaráno ze strany příbuzných, byla dlouho považována za cíldobročinnosti. Potřebné prostředky někdy poskytly vlády, častěji ale pochá-zely z dobrovolných příspěvků. Katolické řády a kongregace a některé pro-testantské instituce dokázaly divy při získávání takovýchto darů a jejichnáležitém využití. Dnes navíc existuje celá řada necírkevních organizací, ježsi s nimi konkurují v této ušlechtilé činnosti.
+
+Systém charity je kritizován ze dvou důvodů. Prvním je nedostatečnost
+
+dostupných prostředků. Čím víc se ale kapitalismus rozvíjí a zvyšuje bohat-ství, tím více prostředků je možné věnovat na charitu. Lidé jsou jednak ochot-nější poskytovat dary v souladu se zlepšením jejich vlastního blahobytu. Nadruhou stranu zároveň klesá počet lidí, kteří pomoc potřebují. I pro lidis nevelkými příjmy se totiž otevírá možnost prostřednictvím pojištění a úsporzajistit se pro případ nehod, nemoci, stáří, vzdělání vlastních dětí a pro pří-pad ovdovění či osiření.
+
+Je velmi pravděpodobné, že zdroje dobročinných organizací by v kapitalis-
+
+tických zemích byly dostatečné, kdyby intervencionismus nemařil klíčovéinstituce tržního hospodářství.

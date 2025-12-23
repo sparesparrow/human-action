@@ -1,4 +1,3 @@
-
 Na ovzduší veřejného mínění záleží, zda jejich touze po utuženíhospodářských podmínek a zabránění pokroku bude či nebude vyhověno.Díky ideologické struktuře devatenáctého století, kterou formoval věhlas učeníliberálních ekonomů, vyšla taková přání naprázdno. Když technologický
 
 24710Nacisté používali „židovský“ jako synonymum pro „kapitalistický“ i „buržoazní“.
@@ -42,3 +41,5 @@ Jenom prodejci statků a služeb prvního řádu jsou v přímém kontaktu se
 spotřebiteli a jenom oni jsou na příkazech spotřebitelů přímo závislí. Onivšak přenášejí příkazy, které obdrží od veřejnosti, ke všem, kdo produkujístatky a služby vyšších řádů. Neboť výrobci spotřebního zboží, majitelé malo-obchodů, pracovníci ve službách i ve svobodných povoláních jsou nucenipořizovat si vše, co potřebují pro provozování vlastního podniku, od těchdodavatelů, kteří jim nabídnou nejnižší cenu.
 
 Kdyby se nesnažili nakupovatna nejlevnějším trhu a provozovat výrobní faktory tak, aby nejlépe a nejlev-něji nasytili poptávku spotřebitelů, byli by donuceni podnikání opustit.Nahradili by je efektivnější lidé, kteří by dokázali nakupovat a provozovatvýrobní faktory lépe. Spotřebitel je v postavení, kdy může dát volný průchodsvým rozmarům a vrtochům. Podnikatelé, kapitalisté a majitelé půdy majísvázané ruce; ve své činnosti musí plnit příkazy nakupující veřejnosti.
+
+Každáodchylka od směru, který jim předepisuje poptávka spotřebitelů, jde na vrubpodnikatelů. I ta nejmenší odchylka, ať už navozená záměrně nebo způsobe-ná chybou, špatným odhadem nebo lajdáctvím, omezuje jejich zisk nebo hoúplně odejme.

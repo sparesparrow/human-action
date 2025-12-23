@@ -1,9 +1,4 @@
-
-Používat měřítko logiky na kritiku metaforického jazyka nemá smysl. Ana-
-
-logie a metafory vždy kulhají a jsou logicky neuspokojivé. Je obvyklé hledatnějaké základní tertium comparationis . Ale ani to není v případě naší metafory
-
-možné. Toto srovnání je totiž založeno na pojetí, které je samo o sobě chybnéve vlastním rámci pravděpodobnostního počtu, konkrétně na omylu hazard-ního hráče. Tvrdit, že Roosveltovy šance na vítězství jsou 9:1, zde znamená,že je Roosvelt vzhledem k nastávajícím volbám ve stejné pozici, jako je člo-věk, který vlastní 90 procent všech loterijních losů ve vztahu k hlavní ceně.Má se za to, že nám poměr 9:1 říká něco podstatného o výsledku jedinečné-ho případu, který nás zajímá.
+Toto srovnání je totiž založeno na pojetí, které je samo o sobě chybnéve vlastním rámci pravděpodobnostního počtu, konkrétně na omylu hazard-ního hráče. Tvrdit, že Roosveltovy šance na vítězství jsou 9:1, zde znamená,že je Roosvelt vzhledem k nastávajícím volbám ve stejné pozici, jako je člo-věk, který vlastní 90 procent všech loterijních losů ve vztahu k hlavní ceně.Má se za to, že nám poměr 9:1 říká něco podstatného o výsledku jedinečné-ho případu, který nás zajímá.
 
 Omyl této myšlenky není třeba opakovat.
 
@@ -68,3 +63,5 @@ Charakteristickým znakem her je antagonismus dvou nebo více hráčů či
 skupin hráčů.
 
 3Charakteristickou vlastností podnikání v rámci společnosti, tj.
+
+uvnitř řádu založeného na dělbě práce, je soulad v počínání jejích členů. Jak-mile se začnou nepřátelit, objeví se tendence ke společenské dezintegraci.

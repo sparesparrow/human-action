@@ -1,5 +1,4 @@
-
-autarkii, pro svůj vlastní národ.Jejich politiku odlišovalo to, že se odmítli smířit s nevýhodami, které by jimzpůsobily jiné národy, kdyby přijaly stejný systém. Nebyli připraveni býtnavždy „uvězněni“ – jak říkali – na relativně přelidněném území, kde fyzi-kální podmínky způsobují nižší produktivitu lidského úsilí než v jinýchzemích.
+Nebyli připraveni býtnavždy „uvězněni“ – jak říkali – na relativně přelidněném území, kde fyzi-kální podmínky způsobují nižší produktivitu lidského úsilí než v jinýchzemích.
 
 Věřili, že jim vysoký počet obyvatel, strategicky výhodná zeměpisnápoloha jejich země a vrozená ráznost a udatnost jejich ozbrojených sil posky-tovaly dobrou příležitost napravit agresí zlý osud, nad nímž naříkali.
 

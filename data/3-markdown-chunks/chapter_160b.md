@@ -1,4 +1,3 @@
-
 Konfiskační zdanění a podstupování rizika
 
 Lidé se často mylně domnívají, že podnikatelský zisk je odměnou za pod-

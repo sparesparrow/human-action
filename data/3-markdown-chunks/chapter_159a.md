@@ -43,3 +43,9 @@ Vláda v tomto okamžiku činí další krok. Zestátňuje transakce se zahrani�
 ními měnami. Každý občan, který získal zahraniční měnu (například proto,že něco vyvezl), je povinen ji prodat za oficiální směnný kurz úřadu regulují-címu obchod s devizami. Kdyby toto opatření, jež má povahu vývozního cla,bylo účinně vynuceno, vývoz by výrazně poklesl či zcela ustal. Po tomtovýsledku vláda jistě netouží, ale zároveň ani nechce přiznat, že její zásahnaprosto selhal a nedokázal dosáhnout požadovaného cíle.
 
 Přivodil stav, kterýje i z pohledu samotné vlády mnohem horší než původní situace. Vláda se tedyuchýlí k nouzovému opatření. Rozhodne se dotovat vývoz do té míry, abyexportérům byly nahrazeny ztráty, které v důsledku vládní politiky utrpěli.
+
+71702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 717
+
+Vládní úřad regulující obchod se zahraničními měnami zároveň dále tvr-
+
+došíjně vyhlašuje, že směnné kurzy „ve skutečnosti“ nevzrostly, že se obcho-duje za oficiální kurz a prodává dovozcům devizy za oficiální kurz.

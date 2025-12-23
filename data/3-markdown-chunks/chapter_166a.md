@@ -45,3 +45,9 @@ Pokud vlády investovaly do stavby silnic, železnic a jiných užitečnýchveř
 Ani lidé, kteří považují nerovnost bohatství a příjmů za ohavnou, nemohou
 
 popřít, že přispívá k akumulaci kapitálu. A právě pouze dodatečná kapitálo-vá akumulace vyvolává technologická zdokonalení, zvyšování mzdovýchsazeb a vyšší životní úroveň.
+
+76210Pokusy zodpovědět tuto otázku v naší době inflace a úvěrové expanze pomocí sta-
+
+tistik jsou marné.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 762
+
+4.

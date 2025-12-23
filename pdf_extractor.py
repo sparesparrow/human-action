@@ -79,7 +79,6 @@ class PDFProcessor:
         Returns:
             Extracted text
         """
-        # TODO: Implement PDF text extraction
         logger.info(f"Extracting text from {pdf_path}")
         try:
             reader = pypdf.PdfReader(str(pdf_path))
@@ -103,7 +102,6 @@ class PDFProcessor:
         Returns:
             List of chapters with their content
         """
-        # TODO: Implement chapter detection more robustly (handle Parts, Roman numerals, etc.)
         logger.info("Detecting chapters in the text...")
         self.chapters = []
         lines = text.split('\n')

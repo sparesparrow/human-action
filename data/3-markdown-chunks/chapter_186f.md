@@ -1,206 +1,3 @@
-
-83302_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 833
-
-02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 834
-
-A
-
-Akvinský, sv. Tomáš, 35
-
-Alter ego, 22
-
-Altruismus, 554, 607
-
-Amonn, Alfred Otto, 569p
-
-Anarchie, 172, 263p, 643
-
-výroby, 237, 520—521, 620
-
-Anderson, Benjamin McAlester, 370p
-
-Anglie, viz Velká Británie
-
-Antikapitalistická mentalita, 340, 549, 771
-
-Antropomorfismus, 62
-
-Apriorismus
-
-metodologie, 33
-
-Aristoteles, 63, 184, 761, 761p
-
-Asketismus, 78, 161—162
-
-Assisi, sv. František z, 139
-
-Atomová bomba, 745
-
-Augustin, sv., 35
-
-Autarkie, hospodářská, 168, 246p, 425
-
-válka a, 741
-
-Autistická směna/hospodářství, 175—176, 223
-
-Automatismus (vs. vědomé jednání), 654
-
-B
-
-Bailey, Samuel, 199, 199p
-
-Baker, John Randall, 449p
-
-Bankovní škola, 396—397, 400, 511
-
-Banky/bankovnictví
-
-britské, 397, 419centrální, 229, 401, 413—415Federální rezervní systém, zákon o, 722intervencionismus a, 392—404, 493—514liberalismus a, 398—400mezinárodní, 427—430soukromé, 418svobodné, 400—404
-
-švýcarské, 419viz také Úvěrová expanze, Teorie cyklu,
-
-Peníze
-
-Barone Enrico, 627
-
-Barter, viz Směna, přímá
-
-Bastiat, Frédéric, 131,744,758
-
-Beardovi, Charles a Mary, 563
-
-Beethoven, Ludwig van, 78
-
-Bentham, Jeremy, 156,173,604,744,748
-
-Bergmann, Eugen, 184
-
-Bergson, Henri, 31,45,46,90,200
-
-Bernard, Claude, 26
-
-Bernoulli, Daniel, 112—113
-
-Beveridge, William Henry, 690
-
-Bimetalismus, 424,700—701
-
-Bismarck, Otto, 295,333,731
-
-Blahobyt, princip, vs. tržní princip, 747—765
-
-viz také Sociální inženýrství,
-
-Sociální spravedlnost/reforma
-
-Bodin, Jean, 211,735
-
-Bohatství, nerovnost, 264—265, 753—762
-
-viz také Spotřebitelé, suverenita,
-
-Zisky/ztráty
-
-Böhm-Bawerk, Eugen, 111, 182, 233, 239,
-
-432—434, 438—440, 473—476
-
-Bonald, Louis, 775
-
-Bonaparte, Louis Napoleon, 597
-
-Bonar, James, 599
-
-Boom, závěrečná fáze, 385, 393,422—423,
-
-488—489, 503, 713
-
-Branná povinnost, 259
-
-Brentano, Lujo, 557
-
-Brettonwoodská konverence, 429—430
-
-Brunner, Emil, 605
-
-835REJSTŘÍK K LIDSKÉMU JEDNÁNÍ
-
-Sestavila Bettina Bien Greaves02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 835
-
-Buddhismus, 27
-
-Budoucnost, viz Změna, Ekonomická
-
-kalkulace, Spekulace, Nejistota
-
-Bůh/Stvořitel, 138—139, 155
-
-Burke, Edmund, 775
-
-Burza cenných papírů
-
-spekulace a, 464—466úvěrová expanze a, 712—713
-
-Byrokracie, 278, 282—284
-
-C
-
-Cannan, Edwin, 480
-
-Cantillon, Richard, 3
-
-Carlyle, Thomas, 8, 582
-
-Cassel, Gustav, 176
-
-Cassirer, Ernst, 36
-
-Cenová hladina, 202, 362, 374
-
-Cenová regulace, 285, 680—681, 687, 708,
-
-717, 739
-
-Centrální bankovnictví, viz Banky/bankov-
-
-nictví
-
-Ceny/oceňování, 299—359
-
-
-
-barter a, 182—187diskriminace, 351—353dobré jméno, 343—347důchod/příjem, 355—356inflace, úvěrová expanze a, 381—382,384—385, 493—505konečné (hypotetické), 197, 226—227, 302,303konkurence a, 325—329kupní síla a, 383—386, 419—423nákladové účetnictví, 310—318náklady, 87—88netržní, 357—359, 531, 686odhad a, 303—304prémie, 486—489spravedlivé, 304, 651—652statické či rovnovážné (imaginární konstrukty), 225—227, 318—324, 636 statistika, 302—303, 318—324vládní zásahy, 359, 666—669, 679—688výroba a, 356—357výrobní faktory a, 308—309, 507—508,532, 628, 631vzájemná propojenost, 354—355zisky a, 87—88změna a, 198—199, 584—587viz také Spotřebitelé, suverenita, Práce,
-
-mzdy, Tržní hospodářství/proces, Hodnota/hodnoty
-
-Cenzura, 656
-
-Cernuschi, Henri, 402
-
-Cíl, absolutní (osud), 22, 24—27
-
-Civilizace
-
-antická, 687—689liberalismus a, 753—757orientální, 601, 755—756pokrok/rozvoj, 7, 146—147, 449, 539—540,582, 749—753soukromé vlastnictví a, 243, 611—612společenská spolupráce a, 127—129, 258
-
-svoboda a, 257—264viz také Historie, Spoření
-
-Cla
-
-důsledky, 670—672kartely a, 334—5monopolní ceny a, 331, 335nedospělá odvětví, 457viz také Protekcionismus
-
-Clark, John Bates, 4, 233p, 448p
-
-Cohen, Morris R., 36p, 77p, 580p
-
-Comte, August, 26, 65—66, 134, 620
-
-Cyklus na trhu s obilím a vepři, 524
-
-Cyklus, teorie
-
 akcelerační princip, 522—523argument kupní síly, 276—277doktrína nepoměru, 521—524doktrína trvanlivých statků, 522měnová či založená na oběžném úvěru,184, 510—514, 711—712, 714měnová škola, 184, 395, 397, 399, 503p, 511nedostatečná spotřeba, 276, 520pnepeněžní, 496—497, 519—524oběžný úvěr, 510—514proticyklické politiky, 714—716sluneční skvrny, 520
 
 Č
@@ -247,3 +44,212 @@ Demokracie, politická
 
 důvod pro, 68p, 133, 156, 762
 
+osmnácté století, 155vláda většiny, 68—69, 136, 170, 173, 762volby, 584p, 755viz také Vláda
+
+83602_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 836
+
+Deprese, hospodářská, viz Hospodářské
+
+boomy/poklesy, Hospodářský cyklus
+
+Dětská práce, 546
+
+Devalvace, 419, 705—710
+
+viz také Peníze
+
+Devizy, viz Zahraniční měna
+
+Dewey, Thomas, 51
+
+Dickinson, Henry Douglas, 632p, 635p
+
+Dietz, Frederick Charles, 555p
+
+Dietzgen, Eugen, 67p
+
+Diferenciální rovnice, 636—640
+
+viz také Matematická/kvantitativní
+
+ekonomie
+
+Diktatura, 102, 134—136, 164, 584, 618, 762
+
+celosvětový socialismus, 255viz také Vláda, Totalitarismus
+
+Dluh, snížení či zvýšení, 485—486, 702—704,
+
+709viz také Úroková míra, teorie, Půjčování
+
+peněz
+
+Dluh, veřejný, 205—207, 759—761
+
+Dluhopisy, viz Vláda, dluh/dluhopisy/půjčo-
+
+vání, Půjčování peněz, Veřejný dluh
+
+Dobré jméno, 345—346, 403
+
+Dobročinnost, 221,539,751—753
+
+Dobývání, 582—583, 735
+
+viz také Válka
+
+Dom, Walter Louis, 553p
+
+Dotace, 590, 667, 769
+
+viz také Veřejné výdaje,
+
+Sociální inženýrství
+
+Douglas, Clifford Hugh, 168
+
+Douglas, Paul, 320
+
+Drogy, prohibice, 655—656
+
+„Drsný“ individualismus, 261
+
+Důchod/příjem
+
+ceny a, 355—356kapitál, 239—241národní, 270, 719nerovnost bohatství a, 264—265„nezasloužený“, 275, 358, 549, 661, 691,728, 731, 769rozdělení, 379, 428—429, 479, 619, 719,767
+
+Duopol, 329—330
+
+viz také Monopol
+
+E
+
+Eddington, Arthur Stanley, 52,19
+
+Ego, 11, 22, 41
+
+Ehrlich, Paul, 630
+
+Einstein, Albert, 37, 92
+
+Ekonometrie, 319—320
+
+viz také Matematická/kvantitativní
+
+ekonomie, Měření
+
+Ekonomická historie, viz Hospodářské dějiny
+
+Ekonomická kalkulace, 179—180, 181—211,
+
+304—309, 317, 625—640peníze a, 182, 185—186, 193—195, 203—204, 209—211, 239, 383—384, 442, 461podnikání a, 279—282
+
+socialismus a, 625—640, 770—773zlato/stříbro a, 203—204
+
+Ekonomické měření, viz Matematická/kvan-
+
+titativní ekonomie, Měření, Statistika
+
+Ekonomický člověk, viz Homo oeconomicus
+
+Ekonomický problém (vzácnost), 187—188,
+
+235—236, 274—275
+
+Ekonomický vs. skutečný člověk, 56—57,
+
+220—223, 583—584
+
+Ekonomie, 777—788, 789—793
+
+
+
+definice, 3—6, 180, 204p, 213, 245, 324,358, 444—445, 523, 773—776, 778—779,783—878, 790—792epistemologie, 3—6, 29—63hodnotově neutrální, 8, 20—21, 273, 790—792konečné cíle a, 20, 86lidský život/jednání a, 789—792matematická/kvantitativní, 636—640metodologie, 58—62náboženství a, 62popření, 3—9, 215—217pravděpodobnost, 96—104předpovídání, 106, 780—781rozum a, 79—81svoboda a, 787—788teorie hodnoty, 6—9, 783tržní společnost a, 213—616věda, 3—9, 204p, 232—218veřejné mínění, 774—775vzdělání a, 777—788, 783viz také Jednání, lidské, Trh/tržní proces
+
+Elasticita poptávky, 50, 32
+
+viz také Měření
+
+Ellis, Howard, 370
+
+Elly, Richard T., 326, 473, 662
+
+Empatie vs. rozumění, 46, 77
+
+Empirismus, 31—32, 60—61
+
+viz také Přírodní/fyzikální vědy
+
+Engels, Bedřich, 67, 75, 122, 216p, 246, 540p,
+
+604, 622viz také Marx/marxismus
+
+Engliš, Karel, 23
+
+Epikurejství, 14—15,130
+
+Epistemologické problémy, 3—5,7,28
+
+peníze a, 363—369
+
+Espinas, Alfred, 3
+
+Etablované zájmy , viz Zájmy, etablované,
+
+Privilegia
+
+Etatismus, 398, 610
+
+Etika, viz Morálka/etika
+
+Etnologové, 75—76
+
+Eudaimonismus, 14—15, 20
+
+Evoluce
+
+biologická, 172logika a, 31—36
+
+Externality, negativní/pozitivní, 587—594
+
+F
+
+Fabianismus, britský, 552, 681
+
+83702_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 837
+
+Fairchild, Fred Rogers, 730
+
+Fašismus, 56, 164p, 179, 529, 727, 732
+
+Federální rezervní systém, zákon o, 508
+
+Ferguson, Adam, 177
+
+Fetter, Frank Albert, 241, 249, 440, 569
+
+Feudalismus, 736, 755
+
+Feuerbach, Ludwig, 15
+
+Fiduciární prostředky, 391—392, 392—403,
+
+494—500, 502—503, 506—510viz také Peníze
+
+Fichte, Johann, 646
+
+Fisher, Irving, 185, 200, 399, 440, 487
+
+Flaubert, Gustave, 246
+
+Flexibilní standard (zlaté devizy), 705—706
+
+Foch, Ferdinand, 459
+
+Fourier, Charles, 63, 122, 220
+
+Francouzská revoluce, 48, 263, 736—737, 786
+
+Franklin, Benjamin, 71
+
+Freud, Sigmund, 33

@@ -1,13 +1,4 @@
-
-Rozdíl mezi těmito dvěma druhy spolupráce ve společnosti je společný
-
-všem společenským teoriím. Ferguson ho popsal jako rozpor mezi váleč-nickými národy a obchodnickými národy;
-
-2Saint-Simon jako rozpor mezi
-
-1772Srov. Adam Ferguson, An Essay on the History of Civil Society (nové vyd., Basilej,
-
-1789), str. 208.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 177
+208.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 177
 
 útočnými národy a mírumilovnými nebo pracovitými národy; Herbert Spen-
 
@@ -60,3 +51,11 @@ ho státu (Wohlfahrtsstaat) nebo paternalistického státu, vláda pod zákonnou
 normou (Rechtsstaat) . Právo a zákony jsou souhrnem pravidel, která určují
 
 oblast, v níž mají jednotlivci svobodu jednání. Svěřencům hegemonické spo-lečnosti žádná taková oblast nezbývá. V hegemonickém státě neexistuje aniprávo, ani zákon; existují tam pouze příkazy a nařízení, které může ředitelkaždý den měnit a používat tak diskriminačně, jak si jen přeje, jež musí jehosvěřenci poslouchat. Svěřenci mají pouze jedinou svobodu: poslouchata neptat se.
+
+3. Kalkulující jednání
+
+Všechny praxeologické kategorie jsou věčné a neměnné, protože jsou jedi-
+
+nečně určeny logickou strukturou lidské mysli a přirozenými podmínkamilidské existence. Jak v jednání, tak v teoretizování o jednání se člověk nemů-že ani osvobodit od těchto kategorií, ani jít za ně. Takové jednání, které sekategoriálně liší od jednání vymezeného těmito kategoriemi, není pro člově-ka ani možné, ani myslitelné. Člověk nikdy nemůže pochopit něco, co byneznamenalo ani jednat, ani nejednat.
+
+Neexistuje historie jednání; neexistujevývoj, který by vedl od nejednání k jednání; mezi jednáním a nejednánímneexistují žádné přechodné stavy.

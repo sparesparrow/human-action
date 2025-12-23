@@ -1,4 +1,3 @@
-
 Je nutné vypořádat se s následujícím jevem: míra čistého úroku je určena
 
 diskontem budoucích statků vůči současným statkům. Je ve své podstatě nezá-vislá na nabídce peněz a peněžních substitutů, a to i přesto, že změny v nabíd-ce peněz a peněžních substitutů mohou nepřímo ovlivnit její výši. Avšakhrubá tržní úroková míra může být změnami v peněžním vztahu ovlivněna.Musí dojít k přizpůsobení. Jaká je podstata procesů, které k němu povedou?
@@ -40,3 +39,7 @@ Pokles hrubé tržní úrokové míry ovlivňuje podnikatelovu kalkulaci týkaj�
 cí se změn výnosnosti zvažovaného projektu. Úrokové míry jsou vedle cenhmotných výrobních faktorů, mzdových sazeb a očekávaných budoucích cenvýrobků dalšími položkami vstupujícími do kalkulace plánujícího podnikate-le. Výsledek této kalkulace ukazuje podnikateli, zda se daný projekt vyplatíči ne. Ukazuje mu, jaké investice lze provést při daném poměru hodnoceníbudoucích statků vůči současným statkům ze strany obyvatel.
 
 Uvádí jeho jed-nání do souladu s tímto hodnocením a brání mu v zahájení těch projektů,jejichž realizaci široká veřejnost neschvaluje kvůli nutné délce doby čekání.Nutí ho využít dostupnou zásobu kapitálových statků takovým způsobem,aby byly co nejlépe uspokojeny nejnaléhavější potřeby spotřebitelů.
+
+Nyní však pokles úrokových měr podnikatelovu kalkulaci zkresluje. Ačko-
+
+li se objem kapitálových statků nezvýšil, kalkulace využívá dat použitelnýchpouze v případě, že by k tomuto zvýšení došlo. Výsledek takových kalkulacíje proto zavádějící.

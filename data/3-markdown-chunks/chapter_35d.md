@@ -1,7 +1,4 @@
-
-2Lze souhlasit za předpokladu, že tyto poněkud vágní a nejednoznač-
-
-né termíny jsou správně interpretovány. Vědomí druhu, smysl pro pospolitostnebo smysl pro sounáležitost můžeme nazývat uznáním skutečnosti, ževšechny ostatní lidské bytosti jsou potenciálními spolupracovníky v bojio přežití, protože jsou schopny rozeznat vzájemnou výhodnost spolupráce,zatímco zvířata tuto schopnost postrádají. Nesmíme však zapomenout, že pri-márními skutečnostmi, které způsobily takové vědomí nebo takový smysl,jsou ty dvě, jež byly zmíněny výše.
+Vědomí druhu, smysl pro pospolitostnebo smysl pro sounáležitost můžeme nazývat uznáním skutečnosti, ževšechny ostatní lidské bytosti jsou potenciálními spolupracovníky v bojio přežití, protože jsou schopny rozeznat vzájemnou výhodnost spolupráce,zatímco zvířata tuto schopnost postrádají. Nesmíme však zapomenout, že pri-márními skutečnostmi, které způsobily takové vědomí nebo takový smysl,jsou ty dvě, jež byly zmíněny výše.
 
 V hypotetickém světě, ve kterém by dělbapráce nezvyšovala produktivitu, by neexistovala žádná společnost. Neexisto-valy by tam laskavé city ani dobrá vůle.
 
@@ -44,3 +41,7 @@ zaostalosti a mravní i materiální bídy primitivních poměrů pouze v rámci
 lečnosti. Pokud by však byl ponechán sám sobě, nikdy by nespatřil cestu kesvému spasení. Protože přizpůsobování se požadavkům spolupráce ve spo-lečnosti a podrobení se nařízením mravního zákona na něj klade těžká ome-zení. Z pohledu svého ubohého intelektu by považoval vzdání se některýchočekávaných výhod za zlo a ponížení. Nedokázal by rozpoznat nesrovnatelněvětší, ale pozdější výhody, které přinese zřeknutí se současných a viditelnýchradostí.
 
 Bez nadpřirozeného zjevení by nikdy nezjistil, co po něm osud chcepro jeho vlastní dobro a pro dobro jeho potomků.
+
+Vědecká teorie vyvinutá sociální filozofií racionalismu a liberalismu osm-
+
+náctého století a moderní ekonomií se neuchyluje k žádnému zázračnémuzásahu nadlidských sil. Každý krok, v němž jednotlivec nahrazuje izolovanoučinnost koordinovanou činností, vede k okamžitému a viditelnému zlepšeníjeho podmínek. Výhody, které vyplývají z pokojné spolupráce a dělby práce,jsou univerzální. Okamžitě přinášejí užitek všem generacím, a ne pouzepotomkům. Protože to, co jednotlivec musí obětovat ve prospěch společnosti,mu větší výhody bohatě vynahradí.

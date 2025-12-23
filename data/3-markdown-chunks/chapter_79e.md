@@ -1,6 +1,3 @@
-
-Historické zkušenosti ukazují,že si lidé – pro praktické potřeby jejich podnikání – s těmito způsoby kalku-lace velmi dobře vystačili. Teoretické úvahy ukazují, že je nemožné vymyslet,a tím méně uskutečnit, lepší způsob. Z pohledu těchto skutečností je zbyteč-né nazývat peněžní kalkulaci nedokonalou. Člověk nemá sílu změnit katego-rie lidského jednání. Musí jim své chování přizpůsobit.
-
 Podnikatelé nikdy nepokládali za nutné zbavit ekonomickou kalkulaci
 
 v podmínkách zlatých peněz závislosti na výkyvech kupní síly. Návrhy vy-lepšit peněžní systém přijetím tabulkového standardu založeného na index-ních číslech, nebo přijetím různých forem komoditního standardu, nebylyprosazovány s ohledem na transakce podnikatelů a peněžní kalkulaci. Jejichcílem bylo poskytnout stabilnější měnu pro dlouhodobé půjčky. Podnikateléani nepokládali za nutné upravit své účetní metody tak, aby omezili určitéchyby vyvolané změnami kupní síly.
@@ -40,3 +37,13 @@ Tento jev byl během velkých evropských inflací dvacátých letnazván útěk
 boomu (Katastrophenhausse) . Matematičtí ekonomové nedokážou pochopit
 
 příčinnou souvislost mezi zvýšením množství peněz a tím, co nazývají „rych-lost obratu“.
+
+Charakteristickým rysem tohoto jevu je fakt, že růst množství peněz způ-
+
+sobí pokles poptávky po penězích. Tendence k poklesu kupní síly vytvářenázvýšením množství peněz je zesílena všeobecným sklonem k omezení držbyhotovosti. Nakonec je dosaženo bodu, v němž ceny, za něž by se lidé byli
+
+38501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 385
+
+ochotni vzdát „reálných“ statků, diskontují očekávaný pokles kupní síly do
+
+takové míry, že nikdo nemá v ruce dostatečný objem hotovosti k jejich zapla-cení. Peněžní systém se hroutí; všechny transakce v postižených penězíchustávají; vlivem paniky mizí i poslední zbytky jejich kupní síly.

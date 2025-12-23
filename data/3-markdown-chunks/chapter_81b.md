@@ -1,13 +1,4 @@
-
-V tomto bodě našeho zkoumání se musíme zaměřit na problém koexisten-
-
-ce mnoha nezávislých bank. Nezávislost znamená, že každá banka vydávající
-
-39301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 393
-
-fiduciární prostředky sleduje svou vlastní cestu a nejedná v souladu s jinými
-
-bankami. Koexistence znamená, že každá banka má klientelu, která neza-hrnuje všechny členy tržního systému. Pro jednoduchost budeme předpoklá-dat, že žádný člověk ani firma není klientem více než jedné banky. Závěrynaší analýzy by však nebyly ovlivněny, ani kdybychom předpokládali, ženěkteří lidé jsou klienty více než jedné banky a někteří nejsou klienty bankyžádné.
+Závěrynaší analýzy by však nebyly ovlivněny, ani kdybychom předpokládali, ženěkteří lidé jsou klienty více než jedné banky a někteří nejsou klienty bankyžádné.
 
 Nebudeme si klást otázku, zda existují nějaká omezení emise fiduciárních
 
@@ -44,3 +35,9 @@ Tato sku-tečnost představuje pouhý rozdíl v datech a neovlivňuje katalaktic
 Banka nikdy nemůže vydat více peněžních substitutů, než chtějí její klien-
 
 ti držet. Jednotlivý klient nemůže nikdy držet větší podíl celkové držené ho-tovosti v podobě peněžních substitutů, než odpovídá podílu obratu jehotransakcí s klienty jeho banky na jeho celkovém obratu. Kvůli pohodlí budezpravidla tento podíl mnohem nižší, než je uvedené maximum. Takto je tedyurčena mez emise fiduciárních prostředků. Můžeme namítat, že každý jeochoten přijmout ve svých aktuálních transakcích bankovky a šeky znějící najakoukoli banku.
+
+Ovšem takový člověk bez prodlení uloží do své banky nejenšeky, ale i bankovky banky, jejímž klientem není. Jeho banka v dalším krokuvyrovná své účty s touto druhou bankou. Tím je uveden do pohybu výšepopsaný proces.
+
+O podivné zálibě veřejnosti v bankovkách vydaných pochybnými bankami
+
+byla napsána řada nesmyslů. Pravda je, že kromě malé skupiny obchodníků,kteří byli schopni rozlišovat mezi dobrými a špatnými bankami, bylo na ban-kovky vždy pohlíženo s nedůvěrou. Ta pomalu vymizela, až když vlády zaru-čily privilegovaným bankám zvláštní výhody.

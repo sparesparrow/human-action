@@ -1,8 +1,3 @@
-
-Pro obchodní bankytak bylo téměř nemožné půjčovat – kromě zanedbatelných částek – připsá-ním prostředků na účet dlužníka. Jakmile dlužník vystavil šek, pro banku topředstavovalo výběr z příslušného účtu. Pouze velké podniky považovalyvklady za peněžní substituty. Ačkoli se centrální banky ve většině těchto zemínemusely podřizovat žádným právním omezením ohledně přijímání vkladů,nemohly je použít jako prostředek úvěrové expanze velkého rozsahu, protožepočet klientely pro vklady byl příliš malý.
-
-Bankovky byly prakticky jedinýmnástrojem oběžného úvěru a úvěrové expanze.
-
 V osmdesátých letech devatenáctého století zahájila rakouská vláda pro-
 
 gram popularizace šekových peněz zřízením oddělení šekových účtů u Spoři-telní služby Poštovního úřadu. Do jisté míry uspěla. Zůstatky na těchto
@@ -30,3 +25,5 @@ Je chybou spojovat pojem svobodné bankovnictví s představou, že každý
 může svobodně vydávat bankovky a podvádět veřejnost ad libitum . Lidé se
 
 často odvolávají na rčení neznámého Američana, citované Tookem: „Svobod-ný obchod v bankovnictví je svobodným obchodem v podvádění.“ Svobodnáemise bankovek by používání bankovek značně omezila, pokud by ho zcelaneodstranila. Právě tuto myšlenku prosazoval během slyšení před francouz-skou bankovní vyšetřovací komisí 24. října 1865: „Věřím, že to, co je nazývá-no svoboda bankovnictví, by vedlo k naprostému potlačení bankovek ve Fran-cii.
+
+Chci dát každému právo vydávat bankovky, aby již nikdo nikdy vícežádné bankovky nepřijímal.“

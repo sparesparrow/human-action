@@ -1,9 +1,4 @@
-
-Ovšem takový člověk bez prodlení uloží do své banky nejenšeky, ale i bankovky banky, jejímž klientem není. Jeho banka v dalším krokuvyrovná své účty s touto druhou bankou. Tím je uveden do pohybu výšepopsaný proces.
-
-O podivné zálibě veřejnosti v bankovkách vydaných pochybnými bankami
-
-byla napsána řada nesmyslů. Pravda je, že kromě malé skupiny obchodníků,kteří byli schopni rozlišovat mezi dobrými a špatnými bankami, bylo na ban-kovky vždy pohlíženo s nedůvěrou. Ta pomalu vymizela, až když vlády zaru-čily privilegovaným bankám zvláštní výhody. Často zdůrazňovaný argument,že malé bankovky se dostaly do rukou chudých a neinformovaných lidí, kteřínemohli rozeznat dobré a špatné bankovky, nemůže být brán vážně.
+Často zdůrazňovaný argument,že malé bankovky se dostaly do rukou chudých a neinformovaných lidí, kteřínemohli rozeznat dobré a špatné bankovky, nemůže být brán vážně.
 
 Čímchudší je příjemce bankovky a čím méně je obeznámen s bankovními záleži-tostmi, tím rychleji ji utratí a tím rychleji se bankovka vrátí, prostřednictvímmaloobchodu nebo velkoobchodu, bance, jež ji vydala, nebo k lidem, kteříjsou se situací v bankovnictví dobře obeznámeni.
 
@@ -50,3 +45,5 @@ Měnová škola podala vcelku správné vysvětlení opakujících se krizí, kt
 narušovaly podmínky anglického podnikání ve třicátých a čtyřicátých letechdevatenáctého století. Tehdy prováděli Bank of England a ostatní britské banky
 
 a bankéři úvěrovou expanzi, zatímco v zemích, s nimiž Velká Británie ob-chodovala, se nic takového – nebo alespoň ne v takovém rozsahu – neode-hrávalo. Nezbytným důsledkem tohoto stavu byl odliv měnového kovu dozahraničí. Vše, co prosazovala bankovní škola, aby popřela tuto teorii, bylozbytečné. Měnová škola bohužel ve dvou ohledech chybovala.
+
+Nikdy nepo-chopila, že jí doporučované nápravné opatření, tedy přísné zákonné omezeníobjemu bankovek vydaných nad rámec rezerv měnového kovu, nebylo jedi-ným možným. Nikdy se nezabývala myšlenkou svobodného bankovnictví.Druhým selháním měnové školy byla neschopnost rozpoznat, že vklady,k nimž lze vypisovat šeky, jsou peněžními substituty, případně fiduciárnímiprostředky, pokud jejich objem převyšuje rezervy držené bankou, a v důsled-ku toho stejně jako bankovky prostředkem úvěrové expanze.

@@ -47,3 +47,7 @@ skutečným světem jednání a nekončících změn, s hospodářským systéme
 jenž nemůže existovat beze změn. Svět toho druhu, který nezbytně předpo-
 
 kládají koncepty neutrálních a stabilních peněz, by byl světem bez jednání.
+
+Není tedy nic zvláštního ani špatného na tom, že v rámci takto proměnli-
+
+vého světa nejsou peníze ani neutrální, ani nemají stabilní kupní sílu.

@@ -1,7 +1,4 @@
-
-Systém narušeného tržního hospodářství či intervencionismu usiluje
-
-o zachování dualismu oddělených sfér vládních aktivit na straně jedné a eko-nomické svobody v rámci tržního systému na straně druhé. O tom vypovídáskutečnost, že vláda neomezuje své činnosti na ochranu soukromého vlastnic-tví výrobních prostředků a jeho obranu před násilnými či podvodnými akty.Vláda zasahuje do fungování podniků prostřednictvím příkazů a zákazů.
+O tom vypovídáskutečnost, že vláda neomezuje své činnosti na ochranu soukromého vlastnic-tví výrobních prostředků a jeho obranu před násilnými či podvodnými akty.Vláda zasahuje do fungování podniků prostřednictvím příkazů a zákazů.
 
 Intervence je představována přímým či nepřímým nařízením úřadu v pozi-
 
@@ -48,3 +45,7 @@ soukromého vlastnictví výrobních prostředků. Jiní lidé se uchylují k p�
 prostředků. Jelikož je myšlenka přirozeného práva poměrně arbitrární,
 
 nemohou tyto diskuse vést k jednoznačnému rozřešení.
+
+Stát a vláda nejsou cíli, ale prostředky. Způsobovat zlo lidem činí přímé
+
+potěšení pouze sadistům. Vlády se uchylují k nátlaku a donucení proto, abyzajistily hladké fungování konkrétního systému organizace společnosti. Sféry,ve kterých jsou nátlak a donucení používány, a obsah zákonů, které je třebavynutit za pomoci policejního aparátu, jsou podmíněny druhem přijatéhospolečenského řádu. Jelikož stát a vláda jsou určeny k zajištění bezpečnéhofungování společenského systému, vymezení funkcí vlády je nutné přizpůso-bit těmto požadavkům.

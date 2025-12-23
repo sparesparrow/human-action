@@ -57,3 +57,7 @@ V době, kdy Böhm-Bawerk převzal speciálně zřízený stolec na Vídeňské 
 Böhm[-Bawerkova] monografie o teorii hodnoty, publikovaná … v nej-uznávanějším německy psaném žurnálu, začala být brzy respektovánajako brilantní zprostředkování některých klíčových pohledů skupiny. O tovíce, že Mengerovy Zásady bylo v té době již extrémně obtížné sehnat.
 
 Hayek (1992, sv. 4, str. 112) odkazoval na „Böhm-Bawerkův oslnivý výklad“, v němž„předložil nejkompletnější verzi nové doktríny, včetně zákona nákladů, podoby,v níž byla doktrína zpopularizována“.
+
+9Článek o penězích byl přeložen do angličtiny. Viz Zlabinger (1977).02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 799
+
+i prezidentem Rakouské akademie věd v letech 1907 a 1911.

@@ -1,21 +1,4 @@
-
-Ekonomická kalkulace je tak efektivní, jak jen může být. Žádná reformanemůže její efektivitu zvýšit. Poskytuje jednajícímu člověku všechny služby,které může od číselného vyjádření obdržet. Samozřejmě se nejedná o nástrojna poznání budoucích podmínek s naprostou jistotou a nezbavuje jednáníjeho spekulativního charakteru.
-
-To ale mohou považovat za nedostatek pouzeti, kteří nedokážou vidět skutečnost, že život není přísně nalinkovaný, že sevšechny věci neustále mění a člověk nemá o budoucnosti žádné zaručenézprávy.
-
-Úlohou ekonomické kalkulace není rozšiřovat znalosti lidí o budoucích
-
-podmínkách. Jejím úkolem je uzpůsobit jednání lidí, nakolik je to jen možné,v souladu s jejich současným názorem na uspokojení potřeb v budoucnu. Protento účel potřebuje jednající člověk výpočetní metodu, a výpočty potřebujíspolečného jmenovatele, k němuž budou všechny vstupující položky vztaže-ny. Společným jmenovatelem ekonomické kalkulace jsou peníze.
-
-2. Hranice ekonomické kalkulace
-
-Ekonomická kalkulace nemůže zahrnovat věci, které nejsou prodávány
-
-a kupovány za peníze.
-
-Existují věci, jež nejsou na prodej a pro jejichž získání se musí počítat
-
-s jinými oběťmi než s penězi a bohatstvím v penězích. Ten, kdo se chce vycvi-čit pro velké výkony, musí zapojit mnoho prostředků, z nichž některé mohouvyžadovat peněžní výdaje. Ale základní věci, které musí být pro takové úsilíobětovány, nelze koupit. Čest, ctnost, sláva, a stejně síla, zdraví i sám život
+Čest, ctnost, sláva, a stejně síla, zdraví i sám život
 
 19501_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 195
 
@@ -48,3 +31,17 @@ Skutečnost, že masy dávají přednost detek-tivkám před poezií, a že se p
 nost tomu, co považují za správné, před výhodami, které mohou získat
 
 z odlišného přístupu.
+
+Jiní kritikové ekonomické kalkulace si neuvědomují, že je to metoda, která
+
+je k dispozici pouze lidem, kteří jednají v hospodářském systému dělby práceve společenském řádu založeném na soukromém vlastnictví výrobních pro-středků. Může sloužit pouze pro uvažování jednotlivců nebo skupin jednot-livců, kteří působí v ústavním uspořádání tohoto společenského řádu. Prototo je kalkulace soukromého zisku, a nikoli „společenského blahobytu“. Toznamená, že základní skutečností pro ekonomickou kalkulaci jsou ceny natrhu.
+
+Nelze je použít pro uvažování, jehož normou není poptávka spotřebite-lů, která se projevuje na trhu, ale hypotetická ocenění diktátorského orgánu,který řídí všechny státní či pozemské záležitosti. Ten, kdo chce posuzovat jed-nání z pohledu jakési nárokované „společenské hodnoty“, tj. z pohledu „celéspolečnosti“, a kritizovat ho srovnáváním s jevy v imaginárním socialistickémsystému, v němž je nadřazena jeho vlastní vůle, nepotřebuje ekonomickoukalkulaci.
+
+Ekonomické kalkulace na základě peněz jsou kalkulacemi podni-katelů, kteří vyrábějí pro spotřebitele v tržní společnosti. Pro jiné úkoly jevyužít nelze.
+
+Člověk, který chce využívat ekonomické kalkulace, se na věci nesmí dívat
+
+způsobem despotického smýšlení. Pro kalkulace mohou ceny používat pod-nikatelé, kapitalisté, vlastníci půdy i výdělečně činné osoby v kapitalistickéspolečnosti. Pro záležitosti, které jsou za zájmy těchto kategorií, jsou cenynevhodné. Je nesmyslné oceňovat penězi věci, o nichž se nesmlouvá na trhu,a využívat v kalkulaci jakékoli položky, které nemají vztah k realitě. Zákonystanovují částku, jež by měla být zaplacena jako odškodnění za způsobenísmrti člověka.
+
+Ale uzákoněné ustanovení pro určení výše částky odškodněníneznamená, že existuje cena lidského života.

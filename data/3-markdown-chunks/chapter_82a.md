@@ -31,3 +31,9 @@ Pokud chce exe-kutiva a strana, která ji podporuje, zvýšit výdaje bez toho, 
 Svobodné bankovnictví je jediným dostupným způsobem, kterým lze pře-
 
 dejít nebezpečím neoddělitelně spjatým s úvěrovou expanzí. Je pravda, že bynedokázalo zadržet velmi mírnou expanzi ze strany opatrných bank poskytu-jících veřejnosti veškeré vyžadované informace o své finanční situaci. Alev podmínkách svobodného bankovnictví by bylo nemožné, aby se úvěrováexpanze a její neodvratné důsledky přeměnily v obvyklý – člověk by mělpokušení říci normální – rys hospodářského systému. Pouze svobodné ban-kovnictví může ochránit tržní hospodářství před krizemi a depresemi.
+
+39901_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 399
+
+Když se podíváme zpět na dějiny posledních dvou století, nemůžeme
+
+nerozpoznat, že chyby spáchané liberalismem při řešení problémů bankov-nictví byly pro tržní hospodářství smrtelnou ranou. Nebyl vůbec žádnýdůvod, proč v bankovnictví opouštět principy svobodného podnikání.

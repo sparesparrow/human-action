@@ -1,10 +1,3 @@
-
-25301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 253
-
-Dnes lidé tvrdí totéž o různých odvětvích velkého podnikání: nemůžete
-
-napadat jejich postavení, jsou příliš velcí a příliš silní. Soutěž však nezna-mená, že se komukoli bude dobře dařit jen na základě toho, že bude napo-dobovat, co dělají jiní. Znamená příležitost sloužit spotřebitelům lépe nebolevněji a nebýt při tom omezován výhodami udělenými těm, jejichž existujícípráva taková inovace poškozuje. Nově příchozí, který se chce vzepřít právůmstarých zavedených firem, potřebuje zejména mozek a myšlenky.
-
 Jestliže jehoprojekt dokáže uspokojit nejnaléhavější z neuspokojených potřeb spotřebite-lů nebo je zajistit levněji než dlouholetí dodavatelé, pak uspěje i přes tolik dis-kutovanou velikost a sílu starých firem.
 
 Katalaktická soutěž nesmí být zaměňována s boxerskými zápasy nebo

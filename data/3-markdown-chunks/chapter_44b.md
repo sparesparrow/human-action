@@ -1,4 +1,3 @@
-
 6Plánující pod-
 
 nikatel si nemůže pomoci, aby nevyužíval data týkající se neznámé budouc-nosti; pracuje s budoucími cenami a budoucími výrobními náklady. Ve stejnésituaci je účetnictví ve své snaze o stanovení výsledku minulé činnosti, pro-tože se spoléhá na odhady investičního majetku, zásob a pohledávek.

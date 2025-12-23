@@ -1,6 +1,3 @@
-
-Musídokonce předstírat, že jeho příspěvky náleží nejen do jediného legitimníhooboru ekonomických studií, že pouze ony jsou empirické, induktivní a vědec-ké, zatímco pouhé deduktivní vývody teoretiků „od zeleného stolu“ jsouprázdnými spekulacemi.
-
 Kdyby se takto nechoval, přiznal by, že existují dvěkategorie učitelů ekonomie – ti, co sami přispívají k rozvoji ekonomickéhopoznání, a ti, kteří tak nečiní, i když mohou dělat dobrou práci v jiných dis-ciplínách, jako jsou například nedávné hospodářské dějiny. Atmosféra v aka-demické obci se stává pro výuku ekonomie nepříznivá. Mnozí profesoři –avšak naštěstí ne všichni – se uchylují ke znevažování „pouhé teorie“.
 
 Pokou-šejí se ekonomickou analýzu nahradit nesystematicky nahromaděnými sou-bory historických a statistických informací. Rozčleňují ekonomii na množstvíspojených součástí. Specializují se na zemědělství, trhy práce, podmínkyv Latinské Americe a další obdobné věci.
@@ -38,3 +35,13 @@ Pak dostanoudiplom a snaží se co nejrychleji získat práci u vlády nebo něk
 Je zde ale také mnoho mladých lidí, kteří jsou natolik bystří, aby si omyly
 
 intervencionismu uvědomili. Odmítají sice po vzoru svých učitelů systémnenarušovaného tržního hospodářství, ale nevěří, že by izolovaná intervenci-onistická opatření mohla dosáhnout požadovaných cílů. Konzistentně apli-kují myšlenky svých učitelů do jejich logických důsledků. Tím se dostávajík socialismu. Vítají sovětský systém jako úsvit nové a lepší civilizace.
+
+Mnoho současných univerzit se ale nestalo semeništi socialismu kvůli situaci
+
+vládnoucí na katedrách ekonomie, ale kvůli poznatkům předávaným studentům
+
+78402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 784
+
+na ostatních katedrách. Na katedrách ekonomie lze stále najít alespoň nějaké
+
+ekonomy a i ostatním učitelům mohou být známy některé výhrady vznášenéproti uskutečnitelnosti socialismu.

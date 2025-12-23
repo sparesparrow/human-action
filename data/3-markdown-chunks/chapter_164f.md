@@ -1,5 +1,4 @@
-
-Podle nich tato válka nebyla zajímavá. Nebyla vedena řádnými armádamivedenými profesionálními veliteli. Civilisté, jako například Lincoln, zasaho-vali do vedení operací. Z této války se proto nelze příliš přiučit, říkají. Aleprávě v této občanské válce poprvé hrály problémy meziregionální dělbypráce rozhodující roli. Jih byl vesměs zemědělský a jeho zpracovatelský prů-mysl nevýznamný. Konfederace závisela na dodávkách výrobků z Evropy.
+Konfederace závisela na dodávkách výrobků z Evropy.
 
 Jeli-kož námořní síly Unie byly dostatečně silné a prováděly účinnou blokádujejích břehů, brzy začala pociťovat nedostatek vybavení.
 

@@ -1,29 +1,4 @@
-
-Veškeré toto vášnivé uctívání dokonalosti vlády je jen mizerným masko-
-
-váním sebezbožštění každého intervencionisty. Báječný bůh Stát je báječným
-
-bohem pouze proto, že se od něj očekává, že bude dělat výlučně to, čeho chcekaždý jednotlivý obhájce intervencionismu dosáhnout. Opravdovým plánemje jen takový plán, se kterým plánovač zcela souhlasí. Všechny ostatní plányjsou prostě podvrhy. Když říká „plán“, má autor knihy o prospěšnosti plá-nování na mysli samozřejmě pouze svůj vlastní plán. Vůbec nebere do úvahy
-
-6547Srov. Laskiho vysílání, „Revolution by Consent“, přetištěno v Talks , X, č. 10 (říjen,
-
-1945), str. 7.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 654
-
-to, že plán, který uvede v život vláda, se od jeho plánu může lišit. Různí
-
-plánovači spolu souhlasí pouze v odmítání laissez faire , tj. individuálního
-
-rozhodování a jednání. Vůbec se neshodnou na volbě jednoho plánu, který byměl být přijat. Jsou-li jim ukázány zjevné a nepopiratelné vady interven-cionistických politik, reagují zastánci intervencionismu vždy stejně. Tytovady, říkají, byly výsledkem falešného intervencionismu; my však obhajuje-me dobrý intervencionismus, ne takovýto špatný intervencionismus. A sa-mozřejmě dobrým intervencionismem je ten, který propaguje samotný panprofesor.
-
-Laissez faire znamená: Nechme každého člověka volit a jednat; nenuťme jej
-
-podvolovat se diktátorovi.
-
-6. Přímý vládní zásah do spotřeby
-
-Při zkoumání ekonomických problémů intervencionismu se nemusíme
-
-zabývat těmi aktivitami vlády, jejichž cílem je okamžitě ovlivnit spotřebitel-skou volbu spotřebních statků. Každý vládní zásah do podnikání musí ne-přímo spotřebu ovlivnit. Vládní zásah totiž mění tržní data, a tak také musízměnit hodnocení a chování spotřebitelů. Je-li ale cílem vlády pouze přinutitpřímo spotřebitele spotřebovávat jiné statky, než pro jaké by se rozhodli bezvládního zásahu, neobjevují se nám žádné speciální problémy, jimiž by seměla ekonomie zabývat.
+Je-li ale cílem vlády pouze přinutitpřímo spotřebitele spotřebovávat jiné statky, než pro jaké by se rozhodli bezvládního zásahu, neobjevují se nám žádné speciální problémy, jimiž by seměla ekonomie zabývat.
 
 Je nepochybné, že mocný a nemilosrdný policejníaparát může svou moc využít k vynucení těchto nařízení.
 
@@ -52,3 +27,33 @@ Opatrovník má povinnost chránit je před škodou, kterou by si napá-chali, k
 Lidé, co se sami staví do pozice „realistů“, si neuvědomují nesmírný
 
 význam dotčených principů. Tvrdí, že se nechtějí pouštět do – jak říkají – filo-zofických a akademických otázek. Říkají, že jejich přístup je zcela vedenpraktickými úvahami. Je faktem, tvrdí, že někteří lidé poškozují sebe a svénevinné rodiny konzumací narkotik. Pouze doktrináři mohou být tak dogma-tičtí a stavět se proti vládní regulaci obchodu s drogami. Její příznivé dopadynelze zpochybnit.
+
+Celá věc ale není tak jednoduchá, jak se může zdát. Opium a morfin jsou
+
+zcela jistě nebezpečné a návykové drogy. Jakmile ale přijmeme princip, že jepovinností vlády ochraňovat jednotlivce proti jejich vlastní hlouposti, ztrá-címe pádný argument proti dalším vládním zásahům. Lze pak snadno argu-mentovat pro zákaz alkoholu a nikotinu. A proč omezovat benevolentnívládní péči pouze na lidská těla? Není snad škoda, kterou může člověk uštěd-řit své mysli a duši, ještě mnohem horší než škoda tělesná?
+
+Proč nezabránitčlověku ve čtení špatných knih a sledování špatných filmů, v prohlížení špat-ných obrazů a soch a v poslouchání špatné hudby? Škoda napáchaná špatný-mi ideologiemi je jistě také jak pro jedince, tak pro celou společnost mnohemzhoubnější než škoda způsobená drogami.
+
+Teď již nehovoříme pouze o domnělých nebezpečích, jež straší pár izolo-
+
+vaných dogmatiků. Je faktem, že žádná paternalistická vláda, ať již dávná čimoderní, se nevyvarovala pokusů o regulování lidské mysli, víry a názorů.Pokud je jednou pošlapána svoboda člověka rozhodovat o své spotřebě, mizíveškeré svobody. Naivní zastánci vládních zásahů do spotřeby se obelhávají,když opomíjejí to, co tak pohrdavě nazývají filozofickým aspektem problému.Nevědomky tak podporují myšlenky, jež stojí za cenzurou, inkvizicí, nábo-ženskou netolerancí a pronásledováním jinověrců.
+
+Zabýváme-li se katalaxií intervencionismu, ponecháváme stranou tyto
+
+politické důsledky přímých vládních zásahů do spotřeby občanů. Zabývámese výlučně těmi akty intervence, jež mají za cíl přinutit podnikatele a kapita-listy využít výrobní prostředky odlišným způsobem, než by učinili v situaci,kdy by byli podřízeni pouze diktátu trhu. Při tomto zkoumání si neklademeotázku, zda je daný zásah dobrý nebo špatný vzhledem k nějakému předem
+
+65602_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 656
+
+danému standardu. Ptáme se pouze, zda může dosáhnout těch cílů, kterých
+
+jeho obhájci, již se k tomuto zásahu uchýlili, dosáhnout chtějí.
+
+Korupce
+
+Analýza intervencionismu by nebyla úplná, kdyby nevzala v úvahu jev
+
+korupce.
+
+Těžko bychom hledali nějaký vládní zásah do fungování tržního procesu,
+
+který by z pohledu dotčených obyvatel nebylo možné označit za konfiskaci čidar.

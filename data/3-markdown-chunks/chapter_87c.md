@@ -1,7 +1,4 @@
-
-Jednající člověk se nedívá na své poměry očima historika. Nezajímá ho, jak
-
-k současné situaci došlo. Jeho jedinou starostí je, jak dnes dostupné pro-středky co nejlépe použít k odstranění budoucí nespokojenosti. Minulost proněj nemá žádný význam. Má k dispozici určité množství hmotných výrobníchfaktorů. Neptá se, zda jsou tyto faktory dané přírodou, nebo zda jde o výsle-dek minulé výroby. Nezáleží na tom, jak bylo množství přírodou danýchfaktorů, tj. původních výrobních faktorů a práce, během minulé výroby roz-šířeno a kolik času tyto výrobní postupy spotřebovaly.
+Jeho jedinou starostí je, jak dnes dostupné pro-středky co nejlépe použít k odstranění budoucí nespokojenosti. Minulost proněj nemá žádný význam. Má k dispozici určité množství hmotných výrobníchfaktorů. Neptá se, zda jsou tyto faktory dané přírodou, nebo zda jde o výsle-dek minulé výroby. Nezáleží na tom, jak bylo množství přírodou danýchfaktorů, tj. původních výrobních faktorů a práce, během minulé výroby roz-šířeno a kolik času tyto výrobní postupy spotřebovaly.
 
 Hodnotí dostupné pro-středky výhradně kvůli službám, které mu mohou poskytnout při jeho snazedosáhnout v budoucnu uspokojivějších podmínek. Doba výroby a doba upo-třebitelnosti jsou pro něj kategoriemi plánování budoucího jednání, nikolikoncepty akademické retrospekce a historického výzkumu. Jsou významné,protože ten, kdo jedná, si musí vybírat mezi různě dlouhými dobami výrobya mezi výrobou více či méně trvanlivých statků.
 
@@ -50,3 +47,5 @@ ních statků je výsledkem touhy zaopatřit se předem pro delší časové obd
 2Pokud však člověk usiluje o časově
 
 vzdálenější cíle, prodlužování doby výroby je nutným následkem tohotopočinu. Požadované cíle nemohou být dosaženy v kratší době výroby.
+
+Odklad spotřeby znamená, že jednotlivec dává přednost uspokojení

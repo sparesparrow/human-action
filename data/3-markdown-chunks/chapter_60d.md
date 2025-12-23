@@ -1,8 +1,3 @@
-
-Podnikové dividendy se lidově nazývají ziskem. Ve skutečnosti představu-
-
-jí úrok z investovaného kapitálu plus tu část zisku, která není investovánazpět do podniku. Pokud podnik není úspěšný, buď nejsou vypláceny žádnédividendy, nebo obsahují pouze úroky z celého kapitálu nebo jeho části.
-
 Socialisté a intervencionisté nazývají zisk a úrok nezaslouženým příjmem ,
 
 výsledkem toho, že jsou pracovníci připravováni o podstatnou část plodů svépráce. Z jejich pohledu vznikají výrobky z dřiny jako takové a z ničeho jiné-ho a správně by měly přinášet výhody jenom nádeníkům.
@@ -52,3 +47,7 @@ mezd je nutnou podmínkou rozšíření výroby. Pokud mzdové sazby nerostou,po
 třeba zajistit, aby mzdové sazby nepřetržitě rostly. Hlavním motorem růstu je
 
 tlak vlády a odborů na prosazení vyšších mzdových sazeb.
+
+Jak bylo ukázáno výše, vznik přebytku celkového součtu podnikatelských
+
+zisků nad celkovým součtem podnikatelských ztrát je neoddělitelně spojen seskutečností, že část výhod odvozených ze zvýšení množství volných kapitálo-vých statků a ze zlepšení technologických postupů přechází na nepodnika-telské skupiny.

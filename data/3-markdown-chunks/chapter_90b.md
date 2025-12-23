@@ -1,7 +1,4 @@
-
-Všechny tyto akce a procesy jsou duševně ovládány kapitálovým účetnic-
-
-tvím, vrcholem peněžní ekonomické kalkulace. Bez pomoci peněžní kalkula-ce by se člověk nemohl dozvědět, zda – bez ohledu na délku doby výroby –určitý proces slibuje vyšší produktivitu než nějaký jiný. Výdaje vyžadovanérůznými procesy nemohou být navzájem poměřovány bez pomoci peněžní-ho vyjádření. Kapitálové účetnictví začíná s tržními cenami kapitálových stat-ků dostupných pro další výrobu, jejichž souhrn nazývá kapitálem.
+Kapitálové účetnictví začíná s tržními cenami kapitálových stat-ků dostupných pro další výrobu, jejichž souhrn nazývá kapitálem.
 
 Zazname-nává každý výdaj z tohoto fondu a cenu všech příchozích položek vyvolanýchtěmito výdaji. Nakonec stanovuje konečný výsledek všech těchto přeměn vesložení kapitálu a tím úspěch nebo neúspěch celého procesu. Neukazujepouze konečný výsledek; odráží také každý z jeho mezistupňů. Vytváří před-běžné bilance pro každý den, v němž jsou požadovány, a výkaz zisků a ztrátpro každou část nebo stupeň procesu. Je nepostradatelným kompasem výro-by v tržním hospodářství.
 
@@ -36,3 +33,15 @@ bou ekonomů, že se s jeho povrchním pohledem ztotožnili. Zmýlili se v ozna-
 Stejně tak není správné považovat kapitálové statky za nahromaděné
 
 přírodní faktory a práci. Správnější je mluvit o nahromaděných přírodníchfaktorech, práci a času. Rozdíl mezi výrobou bez pomoci kapitálových statkůa s jejich použitím spočívá v čase. Kapitálové statky jsou přestupní stanicí na cestě od prvopočátků výroby k jejímu konečnému cíli, vzniku spotřebníchstatků. Ten, kdo vyrábí pomocí kapitálových statků, se těší z velké výhodynad těmi, kdo začínají bez nich; je v čase blíže konečnému cíli svého snažení.
+
+Nemá smysl diskutovat o údajné produktivitě kapitálových statků. Rozdíl
+
+mezi cenou kapitálového statku, například stroje, a součtem cen komple-mentárních primárních výrobních faktorů nutných pro jeho reprodukci exis-tuje pouze kvůli časovému rozdílu. Ten, kdo použije stroj, je blíže cíli výroby.Doba výroby je v jeho případě kratší, než je tomu u konkurenta, který musízačít od začátku. Nákupem stroje kupuje původní výrobní faktory vynalože-né na jeho výrobu plus čas, tj. čas, o který je zkrácena doba výroby.
+
+Hodnota času, tj. časová preference či vyšší hodnocení uspokojení potřeb
+
+v bližších obdobích budoucnosti v porovnání se vzdálenějšími, je nezbytnýmprvkem lidského jednání. Určuje každou volbu a každé jednání. Neexistuje
+
+4437Tyto úvahy vyvrací námitky vznesené proti teorii časové preference Frankem
+
+H.

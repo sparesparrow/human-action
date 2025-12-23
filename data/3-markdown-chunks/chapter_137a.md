@@ -45,3 +45,11 @@ Kdyby proti socialistickým plánům nemohla být vznesena jiná námitka,
 než že socialismus sníží životní úroveň všech nebo alespoň naprosté většinylidí, praxeologie by nemohla vyslovit konečný soud. Lidé by museli spor mezikapitalismem a socialismem rozhodnout na základě hodnotového soudunebo na základě posouzení významnosti. Museli by si mezi těmito dvěmasystémy vybrat, jako si vybírají mezi mnoha jinými věcmi. Nedala by se naléztžádná objektivní norma, jež by umožnila rozhodnout spor způsobem, kterýnení rozporný a který musí každý duševně zdravý jedinec uznat.
 
 Svobodakaždého člověka vybrat si a svoboda jeho jednání by nebyly zničeny nevy-hnutelnou nutností. Skutečný stav věcí je však naprosto odlišný. Člověk nenív situaci, kdy by si mezi těmito dvěma systémy mohl vybrat. Spolupráce lidív systému dělby práce ve společnosti je možná pouze v tržním hospodářství.
+
+60812K tomuto způsobu argumentace se uchylovali zejména někteří význační představi-
+
+telé křesťanského socialismu. Marxisté doporučovali socialismus na základě toho, žeznásobí produktivitu a každému přinese nebývalou materiální hojnost. Teprvepozději změnili taktiku. Prohlašují, že ruský dělník je šťastnější než americký, přes-tože je jeho životní úroveň mnohem nižší; vědomí, že žije ve spravedlivém systému,mu zdaleka vyvažuje všechno materiální strádání.02_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 608
+
+Socialismus není uskutečnitelným systémem hospodářské organizace společ-
+
+nosti, protože nemá žádnou metodu ekonomické kalkulace.

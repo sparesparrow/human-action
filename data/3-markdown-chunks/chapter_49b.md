@@ -1,4 +1,3 @@
-
 V imaginárním konstruktu rov-noměrně plynoucí ekonomiky není nikdo podnikatelem ani spekulantem.V jakémkoli skutečném a živém hospodářství je každý, kdo jedná, vždy pod-nikatelem i spekulantem; lidé, o něž se tyto jednající osoby starají – členovémalých rodin v tržní společnosti i masy v socialistické společnosti –, jsou,i když sami nejednají, a proto nespekulují, vždy ovlivněni výsledky spekulo-vání těch, kteří jednají.
 
 Když ekonomie mluví o podnikatelích, nemá na mysli lidi, ale určitou

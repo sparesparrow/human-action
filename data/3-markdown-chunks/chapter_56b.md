@@ -1,5 +1,4 @@
-
-Chceme-li uvažovat o stavuvěcí, v němž společenská soutěž neexistuje, musíme zkonstruovat obraz soci-alistického systému, v němž nejvyššímu vůdci v úsilí přidělit každému jehomísto a úlohu ve společnosti nepomáhají žádné ambice podřízených. Jed-notlivci jsou naprosto lhostejní a nežádají o konkrétní funkce. Jednají jakoplemenní hřebci, kteří se nesnaží postavit do příznivého světla, když majitelvybírá jednoho z nich k oplodnění nejlepší klisny. Takoví lidé by však již neby-li jednajícími lidmi.
+Jednají jakoplemenní hřebci, kteří se nesnaží postavit do příznivého světla, když majitelvybírá jednoho z nich k oplodnění nejlepší klisny. Takoví lidé by však již neby-li jednajícími lidmi.
 
 Katalaktická konkurence je soutěží mezi lidmi, kteří chtějí jeden druhého
 
@@ -44,3 +43,9 @@ Tento bod musíme zdůraznit, protože jeho nepochopení je jádrem mnoha
 oblíbených stížností na nemožnost konkurence. Zhruba před šedesáti letylidé často tvrdili: nemůžete soutěžit s železničními společnostmi; je nemožnénapadat jejich postavení zřizováním konkurenčních tratí; v oblasti pozemnídopravy už konkurence neexistuje. Pravdou bylo, že tratě, které v té době jižbyly v provozu, celkem vzato dostačovaly.
 
 Příznivější vyhlídky pro další kapi-tálové investice byly ve zlepšování provozuschopnosti již provozovaných tratía v jiných oborech podnikání než ve stavbě nových železnic. To však nepře-káželo dalšímu technickému pokroku v dopravě. Velikost a ekonomická„moc“ železničních společností nezabránila vzniku automobilů a letadel.
+
+25301_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 253
+
+Dnes lidé tvrdí totéž o různých odvětvích velkého podnikání: nemůžete
+
+napadat jejich postavení, jsou příliš velcí a příliš silní. Soutěž však nezna-mená, že se komukoli bude dobře dařit jen na základě toho, že bude napo-dobovat, co dělají jiní. Znamená příležitost sloužit spotřebitelům lépe nebolevněji a nebýt při tom omezován výhodami udělenými těm, jejichž existujícípráva taková inovace poškozuje. Nově příchozí, který se chce vzepřít právůmstarých zavedených firem, potřebuje zejména mozek a myšlenky.

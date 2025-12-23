@@ -1,7 +1,4 @@
-
-Tyto teze nepřestanou platit, když někdo dá termín ekonomický zákon do
-
-uvozovek a zpochybní možnost existence takového zákona. Hovoříme-lio zákonech přírody, máme na mysli skutečnost, že existuje neúprosné propo-jení fyzikálních a biologických jevů a že se jednající člověk musí podřídittěmto zákonitostem, pakliže chce uspět. Když hovoříme o zákonech lidskéhojednání, odkazujeme na skutečnost, že takovéto neúprosné propojení jevůnacházíme i ve sféře lidského jednání jako takového a že jednající člověk,chce-li uspět, musí tuto zákonitost také uznat.
+Když hovoříme o zákonech lidskéhojednání, odkazujeme na skutečnost, že takovéto neúprosné propojení jevůnacházíme i ve sféře lidského jednání jako takového a že jednající člověk,chce-li uspět, musí tuto zákonitost také uznat.
 
 Realita praxeologických záko-nů se člověku ukazuje stejným způsobem jako realita zákonů přírodních –skutečností, že schopnost dosáhnout zvolených cílů je omezená a podmíně-ná. Kdyby takové zákony neexistovaly, člověk by byl buď všemocný a nikdyby nepociťoval žádnou nespokojenost, kterou by nemohl okamžitě a zcelaodstranit, nebo by nemohl jednat vůbec.
 

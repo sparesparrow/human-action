@@ -1,14 +1,3 @@
-
-Je možné oprávněně předpokládat, že takové úvěrové peníze by mohly být
-
-dále užívány jako prostředek směny, i kdyby měly ztratit svůj charakter náro-ků vůči bance nebo státní pokladně a tím se staly neplnohodnotnými penězi .
-
-Neplnohodnotné peníze jsou představovány pouhými symbolickými penězi,které nemohou být použity k žádnému průmyslovému užití, ani nést žádnýnárok.
-
-Není úkolem katalaxie, ale hospodářských dějin, pátrat po tom, zda se
-
-v minulosti objevil nějaký typ neplnohodnotných peněz, nebo zda všechnydruhy peněz, které nebyly komoditními penězi, spadají pod označení úvěro-vé peníze. Jedinou věcí, kterou musí stanovit katalaxie, je to, že musí připus-tit možnost existence neplnohodnotných peněz.
-
 V souvislosti s každým druhem peněz je nutné zapamatovat si důležitou
 
 věc: demonetizace – tj. ukončení jejich používání jako prostředku směny –musí vést k vážnému poklesu jejich směnné hodnoty. Co to znamená v praxi,se jasně ukázalo v posledních devadesáti letech, kdy bylo postupně omezo-váno použití stříbra jako komoditních peněz.
@@ -54,3 +43,13 @@ Zvýšení podílu, který z tohoto dodatečného bohatství připa-dá věřite
 13Není však
 
 možné tvrdit, že snížení cen způsobené nárůstem produkce určitých statků jedůkazem nějaké nerovnováhy, jež nemůže být odstraněna jinak než zvýšenímmnožství peněz. Každé zvýšení produkce některých nebo všech výrobkůvyžaduje přirozeně vždy novou alokaci výrobních faktorů do různých odvět-ví. Pokud se množství peněz nemění, je potřeba této realokace zřejmá z ceno-vé struktury. Některá výrobní odvětví se stanou výnosnějšími, zatímcov jiných zisky klesnou nebo se objeví ztráty.
+
+Tímto způsobem směřuje fungo-vání trhu k odstranění těchto často diskutovaných nerovnováh. Pomocí zvý-šení množství peněz je možné oddálit nebo přerušit tento proces přizpůsobe-ní. Je však nemožné zbavit ho významu nebo ho učinit méně bolestným proty, jichž se týká.
+
+Pokud by vládou způsobené změny kupní síly vyvolané hotovostí vedly jen
+
+k přesunu bohatství od jedněch lidí k jiným, nebylo by přípustné odsoudit jez pohledu katalaktické vědecké neutrality. Je zjevně mylné ospravedlňovat jepomocí všeobecného dobra nebo blahobytu veřejnosti. Bylo by je nicméněstále možné považovat za politická opatření vhodná k prosazování zájmůněkterých skupin lidí na úkor ostatních bez toho, aby vznikala nějaká dalšíškoda. Avšak do hry vstupují i jiné okolnosti.
+
+Není nutné poukazovat na důsledky, k nimž vede nepřetržitá deflační poli-
+
+tika. Takovou politiku nikdo nepodporuje.

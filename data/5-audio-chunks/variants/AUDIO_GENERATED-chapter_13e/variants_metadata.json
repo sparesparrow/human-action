@@ -1,0 +1,129 @@
+{
+  "chapter": "AUDIO_GENERATED-chapter_13e",
+  "input_file": "data/4-markdown-chunks-optimized/AUDIO_GENERATED-chapter_13e-OPTIMIZED.md",
+  "mode": "all",
+  "timestamp": 1766472007.6921785,
+  "variants": [
+    {
+      "name": "piper_cs_CZ-jirka-medium_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "natural",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_cs_CZ-jirka-medium_natural.wav",
+      "file_size_bytes": 4117786,
+      "duration_seconds": 46.686032,
+      "generation_time": 10.729642868041992,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-low_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-low",
+      "preset": "natural",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_cs_CZ-jirka-low_natural.wav",
+      "file_size_bytes": 4080916,
+      "duration_seconds": 46.268005,
+      "generation_time": 7.343890190124512,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "natural",
+      "params": {
+        "preset": "natural",
+        "length_scale": 1.0,
+        "noise_scale": 0.667,
+        "noise_w": 0.8
+      },
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_cs_CZ-jirka-medium_natural.wav",
+      "file_size_bytes": 4137242,
+      "duration_seconds": 46.906621,
+      "generation_time": 10.775300979614258,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_clear",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "clear",
+      "params": {
+        "preset": "clear",
+        "length_scale": 1.0,
+        "noise_scale": 0.5,
+        "noise_w": 0.7
+      },
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_cs_CZ-jirka-medium_clear.wav",
+      "file_size_bytes": 4099354,
+      "duration_seconds": 46.477052,
+      "generation_time": 10.678497791290283,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_expressive",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "expressive",
+      "params": {
+        "preset": "expressive",
+        "length_scale": 1.0,
+        "noise_scale": 0.8,
+        "noise_w": 0.9
+      },
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_cs_CZ-jirka-medium_expressive.wav",
+      "file_size_bytes": 4125978,
+      "duration_seconds": 46.778912,
+      "generation_time": 10.735786437988281,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_fast",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "fast",
+      "params": {
+        "preset": "fast",
+        "length_scale": 1.2,
+        "noise_scale": 0.6,
+        "noise_w": 0.8
+      },
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_cs_CZ-jirka-medium_fast.wav",
+      "file_size_bytes": 4690202,
+      "duration_seconds": 53.176009,
+      "generation_time": 10.587822198867798,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_slow",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "slow",
+      "params": {
+        "preset": "slow",
+        "length_scale": 0.8,
+        "noise_scale": 0.5,
+        "noise_w": 0.7
+      },
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_cs_CZ-jirka-medium_slow.wav",
+      "file_size_bytes": 3511578,
+      "duration_seconds": 39.812925,
+      "generation_time": 10.394475221633911,
+      "success": true
+    },
+    {
+      "name": "piper_default",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/AUDIO_GENERATED-chapter_13e/piper_default.wav",
+      "file_size_bytes": 4103450,
+      "duration_seconds": 46.523492,
+      "generation_time": 10.323608160018921,
+      "success": true
+    }
+  ]
+}

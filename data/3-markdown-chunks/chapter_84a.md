@@ -61,3 +61,5 @@ Ve skutečnosti se centrální bankystaly postupně stále více úřady podří
 Je pouze jeden prostředek, jak udržet místní a národní měnu trvale na
 
 paritní úrovni vůči zlatu a zahraničním měnám: bezpodmínečné vyplacení.Centrální banka musí koupit za paritní cenu jakékoli množství zlata a zahra-niční měny nabídnuté za domácí bankovky a peníze na účtech; na druhoustranu musí, bez dělání rozdílů, prodat jakýkoli objem zlata a zahraničníměny požadovaný lidmi, kteří jsou ochotni zaplatit paritní cenu v domácíchbankovkách, mincích nebo penězích na účtech. Taková byla politika centrál-ních bank v podmínkách zlatého standardu.
+
+Stejná byla i politika těch vláda centrálních bank, které přijaly měnový systém obecně známý pod jménemstandard zlaté devizy.

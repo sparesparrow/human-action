@@ -1,7 +1,4 @@
-
-Není tedy nic zvláštního ani špatného na tom, že v rámci takto proměnli-
-
-vého světa nejsou peníze ani neutrální, ani nemají stabilní kupní sílu. Všech-ny plány na dosažení neutrálních a stabilních peněz jsou vnitřně rozporné.Peníze jsou prvkem jednání a následkem toho i změny. Změny v peněžnímvztahu, tj. ve vztahu mezi nabídkou peněz a poptávkou po penězích, majídopad na směnný poměr mezi penězi na jedné straně a prodejnými statky nastraně druhé. Tyto změny neovlivňují ceny různých statků a služeb ve stejnémčase a rozsahu.
+Všech-ny plány na dosažení neutrálních a stabilních peněz jsou vnitřně rozporné.Peníze jsou prvkem jednání a následkem toho i změny. Změny v peněžnímvztahu, tj. ve vztahu mezi nabídkou peněz a poptávkou po penězích, majídopad na směnný poměr mezi penězi na jedné straně a prodejnými statky nastraně druhé. Tyto změny neovlivňují ceny různých statků a služeb ve stejnémčase a rozsahu.
 
 V důsledku toho dopadají odlišným způsobem na bohatstvírůzných členů společnosti.
 
@@ -66,3 +63,5 @@ ně u jednoho člověka – odpověď kladná.
 Služby, jež peníze poskytují, jsou podmíněny výší jejich kupní síly. Nikdo
 
 nechce držet určitý počet mincí nebo peníze o určité hmotnosti; každý chcemít hotovost s určitou kupní silou. Jak fungování trhu směřuje k určeníkonečné kupní síly peněz v té výši, při níž se vyrovnají nabídka s poptávkoupo penězích, nikdy nemůže nastat přebytek nebo nedostatek peněz. Každýjednotlivec a všichni jednotlivci dohromady se plně těší z výhod, které získá-vají z nepřímé směny a používání peněz, bez ohledu na to, zda je celkovémnožství peněz velké, nebo malé.
+
+Změny kupní síly peněz vyvolávají změnyv rozložení bohatství mezi různými členy společnosti. Z pohledu lidí, již sechtějí na takových změnách obohatit, se může zdát zásoba peněz nedostateč-ná nebo přebytečná, a tato jejich touha může vyústit v politiky způsobujícívýkyvy kupní síly vyvolané hotovostí.

@@ -1,8 +1,3 @@
-
-Vláda se v takové situacismířila s dopady na odložené platby buď z toho důvodu, že považovala danáopatření za nevyhnutelná, nebo proto, že předpokládala, že věřitelé a dlužní-ci při sjednávání smluvních podmínek již tyto okolnosti předvídali a náležitěje do smluv zapracovali. Nejlepší příklad nám poskytnou události v Británii po
-
-napoleonských válkách nebo znovu po první světové válce. V obou případechse Británie po konci válek pomocí deflačních politik vrátila k předválečné zlatéparitě libry šterlinků. Byla odmítnuta myšlenka opustit zlatý standard a přejítk systému úvěrových peněz, jenž byl přijat za války, a smířit se se změnoutržního směnného poměru mezi librou a zlatem, ke které již došlo, a přijmouttento poměr jako novou zákonnou paritu.
-
 Taková možnost byla zavržena jakoznak národního úpadku, jako částečné odmítnutí splácet veřejný dluh a jakozákeřné pošlapání práv lidí, kteří poskytli úvěry v době před pozastavenímbezpodmínečné směnitelnosti bankovek Bank of England . Lidé podléhali
 
 klamu, že zlo způsobené inflací může být následně odčiněno prováděnímdeflace. Návrat k předválečné zlaté paritě ale nemohl věřitelům nahraditškody, které utrpěli, pokud dlužníci své dluhy splatili během období, kdy bylypeníze znehodnoceny. Vzniklá situace navíc přinesla prospěch všem, kteří
@@ -40,3 +35,19 @@ Stejně jako v ostat-ních rozličných případech vládních zásahů do struk
 Rozhodne-li se vláda uchýlit k inflaci, aby prospěla dlužníkům na úkor
 
 věřitelů, může uspět, pouze co se týče těch odložených plateb, které již bylysjednány. Inflace nijak nezlevní nové půjčky. Naopak. Zdraží je kvůli vznikukladné cenové přirážky. Je-li inflace dotažena až do svých konečných důsled-ků, zcela zastaví sjednávání odložených plateb vyjádřených ve znehodnocují-cích se penězích.
+
+3. Vývoj moderních způsobů měnové manipulace
+
+Kovové peníze nejsou předmětem manipulace ze strany vlády. Vláda samo-
+
+zřejmě může uzákonit ustanovení o zákonném platidle. Fungování Gresha-mova zákona ale povede k výsledkům, které znemožní dosažení cílů, o něžvláda usilovala. Z tohoto pohledu se zdá, že kovový standard představuje pře-kážku veškerým pokusům zasahovat měnovou politikou do tržních jevů.
+
+Při zkoumání vývoje, jenž přinesl vládám možnost ovlivňovat národní
+
+měnové systémy, je třeba nejprve zmínit jeden z nejzásadnějších omylů kla-sických ekonomů. Jak Adam Smith, tak David Ricardo považovali nákladyspojené se zachováním kovové měny za plýtvání. Domnívali se, že nahrazeníkovových peněz papírovými umožní využít kapitál a práci, jež jsou potřebak výrobě množství zlata a stříbra pro měnové účely, k výrobě statků přímouspokojujících lidské potřeby.
+
+Na této myšlence vystavěl Ricardo svůj Návrhk zajištění hospodárné a bezpečné měny (Proposal for an Economical and Secure
+
+Currency), poprvé publikovaný v roce 1816. Ricardův plán ale upadl v zapo-
+
+mnění.

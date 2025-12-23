@@ -1,4 +1,3 @@
-
 Porozumění těmto skutečnostem nám dává klíč ke správnému ocenění
 
 úlohy, kterou hrály teorie lorda Keynese v období mezi první a druhou světo-vou válkou. Keynes nepřinesl žádný nový argument do seznamu omylůzastánců inflace, jež byly ekonomy tisíckrát vyvráceny. Jeho učení bylo ještěmnohem rozpornější a méně konzistentní než učení jeho předchůdců, kteříbyli, jako například Silvio Gesell, zavrženi a označeni za měnové pomatence.Keynes pouze dokázal odít volání po inflaci a úvěrové expanzi do složité ter-minologie matematické ekonomie.
@@ -38,3 +37,7 @@ Nevyhnutelné důsledky úvěrové expanze vysvětluje teorie hospodářského
 cyklu. Dokonce i ti ekonomové, kteří stále odmítají přiznat správnost peněž-ní teorie hospodářských cyklů (či teorie založené na oběžném úvěru), senikdy neodvážili zpochybňovat správnost a nevyvratitelnost závěrů této teo-rie ohledně nutných dopadů úvěrové expanze. I tito ekonomové musí uznat –a také tak činí –, že ekonomický vzestup je vždy podmíněný úvěrovou expan-zí, že by bez úvěrové expanze nemohl vzniknout a setrvat a že se měnív depresi, když se pokračování úvěrové expanze zastaví.
 
 Jejich vysvětlení hos-podářského cyklu spočívá v podstatě v tvrzení, že počáteční vzestup nevyvo-lává úvěrová expanze, ale jiné faktory. Říkají, že úvěrová expanze, jež je i dlejejich názoru nevyhnutelnou podmínkou všeobecného boomu, není výsled-kem politiky záměrně usilující o nízké úrokové míry a podporu dodatečnýchinvestic, k jejichž uskutečnění se nedostává kapitálových statků. Je to cosi, cobez zásahu vlády vždy zázračně nastane, když tyto faktory začnou působit.
+
+Je zjevné, že si tito ekonomové protiřečí, když se staví proti záměru nepro-
+
+vádět úvěrovou expanzi, a tím odstranit hospodářské fluktuace. Zastáncinaivních inflačních teorií v souladu se svou – samozřejmě naprosto mylnoua rozpornou – teorií považují úvěrovou expanzi za ekonomický všelék.

@@ -47,3 +47,5 @@ I když tyran může dočasně vládnout pomocí menšiny,pokud je tato menšina
 Trvalý systém vlády musí spočívat v ideologii, již uznává většina. „Skuteč-
 
 ný“ činitel, „skutečné síly“, které jsou základem vlády a poskytují vládci sílupoužít násilí proti odbojným menšinovým skupinám, jsou ve své podstatěideologické, mravní a duševní. Vladaři, kteří nerozpoznali tento základníprincip vlády, spoléhali se na údajnou neporazitelnost svých ozbrojenýchoddílů a pohrdali duchem a idejemi, byli nakonec svrženi násilnou akcí svýchodpůrců.
+
+Interpretace moci jako „skutečného“ činitele nezávislého na ideolo-giích, která je běžná v mnoha politických a historických knihách, je chybná.Termín Realpolitik má smysl pouze tehdy, jestliže se používá k označení poli-

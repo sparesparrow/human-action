@@ -45,3 +45,9 @@ Konečným cílem těchto protikonkurenčních politik je nahradit kapitalis-
 mus socialistickým plánovacím systémem, v němž neexistuje vůbec žádnákatalaktická soutěž. Zatímco roní krokodýlí slzy nad poklesem konkurence,chtějí plánovači tento „šílený“ soutěžní systém zrušit. V některých zemíchsvého cíle dosáhli, ale ve zbytku světa pouze v některých oborech omezili sou-těž tím, že zvýšili počet lidí soutěžících v jiných oborech.
 
 V současnosti hrají síly směřující k omezení konkurence nesmírnou roli.
+
+Zabývat se jimi je velký úkol dějepisu naší doby. Ekonomická teorie nemápotřebu podrobně se jimi zabývat. Skutečnost, že existují obchodní bariéry,
+
+25615Vyvrácení módních teorií o nedokonalé a monopolistické konkurenci najde čtenář
+
+v knize F. A. Hayeka Individualism and Economic Order (Chicago, 1948), str.

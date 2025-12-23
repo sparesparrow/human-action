@@ -1,18 +1,3 @@
-
-Pokud by k tomuto mělo dojít, reálnéceny a reálné mzdy získané těmito majiteli a pracovníky by klesly – v pomě-ru k cenám ostatních statků a služeb – na tu úroveň, na kterou musí klesnoutkvůli nalezení kupce nebo zaměstnavatele.
-
-Průběh boomu není zásadně ovlivněn skutečností, že před jeho začátkem
-
-existuje nevyužitá kapacita, přebytečné neprodané zásoby a nezaměstnanípracovníci. Předpokládejme, že existují nevyužité kapacity měděných dolů,neprodané zásoby mědi, nezaměstnaní dělníci měděných dolů. Cena mědi jena úrovni, při níž se těžba v některých dolech nevyplatí; jejich pracovníci jsoupropouštěni; existují spekulanti, kteří odkládají prodeje svých zásob.
-
-K tomu,aby byly doly znovu ziskové, aby pracovníci měli znovu práci a hromady mědibylo možné prodat, aniž by byla její cena stlačena pod výrobní náklady, jetřeba dosáhnout přírůstku pobjemu dostupných kapitálových statků, jenž
-
-bude dostatečný k zajištění odpovídajícího následného růstu investic a veli-kosti výroby a spotřeby, které povedou k odpovídajícímu zvýšení poptávky pomědi. Pokud však k tomuto přírůstku pnedojde a podnikatelé klamaní úvěro-
-
-vou expanzí i přesto jednají, jako kdyby byl pskutečně dostupný, podmínky
-
-na trhu s mědí jsou po dobu trvání růstu takové, jako kdyby bylo pk zásobě
-
 dostupných kapitálových statků skutečně přidáno. Ovšem i pro tento případplatí vše, co bylo řečeno o důsledcích úvěrové expanze. Jediný rozdíl, pokudjde o měď, spočívá v tom, že nemístné rozšíření výroby nebylo dosaženo sta-žením kapitálu a práce z jiných užití, v nichž by lépe uspokojily potřeby spo-třebitelů. V našem případě mědi se nový boom střetává s mylnou investicíkapitálu a mylným užitím práce uskutečněnými během předcházejícíhoboomu, které nebyly zatím absorbovány procesem přizpůsobení.
 
 Je tedy jasné, že je zbytečné ospravedlňovat novou úvěrovou expanzi odka-
@@ -44,3 +29,23 @@ Pokud by to ekono-mie nedokázala, nepřímo by přiznala, že úrok je peněžn
 Pro nepeněžní vysvětlení hospodářského cyklu je hlavní věcí zkušenost, že
 
 existují opakující se deprese. Zastánci těchto vysvětlení zaprvé ve svém sché-matu následných ekonomických událostí nevidí nic, co by mohlo naznačovatuspokojivé vysvětlení těchto záhadných jevů. Zoufale hledají náhradní řeše-ní, jež by učinilo z jejich závěrů teorii cyklu.
+
+V případě měnové teorie či teorie založené na oběžném úvěru je však si-
+
+tuace odlišná. Moderní měnová teorie nakonec zcela odstranila všechnypředstavy domnělé neutrality peněz. Nezvratně dokázala, že v tržním hospo-dářství působí faktory, o nichž nemá doktrína opomíjející hybnou sílu penězco říci. Katalaktický systém, který obsahuje vědomí peněžní non-neutrality
+
+51916Hayek ( Prices and Production [2. vyd., Londýn, 1935], str. 96 a násl.) dochází k témuž
+
+závěru prostřednictvím poněkud odlišné argumentace.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 519
+
+a hybné síly peněz, odpovídá na otázky, jak změny peněžního vztahu ovliv-
+
+ňují úrokovou míru nejprve v krátkém a později i v dlouhém období. Systém,který by to nedokázal, je špatným systémem. Bylo by poněkud rozporné,
+
+kdyby poskytl odpověď, jež by zároveň nedokázala vysvětlit cyklické hospo-dářské výkyvy. I kdyby nikdy neexistovaly fiduciární prostředky nebo oběžnýúvěr, moderní katalaxie by byla přinucena nastolit otázku týkající se vztahumezi změnami peněžního vztahu a úrokové míry.
+
+Již jsme si ukázali, že každé nepeněžní vysvětlení cyklu musí připustit, že
+
+zvýšení množství peněz nebo fiduciárních prostředků je nezbytnou podmín-kou vzniku boomu. Je zjevné, že všeobecná tendence k růstu cen, jež nenízpůsobena všeobecným poklesem výroby a nabídky statků k prodeji, senemůže objevit, pokud se nabídka peněz (v širším smyslu) nezvýšila. Nynívidíme, že ti, kdo bojují proti peněžním vysvětlením hospodářského cyklu, sek nim musí sami uchýlit z druhého důvodu.
+
+Jedině tato teorie totiž vysvětlu-je, jak příliv dodatečných peněz a fiduciárních prostředků ovlivňuje úvěrovýtrh a tržní úrokovou míru. Bez výslovné zmínky o teorii cyklu založené naoběžném úvěru se mohou obejít pouze ti, pro které je úrok jen výsledkeminstitucionálně podmíněné vzácnosti peněz.

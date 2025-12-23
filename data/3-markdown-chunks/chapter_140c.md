@@ -1,4 +1,3 @@
-
 Všechny složité sylogismy těžkopádných svazků, které vydali Marx,Engels a stovky marxistických autorů, nemohou zastřít skutečnost, že hlav-ním a jediným zdrojem Marxova proroctví je údajná inspirace, o níž Marxtvrdí, že s její pomocí uhádl plány záhadných sil, jež určují směr dějin.Podobně jako Hegel byl Marx prorokem, který lidem zprostředkovával zjeve-ní, jež mu odhalil jeho vnitřní hlas.
 
 Významnou skutečností dějin socialismu v letech 1848 až 1920 bylo, že se
@@ -64,3 +63,15 @@ konečných cílů. Vztahuje se pouze na prostředky, jejichž využitím mají 
 Náš problém, klíčový a jediný problém socialismu, je čistě ekonomickým
 
 problémem a jako takový se vztahuje pouze na prostředky, a ne na konečnécíle.
+
+62402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 624
+
+XXVI. NEMOŽNOST EKONOMICKÉ KALKULACE
+
+ZA SOCIALISMU
+
+1. Problém
+
+Ředitel chce postavit dům. K tomu existuje mnoho metod, které může pou-
+
+žít. Každá z nich nabízí – z pohledu ředitele – určité výhody a nevýhody probudoucí využití budovy a různou výslednou dobu, po niž budova může slou-žit.

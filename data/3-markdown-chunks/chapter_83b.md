@@ -1,7 +1,4 @@
-
-Co platí ve vztahu k jednotlivcům a firmám, není o nic méně pravdivé ve
-
-vztahu ke každému součtu objemu hotovosti držené určitým množstvím jed-notlivců a firem. Není důležité, jaký počet jednotlivců a firem považujeme zacelek. Hotovost držená městem, krajem nebo zemí je souhrnem hotovostiv držení všech jejích obyvatel.
+Hotovost držená městem, krajem nebo zemí je souhrnem hotovostiv držení všech jejích obyvatel.
 
 Předpokládejme, že v tržním hospodářství je používán pouze jeden druh
 
@@ -36,3 +33,15 @@ ními substituty. Banka, která je vydala, je již nesměňuje za peníze. Býva
 V tomto bodě může zasáhnout vláda. Nařídí, že veškeré úvěrové peníze
 
 představují zákonné platidlo ve výši své nominální hodnoty.
+
+20Žádný obcho-
+
+40520Velmi často byla vlastnost zákonného platidla přisouzena těm bankovkám, které v té
+
+době byly stále ještě peněžními substituty a jako takové ve své směnné hodnotěrovny penězům. V tomto okamžiku nemělo takové nařízení žádný katalaktickývýznam. Nyní však význam získalo, protože trh je za peněžní substituty již nepova-žuje.01_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 405
+
+dující již s nimi nesmí zacházet odlišně. Vládní nařízení se snaží přinutit
+
+veřejnost, aby zacházela s věcmi odlišné směnné hodnoty tak, jako kdybyměly stejnou směnnou hodnotu. Narušuje cenovou strukturu určenou trhem.Stanovuje minimální cenu úvěrových peněz a maximální cenu komoditníchpeněz (zlata) a cizích měn. To, k čemu dojde, není tím, o co vláda usilovala.Rozdíl ve směnných hodnotách mezi úvěrovými penězi a zlatem nezmizí. Jeli-kož je zakázáno používat mince podle jejich tržní ceny, lidé je nebudou pou-žívat k nákupům a prodejům a splácení dluhů.
+
+Buď je budou držet, nebo jevyvezou. Komoditní peníze z domácího trhu mizí. Špatné peníze, jak říkáGreshamův zákon, vytlačily dobré peníze ze země.

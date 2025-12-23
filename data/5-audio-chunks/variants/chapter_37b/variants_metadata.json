@@ -1,0 +1,129 @@
+{
+  "chapter": "chapter_37b",
+  "input_file": "data/4-markdown-chunks-optimized/chapter_37b-OPTIMIZED.md",
+  "mode": "all",
+  "timestamp": 1766493118.5268,
+  "variants": [
+    {
+      "name": "piper_cs_CZ-jirka-medium_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "natural",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_cs_CZ-jirka-medium_natural.wav",
+      "file_size_bytes": 104159890,
+      "duration_seconds": 1180.950249,
+      "generation_time": 260.6871781349182,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-low_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-low",
+      "preset": "natural",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_cs_CZ-jirka-low_natural.wav",
+      "file_size_bytes": 99018690,
+      "duration_seconds": 1122.66,
+      "generation_time": 180.6387357711792,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_natural",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "natural",
+      "params": {
+        "preset": "natural",
+        "length_scale": 1.0,
+        "noise_scale": 0.667,
+        "noise_w": 0.8
+      },
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_cs_CZ-jirka-medium_natural.wav",
+      "file_size_bytes": 103918226,
+      "duration_seconds": 1178.210295,
+      "generation_time": 252.34916949272156,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_clear",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "clear",
+      "params": {
+        "preset": "clear",
+        "length_scale": 1.0,
+        "noise_scale": 0.5,
+        "noise_w": 0.7
+      },
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_cs_CZ-jirka-medium_clear.wav",
+      "file_size_bytes": 103641746,
+      "duration_seconds": 1175.075601,
+      "generation_time": 255.54664087295532,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_expressive",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "expressive",
+      "params": {
+        "preset": "expressive",
+        "length_scale": 1.0,
+        "noise_scale": 0.8,
+        "noise_w": 0.9
+      },
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_cs_CZ-jirka-medium_expressive.wav",
+      "file_size_bytes": 104387218,
+      "duration_seconds": 1183.527664,
+      "generation_time": 256.9858021736145,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_fast",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "fast",
+      "params": {
+        "preset": "fast",
+        "length_scale": 1.2,
+        "noise_scale": 0.6,
+        "noise_w": 0.8
+      },
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_cs_CZ-jirka-medium_fast.wav",
+      "file_size_bytes": 119342738,
+      "duration_seconds": 1353.091383,
+      "generation_time": 290.2286698818207,
+      "success": true
+    },
+    {
+      "name": "piper_cs_CZ-jirka-medium_slow",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "slow",
+      "params": {
+        "preset": "slow",
+        "length_scale": 0.8,
+        "noise_scale": 0.5,
+        "noise_w": 0.7
+      },
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_cs_CZ-jirka-medium_slow.wav",
+      "file_size_bytes": 88162962,
+      "duration_seconds": 999.579184,
+      "generation_time": 219.68472361564636,
+      "success": true
+    },
+    {
+      "name": "piper_default",
+      "engine": "piper",
+      "model": "cs_CZ-jirka-medium",
+      "preset": "",
+      "params": {},
+      "output_file": "data/5-audio-chunks/variants/chapter_37b/piper_default.wav",
+      "file_size_bytes": 103966354,
+      "duration_seconds": 1178.755964,
+      "generation_time": 262.3938522338867,
+      "success": true
+    }
+  ]
+}

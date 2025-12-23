@@ -1,7 +1,4 @@
-
-Významová revoluce, která je jedním z charakteristických rysů našich dnů,
-
-změnila i tradiční význam slov inflace a deflace. To, co dnes mnozí lidé nazý-vají inflací nebo deflací, již není oním velkým zvýšením nebo snížením nabíd-ky peněz, ale jejím neúprosným důsledkem, všeobecnou tendencí k růstunebo poklesu cen statků a mzdových sazeb. Tato inovace není v žádném pří-padě neškodná. Hraje důležitou roli v podněcování obecně rozšířené tenden-ce k inflacionismu.
+Hraje důležitou roli v podněcování obecně rozšířené tenden-ce k inflacionismu.
 
 Především už nemáme žádný pojem, který by označoval to, co dříve ozna-
 
@@ -58,3 +55,5 @@ však nedokáže navrhnout způsob, jakým by bylo možné tuto chybu z ekono-mi
 Nelze popřít, že nenarušovaný trh byl úspěšný v rozvoji měnového systé-
 
 mu, který splňuje všechny požadavky jak nepřímé směny, tak i ekonomickékalkulace. Cíle peněžní kalkulace jsou takové, že nemohou být zmařenynepřesnostmi pramenícími z pomalých a poměrně slabých výkyvů kupní síly.Změny kupní síly vyvolané hotovostí v takovém rozsahu, v jakém se objevo-valy u kovových peněz, zejména v případě zlatých peněz, v posledních dvoustoletích, nemohou ovlivnit výsledek podnikatelovy ekonomické kalkulacetak výrazně, aby tuto kalkulaci znehodnotily.
+
+Historické zkušenosti ukazují,že si lidé – pro praktické potřeby jejich podnikání – s těmito způsoby kalku-lace velmi dobře vystačili. Teoretické úvahy ukazují, že je nemožné vymyslet,a tím méně uskutečnit, lepší způsob. Z pohledu těchto skutečností je zbyteč-né nazývat peněžní kalkulaci nedokonalou. Člověk nemá sílu změnit katego-rie lidského jednání. Musí jim své chování přizpůsobit.

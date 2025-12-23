@@ -1,4 +1,3 @@
-
 Nepodívá-li se člověk na devalvaci očima apologety vlády či odborových
 
 politik, ale pohledem ekonoma, musí předně uznat, že její veškeré údajnévýhody jsou pouze dočasné. Dostaví se navíc pouze v situaci, kdy devalvaciprovede pouze jedna země, zatímco ostatní země své měny nedevalvují.Rozhodnou-li se ostatní země ve stejné míře devalvovat, žádné změny v mezi-národním obchodě nenastanou. Devalvují-li více, dopadnou veškeré tytokrátkodobé výhody, ať již jsou jakékoli, pouze na ně.

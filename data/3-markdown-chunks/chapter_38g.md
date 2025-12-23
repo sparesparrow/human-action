@@ -1,4 +1,3 @@
-
 Naopak považují mír a svo-bodný obchod za nejlepší prostředek k zajištění bohatství pro svůj vlastnínárod. Zastánce svobodného obchodu neoddělují od nacionalistů cíle, aleprostředky, které doporučují k dosažení cílů, jež mají společné.
 
 Neshody týkající se náboženského přesvědčení nelze vyřešit pomocí rozu-
@@ -44,3 +43,7 @@ Hlavním cílem praxeologie a ekonomie je nahradit rozporuplné principy
 oblíbeného eklekticismu konzistentními správnými ideologiemi. Neexistuježádný jiný prostředek, který by bránil dezintegraci společnosti a chránil trva-lé zlepšování podmínek lidstva, než ten, jejž poskytuje rozum. Lidé se musísnažit promyslet všechny složité problémy až do bodu, za nějž už lidská myslnemůže jít.
 
 Nikdy se nesmí smířit se žádným řešením, které jim předává star-ší generace, každou teorii a každou zásadu musí vždy znovu uvádět v pochyb-nost, nikdy nesmí polevit ve snaze odstranit omyly a dospět k nejlepšímumožnému poznání. Musí bojovat s omyly tím, že demaskují falešné doktrínya objasňují pravdu.
+
+Složité problémy jsou čistě intelektuálního rázu a musí se s nimi tak zachá-
+
+zet.

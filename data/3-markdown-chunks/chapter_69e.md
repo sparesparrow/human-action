@@ -1,31 +1,4 @@
-
-Výroba jedné jednotky komodity mvyžaduje – vedle využití různých
-
-nespecifických faktorů – využití po jedné jednotce každého ze dvou napros-to specifických faktorů aab. Ani a, ani bnemohou být nahrazeny žádným
-
-jiným faktorem; na druhé straně je ak ničemu, pokud se nepoužije společně
-
-sb, a naopak. Dostupná zásoba aznačně přesahuje zásobu b. Proto vlastníci
-
-anemohou získat za ažádnou cenu. Poptávka po avždy zaostává za nabíd-
-
-kou; anení ekonomickým statkem. Je-li anerostné ložisko, jehož těžení vyža-
-
-duje použití kapitálu a práce, vlastnictví ložiska nepřináší poplatky za využi-tí. Neexistuje důlní renta.
-
-Pokud však majitelé avytvoří kartel, mohou způsobit naprostý obrat.
-
-Mohou omezit dodávky faktoru a, které nabízejí k prodeji, na tak malý objem,
-
-že nabídka bpřevýší nabídku a. Teď se astává ekonomickým statkem, za nějž
-
-jsou placeny ceny, zatímco cena bklesá k nule. Jestliže pak majitelé breagují
-
-také vytvořením kartelu, vznikne mezi těmito dvěma monopolistickými kar-tely cenová válka, o jejímž výsledku nemůže katalaxie nic říct. Jak již bylopoukázáno, v případech, v nichž má více než jeden nutný výrobní faktornaprosto specifický charakter, nepřináší cenový proces jednoznačně defino-vatelný výsledek.
-
-Nezáleží na tom, jestli tržní situace je či není taková, aby faktory aab
-
-mohly být společně prodávány za monopolní ceny. Není žádný rozdíl, jestli jecena za skupinu obsahující po jedné jednotce od ai od b monopolní, nebo
+Není žádný rozdíl, jestli jecena za skupinu obsahující po jedné jednotce od ai od b monopolní, nebo
 
 konkurenční.
 
@@ -86,3 +59,19 @@ du jeho vlastního hodnocení zhoršeno. Při monopolních cenách není obslou-
 vzniká z monopolní ztráty kupujícího. Dokonce i když někteří spotřebitelé(jako v případě 3) získají zboží, které by si byli v nepřítomnosti monopolníceny nekoupili, jejich uspokojení je nižší, než by bylo za jiného stavu cen.Kapitál a práce, které jsou staženy z výroby produktů, jež klesá kvůli mono-polistickému omezení nabídky jednoho zkomplementárních faktorů potřeb-ných pro jejich výrobu, se využívají pro výrobu jiných věcí, které by se jinaknevyráběly.
 
 Avšak spotřebitelé tyto jiné věci hodnotí méně.
+
+Přesto existuje výjimka z tohoto obecného pravidla, že monopolní ceny při-
+
+nášejí prospěch prodávajícímu a poškozují kupujícího a porušují nadřazenostzájmů spotřebitele. Pokud na konkurenčním trhu nějaký komplementárnífaktor, totiž f, který je nutný pro výrobu spotřebního zboží g, nedosáhne
+
+vůbec žádné ceny, i když výroba fvyžaduje různé výdaje, a spotřebitelé jsou
+
+ochotni platit za spotřební zboží gcenu, za niž je jeho výroba na konkurenč-
+
+ním trhu výnosná, pak se monopolní cena za fstane nutnou podmínkou pro
+
+výrobu g. Právě tuto myšlenku uvádějí lidé ve prospěch patentových a autor-
+
+ských zákonů. Kdyby vynálezci a autoři neměli možnost vydělat vynalézáníma psaním peníze, nedovolovalo by jim to věnovat svůj čas těmto činnostema hradit vzniklé náklady. Veřejnost by z nepřítomnosti monopolní ceny za f
+
+neměla žádnou výhodu. Naopak by postrádala uspokojení, ke kterému bymohla dojít při pořízení g.

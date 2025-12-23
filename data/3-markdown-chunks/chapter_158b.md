@@ -1,4 +1,3 @@
-
 71402_Lidske jednani_final.qxd 5.5.2006 15:59 StrÆnka 714
 
 V těchto plánech vláda vystupuje jako božstvo, jež stojí mimo lidské dění –

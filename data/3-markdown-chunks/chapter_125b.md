@@ -1,7 +1,4 @@
-
-Žádný ekonom si však nikdy nedovolil popírat, že války a výboje měly
-
-v minulosti maximální důležitost a že Hunové a Tataři, Vandalové a Vikingo-vé, Normani a conquistadoři hráli v dějinách obrovskou roli. Jedním z urču-
+Jedním z urču-
 
 5825Hospodářskými důsledky působení vnějšího donucení a nátlaku na tržní jevy se
 
@@ -76,3 +73,7 @@ rovnováha je bezchybná. Ekonom tvrdí, že v nenarušovaném tržním hospo-d�
 7Úkolem ekonoma není kárat své spoluobčany
 
 a nazývat výsledek jejich jednání chybným.
+
+Alternativou k systému, v němž jsou hodnotové soudy jednotlivců rozho-
+
+dující pro vedení výrobních procesů, je autokratická diktatura.

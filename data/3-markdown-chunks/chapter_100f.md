@@ -1,14 +1,3 @@
-
-Je obvyklé popisovat boom jako nadměrné investování. Dodatečné investo-
-
-vání je nicméně možné pouze do té míry, v níž existuje dostupná dodatečnázásoba kapitálových statků. Jelikož, na rozdíl od nuceného spoření, boom sámo sobě nevede k omezení, ale spíše ke zvýšení spotřeby, nezajišťuje více kapi-tálových statků pro nové investice. Podstatou boomu způsobeného úvěrovouexpanzí není nadměrné investování, ale investování ve špatných odvětvích,tj. mylné investování. Podnikatelé využívají dostupnou zásobu r + p1 + p2,
-
-jako kdyby mohli využít zásobu r + p1 + p2 + p3 + p4 . Začínají rozšiřovat své
-
-investice v rozsahu, v jakém dostupné kapitálové statky nepostačují. Jejichplány jsou z tohoto důvodu neuskutečnitelné. Dříve nebo později se musejízhroutit. Nevyhnutelný konec úvěrové expanze zviditelňuje chyby, kterýchse dopustili.
-
-Existují podniky, které nelze využívat, protože není dostatekjiných podniků, nutných k výrobě komplementárních výrobních faktorů;podniky, jejichž výrobky nelze prodat, protože spotřebitelé chtějí kupovatjiné statky, jež však nejsou vyráběny v dostatečném množství; podniky,v jejichž výstavbě nelze pokračovat ani ji dokončit, protože je zjevné, že se tonevyplatí.
-
 50001_Lidske jednani_final.qxd 5.5.2006 16:01 StrÆnka 500
 
 Chybná víra v to, že podstatným rysem boomu je nadměrné investování,
@@ -48,3 +37,7 @@ nepřiměřenost.
 Během boomu nemusí dojít k ostrému růstu cen statků. Zvýšení množství
 
 fiduciárních prostředků má jistě vždy teoreticky možný vliv vedoucí ke zvý-šení cen. Může však dojít k tomu, že budou síly působící zároveň v opačnémsměru dost silné na to, aby udržely růst cen v úzkých mezích nebo mu za-bránily docela. Historické období, v němž by bylo hladké fungování tržníhohospodářství opakovaně narušováno expanzionistickými pokusy, by bylozároveň obdobím ekonomického rozvoje. Technologické zlepšení by bylomožné díky plynulému postupu akumulace nového kapitálu.
+
+Výstup na jed-notku vstupu by se zvýšil a podnikatelé by zaplnili trhy rostoucím množstvímlevných statků. Pokud by souběžné zvyšování nabídky peněz (v širším smys-lu) bylo méně rozsáhlé, než by odpovídalo tomuto hospodářskému vývoji,ceny všech statků by měly tendenci klesat. Jako skutečná historická událostprobíhala úvěrová expanze vždy v prostředí, v němž silné faktory působilyproti její tendenci zvyšovat ceny.
+
+Výsledkem tohoto střetu protichůdných silvšak byla zpravidla převaha těch, které vytvářejí růst cen. Existovaly ovšemi výjimečné okolnosti, za nichž byl vzestup cen pouze mírný. Nejvýznamněj-ším příkladem je americký boom v letech 1926–29.

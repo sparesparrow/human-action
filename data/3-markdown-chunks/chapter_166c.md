@@ -1,8 +1,3 @@
-
-Jakmile se ale pustí do zkoumání fungování tržního hospodářství, zapome-
-
-nou na svá zdravá východiska. Přicházejí s několika metafyzickými principya předem tržní ekonomiku zavrhují, protože je s těmito principy v rozporu.Zadními vrátky vnášejí do analýzy myšlenku absolutního standardu morálky,kterou zprvu nevpustili hlavním vchodem. Když se snaží bojovat proti chu-době, nerovnosti a nejistotě, postupně přijímají veškeré omyly starších socia-listických a intervencionistických škol. Stále více a více zabředávají do roz-porů a absurdit.
-
 Nakonec jim nezbývá než se chytit stébla, jehož se pokoušelichytit všichni dřívější „neortodoxní“ reformátoři – tím je vševědoucnostdokonalých vládců. Jejich konečným návodem k řešení je vždy stát, vláda,společnost či jiná důmyslně vytvořená synonyma pro nadlidského diktátora.
 
 Stoupenci školy blahobytu, v čele s německými Kathedersozialisten a ame-

@@ -488,6 +488,7 @@ class VoiceVariantGenerator:
 
 
 def main():
+    """Main entry point for voice variant generation script."""
     parser = argparse.ArgumentParser(
         description="Generate multiple voice variants for comparison",
         formatter_class=argparse.RawDescriptionHelpFormatter,

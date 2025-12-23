@@ -39,3 +39,9 @@ Proto-že nemůže zjistit velikost příspěvku, za nějž vděčí společnost
 K tomu, abychom odlišili svobodnou práci od nucené práce, nepotřebuje-
 
 me žádné metafyzické úvahy týkající se podstaty svobody a donucení. Svo-bodnou prací můžeme nazvat ten typ extroverzivní, nikoli bezprostředněuspokojující práce, kterou člověk vykonává buď pro přímé uspokojení svýchvlastních potřeb, nebo pro jejich nepřímé uspokojení prostřednictvím utrace-ní ceny vydělané jejím prodejem na trhu. Nucená práce je práce vykonávanápod tlakem ostatních pohnutek.
+
+Pokud by se někdo cítil dotčen touto termi-nologií, protože užití slov jako svoboda a donucení může vést k narušeníobjektivního pojednání o daném problému, může si stejně dobře zvolit jinépojmy. Můžeme nahradit pojem svobodná práce písmenem Fa pojem nucená
+
+práce písmenem C. Volba pojmů neovlivní rozhodující otázku. To, na čem
+
+záleží, je: Jaký druh podnětu může přimět člověka podstoupit újmu z práce,pokud jeho vlastní uspokojení potřeb nezávisí přímo ani – do zjevné míry –nepřímo na množství a kvalitě jeho výkonu?

@@ -1,14 +1,3 @@
-
-Ekonomie analyzuje tržní proces, který vytváří ceny statků, mzdy a úroko-
-
-vé míry. Nevymýšlí vzorce, které by komukoli umožňovaly spočítat „správ-nou“ cenu, lišící se od ceny stanovené na trhu vzájemným působením kupu-jících a prodávajících.
-
-U kořene mnoha snah o stanovení netržních cen je zmatený a sporný
-
-pojem reálných nákladů. Kdyby náklady byly reálnou věcí, tj. veličinounezávislou na osobních hodnotových soudech a objektivně zjistitelnoua měřitelnou, bylo by možné, aby jejich výši, a tedy správnou cenu určovalnestranný arbitr. Není třeba, abychom se dále zabývali nesmyslností tétomyšlenky. Náklady jsou jevem hodnocení.
-
-Náklady jsou hodnoty přiřazenénejcennějšímu uspokojení potřeb, které zůstávají neuspokojeny, protože pro-středky potřebné pro jejich uspokojení jsou používány k uspokojování těchpotřeb, jejichž náklady se právě zabýváme. Dosažení přebytku hodnotyvýrobku nad náklady – zisku – je cílem každého výrobního úsilí. Zisk jevýnos úspěšného jednání. Nemůže být definován bez odkazu na hodnocení.Je to jev hodnocení a nemá přímý vztah k fyzikálním ani jiným jevům vnější-ho světa.
-
 Ekonomická analýza redukuje nutně všechny nákladové položky na hod-
 
 notové soudy. Socialisté a intervencionisté nazývají podnikatelský zisk, úrokyz kapitálu a rentu z půdy „nezaslouženým“ ziskem, protože si myslí, že pouzedřina a utrpení pracovníků jsou skutečné a zaslouží si odměnu. V realitě světavšak není odměňována dřina a utrpení. Jsou-li dřina a utrpení vynakládánypodle dobře promyšleného plánu, jejich výsledek zvyšuje prostředky, kteréjsou k dispozici pro uspokojování potřeb.
