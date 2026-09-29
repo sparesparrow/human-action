@@ -60,7 +60,7 @@ jobs:
       # Test the container
       - name: Test container
         run: |
-          docker run --rm ${{ env.TEST_TAG }} run_tests.py --unit
+          docker run --rm ${{ env.TEST_TAG }} run_tests --unit
           
       # Build and push to registry (if not PR)
       - name: Build and push
