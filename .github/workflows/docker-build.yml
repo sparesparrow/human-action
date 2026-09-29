@@ -57,10 +57,11 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
       
-      # Test the container
+      # Smoke-test the production image. The full pytest suite runs in test.yml;
+      # pytest is intentionally not installed in the runtime image.
       - name: Test container
         run: |
-          docker run --rm ${{ env.TEST_TAG }} run_tests --unit
+          docker run --rm ${{ env.TEST_TAG }} cli --help
           
       # Build and push to registry (if not PR)
       - name: Build and push
