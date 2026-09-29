@@ -38,4 +38,4 @@ ENV SKIP_TEXT_OPTIMIZATION=1
 ENTRYPOINT ["python", "-m"]
 
 # Default command
-CMD ["pipeline", "--help"]
+CMD ["cli", "--help"]
