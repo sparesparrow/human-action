@@ -13,6 +13,7 @@ import argparse
 import json
 import logging
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -94,9 +95,72 @@ def _extension_for_output_format(output_format: str) -> str:
     return "mp3"
 
 
-def _output_path(source_path: Path, output_dir: Path, output_format: str) -> Path:
+def _output_path(
+    source_path: Path,
+    output_dir: Path,
+    output_format: str,
+    part_index: Optional[int] = None,
+    part_count: int = 1,
+) -> Path:
     base_name = source_path.stem.replace("-OPTIMIZED", "")
+    if part_count > 1 and part_index is not None:
+        base_name = f"{base_name}_part{part_index:03d}"
     return output_dir / f"{base_name}.{_extension_for_output_format(output_format)}"
+
+
+def split_text_for_model(
+    text: str,
+    model_id: str = DEFAULT_MODEL_ID,
+    max_characters: Optional[int] = None,
+) -> List[str]:
+    """Split long text at natural boundaries while respecting the model limit."""
+    limit = max_characters or MODEL_CHARACTER_LIMITS.get(model_id)
+    if not limit or len(text) <= limit:
+        return [text]
+
+    if limit < 100:
+        raise ValueError("max_characters must be at least 100 for long-form splitting")
+
+    chunks: List[str] = []
+    remaining = text.strip()
+
+    # Prefer paragraph/sentence boundaries, then ordinary whitespace. If a single
+    # token is longer than the limit, fall back to a hard split.
+    boundary_patterns = [
+        r"\n\s*\n",
+        r"(?<=[.!?…])\s+",
+        r"\s+",
+    ]
+
+    while len(remaining) > limit:
+        window = remaining[: limit + 1]
+        cut = -1
+
+        for pattern in boundary_patterns:
+            matches = list(re.finditer(pattern, window))
+            if matches:
+                candidate = matches[-1].end()
+                # Avoid producing a tiny chunk just because a boundary occurs
+                # near the beginning of the window.
+                if candidate >= int(limit * 0.5):
+                    cut = candidate
+                    break
+
+        if cut <= 0:
+            cut = limit
+
+        chunk = remaining[:cut].strip()
+        if not chunk:
+            chunk = remaining[:limit]
+            cut = limit
+
+        chunks.append(chunk)
+        remaining = remaining[cut:].lstrip()
+
+    if remaining:
+        chunks.append(remaining)
+
+    return chunks
 
 
 def _write_audio(audio: Iterable[bytes], output_file: Path) -> int:
@@ -226,12 +290,12 @@ def process_markdown_files(
     manifest_path=None,
 ) -> Dict:
     """
-    Generate a sequence of audiobook chunks with continuity between requests.
+    Generate audiobook chunks sequentially with continuity between requests.
 
-    For models that support request stitching, up to the three immediately
-    preceding request IDs are supplied. If a prior chunk is skipped because its
-    audio already exists, the previous chunk text is supplied as continuity
-    context instead. A JSON manifest records outputs and API response metadata.
+    Oversized Markdown files are split in memory at paragraph/sentence boundaries
+    before calling the API. For models supporting request stitching, up to the
+    three immediately preceding request IDs are supplied. On resume, existing
+    audio parts are skipped and their text is used as continuity context.
     """
     if not ELEVENLABS_AVAILABLE:
         return {"success": False, "error": "ElevenLabs SDK is not installed", "items": []}
@@ -248,7 +312,11 @@ def process_markdown_files(
     sources = [Path(path) for path in file_paths]
     destination_dir = Path(output_dir)
     destination_dir.mkdir(parents=True, exist_ok=True)
-    manifest = Path(manifest_path) if manifest_path else destination_dir / "elevenlabs_generation_manifest.json"
+    manifest = (
+        Path(manifest_path)
+        if manifest_path
+        else destination_dir / "elevenlabs_generation_manifest.json"
+    )
 
     client = ElevenLabs(api_key=resolved_api_key)
     settings = _voice_settings(
@@ -259,41 +327,74 @@ def process_markdown_files(
         use_speaker_boost,
     )
 
-    items: List[Dict] = []
-    previous_request_ids: List[str] = []
-    previous_text: Optional[str] = None
-    generated = skipped = failed = 0
-
     request_stitching_enabled = use_request_stitching and model_id != "eleven_v3"
     if use_request_stitching and not request_stitching_enabled:
         logger.warning("Request stitching is disabled for model %s", model_id)
 
-    text_cache: Dict[Path, str] = {}
+    # Build all API-sized generation units first. This gives each request accurate
+    # next_text context, even when one Markdown source becomes several audio parts.
+    units: List[Dict] = []
+    for source_path in sources:
+        text_content = source_path.read_text(encoding="utf-8")
+        if not text_content.strip():
+            units.append(
+                {
+                    "source_path": source_path,
+                    "text": "",
+                    "part_index": 1,
+                    "part_count": 1,
+                }
+            )
+            continue
 
-    def read_text(path: Path) -> str:
-        if path not in text_cache:
-            text_cache[path] = path.read_text(encoding="utf-8")
-        return text_cache[path]
+        parts = split_text_for_model(text_content, model_id, max_characters)
+        for part_index, part_text in enumerate(parts, 1):
+            units.append(
+                {
+                    "source_path": source_path,
+                    "text": part_text,
+                    "part_index": part_index,
+                    "part_count": len(parts),
+                }
+            )
 
-    for index, source_path in enumerate(sources):
-        output_file = _output_path(source_path, destination_dir, output_format)
+    items: List[Dict] = []
+    previous_request_ids: List[str] = []
+    previous_text: Optional[str] = None
+    generated = skipped = failed = 0
+    source_failed: Dict[Path, bool] = {source: False for source in sources}
+
+    for index, unit in enumerate(units):
+        source_path = unit["source_path"]
+        text_content = unit["text"]
+        part_index = unit["part_index"]
+        part_count = unit["part_count"]
+        output_file = _output_path(
+            source_path,
+            destination_dir,
+            output_format,
+            part_index=part_index,
+            part_count=part_count,
+        )
+
         entry: Dict = {
             "source": str(source_path),
+            "part": part_index,
+            "parts": part_count,
             "output": str(output_file),
+            "characters": len(text_content),
             "model_id": model_id,
             "voice_id": voice_id,
             "generated_at": datetime.now(timezone.utc).isoformat(),
         }
 
         try:
-            text_content = read_text(source_path)
             if not text_content.strip():
                 raise ValueError(f"File {source_path.name} is empty")
-            _validate_text_length(text_content, model_id, max_characters)
 
             next_text = None
-            if index + 1 < len(sources):
-                candidate = read_text(sources[index + 1])
+            if index + 1 < len(units):
+                candidate = units[index + 1]["text"]
                 next_text = candidate if candidate.strip() else None
 
             if skip_existing and output_file.exists() and output_file.stat().st_size > 0:
@@ -301,66 +402,78 @@ def process_markdown_files(
                 entry["bytes"] = output_file.stat().st_size
                 items.append(entry)
                 skipped += 1
-
-                # A skipped request has no fresh request ID. Fall back to text
-                # context for the following generation instead of stale IDs.
                 previous_request_ids.clear()
                 previous_text = text_content
-                continue
-
-            request_kwargs = {
-                "voice_id": voice_id,
-                "text": text_content,
-                "model_id": model_id,
-                "output_format": output_format,
-                "voice_settings": settings,
-            }
-            if next_text:
-                request_kwargs["next_text"] = next_text
-
-            if request_stitching_enabled and previous_request_ids:
-                request_kwargs["previous_request_ids"] = previous_request_ids[-3:]
-            elif previous_text:
-                request_kwargs["previous_text"] = previous_text
-
-            logger.info(
-                "Generating ElevenLabs audiobook chunk %d/%d: %s",
-                index + 1,
-                len(sources),
-                source_path.name,
-            )
-
-            with client.text_to_speech.with_raw_response.convert(**request_kwargs) as response:
-                bytes_written = _write_audio(response.data, output_file)
-                request_id = response.headers.get("request-id")
-                character_cost = response.headers.get("character-cost")
-
-            entry.update(
-                {
-                    "status": "generated",
-                    "bytes": bytes_written,
-                    "request_id": request_id,
-                    "character_cost": character_cost,
-                }
-            )
-            items.append(entry)
-            generated += 1
-
-            if request_stitching_enabled and request_id:
-                previous_request_ids.append(request_id)
-                previous_request_ids = previous_request_ids[-3:]
             else:
-                previous_request_ids.clear()
+                request_kwargs = {
+                    "voice_id": voice_id,
+                    "text": text_content,
+                    "model_id": model_id,
+                    "output_format": output_format,
+                    "voice_settings": settings,
+                }
+                if next_text:
+                    request_kwargs["next_text"] = next_text
 
-            previous_text = text_content
-            if rename_source:
+                if request_stitching_enabled and previous_request_ids:
+                    request_kwargs["previous_request_ids"] = previous_request_ids[-3:]
+                elif previous_text:
+                    request_kwargs["previous_text"] = previous_text
+
+                logger.info(
+                    "Generating ElevenLabs audiobook unit %d/%d: %s (%d/%d)",
+                    index + 1,
+                    len(units),
+                    source_path.name,
+                    part_index,
+                    part_count,
+                )
+
+                with client.text_to_speech.with_raw_response.convert(**request_kwargs) as response:
+                    bytes_written = _write_audio(response.data, output_file)
+                    request_id = response.headers.get("request-id")
+                    character_cost = response.headers.get("character-cost")
+
+                entry.update(
+                    {
+                        "status": "generated",
+                        "bytes": bytes_written,
+                        "request_id": request_id,
+                        "character_cost": character_cost,
+                    }
+                )
+                items.append(entry)
+                generated += 1
+
+                if request_stitching_enabled and request_id:
+                    previous_request_ids.append(request_id)
+                    previous_request_ids = previous_request_ids[-3:]
+                else:
+                    previous_request_ids.clear()
+
+                previous_text = text_content
+
+            is_last_part_for_source = part_index == part_count
+            if (
+                rename_source
+                and is_last_part_for_source
+                and not source_failed[source_path]
+                and source_path.exists()
+            ):
                 _rename_processed_source(source_path)
 
         except Exception as exc:
             failed += 1
+            source_failed[source_path] = True
             entry.update({"status": "failed", "error": str(exc)})
             items.append(entry)
-            logger.error("Failed audiobook chunk %s: %s", source_path.name, exc)
+            logger.error(
+                "Failed audiobook unit %s (%d/%d): %s",
+                source_path.name,
+                part_index,
+                part_count,
+                exc,
+            )
             previous_request_ids.clear()
             previous_text = None
             if stop_on_error:
@@ -368,6 +481,8 @@ def process_markdown_files(
 
     result = {
         "success": failed == 0,
+        "source_files": len(sources),
+        "generation_units": len(units),
         "generated": generated,
         "skipped": skipped,
         "failed": failed,
@@ -379,7 +494,6 @@ def process_markdown_files(
         encoding="utf-8",
     )
     return result
-
 
 def main():
     """CLI entry point."""
