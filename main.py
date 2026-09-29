@@ -61,19 +61,30 @@ def detect_available_tts_engines():
 
     # 4. Check ElevenLabs (lowest priority, as it's paid)
     try:
-        from audio_chunk_generator import process_markdown_file
-        engines_status['elevenlabs'] = True
+        from audio_chunk_generator import is_available as elevenlabs_is_available
+        engines_status['elevenlabs'] = elevenlabs_is_available()
     except (ImportError, SystemExit):
         engines_status['elevenlabs'] = False
 
     return engines_status
 
-def setup_tts_engine(engines_status):
-    """Set up the best available TTS engine based on priority."""
+def setup_tts_engine(engines_status, preferred_engine="auto"):
+    """Set up the requested TTS engine, or the best available engine in auto mode."""
     global AUDIO_GENERATOR_TYPE, process_markdown_file
 
-    # Priority order: Piper > Coqui > espeak > ElevenLabs > Mock
     priority_engines = ['piper', 'coqui', 'espeak', 'elevenlabs']
+    if preferred_engine != "auto":
+        if preferred_engine == "mock":
+            priority_engines = []
+        elif preferred_engine not in engines_status:
+            raise ValueError(f"Unknown TTS engine: {preferred_engine}")
+        elif not engines_status[preferred_engine]:
+            raise RuntimeError(
+                f"Requested TTS engine '{preferred_engine}' is not available. "
+                "For ElevenLabs, install the SDK and set ELEVENLABS_API_KEY."
+            )
+        else:
+            priority_engines = [preferred_engine]
 
     for engine in priority_engines:
         if engines_status[engine]:
@@ -115,9 +126,8 @@ def setup_tts_engine(engines_status):
     print("  - Coqui TTS: pip install TTS")
     print("  - eSpeak-ng: sudo apt install espeak-ng")
 
-# Detect and setup TTS engine
-engines_status = detect_available_tts_engines()
-setup_tts_engine(engines_status)
+AUDIO_GENERATOR_TYPE = "unconfigured"
+process_markdown_file = None
 
 from audio_concatenator import process_all_chapters
 from chunker_splitter import MarkdownChunker
@@ -139,6 +149,10 @@ logger = logging.getLogger(__name__)
 
 # Project directory structure
 PROJECT_ROOT = Path(__file__).parent
+
+from config import Config
+
+PROJECT_CONFIG = Config(PROJECT_ROOT / "config.yaml")
 DATA_DIR = PROJECT_ROOT / "data"
 PDF_DIR = DATA_DIR / "1-pdf"
 MARKDOWN_DIR = DATA_DIR / "2-markdown-chapters"
@@ -247,9 +261,16 @@ def generate_audio_stage():
     for file in optimized_files:
         logger.info(f"Processing {file.name} ({processed_count + 1}/{len(optimized_files)})")
         try:
+            tts_kwargs = {}
+            if AUDIO_GENERATOR_TYPE == "elevenlabs":
+                tts_kwargs = dict(
+                    PROJECT_CONFIG.config.get("tts", {}).get("elevenlabs", {})
+                )
+
             success, result = process_markdown_file(
                 file_path=file,
                 output_dir=AUDIO_CHUNKS_DIR,
+                **tts_kwargs,
             )
 
             if success:
@@ -332,8 +353,17 @@ def main():
     )
 
     parser.add_argument("--verbose", action="store_true", help="Enable verbose logging")
+    parser.add_argument(
+        "--tts-engine",
+        choices=["auto", "piper", "coqui", "espeak", "elevenlabs", "mock"],
+        default="auto",
+        help="TTS engine to use for audio generation; auto keeps the local-first priority",
+    )
 
     args = parser.parse_args()
+
+    engines_status = detect_available_tts_engines()
+    setup_tts_engine(engines_status, args.tts_engine)
 
     # Set logging level based on verbosity
     if args.verbose:
