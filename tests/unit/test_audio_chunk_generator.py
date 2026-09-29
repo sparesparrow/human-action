@@ -159,3 +159,65 @@ def test_process_markdown_files_uses_text_context_after_existing_audio(tmp_path,
     assert result["generated"] == 1
     assert calls[0]["previous_text"] == "Already generated text."
     assert "previous_request_ids" not in calls[0]
+
+
+
+def test_split_text_for_model_respects_limit_without_dropping_words():
+    text = " ".join(
+        f"Sentence {i} has enough words to make splitting realistic."
+        for i in range(20)
+    )
+
+    parts = generator.split_text_for_model(
+        text,
+        model_id="eleven_multilingual_v2",
+        max_characters=120,
+    )
+
+    assert len(parts) > 1
+    assert all(len(part) <= 120 for part in parts)
+    assert " ".join(" ".join(parts).split()) == " ".join(text.split())
+
+
+def test_long_source_generates_deterministic_part_filenames(tmp_path, monkeypatch):
+    source = tmp_path / "chapter_38a-OPTIMIZED.md"
+    source.write_text(
+        " ".join(f"Sentence {i} ends here." for i in range(30)),
+        encoding="utf-8",
+    )
+    output_dir = tmp_path / "audio"
+    calls = []
+
+    class RawTextToSpeech:
+        @contextmanager
+        def convert(self, **kwargs):
+            calls.append(kwargs)
+            number = len(calls)
+            yield SimpleNamespace(
+                data=iter([f"part-{number}".encode()]),
+                headers={"request-id": f"request-{number}", "character-cost": "100"},
+            )
+
+    client = SimpleNamespace(
+        text_to_speech=SimpleNamespace(with_raw_response=RawTextToSpeech())
+    )
+    monkeypatch.setattr(generator, "ELEVENLABS_AVAILABLE", True)
+    monkeypatch.setattr(generator, "ElevenLabs", MagicMock(return_value=client))
+    monkeypatch.setattr(generator, "VoiceSettings", lambda **kwargs: kwargs)
+
+    result = generator.process_markdown_files(
+        [source],
+        output_dir,
+        api_key="test-key",
+        rename_source=False,
+        skip_existing=False,
+        max_characters=120,
+    )
+
+    assert result["success"] is True
+    assert result["generation_units"] > 1
+    assert all(len(call["text"]) <= 120 for call in calls)
+
+    outputs = [Path(item["output"]).name for item in result["items"]]
+    assert outputs[0] == "chapter_38a_part001.mp3"
+    assert outputs[-1] == f"chapter_38a_part{len(outputs):03d}.mp3"
