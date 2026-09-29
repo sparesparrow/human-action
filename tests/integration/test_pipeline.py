@@ -355,17 +355,10 @@ class TestPipeline:
         with open(config.audio_book_dir / "audiobook.mp3", "wb") as f:
             f.write(b"Mock audiobook output")
 
-        # Patch modules and functions
-        with patch.dict(
-            "sys.modules",
-            {
-                "audio_concatenator": MagicMock(
-                    AudioConcatenator=lambda *args, **kwargs: audio_concatenator_mock,
-                    concatenate_audio_files=MagicMock(return_value=True)
-                )
-            },
-        ):
-            # Run just the audio concatenation step
+        # Patch the function used by the already-imported AudioConcatenator class.
+        # Replacing sys.modules here is too late because pipeline.py imports the
+        # class at module import time.
+        with patch("audio_concatenator.concatenate_audio_files", return_value=True):
             result = pipeline.process(
                 test_pdf_path, steps=["audio_concatenation"], state_file=state_file
             )
