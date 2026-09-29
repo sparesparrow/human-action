@@ -11,7 +11,7 @@ package-mode = false # Disable package mode to silence installation warning
 [tool.poetry.dependencies]
 python = "^3.10" # Match your project's Python version
 anthropic = ">=0.15.0"
-elevenlabs = ">=0.2.27"
+elevenlabs = ">=2.69.0,<3.0.0"
 tqdm = ">=4.64.0"
 # espeakng = ">=1.0.0" # Note: espeakng python wrapper might need system libs. Consider system install or Docker.
 pypdf = ">=4.0.0"
@@ -26,7 +26,7 @@ matplotlib = "^3.8.0"
 # YouTube transcription dependencies
 yt-dlp = ">=2023.10.0"
 ffmpeg-python = ">=0.2.0"
-googletrans = ">=3.1.0a0"
+googletrans = ">=4.0.2,<5.0.0"
 edge-tts = ">=6.1.0"
 
 # Optional TTS/STT engines (uncomment/install as needed)

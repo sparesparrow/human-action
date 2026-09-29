@@ -1,5 +1,5 @@
 anthropic>=0.15.0
-elevenlabs>=0.2.27
+elevenlabs>=2.69.0,<3.0.0
 tqdm>=4.64.0
 pypdf>=4.0.0
 markdown>=3.5.1
@@ -11,7 +11,7 @@ matplotlib>=3.8.0
 # YouTube transcription dependencies
 yt-dlp>=2023.10.0
 ffmpeg-python>=0.2.0
-googletrans>=3.1.0a0
+googletrans>=4.0.2,<5.0.0
 edge-tts>=6.1.0
 
 # Optional TTS/STT engines (uncomment/install as needed)
