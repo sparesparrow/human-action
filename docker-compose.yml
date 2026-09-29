@@ -17,5 +17,5 @@ services:
     # Default command to show help
     command: cli --help
     # Example commands (uncomment to use):
-    # command: cli process data/1-pdf/your-file.pdf --steps pdf_extraction chunk_splitting audio_generation audio_concatenation
+    # command: cli run --start pdf_extraction --end audio_concatenation
     # command: run_tests.py --unit 
