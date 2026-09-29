@@ -236,17 +236,15 @@ def optimize_text_stage(skip_if_done=True):
 
 
 def generate_audio_stage():
-    """Generate audio from optimized markdown chunks using available free TTS engines."""
+    """Generate audio from optimized Markdown chunks with the selected TTS engine."""
     logger.info("Starting audio generation stage")
     logger.info(f"Using TTS engine: {AUDIO_GENERATOR_TYPE}")
 
-    # Get all optimized markdown files that haven't been processed yet
-    optimized_files = []
-    for file in OPTIMIZED_DIR.glob("*.md"):
-        # Skip files that have already been processed
-        if file.name.startswith("AUDIO_GENERATED-") or file.name.startswith("ESPEAK_AUDIO-"):
-            continue
-        optimized_files.append(file)
+    optimized_files = sorted(
+        file
+        for file in OPTIMIZED_DIR.glob("*.md")
+        if not file.name.startswith(("AUDIO_GENERATED-", "ESPEAK_AUDIO-"))
+    )
 
     if not optimized_files:
         logger.warning("No unprocessed optimized markdown files found")
@@ -254,23 +252,39 @@ def generate_audio_stage():
 
     logger.info(f"Found {len(optimized_files)} files to process")
 
-    # Process each file using the detected TTS engine
+    if AUDIO_GENERATOR_TYPE == "elevenlabs":
+        from audio_chunk_generator import process_markdown_files
+
+        tts_kwargs = dict(
+            PROJECT_CONFIG.config.get("tts", {}).get("elevenlabs", {})
+        )
+        result = process_markdown_files(
+            file_paths=optimized_files,
+            output_dir=AUDIO_CHUNKS_DIR,
+            **tts_kwargs,
+        )
+        logger.info(
+            "ElevenLabs batch completed: %d generated, %d skipped, %d failed. Manifest: %s",
+            result.get("generated", 0),
+            result.get("skipped", 0),
+            result.get("failed", 0),
+            result.get("manifest_path", "n/a"),
+        )
+        if not result.get("success", False):
+            raise RuntimeError(result.get("error") or "ElevenLabs audiobook generation failed")
+        return
+
     processed_count = 0
     failed_count = 0
-    
-    for file in optimized_files:
-        logger.info(f"Processing {file.name} ({processed_count + 1}/{len(optimized_files)})")
-        try:
-            tts_kwargs = {}
-            if AUDIO_GENERATOR_TYPE == "elevenlabs":
-                tts_kwargs = dict(
-                    PROJECT_CONFIG.config.get("tts", {}).get("elevenlabs", {})
-                )
 
+    for file in optimized_files:
+        logger.info(
+            f"Processing {file.name} ({processed_count + failed_count + 1}/{len(optimized_files)})"
+        )
+        try:
             success, result = process_markdown_file(
                 file_path=file,
                 output_dir=AUDIO_CHUNKS_DIR,
-                **tts_kwargs,
             )
 
             if success:
@@ -283,8 +297,11 @@ def generate_audio_stage():
             failed_count += 1
             logger.error(f"✗ Error processing {file.name}: {e}")
 
-    logger.info(f"Audio generation completed: {processed_count} succeeded, {failed_count} failed")
-
+    logger.info(
+        f"Audio generation completed: {processed_count} succeeded, {failed_count} failed"
+    )
+    if failed_count:
+        raise RuntimeError(f"{failed_count} audio chunks failed to generate")
 
 def concatenate_audio_stage():
     """Concatenate audio chunks into full chapters."""
