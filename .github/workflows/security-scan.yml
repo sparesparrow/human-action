@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: '0 8 * * 1'  # Run weekly on Monday at 8:00 UTC
 
+permissions:
+  contents: read
+  security-events: write
+
 jobs:
   scan:
     name: Security Scan
@@ -15,14 +19,14 @@ jobs:
     
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Build an image from Dockerfile
         run: |
           docker build -t human-action:${{ github.sha }} .
 
       - name: Run Trivy vulnerability scanner
-        uses: aquasecurity/trivy-action@master
+        uses: aquasecurity/trivy-action@v0.36.0
         with:
           image-ref: 'human-action:${{ github.sha }}'
           format: 'sarif'
@@ -30,7 +34,7 @@ jobs:
           severity: 'CRITICAL,HIGH'
 
       - name: Upload Trivy scan results to GitHub Security tab
-        uses: github/codeql-action/upload-sarif@v3
+        uses: github/codeql-action/upload-sarif@v4
         if: always()
         with:
           sarif_file: 'trivy-results.sarif' 
