@@ -7,6 +7,7 @@ transkripci pomocí OpenAI Whisper a export do více formátů.
 """
 
 import argparse
+import asyncio
 import json
 import logging
 import os
@@ -71,7 +72,6 @@ except ImportError:
 
 try:
     import edge_tts
-    import asyncio
 except ImportError:
     edge_tts = None
 
@@ -529,43 +529,44 @@ Po instalaci restartujte příkaz.
             self.logger.warning("googletrans není nainstalován, překlad přeskočen")
             return transcript
 
-        self.logger.info(f"Překládám do {self.config['translation']['target_lang']}")
+        target_lang = self.config['translation']['target_lang']
+        source_lang = self.config['translation']['source_lang']
+        self.logger.info(f"Překládám z {source_lang} do {target_lang}")
 
-        try:
-            translator = Translator()
-
-            # Vytvoříme kopii transkriptu pro překlad
+        async def translate_segments() -> Dict:
             translated_transcript = transcript.copy()
             translated_transcript['text'] = ""
             translated_segments = []
 
-            for segment in transcript.get('segments', []):
-                # Přeložíme text segmentu
-                original_text = segment['text'].strip()
-                if original_text:
-                    translated_text = translator.translate(
-                        original_text,
-                        src=self.config['translation']['source_lang'],
-                        dest=self.config['translation']['target_lang']
-                    ).text
+            async with Translator() as translator:
+                for segment in transcript.get('segments', []):
+                    original_text = segment.get('text', '').strip()
+                    if not original_text:
+                        continue
 
-                    # Aktualizujeme segment s přeloženým textem
+                    result = await translator.translate(
+                        original_text,
+                        src=source_lang,
+                        dest=target_lang,
+                    )
+                    translated_text = result.text
+
                     translated_segment = segment.copy()
                     translated_segment['text'] = translated_text
                     translated_segments.append(translated_segment)
-
-                    # Přidáme přeložený text k celému textu
                     translated_transcript['text'] += translated_text + " "
 
+            translated_transcript['text'] = translated_transcript['text'].strip()
             translated_transcript['segments'] = translated_segments
-            translated_transcript['language'] = self.config['translation']['target_lang']
-
-            self.logger.info("Překlad dokončen")
+            translated_transcript['language'] = target_lang
             return translated_transcript
 
+        try:
+            translated = asyncio.run(translate_segments())
+            self.logger.info("Překlad dokončen")
+            return translated
         except Exception as e:
             self.logger.error(f"Chyba při překladu: {e}")
-            # Vrátíme původní transkript pokud překlad selže
             return transcript
 
     def _generate_tts_audio(self, transcript: Dict, output_path: str) -> str:
