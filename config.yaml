@@ -50,6 +50,9 @@ tts:
     style: 0.0
     speed: 1.0
     use_speaker_boost: true
+    use_request_stitching: true
+    skip_existing: true
+    stop_on_error: true
 
 # Speech-to-Text (STT) configuration
 stt:
