@@ -1,0 +1,121 @@
+name: ElevenLabs Audiobook
+
+on:
+  pull_request:
+    paths:
+      - "audio_chunk_generator.py"
+      - "config.yaml"
+      - "data/4-markdown-chunks-optimized/**"
+      - "scripts/elevenlabs_audiobook.py"
+      - ".github/workflows/elevenlabs-audiobook.yml"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Preflight is free; generate consumes ElevenLabs credits"
+        required: true
+        type: choice
+        default: preflight
+        options:
+          - preflight
+          - generate
+      chapter:
+        description: "Optional chapter number (for example 35)"
+        required: false
+        type: string
+      limit_files:
+        description: "Maximum source files to process; 0 means all selected files"
+        required: true
+        type: string
+        default: "0"
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    if: github.event_name == 'pull_request' || inputs.mode == 'preflight'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install preflight dependency
+        run: python -m pip install "PyYAML>=6.0"
+
+      - name: Build no-cost generation plan
+        env:
+          CHAPTER: ${{ inputs.chapter }}
+          LIMIT_FILES: ${{ inputs.limit_files }}
+        run: |
+          args=(--preflight --report elevenlabs_preflight.json)
+          if [ -n "${CHAPTER:-}" ]; then
+            args+=(--chapter "$CHAPTER")
+          fi
+          if [ -n "${LIMIT_FILES:-}" ] && [ "$LIMIT_FILES" != "0" ]; then
+            args+=(--limit-files "$LIMIT_FILES")
+          fi
+          python scripts/elevenlabs_audiobook.py "${args[@]}"
+
+      - name: Upload preflight report
+        uses: actions/upload-artifact@v7
+        with:
+          name: elevenlabs-preflight
+          path: elevenlabs_preflight.json
+          retention-days: 14
+
+  generate:
+    if: github.event_name == 'workflow_dispatch' && inputs.mode == 'generate'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install generation dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install "elevenlabs>=2.69.0,<3.0.0" "PyYAML>=6.0"
+
+      - name: Validate API secret
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          if [ -z "$ELEVENLABS_API_KEY" ]; then
+            echo "::error::Repository secret ELEVENLABS_API_KEY is not configured."
+            exit 1
+          fi
+
+      - name: Generate selected audiobook chunks
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          CHAPTER: ${{ inputs.chapter }}
+          LIMIT_FILES: ${{ inputs.limit_files }}
+        run: |
+          args=(--report elevenlabs_preflight.json)
+          if [ -n "${CHAPTER:-}" ]; then
+            args+=(--chapter "$CHAPTER")
+          fi
+          if [ -n "${LIMIT_FILES:-}" ] && [ "$LIMIT_FILES" != "0" ]; then
+            args+=(--limit-files "$LIMIT_FILES")
+          fi
+          python scripts/elevenlabs_audiobook.py "${args[@]}"
+
+      - name: Upload generated audio and manifests
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: elevenlabs-audiobook-${{ github.run_number }}
+          path: |
+            data/5-audio-chunks/
+            elevenlabs_preflight.json
+          if-no-files-found: warn
+          retention-days: 14
